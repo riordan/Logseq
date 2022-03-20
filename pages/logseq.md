@@ -4,27 +4,33 @@ status: active
 alias: Logseq
 ---
 
-- ## Organization
+- ## Current Organization Description
 	- Daily Journals are where everything starts: gets moved to sections as needed
+	- Use Frontmatter
 	- Logseq Organization tags are tagged as `type:: lsorg`
+	  collapsed:: true
 		- Tag Types: {{query lsorg}}
-	- [[Priority]]
-	  type:: lsorg
-		- [[Priority/High]]
+		- [[Priority]]
 		  type:: lsorg
-		- [[Priority/Normal]]
+		  collapsed:: true
+			- [[Priority/High]]
+			  type:: lsorg
+			- [[Priority/Normal]]
+			  type:: lsorg
+			- [[Priority/Low]]
+			  type:: lsorg
+		- [[Project]]
+		  collapsed:: true
+			- type:: lsorg
+		- [[Status]]
 		  type:: lsorg
-		- [[Priority/Low]]
-		  type:: lsorg
-	- [[Project]]
-		- type:: lsorg
-	- [[Status]]
-	  type:: lsorg
-		- Active
-		- On Hold
-		- Completed
-		- Deprecated
-		- Experimental
+		  collapsed:: true
+			- Active
+			- On Hold
+			- Completed
+			- Deprecated
+			- Experimental
+	-
 	-
 - ## Logseq Configuration
 	- ## Plugins
