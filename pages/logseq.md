@@ -1,6 +1,10 @@
 - ## Organization
 	- Journals:
 		- Daily Journals are where everything starts: gets moved to sections as needed
+	- [[Priority]]
+		- [[Priority/High]]
+		- [[Priority/Normal]]
+		- [[Priority/Low]]
 	-
 - ## Logseq Configuration
 	- ## Plugins
