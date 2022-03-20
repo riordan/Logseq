@@ -5,3 +5,4 @@
 - ## Logseq Templates
 	- # Daily Note Template
 		-
+		-
