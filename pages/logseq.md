@@ -8,10 +8,15 @@ alias: Logseq
 		- Daily Journals are where everything starts: gets moved to sections as needed
 	- [[Priority]]
 		- [[Priority/High]]
-			-
 		- [[Priority/Normal]]
 		- [[Priority/Low]]
 	- [[Project]]
+	- [[Status]]
+		- Active
+		- On Hold
+		- Completed
+		- Deprecated
+		- Experimental
 	-
 - ## Logseq Configuration
 	- ## Plugins
