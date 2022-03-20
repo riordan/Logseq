@@ -79,8 +79,8 @@ alias: Logseq
 			- TODO Review your schedule for the day
 			- TODO Review your schedule for the week
 			- TODO [Omnifocus](omnifocus://) task review
-		- ## Projects:
-		- ## Meetings
+		- ## Today I worked on:
+		- ## Meetings:
 		- ## Wrapup
 			- What did you do today?
 			- What did you learn today?
