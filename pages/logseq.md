@@ -6,3 +6,4 @@
 	- # Daily Note Template
 		-
 		-
+		-
