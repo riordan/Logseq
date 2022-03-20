@@ -5,6 +5,7 @@
 - ## Logseq Templates
 	- # Daily Note Template
 		- [[Weekly Review]]
+		  template:: Weekly Review
 			- Plus: What went well?
 			- Minus: What didn't go so well?
 			- Next: What will I focus on next week?
