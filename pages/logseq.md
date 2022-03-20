@@ -32,8 +32,9 @@
 	- [[Daily Notes]]
 	  template:: daily
 	  template-including-parent:: false
-		-
-		- DONE Insert Today's Notebook Setup Checklist
-		- TODO Journaling Habit
+		- Setup
+			- DONE Insert Today's Notebook Setup Checklist
+			- TODO Journaling Habit
+			-
 		-
 		- TODO
