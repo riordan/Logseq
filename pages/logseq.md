@@ -9,7 +9,7 @@
 		- Plus: What went well?
 		- Minus: What didn't go so well?
 		- Next: What will I focus on next week?
-	[[Meeting Minutes]]
+	- [[Meeting Minutes]]
         - Attendees::
         - Meeting name::
         - Presenter::
