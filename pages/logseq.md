@@ -3,6 +3,7 @@
 		- ### Third Party Plugins
 			- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
 - ## Logseq Templates
+  id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- [[Weekly Review]]
 	  template:: Weekly Review
 	  collapsed:: true
