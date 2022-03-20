@@ -35,6 +35,9 @@ alias: Logseq
 			- Completed
 			- Deprecated
 			- Experimental
+	- ((62379de4-41e2-4162-a949-7c47aee31942)) are used to set up frequent things
+	-
+	-
 	-
 	-
 - ## Logseq Configuration
