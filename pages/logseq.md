@@ -9,6 +9,12 @@
 		- Plus: What went well?
 		- Minus: What didn't go so well?
 		- Next: What will I focus on next week?
+	- [[Journaling Prompts]]
+      - What's one thing I learned yesterday?
+      - What's one thing I'm grateful for today?
+      - What's one thing I want to accomplish today?
+      - What's one challenge I may experience today?
+      - Any other thoughts?
 	- [[Meeting Minutes]]
         - Attendees::
         - Meeting name::
@@ -17,3 +23,4 @@
         - Notes::
         - Action items::
         - Open issues::
+      - 
