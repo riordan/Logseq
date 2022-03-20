@@ -6,9 +6,11 @@ alias: Logseq
 - ## Organization
 	- Daily Journals are where everything starts: gets moved to sections as needed
 	- Logseq Organization tags are tagged as `type:: lsorg`
-		- {{query type:lsorg}}
+		- Tag Types: {{query type:lsorg}}
 	- [[Priority]]
+	  type:: lsorg
 		- [[Priority/High]]
+		  type:: lsorg
 		- [[Priority/Normal]]
 		- [[Priority/Low]]
 	- [[Project]]
