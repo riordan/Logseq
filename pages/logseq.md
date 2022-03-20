@@ -24,7 +24,7 @@ alias: Logseq
 			  type:: lsorg
 			- [[Priority/Low]]
 			  type:: lsorg
-		- [[Project]]
+		- [[Projects]]
 		  collapsed:: true
 			- type:: lsorg
 		- [[Status]]
