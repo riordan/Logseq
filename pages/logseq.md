@@ -1,5 +1,5 @@
 - ## Logseq Configuration
 	- ### Plugins:
-		- Marketplace Plugins
+		-
 			-
 - ## Logseq Templates
