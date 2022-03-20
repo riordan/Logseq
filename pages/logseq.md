@@ -4,4 +4,4 @@
 			- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
 - ## Logseq Templates
 	- # Daily Note Template
-		- #
+		-
