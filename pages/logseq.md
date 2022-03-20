@@ -3,6 +3,7 @@
 		- Daily Journals are where everything starts: gets moved to sections as needed
 	- [[Priority]]
 		- [[Priority/High]]
+			- priority::high
 		- [[Priority/Normal]]
 		- [[Priority/Low]]
 	- [[Project]]
