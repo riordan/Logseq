@@ -4,14 +4,15 @@ alias: Logseq
 ---
 
 - ## Organization
-	- Journals:
-		- Daily Journals are where everything starts: gets moved to sections as needed
+	- Daily Journals are where everything starts: gets moved to sections as needed
+	- Logseq Organization tags are tagged as `type:: lsorg`
+		- {{query type:lsorg}}
 	- [[Priority]]
 		- [[Priority/High]]
 		- [[Priority/Normal]]
 		- [[Priority/Low]]
 	- [[Project]]
-		- type::
+		- type:: lsorg
 	- [[Status]]
 		- Active
 		- On Hold
