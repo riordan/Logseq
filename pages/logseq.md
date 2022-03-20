@@ -39,8 +39,9 @@ alias: Logseq
 	- ((62379de4-41e2-4162-a949-7c47aee31942)) are used to set up frequent things like the daily notes and weekly review
 	-
 	- ## System Configuration
+		- Date mode: yyyy/MM/dd
 		- ## Plugins
-			- Externally installed pluginsx
+			- Manually installed plugins
 				- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
