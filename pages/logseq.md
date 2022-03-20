@@ -74,6 +74,7 @@ alias: Logseq
 	- [[Daily Notes]]
 	  template:: daily
 	  template-including-parent:: false
+	  collapsed:: true
 		- Setup
 			- DONE Insert Today's Notebook Setup Checklist
 			- TODO INSERT Journaling Habit
@@ -87,3 +88,6 @@ alias: Logseq
 			- What did you learn today?
 			- What do you want to do tomorrow?
 		- ## Scratch
+	- [[Weekly Plan]]
+		- What are things you need to do for active projects?
+		- What are things you need to do for the
