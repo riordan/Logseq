@@ -11,6 +11,7 @@ alias: Logseq
 		- [[Priority/Normal]]
 		- [[Priority/Low]]
 	- [[Project]]
+		- type::
 	- [[Status]]
 		- Active
 		- On Hold
