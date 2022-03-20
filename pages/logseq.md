@@ -84,6 +84,6 @@ alias: Logseq
 		- ## Wrapup
 			- What did you do today?
 			- What did you learn today?
-			-
+			- What do you want to do tomorrow?
 		-
 		- TODO
