@@ -4,7 +4,7 @@ status: active
 alias: Logseq
 ---
 
-- ## Current Organization Description
+- ## Current Organization
 	- Daily Journals are where everything starts: gets moved to sections as needed
 	- Use properties liberally; especially the yaml frontmatter
 		- ```

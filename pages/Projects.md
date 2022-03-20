@@ -1,1 +1,3 @@
+- Part of [[logseq]]
 - {{query type:project}}
+-
