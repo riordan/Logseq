@@ -1,0 +1,5 @@
+- Good Strategy / Bad Strategy
+	- Diagnosis
+	- Guiding Policy
+	- Coherent Actions
+-
