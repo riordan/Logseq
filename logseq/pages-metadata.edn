@@ -16,6 +16,9 @@
  {:block/name "contents",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "daily notes",
+  :block/created-at 1647811436495,
+  :block/updated-at 1647811436495}
  {:block/name "doing",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -36,7 +39,7 @@
   :block/updated-at 1647807341643}
  {:block/name "logseq",
   :block/created-at 1647808865484,
-  :block/updated-at 1647810244439}
+  :block/updated-at 1647811494589}
  {:block/name "mar 20th, 2022",
   :block/created-at 1647807325697,
   :block/updated-at 1647809921152}
