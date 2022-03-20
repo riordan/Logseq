@@ -16,6 +16,7 @@
 		- What's one challenge I may experience today?
 		- Any other thoughts?
 	- [[Meeting Minutes]]
+	  template:: Meeting Minutes
 		- Attendees:
 		- Meeting name:
 		- Presenter:
