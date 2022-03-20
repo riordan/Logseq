@@ -5,6 +5,7 @@
 		- [[Priority/High]]
 		- [[Priority/Normal]]
 		- [[Priority/Low]]
+	- [[Project]]
 	-
 - ## Logseq Configuration
 	- ## Plugins
