@@ -30,4 +30,6 @@
 		- Open issues:
 		-
 	- [[Daily Notes]]
+	  template:: Daily
+	  template-including-parent:: false
 		-
