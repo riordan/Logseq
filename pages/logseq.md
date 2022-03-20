@@ -75,10 +75,11 @@ alias: Logseq
 	  template-including-parent:: false
 		- Setup
 			- DONE Insert Today's Notebook Setup Checklist
-			- TODO Journaling Habit
+			- TODO INSERT Journaling Habit
 			- TODO Review your schedule for the day
 			- TODO Review your schedule for the week
-			-
+			- TODO Omnifocus Project Review
+		- ## Review
 			-
 		-
 		- TODO
