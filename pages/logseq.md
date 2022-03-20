@@ -12,7 +12,6 @@
 		- Next: What will I focus on next week?
 	- [[Journaling Prompts]]
 	  template:: Journaling Prompts
-	  collapsed:: true
 		- What's one thing I learned yesterday?
 		- What's one thing I'm grateful for today?
 		- What's one thing I want to accomplish today?
