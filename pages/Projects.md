@@ -1,3 +1,3 @@
-- Part of [[logseq]]
+- Part of [[logseq]] ((6237a345-d173-49f8-80a4-46a30e5ee52c))
 - {{query type:project}}
 -

@@ -4,7 +4,9 @@ status: active
 alias: Logseq
 ---
 
-- ## Current Organization
+- ## Current Logseq Org Structure
+  id:: 6237a345-d173-49f8-80a4-46a30e5ee52c
+  collapsed:: true
 	- Daily Journals are where everything starts: gets moved to sections as needed
 	- Use properties liberally; especially the yaml frontmatter
 		- ```
@@ -36,7 +38,6 @@ alias: Logseq
 			- Deprecated
 			- Experimental
 	- ((62379de4-41e2-4162-a949-7c47aee31942)) are used to set up frequent things like the daily notes and weekly review
-	-
 	-
 - ## Logseq Configuration
 	- ## Plugins
@@ -82,7 +83,7 @@ alias: Logseq
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
-			- What did you do today?
+			- What did you accomplish today?
 			- What did you learn today?
 			- What do you want to do tomorrow?
 		-
