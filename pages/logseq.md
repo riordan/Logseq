@@ -30,6 +30,7 @@
 		- Open issues:
 		-
 	- [[Daily Notes]]
-	  template:: Daily
+	  template:: daily
 	  template-including-parent:: false
-		-
+		- TODO Journaling Habit
+		- TODO
