@@ -89,5 +89,4 @@ alias: Logseq
 			- What do you want to do tomorrow?
 		- ## Scratch
 	- [[Weekly Plan]]
-		- What are things you need to do for active projects?
-		- What are things you need to do for the
+		- Le
