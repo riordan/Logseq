@@ -89,4 +89,5 @@ alias: Logseq
 			- What do you want to do tomorrow?
 		- ## Scratch
 	- [[Weekly Plan]]
-		- Le
+		- [[Data and Insights]]
+			- What things need to be done by the
