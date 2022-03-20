@@ -10,6 +10,7 @@
 		- Minus: What didn't go so well?
 		- Next: What will I focus on next week?
 	- [[Journaling Prompts]]
+	  template:: Journaling Prompts
 		- What's one thing I learned yesterday?
 		- What's one thing I'm grateful for today?
 		- What's one thing I want to accomplish today?
@@ -17,6 +18,7 @@
 		- Any other thoughts?
 	- [[Meeting Minutes]]
 	  template:: Meeting Minutes
+	  template-including-parent:: false
 		- Attendees:
 		- Meeting name:
 		- Presenter:
