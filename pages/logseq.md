@@ -6,7 +6,12 @@ alias: Logseq
 
 - ## Current Organization Description
 	- Daily Journals are where everything starts: gets moved to sections as needed
-	- Use Frontmatter
+	- Use properties liberally; especially the yaml frontmatter
+		- ```
+		  ---
+		  <frontmatter goes here in first block>
+		  ---
+		  ```
 	- Logseq Organization tags are tagged as `type:: lsorg`
 	  collapsed:: true
 		- Tag Types: {{query lsorg}}
