@@ -1,4 +1,6 @@
-- #+BEGIN_QUERY
+- Project List
+  query-table:: false
+  #+BEGIN_QUERY
   {:title [:h2 "Project List"]
    :query [:find (pull ?b [*])
          :where
