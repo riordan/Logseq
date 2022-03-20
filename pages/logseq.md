@@ -78,8 +78,12 @@ alias: Logseq
 			- TODO INSERT Journaling Habit
 			- TODO Review your schedule for the day
 			- TODO Review your schedule for the week
-			- TODO [Omnifocus]
-		- ## Review
+			- TODO [Omnifocus](omnifocus://) task review
+		- ## Projects:
+		- ## Meetings
+		- ## Wrapup
+			- What did you do today?
+			- What did you learn today?
 			-
 		-
 		- TODO
