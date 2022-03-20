@@ -78,7 +78,7 @@ alias: Logseq
 			- TODO INSERT Journaling Habit
 			- TODO Review your schedule for the day
 			- TODO Review your schedule for the week
-			- TODO Omnifocus Project Review
+			- TODO [Omnifocus]
 		- ## Review
 			-
 		-
