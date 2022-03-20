@@ -4,9 +4,8 @@ status: active
 alias: Logseq
 ---
 
-- ## Current Logseq Org Structure
+- ## Structure
   id:: 6237a345-d173-49f8-80a4-46a30e5ee52c
-  collapsed:: true
 	- Daily Journals are where everything starts: gets moved to sections as needed
 	- Use properties liberally; especially the yaml frontmatter
 		- ```
@@ -39,10 +38,10 @@ alias: Logseq
 			- Experimental
 	- ((62379de4-41e2-4162-a949-7c47aee31942)) are used to set up frequent things like the daily notes and weekly review
 	-
-- ## Logseq Configuration
-	- ## Plugins
-		- ### Third Party Plugins
-			- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
+	- ## System Configuration
+		- ## Plugins
+			- Externally installed pluginsx
+				- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- [[Weekly Review]]
