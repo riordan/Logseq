@@ -1,4 +1,8 @@
-- type: project
+---
+type: project
+alias: Logseq
+---
+
 - ## Organization
 	- Journals:
 		- Daily Journals are where everything starts: gets moved to sections as needed
