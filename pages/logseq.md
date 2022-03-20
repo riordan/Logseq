@@ -1,3 +1,7 @@
+- ## Organization
+	- Journals:
+		- Daily Journals are where everything starts: gets moved to sections as needed
+	-
 - ## Logseq Configuration
 	- ## Plugins
 		- ### Third Party Plugins
@@ -37,5 +41,7 @@
 			- DONE Insert Today's Notebook Setup Checklist
 			- TODO Journaling Habit
 			- TODO Review your schedule for the day
+			- TODO Review your schedule for the week
+			-
 		-
 		- TODO
