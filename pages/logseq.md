@@ -79,5 +79,6 @@ alias: Logseq
 			- TODO Review your schedule for the day
 			- TODO Review your schedule for the week
 			-
+			-
 		-
 		- TODO
