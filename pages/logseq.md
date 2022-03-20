@@ -29,3 +29,5 @@
 		- Action items:
 		- Open issues:
 		-
+	- [[Daily Notes]]
+		-
