@@ -1,5 +1,6 @@
 ---
 type: project
+status: active
 alias: Logseq
 ---
 
@@ -12,12 +13,14 @@ alias: Logseq
 		- [[Priority/High]]
 		  type:: lsorg
 		- [[Priority/Normal]]
+		  type:: lsorg
 		- [[Priority/Low]]
+		  type:: lsorg
 	- [[Project]]
 		- type:: lsorg
 	- [[Status]]
-		- Active
-		- On Hold
+		- active
+		-
 		- Completed
 		- Deprecated
 		- Experimental
