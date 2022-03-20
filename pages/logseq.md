@@ -86,5 +86,5 @@ alias: Logseq
 			- What did you accomplish today?
 			- What did you learn today?
 			- What do you want to do tomorrow?
-		-
+		- ## Scratch
 		- TODO
