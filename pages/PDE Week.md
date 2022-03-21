@@ -3,4 +3,7 @@
 	- [[2022/03/21]] Opening Plenary: Kickoff & [[Content Strategy]] Overview
 		- Newsroom decision-making is often ad-hoc; make a million different decisions and stories get done for a million different reasons
 			- Current situation:
-				- no
+				- no real content strategy
+				- Low-hanging digital fruit is done: (search)
+			- Next steps: story form, story selection, story identification
+				- creating a framework for storytelling and content
