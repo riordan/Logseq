@@ -10,6 +10,6 @@
 				- story form, story selection, story identification
 				- Getting away from "Feels Like a Story To Me" as the key decisionmaking input
 		- Too much print-centric decision making:
-			- e.g. education does a single, long-form narrative story centered around the idea of a "Sunday reader"
+			- e.g. education does a single, long-form narrative story centered around the idea of a "Sunday reader" that hits 17 districts in paragraphs. Could be both more search optimized, scannable, deep dives on single districts.
 			-
 				-
