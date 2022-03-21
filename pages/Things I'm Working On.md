@@ -1,0 +1,4 @@
+- ## Currently
+- Sticking with [[logseq]]
+- Sticking with [[Omnifocus]]
+-
