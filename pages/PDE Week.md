@@ -8,6 +8,7 @@
 				- Low-hanging digital fruit is done: (search)
 			- What is this work:creating a framework for storytelling and content selection
 				- story form, story selection, story identification
-				-
+				- Getting away from "Feels Like a Story To Me" as the key decisionmaking input
+		-
 			-
 				-
