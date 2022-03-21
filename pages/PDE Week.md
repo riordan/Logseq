@@ -5,5 +5,7 @@
 			- Current situation:
 				- no real content strategy
 				- Low-hanging digital fruit is done: (search)
-			- Next steps: story form, story selection, story identification
-				- creating a framework for storytelling and content
+			- What is this work:creating a framework for storytelling and content selection
+				- story form, story selection, story identification
+			-
+				-
