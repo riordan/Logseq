@@ -1,4 +1,6 @@
 - # PDE Week [[2022/Q1]]
 	- [Agenda (GDoc)](https://docs.google.com/document/d/1bQNzdb107SdJ2kLRsMdGCnFZsad6WA7JaroT0K-37mk/edit#heading=h.mljmmepwzw52)
 	- [[2022/03/21]] Opening Plenary: Kickoff & [[Content Strategy]] Overview
-		-
+		- Newsroom decision-making is often ad-hoc; make a million different decisions and stories get done for a million different reasons
+			- Current situation:
+				- no
