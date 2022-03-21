@@ -1,4 +1,7 @@
 - ## Currently
 - Sticking with [[logseq]]
 - Sticking with [[Omnifocus]]
+- Day planning / daily wrapups
+- Finishing what you start
+- Gmail Labels
 -
