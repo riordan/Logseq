@@ -17,4 +17,5 @@
 	- [[2022/03/22]]
 		- Process transformation session: product demos refined from the last PDE week
 		- important feedback loops: the most important thing is closing a feedback loop: [[nicole]]
-		-
+			- Was a project priority for [[kate]] and [[analytics]]
+				-
