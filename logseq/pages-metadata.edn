@@ -1,21 +1,6 @@
 [{:block/name "2022",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
- {:block/name "2022-03-20t21_05_48",
-  :block/created-at 1647810663710,
-  :block/updated-at 1647810663710}
- {:block/name "2022-03-20t21_06_18",
-  :block/created-at 1647810663651,
-  :block/updated-at 1647810663651}
- {:block/name "2022-03-20t22_15_10",
-  :block/created-at 1647826708391,
-  :block/updated-at 1647826708391}
- {:block/name "2022-03-21t01_38_42",
-  :block/created-at 1647826727260,
-  :block/updated-at 1647826727260}
- {:block/name "2022-03-21t01_38_47",
-  :block/created-at 1647826731460,
-  :block/updated-at 1647826731460}
  {:block/name "2022/03",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
@@ -24,19 +9,28 @@
   :block/updated-at 1647826710512}
  {:block/name "2022/03/21",
   :block/created-at 1647826706277,
-  :block/updated-at 1647826722013}
+  :block/updated-at 1647878328238}
  {:block/name "2022/03/22",
   :block/created-at 1647826710515,
   :block/updated-at 1647826710515}
+ {:block/name "2022/q1",
+  :block/created-at 1647871928759,
+  :block/updated-at 1647871928759}
  {:block/name "a",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
  {:block/name "adhd",
   :block/created-at 1647826706275,
   :block/updated-at 1647826706275}
+ {:block/name "analytics team",
+  :block/created-at 1647817104717,
+  :block/updated-at 1647817104717}
  {:block/name "b",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "brian waligorski",
+  :block/created-at 1647877024052,
+  :block/updated-at 1647877024052}
  {:block/name "c",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -46,12 +40,21 @@
  {:block/name "climb",
   :block/created-at 1647826710509,
   :block/updated-at 1647826710509}
+ {:block/name "content strategy",
+  :block/created-at 1647872029127,
+  :block/updated-at 1647872029127}
+ {:block/name "contents",
+  :block/created-at 1647807341643,
+  :block/updated-at 1647807341643}
  {:block/name "daily notes",
   :block/created-at 1647811436495,
   :block/updated-at 1647811436495}
  {:block/name "data and insights",
   :block/created-at 1647826706406,
   :block/updated-at 1647826706406}
+ {:block/name "david riordan",
+  :block/created-at 1647877031338,
+  :block/updated-at 1647877031338}
  {:block/name "doing",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -76,12 +79,12 @@
  {:block/name "later",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "leadership team",
+  :block/created-at 1647817096896,
+  :block/updated-at 1647817096896}
  {:block/name "logseq",
   :block/created-at 1647808865484,
   :block/updated-at 1647811494589}
- {:block/name "mar 20th, 2022",
-  :block/created-at 1647807325697,
-  :block/updated-at 1647809921152}
  {:block/name "meeting minutes",
   :block/created-at 1647810348612,
   :block/updated-at 1647810348612}
@@ -91,9 +94,12 @@
  {:block/name "obsidian",
   :block/created-at 1647826706275,
   :block/updated-at 1647826706275}
+ {:block/name "omnifocus",
+  :block/created-at 1647873621361,
+  :block/updated-at 1647873621361}
  {:block/name "pde week",
   :block/created-at 1647826710515,
-  :block/updated-at 1647826710515}
+  :block/updated-at 1647874750677}
  {:block/name "personal",
   :block/created-at 1647826706275,
   :block/updated-at 1647826706275}
@@ -124,6 +130,9 @@
  {:block/name "status",
   :block/created-at 1647826706395,
   :block/updated-at 1647826706395}
+ {:block/name "things i'm working on",
+  :block/created-at 1647873592815,
+  :block/updated-at 1647873653369}
  {:block/name "todo",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -137,8 +146,5 @@
   :block/created-at 1647826706406,
   :block/updated-at 1647826706406}
  {:block/name "weekly review",
-  :block/created-at 1647809979726,
-  :block/updated-at 1647809979726}
- {:block/name "writing",
-  :block/created-at 1647808784552, 
-  :block/updated-at 1647808784552}]
+  :block/created-at 1647809979726, 
+  :block/updated-at 1647809979726}]
