@@ -5,5 +5,6 @@
 		- Quarterly
 		- Semi-Annually
 		- Annually
-	- [[Inquirer]]  Company Rhythm
+	- [[Philadelphia Inquirer]] Company Rhythm
+		-
 -
