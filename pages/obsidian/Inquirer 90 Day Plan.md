@@ -1,18 +1,15 @@
 ---
 tags: [inquirer/projects]
 ---
+
 # 90 Day Plan
-
 ## Overview
-Building off of [[Matt Boggie|Matt's]] [[Inquirer Welcome Letter#30 60 90-day Expectations]]
-
+Building off of [[Matt Boggie]] [[Inquirer Welcome Letter#30 60 90-day Expectations]]
 - [ ] #task Make a full 90 days project doc here ⏫ 🛫 2021-12-13 ⏳ 2021-12-14 📅 2021-12-15 🔼  #task
 - Month One: [[#^eaf3fb]]
-
 # Learning Plan
 
 ^eaf3fb
-
 ## Learning Plan Template:
 ### Before Entry
 - Find out whatever you can about the organization's strategy, structure, performance, and people.
@@ -21,7 +18,6 @@ Building off of [[Matt Boggie|Matt's]] [[Inquirer Welcome Letter#30 60 90-day Ex
 - Talk to your new boss.
 - [ ] As you begin to learn about the organization, write down your first impressions and eventually some hypotheses.
 - [ ] Compile an initial set of questions to guide your structured inquiry after you arrive.
-
 ### Soon after entry
 - Review detailed operating plans, performance data, and personnel data.
 - Meet one-on-one with your direct reports and ask them the questions you compiled. You will learn about convergent and divergent views and about your reports as people.
@@ -31,7 +27,6 @@ Building off of [[Matt Boggie|Matt's]] [[Inquirer Welcome Letter#30 60 90-day Ex
 - Test awareness of challenges and opportunities from the bottom up. Start by asking frontline people how they view the company's challenges and opportunities. Then work your way up.
 - Update your questions and hypotheses.
 - Meet with your boss to discuss your hypotheses and findings.
-
 ### By the end of the first month
 - Gather your team to feed back to them your preliminary findings. You will elicit confirmation and challenges of your assessments and Wii's learn more  about the group and its dynamics.
 - Now analyze key interfaces from the outside in. You will learn how people on the outside (suppliers, customers, distributors, and others) perceive your organization and its strengths and weaknesses.
@@ -39,7 +34,6 @@ Building off of [[Matt Boggie|Matt's]] [[Inquirer Welcome Letter#30 60 90-day Ex
 - Meet with key integrators. You will learn how things work at interfaces among functional areas. What problems do they perceive that others do not? Seek out the natural historians. They can fill you in on the history, culture, and politics of the organization, and they are also potential allies and influencers.
 - Update your questions and hypotheses.
 - Meet with your boss again to discuss your observations.
-
 ## Fundamental Organizational Research (Personal)
 
 ^82d136
@@ -47,7 +41,6 @@ Building off of [[Matt Boggie|Matt's]] [[Inquirer Welcome Letter#30 60 90-day Ex
 *These are questions which I should individually seek to understand the answers to to diagnose the organizational needs and capabilities of the company and the job. As I hold conversations with colleagues, read through internal documents, and external assessments, I should try to come to specific answers. The origin of many of these questions is the book [[The First 90 Days]].*
 
 You should draft an interview template for structured learning conversations to get to the bottom of these questions in colleague conversations.
-
 ### Questions About the Past:
 
 **Performance:**
@@ -66,7 +59,6 @@ You should draft an interview template for structured learning conversations to 
 * What efforts have been made to change the organization? What happened?
 	* What was behind the decision to consolidate behind the single brand of The Inquirer? How was that decision made? What was its purpose? Were those desired outcomes achieved? What was lost in that transition?
 * Who has been instrumental in shaping the organization?
-
 ### Questions about the Present
 
 **Vision and Strategy**
@@ -89,7 +81,6 @@ You should draft an interview template for structured learning conversations to 
 
 **Early Wins:**
 * In what areas (people, relationships, processes, or products) can you achieve some early wins?
-
 ### Questions About the Future
 
 **Challenges and Opportunities**
@@ -104,15 +95,10 @@ You should draft an interview template for structured learning conversations to 
 **Culture:**
 * Which elements of the culture should be preserved?
 * Which elements need to change?
-
-
-
 ## Research Templates
 - [ ] Fill out research interview template 🔼 📅 [[2021-12-06]]
-
-[[Orientation Structured Interview Questions]]
-
-
+  
+  [[Orientation Structured Interview Questions]]
 ## Organizational Sources of Knowledge
 * Strategy documents
 * Key operational descriptions
@@ -124,20 +110,16 @@ You should draft an interview template for structured learning conversations to 
 * Detailed performance data
 * Detailed personnel data
 * Lists of all vendors
-
 - Data Sources:
 	- Shared drives
 	- Databases
-	- List of vendors 
-
+	- List of vendors
 # 90 Day Plan
 * Month One: [[#^eaf3fb]]
-* 
-
+*
 # Learning Plan
 
 ^eaf3fb
-
 ## Learning Plan Template:
 ### Before Entry
 - Find out whatever you can about the organization's strategy, structure, performance, and people.
@@ -146,7 +128,6 @@ You should draft an interview template for structured learning conversations to 
 - Talk to your new boss.
 - [ ] As you begin to learn about the organization, write down your first impressions and eventually some hypotheses.
 - [ ] Compile an initial set of questions to guide your structured inquiry after you arrive.
-
 ### Soon after entry
 - Review detailed operating plans, performance data, and personnel data.
 - Meet one-on-one with your direct reports and ask them the questions you compiled. You will learn about convergent and divergent views and about your reports as people.
@@ -156,7 +137,6 @@ You should draft an interview template for structured learning conversations to 
 - Test awareness of challenges and opportunities from the bottom up. Start by asking frontline people how they view the company's challenges and opportunities. Then work your way up.
 - Update your questions and hypotheses.
 - Meet with your boss to discuss your hypotheses and findings.
-
 ### By the end of the first month
 - Gather your team to feed back to them your preliminary findings. You will elicit confirmation and challenges of your assessments and Wii's learn more  about the group and its dynamics.
 - Now analyze key interfaces from the outside in. You will learn how people on the outside (suppliers, customers, distributors, and others) perceive your organization and its strengths and weaknesses.
@@ -164,7 +144,6 @@ You should draft an interview template for structured learning conversations to 
 - Meet with key integrators. You will learn how things work at interfaces among functional areas. What problems do they perceive that others do not? Seek out the natural historians. They can fill you in on the history, culture, and politics of the organization, and they are also potential allies and influencers.
 - Update your questions and hypotheses.
 - Meet with your boss again to discuss your observations.
-
 ## Fundamental Organizational Research (Personal)
 
 ^82d136
@@ -172,7 +151,6 @@ You should draft an interview template for structured learning conversations to 
 *These are questions which I should individually seek to understand the answers to to diagnose the organizational needs and capabilities of the company and the job. As I hold conversations with colleagues, read through internal documents, and external assessments, I should try to come to specific answers. The origin of many of these questions is the book [[The First 90 Days]].*
 
 You should draft an interview template for structured learning conversations to get to the bottom of these questions in colleague conversations.
-
 ### Questions About the Past:
 
 **Performance:**
@@ -191,7 +169,6 @@ You should draft an interview template for structured learning conversations to 
 * What efforts have been made to change the organization? What happened?
 	* What was behind the decision to consolidate behind the single brand of The Inquirer? How was that decision made? What was its purpose? Were those desired outcomes achieved? What was lost in that transition?
 * Who has been instrumental in shaping the organization?
-
 ### Questions about the Present
 
 **Vision and Strategy**
@@ -214,7 +191,6 @@ You should draft an interview template for structured learning conversations to 
 
 **Early Wins:**
 * In what areas (people, relationships, processes, or products) can you achieve some early wins?
-
 ### Questions About the Future
 
 **Challenges and Opportunities**
@@ -229,11 +205,7 @@ You should draft an interview template for structured learning conversations to 
 **Culture:**
 * Which elements of the culture should be preserved?
 * Which elements need to change?
-
-
-
 ## Research Templates
-
 ## Organizational Sources of Knowledge
 * Strategy documents
 * Key operational descriptions
