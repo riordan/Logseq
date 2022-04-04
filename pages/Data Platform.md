@@ -1,5 +1,6 @@
 - # Capabilities:
 	- ## Essential (MVP)
 	- ## Nice To Have
-		- Event Instrumentation Validation - Tools like [Trackingplan](https://www.trackingplan.com/)
+		- Event Instrumentation Validation
+			- Tools like [Trackingplan](https://www.trackingplan.com/) now used to ensure that your analytics pixels, utm codes,
 	-
