@@ -1,4 +1,4 @@
 ---
-tags: [inquirer/person]
-aliases: [Lisa, CEO]
+tags: inquirer/person
+alias: Lisa, CEO
 ---
