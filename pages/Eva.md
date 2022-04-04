@@ -1,3 +1,3 @@
 ---
-tags: inquirer/person, 
+tags: inquirer/person, [[inquirer]]
 ---
