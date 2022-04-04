@@ -1,4 +1,4 @@
 ---
-tags: inquirer/person, [[inquirer]]
-aliases: Eva
+tags: [[inquirer/person]] 
+alias: Eva, eva
 ---
