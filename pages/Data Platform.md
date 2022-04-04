@@ -1,4 +1,5 @@
 - # Capabilities:
 	- ## Essential (MVP)
-	-
+	- ## Nice To Have
+		- Event Instrumentation Validation - Tools like [Trackingplan](https://www.trackingplan.com/)
 	-
