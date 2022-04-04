@@ -1,0 +1,1 @@
+[[2022-01-12]] - announced moving from Managing Editor (number 2 in newsroom) to Content Strategy Editor to focus on content and business rather than newsroom ops

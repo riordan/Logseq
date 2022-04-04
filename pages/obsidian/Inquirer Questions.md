@@ -1,0 +1,12 @@
+- What's the story with the Decision Science team?
+	- Relationship to decision science and my group?
+	- Will Decision Science be going forward?
+- Yay user research! What can we do to advocate for that without the thought that Insights should own it?
+- What are newsroom priorities?
+- Who do I talk to about data tour?
+- Data - is there ownership?
+- Is there on-call
+- Can we use cloudsearch?
+	- cloudsearch and jira / confluence
+- How do we track spending on systems?
+

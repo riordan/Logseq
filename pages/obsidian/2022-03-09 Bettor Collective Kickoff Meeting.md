@@ -1,0 +1,74 @@
+---
+tags: [inquirer, meeting-notes]
+---
+
+[Slides](https://docs.google.com/presentation/d/1mNPBn928C7MN1ltk41Uxp9CpklIqOTlmlAE0Gkw0is8/edit#slide=id.g1185dc12e1b_0_6)
+
+## Attendees:
+- Inquirer
+	- 
+- [[Bettor Collective]] Staff
+	- Simon
+	- Lars Riemann Andersson - Head of special projects
+	- Ian - director of SEO [[Bettor Collective]]. Set up all media partnershps
+	- Thomas Reynolds - producing sports betting content
+	- 
+
+
+## Notes:
+- Action Network: the sub-brand
+	- Would be 4 staff working full-time on content for Inquirer. 
+- Media Partnerships approach; part of SEO
+	- Telegraph (UK)
+- Designs for Betting Hub
+	- Workflow for Action Network via Arc
+		- WIll have access to our photos and assets via Arc
+		- Will go to Inquirer web producers for pre-publication
+		- Will separate the content from Action Network vs Inq staff on the backend; keep it isolated and protected
+	- [[Beth Flynn]] Has been the designer on this
+	- Wireframes:
+		- ![[Screen Shot 2022-03-09 at 11.15.07.png]]
+		- Green check branding = action network (borrowing from branding)
+		- ![[Screen Shot 2022-03-09 at 11.15.39.png]]
+		- Would note that action network is tag to all writers
+		- Would likely be measurement & analytics
+		- 
+		##  Questions/notes from them
+			- Always optimizing assets based on deals with partners
+				- that changes, frequently
+				- ![[Screen Shot 2022-03-09 at 11.19.43.png]]
+				- This is usually coming out of an iframe
+				- Dynamic content, care a lot about compliance; need to show geotargeted compliance messages and optimized offers
+					- Existing infra for content serving = based on iframes
+						- Dynamic show of 
+					- can do that with an iframe already but htey get that
+					- Don't have to do js; they don't have JS implementation yet
+					- Want chronological archive of all of the articles of all time. Very important to them for SEO
+- Analytics from Lars:
+	- monthly how many click, how many sign up, how many trigger new revenue
+	- They get very little transparency from their partners
+		- **- They sometimes put click trackers on these pages** to get meaningful metrics
+		- Do quite a bit of GA integration; including Google Search Console
+	- Want to be getting us onto apple news
+- Mobile app: Would need to make sure it works for a mobile webview app and validate that the insertion 
+
+- Geofencing mechanics:
+	- Regulations say you can/can't bet from a given state & each state has different rules
+		- Operators will say if you come into a state where not legal, like CA; not allowed to sign up, not allowed to place bet
+	- Do need to make sure showing compliance text
+		- different compliance language state-by-state
+	- Do a 24 hr geoip lookup cookie; Maxmind lookups
+	- Try not to do state-by-state offers at this point
+		- getting value from changing offers from fanduel -> ceasars
+	- Operators using GeoComply app to get real lat/lon
+	- Default to home state for an operator if they're coming from a location without it
+	- **What % of audience using an adblock?**
+		- Keep adblock detector w/ blocker off on the betting sections
+		- Prefer to keep it off for paywall; this content will be unmetered
+			- Telegraph keeps internal links
+	- Care about % of adblocking; need to get them adblocked %; GATM-SS
+	- Have sample code for integration with NY Post; would love to see how it works
+
+
+
+	

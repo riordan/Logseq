@@ -1,0 +1,5 @@
+---
+aliases: [Lydia]
+---
+
+[[Inquirer Operations]]
