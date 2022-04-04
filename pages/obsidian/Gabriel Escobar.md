@@ -1,3 +1,3 @@
 ---
-aliases: ['Gabe']
+alias: Gabe
 ---
