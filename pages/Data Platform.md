@@ -1,5 +1,4 @@
 - # Capabilities:
 	- ## Essential (MVP)
-	- {{renderer :kanban_orcugrmdf}}
-		-
+	-
 	-
