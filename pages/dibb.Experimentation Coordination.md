@@ -36,7 +36,7 @@ title:: dibb/Experimentation Coordination
 			- mark and nat did piano marketing things
 			- not liz
 		- Current:
-			- liz doing piano and opti
+			- liz doing piano
 			- nat gone: gap for marketing tests
 				- kate does't ahve experience working in piano; nat handled it before. mark feels like he can take it on because he managed piano with nat
 				- [[mark]] steps in because he has experience, but doesn't give kate a way to get experience
