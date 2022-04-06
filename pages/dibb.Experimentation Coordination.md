@@ -22,6 +22,7 @@ title:: dibb/Experimentation Coordination
 			- Confluence test pages
 				- Analytics
 					- [results](https://inquirer.atlassian.net/wiki/spaces/KB/pages/229046/Testing+Results)
+					- [2021 testing roadmap mid-year review](https://docs.google.com/presentation/d/17CRCzWg3BUZ1j31s8tw-LY-TEXtY7MMwZOcDcskP0mQ/edit#slide=id.gdb77f633bb_0_38)
 				- [Marketing]()
 	- Challenges:
 		- different platforms
