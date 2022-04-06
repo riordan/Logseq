@@ -18,6 +18,8 @@ title:: dibb/Experimentation Coordination
 		- Lists of tests have lived in a couple of different documentation systems
 			- Optimize Jira
 			- Smartsheet
+			- Recaps of tests run in previous year on Google Drive
+			-
 	- Challenges:
 		- different platforms
 		- fragmented communication
