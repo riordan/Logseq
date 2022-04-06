@@ -19,7 +19,8 @@ title:: dibb/Experimentation Coordination
 			- Optimize Jira
 			- Smartsheet
 			- Recaps of tests run in previous year on Google Drive
-			-
+			- Confluence test pages
+				-
 	- Challenges:
 		- different platforms
 		- fragmented communication
