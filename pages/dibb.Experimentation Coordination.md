@@ -13,4 +13,4 @@ title:: dibb/Experimentation Coordination
 			- Feature-focused testing:
 				- moving module up or down the page; color of modals
 				- NOT focused on registration/meter
-		-
+		- Firebase Remote
