@@ -1,3 +1,8 @@
 - {{renderer :kanban_ncfl}}
 	- #fleeting Ideas
-	-
+	- Write Proposal
+		-
+	- Proposed
+	- Active
+	- Completed
+	- Dismissed
