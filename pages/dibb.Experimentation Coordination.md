@@ -17,4 +17,8 @@ title:: dibb/Experimentation Coordination
 		- [[inquirer/mobile app]] testing: Firebase remote config
 			- custom system build by [[Bryan Deemer]]
 	- Lists of tests have lived in a couple of different documentation systems
-		-
+	- Challenges:
+		- different platforms
+		- fragmented communication
+		- fragmented operations
+		- not a lot of transparency
