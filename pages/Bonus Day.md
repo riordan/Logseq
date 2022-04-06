@@ -1,1 +1,1 @@
-- As of 2021,
+- As of 2021, all new print starts begin in Salesforce, with Bonus Days priced in. Salesforce works for all forward-looking subscriptions.
