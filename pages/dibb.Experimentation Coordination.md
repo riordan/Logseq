@@ -32,4 +32,8 @@ title:: dibb/Experimentation Coordination
 	- Analytics process:
 		- Previously mark was managing with liz (as point of contact)
 			- Kate managed some of the app stuff
-		-
+		- Current:
+			-
+			- nat gone: gap for marketing tests
+				- kate does't ahve experience working in piano; nat handled it before. mark feels like he can take it on because he managed piano with nat
+				-
