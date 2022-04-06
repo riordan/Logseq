@@ -11,4 +11,6 @@ title:: dibb/Experimentation Coordination
 		- [[Blueconic]]
 		- Optimize
 			- Feature-focused testing:
-				-
+				- moving module up or down the page; color of modals
+				- NOT focused on registration/meter
+		-
