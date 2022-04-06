@@ -13,4 +13,5 @@ title:: dibb/Experimentation Coordination
 			- Feature-focused testing:
 				- moving module up or down the page; color of modals
 				- NOT focused on registration/meter
-		- Firebase Remote
+		- [[inquirer/mobile app]] testing: Firebase remote config
+			- custom system build by [[bryan dee]]
