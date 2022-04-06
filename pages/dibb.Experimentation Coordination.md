@@ -42,4 +42,4 @@ title:: dibb/Experimentation Coordination
 				- [[mark]] steps in because he has experience, but doesn't give kate a way to get experience
 			- Not really a clear channel for where tests come from; mark figures he'll set it up and get it going and kate can analyze at the end
 				- struggle of where the handoff is
-			-
+			- The jira intake process is heavy because was designed to capture from folks in product, but not lightweight.
