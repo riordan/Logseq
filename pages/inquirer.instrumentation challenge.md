@@ -1,4 +1,0 @@
-title:: inquirer/instrumentation challenge
-
--
--
