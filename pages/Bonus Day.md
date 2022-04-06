@@ -1,5 +1,2 @@
 - As of 2021, all new print starts begin in Salesforce, with Bonus Days priced in. Salesforce works for all forward-looking subscriptions. #dsi only holds the legacy stuff
-	- for print:
-		- no more bonus days
-		- Floor rates we can't go below
 	-
