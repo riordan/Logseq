@@ -1,3 +1,3 @@
 ---
-alias: kill dsi
+alias: killing DSI
 ---
