@@ -17,7 +17,7 @@ title:: dibb/Experimentation Coordination
 			- custom system build by [[Bryan Deemer]]
 		- Lists of tests have lived in a couple of different documentation systems
 			- Optimize Jira
-			-
+			- Smartsheet
 	- Challenges:
 		- different platforms
 		- fragmented communication
