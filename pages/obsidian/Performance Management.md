@@ -1,6 +1,6 @@
 ---
-tags: [inquirer, inquirer/hr
-aliases: [Performance Goals]
+tags: inquirer, inquirer/hr
+alias: Performance Goals
 omnifocus: omnifocus:///task/mxZzQ2Hw18q
 ---
 
