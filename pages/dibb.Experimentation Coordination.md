@@ -7,6 +7,7 @@ title:: dibb/Experimentation Coordination
 		- she's on parental leave; current owner for [[marketing]] is [[Nadya Tan]]
 	- ways we track stuff:
 	- Platforms:
+	  collapsed:: true
 		- [[Piano]]
 		- [[Blueconic]]
 		- Optimize
@@ -14,4 +15,6 @@ title:: dibb/Experimentation Coordination
 				- moving module up or down the page; color of modals
 				- NOT focused on registration/meter
 		- [[inquirer/mobile app]] testing: Firebase remote config
-			- custom system build by [[bryan dee]]
+			- custom system build by [[Bryan Deemer]]
+	- Lists of tests have lived in a couple of different documentation systems
+		-
