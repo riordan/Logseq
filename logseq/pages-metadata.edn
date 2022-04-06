@@ -141,7 +141,7 @@
   :block/updated-at 1649255238272}
  {:block/name "2022/03/23",
   :block/created-at 1648008910117,
-  :block/updated-at 1649258464025}
+  :block/updated-at 1649270282272}
  {:block/name "2022/03/24",
   :block/created-at 1648154560211,
   :block/updated-at 1649255236249}
@@ -171,7 +171,7 @@
   :block/updated-at 1649187531023}
  {:block/name "2022/04/06",
   :block/created-at 1649217638958,
-  :block/updated-at 1649267200198}
+  :block/updated-at 1649270331221}
  {:block/name "2022/04/07",
   :block/created-at 1648650526305,
   :block/updated-at 1648650526305}
@@ -859,6 +859,9 @@
  {:block/name "kava",
   :block/created-at 1647826706276,
   :block/updated-at 1647826706276}
+ {:block/name "killing dsi",
+  :block/created-at 1649270282271,
+  :block/updated-at 1649270312488}
  {:block/name "kpis",
   :block/created-at 1648154560209,
   :block/updated-at 1648154560209}
