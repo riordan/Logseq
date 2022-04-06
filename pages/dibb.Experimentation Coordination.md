@@ -29,3 +29,7 @@ title:: dibb/Experimentation Coordination
 		- fragmented communication
 		- fragmented operations
 		- not a lot of transparency
+	- Analytics process:
+		- Previously mark was managing with liz (as point of contact)
+			- Kate managed some of the app stuff
+		-
