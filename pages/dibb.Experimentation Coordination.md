@@ -5,4 +5,8 @@ title:: dibb/Experimentation Coordination
 - # Notes:
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
 		- she's on parental leave; current owner for [[marketing]] is [[Nadya Tan]]
-		-
+	- ways we track stuff:
+	- Platforms:
+		- Piano
+		- Blueconic
+		- Optimize
