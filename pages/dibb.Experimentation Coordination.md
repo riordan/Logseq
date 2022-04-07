@@ -44,7 +44,7 @@ title:: dibb/Experimentation Coordination
 				- struggle of where the handoff is
 			- The jira intake process is heavy because was designed to capture from folks in product, but not lightweight. We don't have a way lightweight capture requests and work tickets regardless of where they come from #fleeting #agile
 	- What could we do:
-		- Pull automated data from all known experiment sources
+		- Pull automated data from all known experiment/test sources
 		- Visualize active experiment timelines
 		- Post new experiments to a slack channel
-		- Post a weekly update of all running (non-_ permanent _) experiments
+		- Post a weekly update of all running (non-_permanent_) experiments
