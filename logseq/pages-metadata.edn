@@ -58,6 +58,9 @@
  {:block/name "2022-w13",
   :block/created-at 1649090099185,
   :block/updated-at 1649090099185}
+ {:block/name "2022-w15",
+  :block/created-at 1649270505350,
+  :block/updated-at 1649270505350}
  {:block/name "2022/01",
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
@@ -165,13 +168,13 @@
   :block/updated-at 1648481774920}
  {:block/name "2022/04/04",
   :block/created-at 1649044849355,
-  :block/updated-at 1649105773823}
+  :block/updated-at 1649270468497}
  {:block/name "2022/04/05",
   :block/created-at 1649131233491,
   :block/updated-at 1649187531023}
  {:block/name "2022/04/06",
   :block/created-at 1649217638958,
-  :block/updated-at 1649270331221}
+  :block/updated-at 1649270455303}
  {:block/name "2022/04/07",
   :block/created-at 1648650526305,
   :block/updated-at 1648650526305}
@@ -181,6 +184,9 @@
  {:block/name "2022/q3",
   :block/created-at 1649097800429,
   :block/updated-at 1649097800429}
+ {:block/name "2022/w15",
+  :block/created-at 1649270573384,
+  :block/updated-at 1649270573384}
  {:block/name "30 day diagnosis",
   :block/created-at 1649090099134,
   :block/updated-at 1649090099134}
@@ -265,9 +271,6 @@
  {:block/name "[pde]",
   :block/created-at 1649090076703,
   :block/updated-at 1649090076703}
- {:block/name "[performance goals]",
-  :block/created-at 1649090076216,
-  :block/updated-at 1649090076216}
  {:block/name "[philadelphia inquirer]",
   :block/created-at 1649090085412,
   :block/updated-at 1649090085412}
@@ -328,6 +331,9 @@
  {:block/name "adhd cbt",
   :block/created-at 1649090099227,
   :block/updated-at 1649090099227}
+ {:block/name "agile",
+  :block/created-at 1649294842219,
+  :block/updated-at 1649294842219}
  {:block/name "alexandra",
   :block/created-at 1649088325257,
   :block/updated-at 1649088325257}
@@ -427,6 +433,9 @@
  {:block/name "brian waligorski_brian's",
   :block/created-at 1649090084284,
   :block/updated-at 1649090084284}
+ {:block/name "bryan deemer",
+  :block/created-at 1649278428358,
+  :block/updated-at 1649278428358}
  {:block/name "building machine learning pipelines",
   :block/created-at 1649090101335,
   :block/updated-at 1649090101335}
@@ -597,7 +606,13 @@
   :block/updated-at 1648481756092}
  {:block/name "dibb",
   :block/created-at 1649257705852,
-  :block/updated-at 1649257705852}
+  :block/updated-at 1649271187846}
+ {:block/name "dibb/event horizon",
+  :block/created-at 1649255181328,
+  :block/updated-at 1649270847615}
+ {:block/name "dibb/experimentation coordination",
+  :block/created-at 1649255040774,
+  :block/updated-at 1649294929877}
  {:block/name "digital editors",
   :block/created-at 1649174551508,
   :block/updated-at 1649174551508}
@@ -631,6 +646,9 @@
  {:block/name "experiment",
   :block/created-at 1649097551753,
   :block/updated-at 1649097551753}
+ {:block/name "experimentation",
+  :block/created-at 1649278138839,
+  :block/updated-at 1649278138839}
  {:block/name "favorites",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -793,15 +811,18 @@
  {:block/name "inquirer/colleague",
   :block/created-at 1649090364056,
   :block/updated-at 1649090364056}
+ {:block/name "inquirer/dibb",
+  :block/created-at 1649270946457,
+  :block/updated-at 1649270946457}
  {:block/name "inquirer/experimentation coordination",
-  :block/created-at 1649255040774,
-  :block/updated-at 1649255040774}
- {:block/name "inquirer/hr]",
-  :block/created-at 1649090076216,
-  :block/updated-at 1649090076216}
- {:block/name "inquirer/instrumentation challenge",
-  :block/created-at 1649255181328,
-  :block/updated-at 1649255181328}
+  :block/created-at 1649270985738,
+  :block/updated-at 1649270985738}
+ {:block/name "inquirer/hr",
+  :block/created-at 1649270862489,
+  :block/updated-at 1649270862489}
+ {:block/name "inquirer/mobile app",
+  :block/created-at 1649278290793,
+  :block/updated-at 1649278290793}
  {:block/name "inquirer/newsroom",
   :block/created-at 1649090509424,
   :block/updated-at 1649090509424}
@@ -811,12 +832,21 @@
  {:block/name "inquirer/person]",
   :block/created-at 1649090354758,
   :block/updated-at 1649090354758}
+ {:block/name "inquirer/proje",
+  :block/created-at 1649270941889,
+  :block/updated-at 1649270941889}
+ {:block/name "inquirer/project",
+  :block/created-at 1649270847611,
+  :block/updated-at 1649270847611}
  {:block/name "inquirer/projects",
   :block/created-at 1649090074198,
   :block/updated-at 1649090074198}
  {:block/name "insights guild",
   :block/created-at 1649090101878,
   :block/updated-at 1649090101878}
+ {:block/name "instrumentation challenge",
+  :block/created-at 1649270833265,
+  :block/updated-at 1649270833265}
  {:block/name "interview",
   :block/created-at 1649090073477,
   :block/updated-at 1649090073477}
@@ -910,6 +940,9 @@
  {:block/name "liveblog",
   :block/created-at 1649090073474,
   :block/updated-at 1649090073474}
+ {:block/name "liz grace",
+  :block/created-at 1649278125878,
+  :block/updated-at 1649278125878}
  {:block/name "logseq",
   :block/created-at 1647808865484,
   :block/updated-at 1647811494589}
@@ -1093,9 +1126,12 @@
  {:block/name "pde week - 2022q1",
   :block/created-at 1649090101630,
   :block/updated-at 1649090101630}
+ {:block/name "performance goals",
+  :block/created-at 1649270894666,
+  :block/updated-at 1649270894666}
  {:block/name "performance management",
   :block/created-at 1649090101533,
-  :block/updated-at 1649090101533}
+  :block/updated-at 1649270894670}
  {:block/name
   "performance management_performance management goals_performance goals",
   :block/created-at 1649090076088,
@@ -1118,6 +1154,9 @@
  {:block/name "philladelphia inquirer",
   :block/created-at 1649090102844,
   :block/updated-at 1649090102844}
+ {:block/name "piano",
+  :block/created-at 1649278212509,
+  :block/updated-at 1649278212509}
  {:block/name "premium content recommendation engine",
   :block/created-at 1649100778851,
   :block/updated-at 1649100778851}
