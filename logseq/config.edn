@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["dibb" "logseq"]
+ :favorites ["data - insights - beliefs - bets" "logseq"]
  :journal/page-title-format "yyyy/MM/dd"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
