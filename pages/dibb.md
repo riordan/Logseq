@@ -10,7 +10,7 @@ alias: Data - Insights - Beliefs - Bets
 		- Write Proposal
 			- [[Incident Management]]
 		- Proposed
-			- [[Unify Subscriber Data]]
 		- Active
+			- [[Unify Subscriber Data]]
 		- Completed
 		- Dismissed
