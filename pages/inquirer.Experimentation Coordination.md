@@ -29,7 +29,13 @@ title:: inquirer/Experimentation Coordination
 	  What sources don't have exported data feeds would need to be maintained by hand (like is done on the OPTIMIZE jira today), but the overall burden of managing upkeep would be reduced (and facilitate us getting local copies for analysis).
 	  The whole point of pulling it together is to be able to regularly display the calendar of what tests are running at the start of each week to the testing_optimization slack channel with a link to a nifty visualization of current/upcoming/ongoing tests/surveys. Hell; it could be driven by the Optimize JIRA with a native calendar visualization and a GANTT of what's happening.
 	  By making what's already present visible, it makes the challenges of distributed experimentation a lot easier to coordinate.
-	- >
+	- > yeah - i think i’m onboard with all of it.  Things fell apart a bit when Liz left her role.  Our plan was to quickly replace that role with the Data PM that would manage testing overall as well as other things.  This is now 8 months that role has been unfilled though
+	  
+	  > The plan was
+	      Data PM oversee testing overall as a program - partner with Product
+	  Liz role manages testing for marketing working with the data PM for overall program management
+	  15:31
+	  The data export thing we should just talk through in more detail.  Make sure what we are getting from the tools is meaningful.  For a lot of the tools we don’t use them for hte analysis - mostly for the splitting and experience
 - [[2022/04/06]] [[kate]]
   collapsed:: true
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
