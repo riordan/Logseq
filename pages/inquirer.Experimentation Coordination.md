@@ -8,7 +8,8 @@ title:: inquirer/Experimentation Coordination
 	- ### Insights
 	- ### Beliefs
 	- ### Bet
-- ## Project Structure
+- ## Project Approach
+	- ### Concerns to be mindful of:
 - ## Project Notes
 - [[2022/04/06]]
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
