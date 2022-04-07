@@ -7,7 +7,7 @@ title: Data - Insights - Beliefs - Bets
 	- DIBB Proposals
 		- #fleeting Ideas
 		- Write Proposal
-			- [[Data - Insights - Beliefs - Bets/Experimentation Coordination]]
+			- [[dibb/Experimentation Coordination]]
 			- [[Incident Management]]
 			- [[Data - Insights - Beliefs - Bets/Event Horizon]]
 		- Proposed
