@@ -1,23 +1,20 @@
----
-tags: [inquirer, meeting-notes]
----
-
-[Slides](https://docs.google.com/presentation/d/1mNPBn928C7MN1ltk41Uxp9CpklIqOTlmlAE0Gkw0is8/edit#slide=id.g1185dc12e1b_0_6)
-
+- ---
+  tags: [inquirer, meeting-notes
+- ---
+  
+  [Slides](https://docs.google.com/presentation/d/1mNPBn928C7MN1ltk41Uxp9CpklIqOTlmlAE0Gkw0is8/edit#slide=id.g1185dc12e1b_0_6)
 ## Attendees:
 - Inquirer
-	- 
+	-
 - [[Bettor Collective]] Staff
 	- Simon
 	- Lars Riemann Andersson - Head of special projects
 	- Ian - director of SEO [[Bettor Collective]]. Set up all media partnershps
 	- Thomas Reynolds - producing sports betting content
-	- 
-
-
+	-
 ## Notes:
 - Action Network: the sub-brand
-	- Would be 4 staff working full-time on content for Inquirer. 
+	- Would be 4 staff working full-time on content for Inquirer.
 - Media Partnerships approach; part of SEO
 	- Telegraph (UK)
 - Designs for Betting Hub
@@ -32,26 +29,25 @@ tags: [inquirer, meeting-notes]
 		- ![[Screen Shot 2022-03-09 at 11.15.39.png]]
 		- Would note that action network is tag to all writers
 		- Would likely be measurement & analytics
-		- 
-		##  Questions/notes from them
-			- Always optimizing assets based on deals with partners
-				- that changes, frequently
-				- ![[Screen Shot 2022-03-09 at 11.19.43.png]]
-				- This is usually coming out of an iframe
-				- Dynamic content, care a lot about compliance; need to show geotargeted compliance messages and optimized offers
-					- Existing infra for content serving = based on iframes
-						- Dynamic show of 
-					- can do that with an iframe already but htey get that
-					- Don't have to do js; they don't have JS implementation yet
-					- Want chronological archive of all of the articles of all time. Very important to them for SEO
+		-
+##  Questions/notes from them
+	- Always optimizing assets based on deals with partners
+		- that changes, frequently
+		- ![[Screen Shot 2022-03-09 at 11.19.43.png]]
+		- This is usually coming out of an iframe
+		- Dynamic content, care a lot about compliance; need to show geotargeted compliance messages and optimized offers
+			- Existing infra for content serving = based on iframes
+				- Dynamic show of
+			- can do that with an iframe already but htey get that
+			- Don't have to do js; they don't have JS implementation yet
+			- Want chronological archive of all of the articles of all time. Very important to them for SEO
 - Analytics from Lars:
 	- monthly how many click, how many sign up, how many trigger new revenue
 	- They get very little transparency from their partners
 		- **- They sometimes put click trackers on these pages** to get meaningful metrics
 		- Do quite a bit of GA integration; including Google Search Console
 	- Want to be getting us onto apple news
-- Mobile app: Would need to make sure it works for a mobile webview app and validate that the insertion 
-
+- Mobile app: Would need to make sure it works for a mobile webview app and validate that the insertion
 - Geofencing mechanics:
 	- Regulations say you can/can't bet from a given state & each state has different rules
 		- Operators will say if you come into a state where not legal, like CA; not allowed to sign up, not allowed to place bet
@@ -68,7 +64,3 @@ tags: [inquirer, meeting-notes]
 			- Telegraph keeps internal links
 	- Care about % of adblocking; need to get them adblocked %; GATM-SS
 	- Have sample code for integration with NY Post; would love to see how it works
-
-
-
-	
