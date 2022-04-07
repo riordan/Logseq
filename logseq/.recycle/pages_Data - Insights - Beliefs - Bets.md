@@ -1,6 +1,5 @@
 ---
 alias: Data - Insights - Beliefs - Bets
-title: Data - Insights - Beliefs - Bets
 ---
 
 - {{renderer :kanban_ncfl}}
