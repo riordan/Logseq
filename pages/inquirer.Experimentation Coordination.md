@@ -10,10 +10,10 @@ title:: inquirer/Experimentation Coordination
 	- ### Bet
 - ## Project Approach
 	- ### Problem:
-		- Online Experimentation (e.g. A/B Testing) is a major practice for out
+		- Online Experimentation (e.g. A/B Testing)
 	- ### Problem Nuances
 	- ### Concerns:
-		- [[Liz Grace]] has been the primary coordinator of experimentation at The Inquirer, first as part of the PDE Analytics team, then in her role in [[Marketing]] as the Manager of Business Intelligence and Innovation. At the time of writing, she's just gone out on parental leave, so this is not a time to make substantial changes. She is an essential partner in architecting any change to how experimentation is done or coordinated at The Inquirer, so any proposals for how things might change should wait for her return and partnership.
+		- [[Liz Grace]] has been the primary coordinator of experimentation at The Inquirer, first as part of the PDE Analytics team, then in her role in [[Marketing]] as the Manager of Business Intelligence and Innovation. At the time of writing, she's just gone out on parental leave, so this is not a time to make substantial changes. She is an essential partner in architecting any change to how experimentation is done or coordinated at The Inquirer, so any proposals for how things might change operationally should wait for her return and partnership.
 		-
 - ## Project Notes
 - [[2022/04/06]]
