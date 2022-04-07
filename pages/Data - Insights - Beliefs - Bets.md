@@ -9,7 +9,7 @@ title: Data - Insights - Beliefs - Bets
 		- Write Proposal
 			- [[dibb/Experimentation Coordination]]
 			- [[Incident Management]]
-			- [[Data - Insights - Beliefs - Bets/Event Horizon]]
+			- [[dibb/Event Horizon]]
 		- Proposed
 		- Active
 		- Completed
