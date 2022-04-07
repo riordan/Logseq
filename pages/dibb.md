@@ -6,7 +6,7 @@ alias: Data - Insights - Beliefs - Bets
 	- DIBB Proposals
 		- #fleeting Ideas
 			- [[dibb/Experimentation Coordination]]
-				- [[Incident Management]]
+			- [[Incident Management]]
 		- Write Proposal
 			- [[dibb/Event Horizon]]
 		- Proposed
