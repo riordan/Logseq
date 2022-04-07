@@ -32,10 +32,10 @@ title:: inquirer/Experimentation Coordination
 	- > yeah - i think i’m onboard with all of it.  Things fell apart a bit when Liz left her role.  Our plan was to quickly replace that role with the Data PM that would manage testing overall as well as other things.  This is now 8 months that role has been unfilled though
 	  
 	  > The plan was
-	      Data PM oversee testing overall as a program - partner with Product
-	  Liz role manages testing for marketing working with the data PM for overall program management
-	  15:31
-	  The data export thing we should just talk through in more detail.  Make sure what we are getting from the tools is meaningful.  For a lot of the tools we don’t use them for hte analysis - mostly for the splitting and experience
+	  1. Data PM oversee testing overall as a program - partner with Product
+	  2. Liz role manages testing for marketing working with the data PM for overall program management
+	  
+	  > The data export thing we should just talk through in more detail.  Make sure what we are getting from the tools is meaningful.  For a lot of the tools we don’t use them for hte analysis - mostly for the splitting and experience
 - [[2022/04/06]] [[kate]]
   collapsed:: true
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
