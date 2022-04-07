@@ -2,6 +2,8 @@ alias:: inquirer/Experimentation Coordination
 tags:: inquirer/project, inquirer/dibb, dibb
 title:: dibb/Experimentation Coordination
 
+-
+- ## Project Structure
 - ## Project Notes
 - [[2022/04/06]]
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
