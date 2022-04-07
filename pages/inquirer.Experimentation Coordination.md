@@ -16,7 +16,9 @@ title:: inquirer/Experimentation Coordination
 		- [[Liz Grace]] has been the primary coordinator of experimentation at The Inquirer, first as part of the PDE Analytics team, then in her role in [[Marketing]] as the Manager of Business Intelligence and Innovation. At the time of writing, she's just gone out on parental leave, so this is not a time to make substantial changes. She is an essential partner in architecting any change to how experimentation is done or coordinated at The Inquirer, so any proposals for how things might change operationally should wait for her return and partnership.
 		-
 - ## Project Notes
+- /today
 - [[2022/04/06]]
+  collapsed:: true
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
 		- she's on parental leave; current owner for [[marketing]] is [[Nadya Tan]]
 	- ways we track stuff:
