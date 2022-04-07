@@ -16,7 +16,20 @@ title:: inquirer/Experimentation Coordination
 		- [[Liz Grace]] has been the primary coordinator of experimentation at The Inquirer, first as part of the PDE Analytics team, then in her role in [[Marketing]] as the Manager of Business Intelligence and Innovation. At the time of writing, she's just gone out on parental leave, so this is not a time to make substantial changes. She is an essential partner in architecting any change to how experimentation is done or coordinated at The Inquirer, so any proposals for how things might change operationally should wait for her return and partnership.
 		-
 - ## Project Notes
-- [[2022/04/07]]
+- [[2022/04/07]] [[Mark Loomis]] note
+	- > The thing that really got me down this experimentation rabbit hole yesterday was the realization that we have Optimize and Piano (and formerly VWO) and have simultaneous experiments that could be running across both of them. And experimentation is now highly distributed across different departments; with different experimentation platforms for different purposes, being used by different operators. Lots of room for collisions.
+	  So I started looking for a single site of coordination. It's clear Liz was doing that when she was in Analytics and had a good communication approach for it. Now we're at a point where the Smartsheets have been abandoned, but are still linked in a lot of places (not a huge deal; easy to clean up) and the Jira OPTIMIZE board isn't super interconnected.
+	  
+	  > Normally I'd say "Lets just broadly use the OPTIMIZE board and try to put in place policies that let us figure out how to do more coordination." This is made more complex by the fact that it's Liz's first week out on leave! Anything like that would be seen as infringing on her area of focus. And it would be if she weren't involved and it weren't an emergency. So that takes policy pronouncements off the table.
+	  So where I ended up was there are likely ways to improve the visibility of tests (and similar work) that is a valuable utility to understand whats going on. If in addition to the announcements in #testing_optimization, there were an automated weekly announcement (pointing back to a list of all known tests) of what tests/evaluations were running.
+	  What that might look like is:
+	  Pull together all running / scheduled evaluations somewhere.
+	  Where there's pre-canned connectors, pull the testing tools data directly into BQ so we can automatically include it in the schedule, showing what's running at any given moment.
+	  If we're doing this for Google Optimize and Piano, we might as well do this for Usertesting.com, Qualaroo, and SurveyMonkey since we know there are Stitch Taps / Airbyte connectors already waiting for them.
+	  Ironically GO and Piano are the two that are kinda hard to do. But Piano has a batch export system (it's a start) and GO ties directly into GA4 so they might be possible to get this "what's scheduled/whats running" without a ton of effort, but it'll require some investigation.
+	  What sources don't have exported data feeds would need to be maintained by hand (like is done on the OPTIMIZE jira today), but the overall burden of managing upkeep would be reduced (and facilitate us getting local copies for analysis).
+	  The whole point of pulling it together is to be able to regularly display the calendar of what tests are running at the start of each week to the #testing_optimization channel with a link to a nifty visualization of current/upcoming/ongoing tests/surveys. Hell; it could be driven by the Optimize JIRA with a native calendar visualization and a GANTT of what's happening.
+	  By making what's already present visible, it makes the challenges of distributed experimentation a lot easier to coordinate.
 - [[2022/04/06]] [[kate]]
   collapsed:: true
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
