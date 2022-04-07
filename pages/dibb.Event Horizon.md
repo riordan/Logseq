@@ -1,6 +1,6 @@
 title:: dibb/Event Horizon
 ---
-title: Data - Insights - Beliefs - Bets/Event Horizon
+title: dibb/Event Horizon
 alias: instrumentation challenge
 tags: inquirer/project
 ---
