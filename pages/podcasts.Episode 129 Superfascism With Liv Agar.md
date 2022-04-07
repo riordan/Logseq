@@ -10,3 +10,7 @@
 	  on:: [[2021/02/11]]
 	  tags:: 
 	  AirrQuote
+	- link:: [https://www.airr.io/quote/6025d08a1065932ccbdd440e](https://www.airr.io/quote/6025d08a1065932ccbdd440e)
+	  on:: [[2021/04/23]]
+	  tags:: 
+	  AirrQuote
