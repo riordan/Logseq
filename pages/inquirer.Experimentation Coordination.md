@@ -13,7 +13,7 @@ title:: inquirer/Experimentation Coordination
 		- Online Experimentation (e.g. A/B Testing) is a major practice for out
 	- ### Problem Nuances
 	- ### Concerns:
-		- [[Liz Grace]] has been the primary coordinator of experimentation at The Inquirer, first as part of the PDE Analytics team for a long time
+		- [[Liz Grace]] has been the primary coordinator of experimentation at The Inquirer, first as part of the PDE Analytics team, then in her role in  for a long time
 		-
 - ## Project Notes
 - [[2022/04/06]]
