@@ -1,4 +1,4 @@
 ---
-tags: [inquirer/person]
+tags: inquirer/person
 aliases: [Darya, darya]
 ---
