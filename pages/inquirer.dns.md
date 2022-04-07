@@ -1,3 +1,4 @@
 title:: inquirer/dns
 
-- apigee
+- We use apigee for our domains and reverse proxies
+-
