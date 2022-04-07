@@ -1,8 +1,9 @@
 alias:: inquirer/Experimentation Coordination
-tags:: inquirer/project, inquirer/dibb, dibb
-title:: dibb/Experimentation Coordination
+tags:: inquirer/project
+title:: inquirer/Experimentation Coordination
 
 - ## DIBB
+  tag:: [[dibb]]
 	- ### Data
 	- ### Insights
 	- ### Beliefs
