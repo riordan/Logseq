@@ -1,0 +1,51 @@
+alias:: inquirer/Experimentation Coordination
+tags:: inquirer/project, inquirer/dibb, dibb
+title:: dibb/Experimentation Coordination
+
+-
+- [[2022/04/06]]
+	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
+		- she's on parental leave; current owner for [[marketing]] is [[Nadya Tan]]
+	- ways we track stuff:
+	- Platforms:
+		- [[Piano]]
+		- [[Blueconic]]
+		- Optimize
+			- Feature-focused testing:
+				- moving module up or down the page; color of modals
+				- NOT focused on registration/meter
+		- [[inquirer/mobile app]] testing: Firebase remote config
+			- custom system build by [[Bryan Deemer]]
+		- Lists of tests have lived in a couple of different documentation systems
+			- Optimize Jira
+			- Smartsheet
+			- Recaps of tests run in previous year on Google Drive
+			- Confluence test pages
+				- Analytics
+					- [results](https://inquirer.atlassian.net/wiki/spaces/KB/pages/229046/Testing+Results)
+					- [2021 testing roadmap mid-year review](https://docs.google.com/presentation/d/17CRCzWg3BUZ1j31s8tw-LY-TEXtY7MMwZOcDcskP0mQ/edit#slide=id.gdb77f633bb_0_38)
+				- [Marketing]()
+	- Challenges:
+		- different platforms
+		- fragmented communication
+		- fragmented operations
+		- not a lot of transparency
+	- Analytics process:
+		- Previously mark was managing with liz (as point of contact)
+			- Kate managed some of the app stuff
+			- liz handled optimize setup
+			- mark and nat did piano marketing things
+			- not liz
+		- Current:
+			- liz doing piano
+			- nat gone: gap for marketing tests
+				- kate does't ahve experience working in piano; nat handled it before. mark feels like he can take it on because he managed piano with nat
+				- [[mark]] steps in because he has experience, but doesn't give kate a way to get experience
+			- Not really a clear channel for where tests come from; mark figures he'll set it up and get it going and kate can analyze at the end
+				- struggle of where the handoff is
+			- The jira intake process is heavy because was designed to capture from folks in product, but not lightweight. We don't have a way lightweight capture requests and work tickets regardless of where they come from #fleeting #agile
+	- What could we do:
+		- Pull automated data from all known experiment/test sources
+		- Visualize active experiment timelines
+		- Post new experiments to a slack channel
+		- Post a weekly update of all running (non-_permanent_) experiments

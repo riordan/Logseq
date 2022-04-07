@@ -5,7 +5,7 @@ alias: Data - Insights - Beliefs - Bets
 - {{renderer :kanban_ncfl}}
 	- DIBB Proposals
 		- #fleeting Ideas
-			- [[dibb/Experimentation Coordination]]
+			- [[inquirer/Experimentation Coordination]]
 			- [[dibb/Event Horizon]]
 		- Write Proposal
 			- [[Incident Management]]
