@@ -6,10 +6,11 @@ alias: Data - Insights - Beliefs - Bets
 	- DIBB Proposals
 		- #fleeting Ideas
 			- [[dibb/Experimentation Coordination]]
-			- [[Incident Management]]
-		- Write Proposal
 			- [[dibb/Event Horizon]]
+		- Write Proposal
+			- [[Incident Management]]
 		- Proposed
+			- [[Unify Subscriber Data]]
 		- Active
 		- Completed
 		- Dismissed
