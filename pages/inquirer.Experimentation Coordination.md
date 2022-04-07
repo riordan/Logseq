@@ -17,7 +17,8 @@ title:: inquirer/Experimentation Coordination
 		-
 - ## Project Notes
 - [[2022/04/07]] [[Mark Loomis]] note
-	- > The thing that really got me down this experimentation rabbit hole yesterday was the realization that we have Optimize and Piano (and formerly VWO) and have simultaneous experiments that could be running across both of them. And experimentation is now highly distributed across different departments; with different experimentation platforms for different purposes, being used by different operators. Lots of room for collisions.
+	- [[David Riordan]] 
+	  > The thing that really got me down this experimentation rabbit hole yesterday was the realization that we have Optimize and Piano (and formerly VWO) and have simultaneous experiments that could be running across both of them. And experimentation is now highly distributed across different departments; with different experimentation platforms for different purposes, being used by different operators. Lots of room for collisions.
 	  So I started looking for a single site of coordination. It's clear Liz was doing that when she was in Analytics and had a good communication approach for it. Now we're at a point where the Smartsheets have been abandoned, but are still linked in a lot of places (not a huge deal; easy to clean up) and the Jira OPTIMIZE board isn't super interconnected.
 	  Normally I'd say "Lets just broadly use the OPTIMIZE board and try to put in place policies that let us figure out how to do more coordination." This is made more complex by the fact that it's Liz's first week out on leave! Anything like that would be seen as infringing on her area of focus. And it would be if she weren't involved and it weren't an emergency. So that takes policy pronouncements off the table.
 	  So where I ended up was there are likely ways to improve the visibility of tests (and similar work) that is a valuable utility to understand whats going on. If in addition to the announcements in #testing_optimization, there were an automated weekly announcement (pointing back to a list of all known tests) of what tests/evaluations were running.
@@ -29,7 +30,8 @@ title:: inquirer/Experimentation Coordination
 	  What sources don't have exported data feeds would need to be maintained by hand (like is done on the OPTIMIZE jira today), but the overall burden of managing upkeep would be reduced (and facilitate us getting local copies for analysis).
 	  The whole point of pulling it together is to be able to regularly display the calendar of what tests are running at the start of each week to the testing_optimization slack channel with a link to a nifty visualization of current/upcoming/ongoing tests/surveys. Hell; it could be driven by the Optimize JIRA with a native calendar visualization and a GANTT of what's happening.
 	  By making what's already present visible, it makes the challenges of distributed experimentation a lot easier to coordinate.
-	- > yeah - i think i’m onboard with all of it.  Things fell apart a bit when Liz left her role.  Our plan was to quickly replace that role with the Data PM that would manage testing overall as well as other things.  This is now 8 months that role has been unfilled though
+	- [[Mark]]
+	  > yeah - i think i’m onboard with all of it.  Things fell apart a bit when Liz left her role.  Our plan was to quickly replace that role with the Data PM that would manage testing overall as well as other things.  This is now 8 months that role has been unfilled though
 	  
 	  > The plan was
 	  1. Data PM oversee testing overall as a program - partner with Product
