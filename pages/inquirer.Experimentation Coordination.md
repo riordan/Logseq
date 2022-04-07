@@ -11,6 +11,7 @@ title:: inquirer/Experimentation Coordination
 - ## Project Approach
 	- ### Problem:
 		- Online Experimentation (e.g. A/B Testing) is a major practice for out
+	- ### Problem Nuances
 	- ### Concerns:
 		- [[Liz Grace]] has run the experimentation program at The Inquirer for a damn l
 - ## Project Notes
