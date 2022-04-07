@@ -1,15 +1,15 @@
-- ---
-  tags: [inquirer, meeting-notes
-- ---
-  
-  [Slides](https://docs.google.com/presentation/d/1mNPBn928C7MN1ltk41Uxp9CpklIqOTlmlAE0Gkw0is8/edit#slide=id.g1185dc12e1b_0_6)
+---
+tags: inquirer, meeting-notes
+---
+
+- [Slides](https://docs.google.com/presentation/d/1mNPBn928C7MN1ltk41Uxp9CpklIqOTlmlAE0Gkw0is8/edit#slide=id.g1185dc12e1b_0_6)
 ## Attendees:
 - Inquirer
 	-
-- [[Bettor Collective]] Staff
+- [[Better Collective]] Staff
 	- Simon
 	- Lars Riemann Andersson - Head of special projects
-	- Ian - director of SEO [[Bettor Collective]]. Set up all media partnershps
+	- Ian - director of SEO [[Better Collective]]. Set up all media partnershps
 	- Thomas Reynolds - producing sports betting content
 	-
 ## Notes:
