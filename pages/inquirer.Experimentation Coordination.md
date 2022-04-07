@@ -13,7 +13,8 @@ title:: inquirer/Experimentation Coordination
 		- Online Experimentation (e.g. A/B Testing) is a major practice for out
 	- ### Problem Nuances
 	- ### Concerns:
-		- [[Liz Grace]] has run the experimentation program at The Inquirer for a damn l
+		- [[Liz Grace]] has run the experimentation program at The Inquirer for a long time
+		-
 - ## Project Notes
 - [[2022/04/06]]
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
