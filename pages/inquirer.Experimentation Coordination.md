@@ -9,7 +9,10 @@ title:: inquirer/Experimentation Coordination
 	- ### Beliefs
 	- ### Bet
 - ## Project Approach
-	- ### Concerns to be mindful of:
+	- ### Problem:
+		-
+	- ### Concerns:
+		- [[Liz Grace]] has run the experimentation program at The Inquirer for a damn l
 - ## Project Notes
 - [[2022/04/06]]
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
