@@ -27,8 +27,9 @@ title:: inquirer/Experimentation Coordination
 	  If we're doing this for Google Optimize and Piano, we might as well do this for Usertesting.com, Qualaroo, and SurveyMonkey since we know there are Stitch Taps / Airbyte connectors already waiting for them.
 	  Ironically GO and Piano are the two that are kinda hard to do. But Piano has a batch export system (it's a start) and GO ties directly into GA4 so they might be possible to get this "what's scheduled/whats running" without a ton of effort, but it'll require some investigation.
 	  What sources don't have exported data feeds would need to be maintained by hand (like is done on the OPTIMIZE jira today), but the overall burden of managing upkeep would be reduced (and facilitate us getting local copies for analysis).
-	  The whole point of pulling it together is to be able to regularly display the calendar of what tests are running at the start of each week to the #testing_optimization channel with a link to a nifty visualization of current/upcoming/ongoing tests/surveys. Hell; it could be driven by the Optimize JIRA with a native calendar visualization and a GANTT of what's happening.
+	  The whole point of pulling it together is to be able to regularly display the calendar of what tests are running at the start of each week to the testing_optimization slack channel with a link to a nifty visualization of current/upcoming/ongoing tests/surveys. Hell; it could be driven by the Optimize JIRA with a native calendar visualization and a GANTT of what's happening.
 	  By making what's already present visible, it makes the challenges of distributed experimentation a lot easier to coordinate.
+	- >
 - [[2022/04/06]] [[kate]]
   collapsed:: true
 	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
