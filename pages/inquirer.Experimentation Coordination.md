@@ -10,7 +10,7 @@ title:: inquirer/Experimentation Coordination
 	- ### Bet
 - ## Project Approach
 	- ### Problem:
-		- Experimentation
+		- Online Experimentation (e.g. A/B Testing) is
 	- ### Concerns:
 		- [[Liz Grace]] has run the experimentation program at The Inquirer for a damn l
 - ## Project Notes
