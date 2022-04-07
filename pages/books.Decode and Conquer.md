@@ -1,9 +1,10 @@
-- retrieved:: [[2022/04/07]]
-  author:: [[Lewis C. Lin]]
-  category:: [[books]]
-  source:: [[kindle]]
-  tags:: 
-  referrer::readwise
+retrieved:: [[2022/04/07]]
+author:: [[Lewis C. Lin]]
+category:: [[books]]
+source:: [[kindle]]
+tags:: [[product management]] 
+referrer::readwise
+
 - ![book_image](https://images-na.ssl-images-amazon.com/images/I/41qKpbg5AgL._SL200_.jpg){:height 200 :width 200}
 - ## [[Readwise Highlights]]
 	- location:: [376](kindle://book?action=open&asin=undefined&location=376)
