@@ -1,57 +1,165 @@
-[{:block/name "'larry maucieri",
-  :block/created-at 1649090084589,
-  :block/updated-at 1649090084589}
- {:block/name "'the biggest bluff_ how i learned to pay attention",
-  :block/created-at 1649090088301,
-  :block/updated-at 1649090088301}
- {:block/name "'tuition rising_ why college costs so much",
-  :block/created-at 1649090086243,
-  :block/updated-at 1649090086243}
- {:block/name "'working backwards_ insights",
-  :block/created-at 1649090085247,
-  :block/updated-at 1649090085247}
+[{:block/name "'working backwards_ insights",
+  :block/created-at 1649373268327,
+  :block/updated-at 1649373268327}
  {:block/name "1",
-  :block/created-at 1649090073476,
-  :block/updated-at 1649090073476}
+  :block/created-at 1649373268420,
+  :block/updated-at 1649373268420}
+ {:block/name "1969",
+  :block/created-at 1649373234167,
+  :block/updated-at 1649373234167}
+ {:block/name "1969/12",
+  :block/created-at 1649373234167,
+  :block/updated-at 1649373234167}
+ {:block/name "1969/12/31",
+  :block/created-at 1649373234167,
+  :block/updated-at 1649373234167}
  {:block/name "2014",
-  :block/created-at 1649339415316,
-  :block/updated-at 1649339415316}
+  :block/created-at 1649373270785,
+  :block/updated-at 1649373270785}
  {:block/name "2014/09",
-  :block/created-at 1649339415299,
-  :block/updated-at 1649339415299}
+  :block/created-at 1649373270783,
+  :block/updated-at 1649373270783}
  {:block/name "2014/09/08",
-  :block/created-at 1649339415293,
-  :block/updated-at 1649339415293}
+  :block/created-at 1649373270782,
+  :block/updated-at 1649373270782}
  {:block/name "2014/09/20",
-  :block/created-at 1649339415299,
-  :block/updated-at 1649339415299}
+  :block/created-at 1649373270782,
+  :block/updated-at 1649373270782}
  {:block/name "2014/10",
-  :block/created-at 1649339415316,
-  :block/updated-at 1649339415316}
+  :block/created-at 1649373270786,
+  :block/updated-at 1649373270786}
  {:block/name "2014/10/12",
-  :block/created-at 1649339415316,
-  :block/updated-at 1649339415316}
+  :block/created-at 1649373270785,
+  :block/updated-at 1649373270785}
+ {:block/name "2015",
+  :block/created-at 1649373240991,
+  :block/updated-at 1649373240991}
+ {:block/name "2015/10",
+  :block/created-at 1649373240991,
+  :block/updated-at 1649373240991}
+ {:block/name "2015/10/17",
+  :block/created-at 1649373240991,
+  :block/updated-at 1649373240991}
+ {:block/name "2016",
+  :block/created-at 1649373237801,
+  :block/updated-at 1649373237801}
+ {:block/name "2016/01",
+  :block/created-at 1649373237801,
+  :block/updated-at 1649373237801}
+ {:block/name "2016/01/28",
+  :block/created-at 1649373237801,
+  :block/updated-at 1649373237801}
+ {:block/name "2016/02",
+  :block/created-at 1649373283238,
+  :block/updated-at 1649373283238}
+ {:block/name "2016/02/05",
+  :block/created-at 1649373283238,
+  :block/updated-at 1649373283238}
+ {:block/name "2016/09",
+  :block/created-at 1649373283551,
+  :block/updated-at 1649373283551}
+ {:block/name "2016/09/25",
+  :block/created-at 1649373283551,
+  :block/updated-at 1649373283551}
+ {:block/name "2016/11",
+  :block/created-at 1649373273882,
+  :block/updated-at 1649373273882}
+ {:block/name "2016/11/17",
+  :block/created-at 1649373273882,
+  :block/updated-at 1649373273882}
+ {:block/name "2016/12",
+  :block/created-at 1649373270423,
+  :block/updated-at 1649373270423}
+ {:block/name "2016/12/24",
+  :block/created-at 1649373270423,
+  :block/updated-at 1649373270423}
+ {:block/name "2017",
+  :block/created-at 1649373235755,
+  :block/updated-at 1649373235755}
+ {:block/name "2017/02",
+  :block/created-at 1649373239496,
+  :block/updated-at 1649373239496}
+ {:block/name "2017/02/16",
+  :block/created-at 1649373239496,
+  :block/updated-at 1649373239496}
+ {:block/name "2017/09",
+  :block/created-at 1649373236036,
+  :block/updated-at 1649373236036}
+ {:block/name "2017/09/12",
+  :block/created-at 1649373236036,
+  :block/updated-at 1649373236036}
+ {:block/name "2017/11",
+  :block/created-at 1649373235755,
+  :block/updated-at 1649373235755}
+ {:block/name "2017/11/20",
+  :block/created-at 1649373235755,
+  :block/updated-at 1649373235755}
+ {:block/name "2018",
+  :block/created-at 1649373271389,
+  :block/updated-at 1649373271389}
+ {:block/name "2018/01",
+  :block/created-at 1649373271389,
+  :block/updated-at 1649373271389}
+ {:block/name "2018/01/01",
+  :block/created-at 1649373271389,
+  :block/updated-at 1649373271389}
+ {:block/name "2019",
+  :block/created-at 1649373251456,
+  :block/updated-at 1649373251456}
+ {:block/name "2019/12",
+  :block/created-at 1649373251456,
+  :block/updated-at 1649373251456}
+ {:block/name "2019/12/18",
+  :block/created-at 1649373251455,
+  :block/updated-at 1649373251455}
+ {:block/name "2020",
+  :block/created-at 1649373239275,
+  :block/updated-at 1649373239275}
+ {:block/name "2020/10",
+  :block/created-at 1649373246323,
+  :block/updated-at 1649373246323}
+ {:block/name "2020/10/05",
+  :block/created-at 1649373246323,
+  :block/updated-at 1649373246323}
+ {:block/name "2020/12",
+  :block/created-at 1649373239275,
+  :block/updated-at 1649373239275}
+ {:block/name "2020/12/28",
+  :block/created-at 1649373239274,
+  :block/updated-at 1649373239274}
  {:block/name "2021",
   :block/created-at 1649090076213,
   :block/updated-at 1649090076213}
  {:block/name "2021 strategic plan deck.pdf",
-  :block/created-at 1649090075236,
-  :block/updated-at 1649090075236}
+  :block/created-at 1649373268267,
+  :block/updated-at 1649373268267}
  {:block/name "2021-12-16_inquirer engineering systems overview",
-  :block/created-at 1649090074635,
-  :block/updated-at 1649090074635}
+  :block/created-at 1649373270185,
+  :block/updated-at 1649373270185}
  {:block/name "2021-12-28_data platform questions",
-  :block/created-at 1649090084285,
-  :block/updated-at 1649090084285}
+  :block/created-at 1649373274503,
+  :block/updated-at 1649373274503}
  {:block/name "2021/01",
   :block/created-at 1649339482148,
   :block/updated-at 1649339482148}
+ {:block/name "2021/01/16",
+  :block/created-at 1649373276884,
+  :block/updated-at 1649373276884}
+ {:block/name "2021/01/21",
+  :block/created-at 1649373240081,
+  :block/updated-at 1649373240081}
  {:block/name "2021/01/22",
   :block/created-at 1649339482403,
   :block/updated-at 1649339482403}
+ {:block/name "2021/01/24",
+  :block/created-at 1649373235570,
+  :block/updated-at 1649373235570}
  {:block/name "2021/01/27",
-  :block/created-at 1649339482148,
-  :block/updated-at 1649339482148}
+  :block/created-at 1649373275808,
+  :block/updated-at 1649373275808}
+ {:block/name "2021/01/29",
+  :block/created-at 1649373250523,
+  :block/updated-at 1649373250523}
  {:block/name "2021/02",
   :block/created-at 1649339478694,
   :block/updated-at 1649339478694}
@@ -59,8 +167,11 @@
   :block/created-at 1649339481891,
   :block/updated-at 1649339481891}
  {:block/name "2021/02/04",
-  :block/created-at 1649339481650,
-  :block/updated-at 1649339481650}
+  :block/created-at 1649373274219,
+  :block/updated-at 1649373274219}
+ {:block/name "2021/02/05",
+  :block/created-at 1649373250526,
+  :block/updated-at 1649373250526}
  {:block/name "2021/02/06",
   :block/created-at 1649339481248,
   :block/updated-at 1649339481248}
@@ -73,48 +184,99 @@
  {:block/name "2021/02/11",
   :block/created-at 1649339479093,
   :block/updated-at 1649339479093}
+ {:block/name "2021/02/15",
+  :block/created-at 1649373252176,
+  :block/updated-at 1649373252176}
  {:block/name "2021/02/16",
-  :block/created-at 1649339478945,
-  :block/updated-at 1649339478945}
+  :block/created-at 1649373273068,
+  :block/updated-at 1649373273068}
+ {:block/name "2021/02/18",
+  :block/created-at 1649373273602,
+  :block/updated-at 1649373273602}
  {:block/name "2021/02/21",
   :block/created-at 1649339478693,
   :block/updated-at 1649339478693}
+ {:block/name "2021/02/25",
+  :block/created-at 1649373239275,
+  :block/updated-at 1649373239275}
+ {:block/name "2021/02/27",
+  :block/created-at 1649373273605,
+  :block/updated-at 1649373273605}
  {:block/name "2021/03",
   :block/created-at 1649339480649,
   :block/updated-at 1649339480649}
  {:block/name "2021/03/01",
-  :block/created-at 1649339480864,
-  :block/updated-at 1649339480864}
+  :block/created-at 1649373272092,
+  :block/updated-at 1649373272092}
+ {:block/name "2021/03/02",
+  :block/created-at 1649373247658,
+  :block/updated-at 1649373247658}
  {:block/name "2021/03/03",
   :block/created-at 1649339480648,
   :block/updated-at 1649339480648}
+ {:block/name "2021/03/04",
+  :block/created-at 1649373242562,
+  :block/updated-at 1649373242562}
  {:block/name "2021/04",
   :block/created-at 1649339419642,
   :block/updated-at 1649339419642}
+ {:block/name "2021/04/06",
+  :block/created-at 1649373243426,
+  :block/updated-at 1649373243426}
  {:block/name "2021/04/14",
   :block/created-at 1649339420230,
   :block/updated-at 1649339420230}
+ {:block/name "2021/04/15",
+  :block/created-at 1649373238905,
+  :block/updated-at 1649373238905}
  {:block/name "2021/04/22",
   :block/created-at 1649339419642,
   :block/updated-at 1649339419642}
+ {:block/name "2021/04/23",
+  :block/created-at 1649373235204,
+  :block/updated-at 1649373235204}
+ {:block/name "2021/04/29",
+  :block/created-at 1649373243194,
+  :block/updated-at 1649373243194}
+ {:block/name "2021/04/30",
+  :block/created-at 1649373243206,
+  :block/updated-at 1649373243206}
  {:block/name "2021/05",
-  :block/created-at 1649339479284,
-  :block/updated-at 1649339479284}
+  :block/created-at 1649373279496,
+  :block/updated-at 1649373279496}
  {:block/name "2021/05/14",
-  :block/created-at 1649339479964,
-  :block/updated-at 1649339479964}
+  :block/created-at 1649373280624,
+  :block/updated-at 1649373280624}
+ {:block/name "2021/05/15",
+  :block/created-at 1649373280624,
+  :block/updated-at 1649373280624}
+ {:block/name "2021/05/16",
+  :block/created-at 1649373280625,
+  :block/updated-at 1649373280625}
  {:block/name "2021/05/22",
-  :block/created-at 1649339479283,
-  :block/updated-at 1649339479283}
+  :block/created-at 1649373279496,
+  :block/updated-at 1649373279496}
  {:block/name "2021/06",
   :block/created-at 1649339420560,
   :block/updated-at 1649339420560}
+ {:block/name "2021/06/06",
+  :block/created-at 1649373245518,
+  :block/updated-at 1649373245518}
  {:block/name "2021/06/09",
   :block/created-at 1649339480409,
   :block/updated-at 1649339480409}
  {:block/name "2021/06/30",
   :block/created-at 1649339420559,
   :block/updated-at 1649339420559}
+ {:block/name "2021/07",
+  :block/created-at 1649373238194,
+  :block/updated-at 1649373238194}
+ {:block/name "2021/07/14",
+  :block/created-at 1649373239956,
+  :block/updated-at 1649373239956}
+ {:block/name "2021/07/24",
+  :block/created-at 1649373238193,
+  :block/updated-at 1649373238193}
  {:block/name "2021/09",
   :block/created-at 1649339418836,
   :block/updated-at 1649339418836}
@@ -130,15 +292,33 @@
  {:block/name "2021/09/15",
   :block/created-at 1649339420773,
   :block/updated-at 1649339420773}
+ {:block/name "2021/09/26",
+  :block/created-at 1649373250294,
+  :block/updated-at 1649373250294}
  {:block/name "2021/10",
   :block/created-at 1649339416001,
   :block/updated-at 1649339416001}
+ {:block/name "2021/10/02",
+  :block/created-at 1649373238623,
+  :block/updated-at 1649373238623}
+ {:block/name "2021/10/11",
+  :block/created-at 1649373242749,
+  :block/updated-at 1649373242749}
+ {:block/name "2021/10/20",
+  :block/created-at 1649373282156,
+  :block/updated-at 1649373282156}
+ {:block/name "2021/10/24",
+  :block/created-at 1649373271078,
+  :block/updated-at 1649373271078}
  {:block/name "2021/10/25",
   :block/created-at 1649339415887,
   :block/updated-at 1649339415887}
  {:block/name "2021/10/26",
   :block/created-at 1649339416001,
   :block/updated-at 1649339416001}
+ {:block/name "2021/10/27",
+  :block/created-at 1649373279895,
+  :block/updated-at 1649373279895}
  {:block/name "2021/10/30",
   :block/created-at 1649339420397,
   :block/updated-at 1649339420397}
@@ -148,12 +328,24 @@
  {:block/name "2021/11/04",
   :block/created-at 1649339418275,
   :block/updated-at 1649339418275}
+ {:block/name "2021/11/16",
+  :block/created-at 1649373248554,
+  :block/updated-at 1649373248554}
+ {:block/name "2021/11/25",
+  :block/created-at 1649373243797,
+  :block/updated-at 1649373243797}
+ {:block/name "2021/11/26",
+  :block/created-at 1649373243803,
+  :block/updated-at 1649373243803}
+ {:block/name "2021/11/30",
+  :block/created-at 1649373235359,
+  :block/updated-at 1649373235359}
  {:block/name "2021/12",
   :block/created-at 1649090110495,
   :block/updated-at 1649090110495}
  {:block/name "2021/12/06",
-  :block/created-at 1649090074874,
-  :block/updated-at 1649090074874}
+  :block/created-at 1649373282657,
+  :block/updated-at 1649373282657}
  {:block/name "2021/12/25",
   :block/created-at 1649339416766,
   :block/updated-at 1649339416766}
@@ -167,59 +359,101 @@
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
  {:block/name "2022-01-05_possible [[data and insights 2022 okrs",
-  :block/created-at 1649090073389,
-  :block/updated-at 1649090073389}
+  :block/created-at 1649373275693,
+  :block/updated-at 1649373275693}
  {:block/name "2022-01-06_[[matt boggie]]",
-  :block/created-at 1649090075737,
-  :block/updated-at 1649090075737}
+  :block/created-at 1649373271641,
+  :block/updated-at 1649373271641}
  {:block/name "2022-01-13_lydia hamilton 12-12 30",
-  :block/created-at 1649090073923,
-  :block/updated-at 1649090073923}
+  :block/created-at 1649373274754,
+  :block/updated-at 1649373274754}
  {:block/name "2022-01-21_tracy o'rourke",
-  :block/created-at 1649090076791,
-  :block/updated-at 1649090076791}
+  :block/created-at 1649373271326,
+  :block/updated-at 1649373271326}
  {:block/name "2022-03-01_last week",
-  :block/created-at 1649090074434,
-  :block/updated-at 1649090074434}
+  :block/created-at 1649373272351,
+  :block/updated-at 1649373272351}
  {:block/name "2022-03-09 better collective kickoff meeting",
-  :block/created-at 1649090099076,
-  :block/updated-at 1649338341973}
+  :block/created-at 1649373272061,
+  :block/updated-at 1649373272061}
+ {:block/name "2022-03-20t21_05_48",
+  :block/created-at 1647810663710,
+  :block/updated-at 1647810663710}
+ {:block/name "2022-03-20t21_06_18",
+  :block/created-at 1647810663651,
+  :block/updated-at 1647810663651}
+ {:block/name "2022-03-20t22_15_10",
+  :block/created-at 1647826708391,
+  :block/updated-at 1647826708391}
+ {:block/name "2022-03-21t01_38_42",
+  :block/created-at 1647826727260,
+  :block/updated-at 1647826727260}
+ {:block/name "2022-03-21t01_38_47",
+  :block/created-at 1647826731460,
+  :block/updated-at 1647826731460}
+ {:block/name "2022-03-21t07_50_37",
+  :block/created-at 1647849042469,
+  :block/updated-at 1647849042469}
+ {:block/name "2022-03-21t08_12_05",
+  :block/created-at 1647853240423,
+  :block/updated-at 1647853240423}
+ {:block/name "2022-03-21t12_23_01",
+  :block/created-at 1648041465076,
+  :block/updated-at 1648041465076}
+ {:block/name "2022-03-21t12_23_08",
+  :block/created-at 1648041465292,
+  :block/updated-at 1648041465292}
+ {:block/name "2022-03-21t12_23_14",
+  :block/created-at 1648041465001,
+  :block/updated-at 1648041465001}
+ {:block/name "2022-03-22t14_55_56",
+  :block/created-at 1648041465257,
+  :block/updated-at 1648041465257}
+ {:block/name "2022-03-22t15_30_52",
+  :block/created-at 1648041465148,
+  :block/updated-at 1648041465148}
+ {:block/name "2022-03-22t15_31_47",
+  :block/created-at 1648041467160,
+  :block/updated-at 1648041467160}
  {:block/name "2022-q1",
-  :block/created-at 1649090074286,
-  :block/updated-at 1649090074286}
+  :block/created-at 1649373269457,
+  :block/updated-at 1649373269457}
  {:block/name "2022-w13",
-  :block/created-at 1649090099185,
-  :block/updated-at 1649090099185}
- {:block/name "2022-w15",
-  :block/created-at 1649270505350,
-  :block/updated-at 1649270505350}
+  :block/created-at 1649373275656,
+  :block/updated-at 1649373275656}
  {:block/name "2022/01",
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
  {:block/name "2022/01/04",
-  :block/created-at 1649090073861,
-  :block/updated-at 1649090073861}
+  :block/created-at 1649373274180,
+  :block/updated-at 1649373274180}
  {:block/name "2022/01/06",
-  :block/created-at 1649090075738,
-  :block/updated-at 1649090075738}
+  :block/created-at 1649373271642,
+  :block/updated-at 1649373271642}
  {:block/name "2022/01/10",
-  :block/created-at 1649090074198,
-  :block/updated-at 1649090074198}
+  :block/created-at 1649373276755,
+  :block/updated-at 1649373276755}
  {:block/name "2022/01/11",
   :block/created-at 1648154560207,
   :block/updated-at 1648154560207}
  {:block/name "2022/01/12",
-  :block/created-at 1649090076133,
-  :block/updated-at 1649090076133}
+  :block/created-at 1649373275625,
+  :block/updated-at 1649373275625}
  {:block/name "2022/01/13",
-  :block/created-at 1649090073923,
-  :block/updated-at 1649090073923}
+  :block/created-at 1649373274753,
+  :block/updated-at 1649373274753}
+ {:block/name "2022/01/16",
+  :block/created-at 1649373240787,
+  :block/updated-at 1649373240787}
  {:block/name "2022/01/17",
   :block/created-at 1649339480260,
   :block/updated-at 1649339480260}
+ {:block/name "2022/01/19",
+  :block/created-at 1649373233928,
+  :block/updated-at 1649373233928}
  {:block/name "2022/01/20",
-  :block/created-at 1649090075834,
-  :block/updated-at 1649090075834}
+  :block/created-at 1649373280581,
+  :block/updated-at 1649373280581}
  {:block/name "2022/01/27",
   :block/created-at 1649339416477,
   :block/updated-at 1649339416477}
@@ -230,38 +464,41 @@
   :block/created-at 1649090073481,
   :block/updated-at 1649090073481}
  {:block/name "2022/02/01",
-  :block/created-at 1649090073919,
-  :block/updated-at 1649090073919}
+  :block/created-at 1649373274751,
+  :block/updated-at 1649373274751}
  {:block/name "2022/02/02",
-  :block/created-at 1649090076500,
-  :block/updated-at 1649090076500}
+  :block/created-at 1649373277217,
+  :block/updated-at 1649373277217}
  {:block/name "2022/02/07",
-  :block/created-at 1649090076561,
-  :block/updated-at 1649090076561}
+  :block/created-at 1649373274880,
+  :block/updated-at 1649373274880}
  {:block/name "2022/02/14",
-  :block/created-at 1649090075691,
-  :block/updated-at 1649090075691}
+  :block/created-at 1649373270044,
+  :block/updated-at 1649373270044}
  {:block/name "2022/02/16",
-  :block/created-at 1649090074959,
-  :block/updated-at 1649090074959}
+  :block/created-at 1649373273529,
+  :block/updated-at 1649373273529}
  {:block/name "2022/02/21",
-  :block/created-at 1649090076913,
-  :block/updated-at 1649090076913}
+  :block/created-at 1649373269186,
+  :block/updated-at 1649373269186}
  {:block/name "2022/02/23",
-  :block/created-at 1649090073482,
-  :block/updated-at 1649090073482}
+  :block/created-at 1649373269273,
+  :block/updated-at 1649373269273}
  {:block/name "2022/02/24",
-  :block/created-at 1649090098992,
-  :block/updated-at 1649090098992}
+  :block/created-at 1649373269271,
+  :block/updated-at 1649373269271}
  {:block/name "2022/02/25",
-  :block/created-at 1649090073482,
-  :block/updated-at 1649090073482}
+  :block/created-at 1649373269273,
+  :block/updated-at 1649373269273}
  {:block/name "2022/03",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
+ {:block/name "2022/03/01",
+  :block/created-at 1649373247216,
+  :block/updated-at 1649373247216}
  {:block/name "2022/03/02",
-  :block/created-at 1649090076087,
-  :block/updated-at 1649090076087}
+  :block/created-at 1649373277263,
+  :block/updated-at 1649373277263}
  {:block/name "2022/03/04",
   :block/created-at 1649339417492,
   :block/updated-at 1649339417492}
@@ -269,17 +506,17 @@
   :block/created-at 1649339417320,
   :block/updated-at 1649339417320}
  {:block/name "2022/03/07",
-  :block/created-at 1649090073701,
-  :block/updated-at 1649090073701}
+  :block/created-at 1649373276791,
+  :block/updated-at 1649373276791}
  {:block/name "2022/03/08",
-  :block/created-at 1649090074433,
-  :block/updated-at 1649090074433}
+  :block/created-at 1649373272350,
+  :block/updated-at 1649373272350}
  {:block/name "2022/03/09",
-  :block/created-at 1649090073782,
-  :block/updated-at 1649090073782}
+  :block/created-at 1649373272061,
+  :block/updated-at 1649373272061}
  {:block/name "2022/03/15",
-  :block/created-at 1649090074013,
-  :block/updated-at 1649090074013}
+  :block/created-at 1649373269498,
+  :block/updated-at 1649373269498}
  {:block/name "2022/03/20",
   :block/created-at 1647826710512,
   :block/updated-at 1647826710512}
@@ -332,164 +569,158 @@
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
  {:block/name "2022/q3",
-  :block/created-at 1649097800429,
-  :block/updated-at 1649097800429}
- {:block/name "2022/w15",
-  :block/created-at 1649270573384,
-  :block/updated-at 1649270573384}
- {:block/name "28",
-  :block/created-at 1649348001353,
-  :block/updated-at 1649348001353}
+  :block/created-at 1649373274634,
+  :block/updated-at 1649373274634}
  {:block/name "30 day diagnosis",
-  :block/created-at 1649090099134,
-  :block/updated-at 1649090099134}
- {:block/name "56 herbert",
-  :block/created-at 1649090077099,
-  :block/updated-at 1649090077099}
+  :block/created-at 1649373275694,
+  :block/updated-at 1649373275694}
  {:block/name "6241c362-6e48-47e5-975f-06520dd4a8ed",
   :block/created-at 1648478629564,
   :block/updated-at 1648478629564}
  {:block/name "['charlotte']",
-  :block/created-at 1649090074058,
-  :block/updated-at 1649090074058}
+  :block/created-at 1649373269479,
+  :block/updated-at 1649373269479}
  {:block/name "['content strategy']",
-  :block/created-at 1649090074745,
-  :block/updated-at 1649090074745}
+  :block/created-at 1649373270114,
+  :block/updated-at 1649373270114}
  {:block/name "[annie mendez",
-  :block/created-at 1649090073743,
-  :block/updated-at 1649090073743}
+  :block/created-at 1649373269362,
+  :block/updated-at 1649373269362}
  {:block/name "[bpr",
-  :block/created-at 1649090073924,
-  :block/updated-at 1649090073924}
+  :block/created-at 1649373274755,
+  :block/updated-at 1649373274755}
  {:block/name "[data and insights",
-  :block/created-at 1649090074106,
-  :block/updated-at 1649090074106}
+  :block/created-at 1649373274913,
+  :block/updated-at 1649373274913}
  {:block/name "[data engineer hiring]",
-  :block/created-at 1649090074981,
-  :block/updated-at 1649090074981}
+  :block/created-at 1649373273532,
+  :block/updated-at 1649373273532}
  {:block/name "[data team]",
-  :block/created-at 1649090074154,
-  :block/updated-at 1649090074154}
+  :block/created-at 1649373274947,
+  :block/updated-at 1649373274947}
  {:block/name "[inquirer",
-  :block/created-at 1649090073642,
-  :block/updated-at 1649090073642}
- {:block/name "[inquirer/colleague",
-  :block/created-at 1649090085467,
-  :block/updated-at 1649090085467}
- {:block/name "[inquirer/department",
-  :block/created-at 1649338471393,
-  :block/updated-at 1649338471393}
- {:block/name "[inquirer/department]",
-  :block/created-at 1649090075191,
-  :block/updated-at 1649090075191}
- {:block/name "[inquirer/person",
-  :block/created-at 1649090676498,
-  :block/updated-at 1649090676498}
- {:block/name "[inquirer/person=",
-  :block/created-at 1649090675823,
-  :block/updated-at 1649090675823}
- {:block/name "[inquirer/person]",
-  :block/created-at 1649090074247,
-  :block/updated-at 1649090074247}
+  :block/created-at 1649373269193,
+  :block/updated-at 1649373269193}
  {:block/name "[inquirer/projects]",
-  :block/created-at 1649090073925,
-  :block/updated-at 1649090073925}
+  :block/created-at 1649373269193,
+  :block/updated-at 1649373269193}
  {:block/name "[inquirer/teams]",
-  :block/created-at 1649090074106,
-  :block/updated-at 1649090074106}
+  :block/created-at 1649373270020,
+  :block/updated-at 1649373270020}
  {:block/name "[lenfest lab]",
-  :block/created-at 1649090075606,
-  :block/updated-at 1649090075606}
+  :block/created-at 1649373268295,
+  :block/updated-at 1649373268295}
  {:block/name "[matt",
-  :block/created-at 1649090075739,
-  :block/updated-at 1649090075739}
+  :block/created-at 1649373271643,
+  :block/updated-at 1649373271643}
  {:block/name "[mz",
-  :block/created-at 1649090076007,
-  :block/updated-at 1649090076007}
+  :block/created-at 1649373273499,
+  :block/updated-at 1649373273499}
  {:block/name "[onboarding]",
-  :block/created-at 1649090075133,
-  :block/updated-at 1649090075133}
+  :block/created-at 1649373269410,
+  :block/updated-at 1649373269410}
  {:block/name "[pde]",
-  :block/created-at 1649090076703,
-  :block/updated-at 1649090076703}
+  :block/created-at 1649373273341,
+  :block/updated-at 1649373273341}
  {:block/name "[philadelphia inquirer]",
-  :block/created-at 1649090085412,
-  :block/updated-at 1649090085412}
+  :block/created-at 1649373270136,
+  :block/updated-at 1649373270136}
  {:block/name "[projects",
-  :block/created-at 1649090074981,
-  :block/updated-at 1649090074981}
+  :block/created-at 1649373273532,
+  :block/updated-at 1649373273532}
  {:block/name "[projects/inquirer",
-  :block/created-at 1649090074981,
-  :block/updated-at 1649090074981}
+  :block/created-at 1649373273532,
+  :block/updated-at 1649373273532}
  {:block/name "[seager]",
-  :block/created-at 1649090075481,
-  :block/updated-at 1649090075481}
+  :block/created-at 1649373273480,
+  :block/updated-at 1649373273480}
  {:block/name "[strategic plan]",
-  :block/created-at 1649090075237,
-  :block/updated-at 1649090075237}
+  :block/created-at 1649373268268,
+  :block/updated-at 1649373268268}
  {:block/name "[vp of data and insights]",
-  :block/created-at 1649090077142,
-  :block/updated-at 1649090077142}
+  :block/created-at 1649373268986,
+  :block/updated-at 1649373268986}
  {:block/name "[writing",
-  :block/created-at 1649090076275,
-  :block/updated-at 1649090076275}
+  :block/created-at 1649373276154,
+  :block/updated-at 1649373276154}
  {:block/name "_0 dayplan",
-  :block/created-at 1649090073478,
-  :block/updated-at 1649090073478}
+  :block/created-at 1649373269270,
+  :block/updated-at 1649373269270}
  {:block/name "_^eaf3fb",
-  :block/created-at 1649090074875,
-  :block/updated-at 1649090074875}
+  :block/created-at 1649373282658,
+  :block/updated-at 1649373282658}
  {:block/name "_mission",
-  :block/created-at 1649090074102,
-  :block/updated-at 1649090074102}
+  :block/created-at 1649373274909,
+  :block/updated-at 1649373274909}
  {:block/name "_okr workshop",
-  :block/created-at 1649090074198,
-  :block/updated-at 1649090074198}
+  :block/created-at 1649373276755,
+  :block/updated-at 1649373276755}
  {:block/name "_principles",
-  :block/created-at 1649090074105,
-  :block/updated-at 1649090074105}
+  :block/created-at 1649373274911,
+  :block/updated-at 1649373274911}
  {:block/name "_prioritization framework",
-  :block/created-at 1649090074102,
-  :block/updated-at 1649090074102}
+  :block/created-at 1649373274909,
+  :block/updated-at 1649373274909}
  {:block/name "_reflections_reflection",
-  :block/created-at 1649090073479,
-  :block/updated-at 1649090073479}
+  :block/created-at 1649373269271,
+  :block/updated-at 1649373269271}
  {:block/name "a",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "a16z podcast",
+  :block/created-at 1649373235189,
+  :block/updated-at 1649373235189}
  {:block/name "aaron moore",
-  :block/created-at 1649090075190,
-  :block/updated-at 1649090075190}
+  :block/created-at 1649373269182,
+  :block/updated-at 1649373269182}
  {:block/name "ad sales",
-  :block/created-at 1649090074286,
-  :block/updated-at 1649090074286}
+  :block/created-at 1649373269457,
+  :block/updated-at 1649373269457}
  {:block/name "adhd",
   :block/created-at 1647826706275,
   :block/updated-at 1647826706275}
- {:block/name "adhd 2",
-  :block/created-at 1649090087110,
-  :block/updated-at 1649090087110}
  {:block/name "adhd cbt",
-  :block/created-at 1649090099227,
-  :block/updated-at 1649090099227}
+  :block/created-at 1649373276792,
+  :block/updated-at 1649373276792}
  {:block/name "agile",
   :block/created-at 1649294842219,
   :block/updated-at 1649294842219}
+ {:block/name "airr",
+  :block/created-at 1649373234077,
+  :block/updated-at 1649373234077}
+ {:block/name "alab series",
+  :block/created-at 1649373234077,
+  :block/updated-at 1649373234077}
+ {:block/name "alex kantrowitz",
+  :block/created-at 1649373250771,
+  :block/updated-at 1649373250771}
+ {:block/name "alex wellerstein",
+  :block/created-at 1649373282107,
+  :block/updated-at 1649373282107}
+ {:block/name "alex wright",
+  :block/created-at 1649373270781,
+  :block/updated-at 1649373270781}
  {:block/name "alexandra",
-  :block/created-at 1649088325257,
-  :block/updated-at 1649088325257}
+  :block/created-at 1649373274631,
+  :block/updated-at 1649373274631}
+ {:block/name "alfie kohn",
+  :block/created-at 1649373274988,
+  :block/updated-at 1649373274988}
  {:block/name "amanda baker",
-  :block/created-at 1649090075322,
-  :block/updated-at 1649090075322}
+  :block/created-at 1649373268423,
+  :block/updated-at 1649373268423}
+ {:block/name "amit kumar",
+  :block/created-at 1649373246321,
+  :block/updated-at 1649373246321}
  {:block/name "ana graciela mendez",
-  :block/created-at 1649090099262,
-  :block/updated-at 1649090099262}
+  :block/created-at 1649373269361,
+  :block/updated-at 1649373269361}
  {:block/name "ana mendez",
-  :block/created-at 1649090073743,
-  :block/updated-at 1649090073743}
+  :block/created-at 1649373269362,
+  :block/updated-at 1649373269362}
  {:block/name "ana]",
-  :block/created-at 1649090073743,
-  :block/updated-at 1649090073743}
+  :block/created-at 1649373269362,
+  :block/updated-at 1649373269362}
  {:block/name "analysts",
   :block/created-at 1648487138566,
   :block/updated-at 1648487138566}
@@ -499,72 +730,253 @@
  {:block/name "analytics team",
   :block/created-at 1647817104717,
   :block/updated-at 1647817104717}
- {:block/name "and jon carlson psyd'",
-  :block/created-at 1649090084589,
-  :block/updated-at 1649090084589}
  {:block/name "and secrets from inside amazon'",
-  :block/created-at 1649090085248,
-  :block/updated-at 1649090085248}
- {:block/name "and win'",
-  :block/created-at 1649090088302,
-  :block/updated-at 1649090088302}
+  :block/created-at 1649373268328,
+  :block/updated-at 1649373268328}
  {:block/name "andy",
   :block/created-at 1648580538438,
   :block/updated-at 1648580538438}
  {:block/name "andy harrison",
-  :block/created-at 1649090099297,
-  :block/updated-at 1649090099297}
+  :block/created-at 1649373276339,
+  :block/updated-at 1649373276339}
+ {:block/name "anil dash",
+  :block/created-at 1649373239495,
+  :block/updated-at 1649373239495}
  {:block/name "annie",
-  :block/created-at 1649090073743,
-  :block/updated-at 1649090073743}
+  :block/created-at 1649373269362,
+  :block/updated-at 1649373269362}
+ {:block/name "annie duke",
+  :block/created-at 1649373247953,
+  :block/updated-at 1649373247953}
+ {:block/name "annie jacobsen",
+  :block/created-at 1649373250521,
+  :block/updated-at 1649373250521}
  {:block/name "another system diagram - today 1.pdf",
-  :block/created-at 1649090074634,
-  :block/updated-at 1649090074634}
+  :block/created-at 1649373270185,
+  :block/updated-at 1649373270185}
  {:block/name "another system diagram - today.pdf",
-  :block/created-at 1649090074634,
-  :block/updated-at 1649090074634}
+  :block/created-at 1649373270184,
+  :block/updated-at 1649373270184}
  {:block/name "apache superset",
-  :block/created-at 1649090076563,
-  :block/updated-at 1649090076563}
+  :block/created-at 1649373274881,
+  :block/updated-at 1649373274881}
  {:block/name "aquil",
   :block/created-at 1649084570608,
   :block/updated-at 1649084570608}
  {:block/name "arc",
-  :block/created-at 1649342349622,
-  :block/updated-at 1649342349622}
+  :block/created-at 1649373273375,
+  :block/updated-at 1649373273375}
  {:block/name "arc fusion",
-  :block/created-at 1649342349622,
-  :block/updated-at 1649342349622}
+  :block/created-at 1649373273375,
+  :block/updated-at 1649373273375}
+ {:block/name "articles",
+  :block/created-at 1649373233923,
+  :block/updated-at 1649373233923}
+ {:block/name "articles/alan rickman 1946–2016",
+  :block/created-at 1649373251072,
+  :block/updated-at 1649373251072}
+ {:block/name
+  "articles/an engineering theory of the volkswagen scandal  the new yorker",
+  :block/created-at 1649373240991,
+  :block/updated-at 1649373240991}
+ {:block/name
+  "articles/an interview with rippling founder parker conrad",
+  :block/created-at 1649373244215,
+  :block/updated-at 1649373244215}
+ {:block/name "articles/an open letter to the fcc",
+  :block/created-at 1649373244719,
+  :block/updated-at 1649373244719}
+ {:block/name "articles/becoming the boss",
+  :block/created-at 1649373243803,
+  :block/updated-at 1649373243803}
+ {:block/name
+  "articles/beyond interactive notebook innovation at netflix",
+  :block/created-at 1649373248772,
+  :block/updated-at 1649373248772}
+ {:block/name "articles/can you say what your strategy is",
+  :block/created-at 1649373235571,
+  :block/updated-at 1649373235571}
+ {:block/name
+  "articles/climate leave paid time off for extreme weather disruptions",
+  :block/created-at 1649373240311,
+  :block/updated-at 1649373240311}
+ {:block/name
+  "articles/dear google cloud your deprecation policy is killing you",
+  :block/created-at 1649373280247,
+  :block/updated-at 1649373280247}
+ {:block/name "articles/death of an open source business model",
+  :block/created-at 1649373235516,
+  :block/updated-at 1649373235516}
+ {:block/name "articles/did media literacy backfire",
+  :block/created-at 1649373269528,
+  :block/updated-at 1649373269528}
+ {:block/name "articles/do we even know what premium content is",
+  :block/created-at 1649373235755,
+  :block/updated-at 1649373235755}
+ {:block/name
+  "articles/driving cultural change through software choices",
+  :block/created-at 1649373274219,
+  :block/updated-at 1649373274219}
+ {:block/name "articles/efficiency is very inefficient",
+  :block/created-at 1649373243596,
+  :block/updated-at 1649373243596}
+ {:block/name "articles/field guide to ux research for startups",
+  :block/created-at 1649373272093,
+  :block/updated-at 1649373272093}
+ {:block/name "articles/hft in the banana land",
+  :block/created-at 1649373237801,
+  :block/updated-at 1649373237801}
+ {:block/name
+  "articles/how lyft discovered openstreetmap is the freshest map for rideshare",
+  :block/created-at 1649373241634,
+  :block/updated-at 1649373241634}
+ {:block/name "articles/how shame became the weapon of the shameless",
+  :block/created-at 1649373277309,
+  :block/updated-at 1649373277309}
+ {:block/name "articles/how to destroy ‘surveillance capitalism’",
+  :block/created-at 1649373236122,
+  :block/updated-at 1649373236122}
+ {:block/name "articles/how to know you’re not insane",
+  :block/created-at 1649373278393,
+  :block/updated-at 1649373278393}
+ {:block/name "articles/how to take notes",
+  :block/created-at 1649373278765,
+  :block/updated-at 1649373278765}
+ {:block/name "articles/i hate the term “open source”",
+  :block/created-at 1649373248351,
+  :block/updated-at 1649373248351}
+ {:block/name
+  "articles/is the chief data officer being effective — a scorecard to measure",
+  :block/created-at 1649373246119,
+  :block/updated-at 1649373246119}
+ {:block/name
+  "articles/jupyter is taking a big overhaul in visual studio code",
+  :block/created-at 1649373244546,
+  :block/updated-at 1649373244546}
+ {:block/name
+  "articles/one person’s history of twitter from beginning to end",
+  :block/created-at 1649373249408,
+  :block/updated-at 1649373249408}
+ {:block/name "articles/part 2 scheduling notebooks at netflix",
+  :block/created-at 1649373281296,
+  :block/updated-at 1649373281296}
+ {:block/name "articles/patagonia’s philosopherking",
+  :block/created-at 1649373283552,
+  :block/updated-at 1649373283552}
+ {:block/name
+  "articles/private choices have public consequences  defector",
+  :block/created-at 1649373272444,
+  :block/updated-at 1649373272444}
+ {:block/name "articles/research type less talk more",
+  :block/created-at 1649373246323,
+  :block/updated-at 1649373246323}
+ {:block/name "articles/saving your rookie managers from themselves",
+  :block/created-at 1649373235359,
+  :block/updated-at 1649373235359}
+ {:block/name "articles/shirtless trump saves drowning kitten",
+  :block/created-at 1649373273882,
+  :block/updated-at 1649373273882}
+ {:block/name
+  "articles/snowflakes s1 snowflake vs the public cloud snowflakes sales  marketing",
+  :block/created-at 1649373248154,
+  :block/updated-at 1649373248154}
+ {:block/name
+  "articles/tech and the fake market tactic – humane tech – medium",
+  :block/created-at 1649373239496,
+  :block/updated-at 1649373239496}
+ {:block/name "articles/the 4 types of liars you’ll meet in your life",
+  :block/created-at 1649373237897,
+  :block/updated-at 1649373237897}
+ {:block/name "articles/the end of big data",
+  :block/created-at 1649373283239,
+  :block/updated-at 1649373283239}
+ {:block/name "articles/the intel split",
+  :block/created-at 1649373233930,
+  :block/updated-at 1649373233930}
+ {:block/name
+  "articles/the long authoritarian history of the capitol riot",
+  :block/created-at 1649373244376,
+  :block/updated-at 1649373244376}
+ {:block/name
+  "articles/the moderation war is coming to spotify substack and clubhouse",
+  :block/created-at 1649373250779,
+  :block/updated-at 1649373250779}
+ {:block/name
+  "articles/the shocking meltdown of ample hills — brooklyn’s hottest ice cream company",
+  :block/created-at 1649373234240,
+  :block/updated-at 1649373234240}
+ {:block/name
+  "articles/the story of the avalanches since i left you  classic album sundays",
+  :block/created-at 1649373245518,
+  :block/updated-at 1649373245518}
+ {:block/name "articles/things i learned working on serial",
+  :block/created-at 1649373242232,
+  :block/updated-at 1649373242232}
+ {:block/name
+  "articles/using 6 page and 2 page documents to make organizational decisions",
+  :block/created-at 1649373279118,
+  :block/updated-at 1649373279118}
+ {:block/name
+  "articles/watching the election from the posttruth future",
+  :block/created-at 1649373245329,
+  :block/updated-at 1649373245329}
+ {:block/name
+  "articles/what are the cultural revolution’s lessons for our current moment",
+  :block/created-at 1649373275349,
+  :block/updated-at 1649373275349}
+ {:block/name
+  "articles/why 2020 to 2050 will be ‘the most transformative decades in human history’",
+  :block/created-at 1649373281600,
+  :block/updated-at 1649373281600}
+ {:block/name "articles/why two decades of pandemic planning failed",
+  :block/created-at 1649373235964,
+  :block/updated-at 1649373235964}
+ {:block/name
+  "articles/“what gets measured gets managed” — it’s wrong and drucker never said it",
+  :block/created-at 1649373236202,
+  :block/updated-at 1649373236202}
  {:block/name "automating report delivery",
   :block/created-at 1648154560210,
   :block/updated-at 1648154560210}
  {:block/name "aws",
-  :block/created-at 1649341068030,
-  :block/updated-at 1649341068030}
+  :block/created-at 1649373273377,
+  :block/updated-at 1649373273377}
  {:block/name "b",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
  {:block/name "becky bowers",
   :block/created-at 1648154560624,
   :block/updated-at 1648154560624}
+ {:block/name "believeblackwomen",
+  :block/created-at 1649373240792,
+  :block/updated-at 1649373240792}
  {:block/name "ben burke",
-  :block/created-at 1649340361018,
-  :block/updated-at 1649340361018}
+  :block/created-at 1649373273374,
+  :block/updated-at 1649373273374}
  {:block/name "ben deane-schierloh",
-  :block/created-at 1649090075319,
-  :block/updated-at 1649090075319}
+  :block/created-at 1649373268421,
+  :block/updated-at 1649373268421}
+ {:block/name "ben horowitz",
+  :block/created-at 1649373238411,
+  :block/updated-at 1649373238411}
+ {:block/name "benjamin dreyer",
+  :block/created-at 1649373242081,
+  :block/updated-at 1649373242081}
  {:block/name "beth flynn",
-  :block/created-at 1649090073638,
-  :block/updated-at 1649090073638}
+  :block/created-at 1649373274815,
+  :block/updated-at 1649373274815}
  {:block/name "better collective",
-  :block/created-at 1649090099071,
-  :block/updated-at 1649090099071}
+  :block/created-at 1649373272061,
+  :block/updated-at 1649373272061}
  {:block/name "bill tevis",
-  :block/created-at 1649090075131,
-  :block/updated-at 1649090075131}
+  :block/created-at 1649373269408,
+  :block/updated-at 1649373269408}
  {:block/name "blocker",
   :block/created-at 1649255015216,
   :block/updated-at 1649257757365}
+ {:block/name "blue",
+  :block/created-at 1649373234968,
+  :block/updated-at 1649373234968}
  {:block/name "blueconic",
   :block/created-at 1649090099447,
   :block/updated-at 1649090099447}
@@ -572,99 +984,274 @@
   :block/created-at 1648154560626,
   :block/updated-at 1649265902368}
  {:block/name "book",
-  :block/created-at 1649090076850,
-  :block/updated-at 1649090076850}
+  :block/created-at 1649373269108,
+  :block/updated-at 1649373269108}
+ {:block/name "books",
+  :block/created-at 1649373234955,
+  :block/updated-at 1649373234955}
+ {:block/name "books/a civic technologists practice guide",
+  :block/created-at 1649373239957,
+  :block/updated-at 1649373239957}
+ {:block/name "books/a playbook for habitual excellence",
+  :block/created-at 1649373243427,
+  :block/updated-at 1649373243427}
+ {:block/name "books/accelerate",
+  :block/created-at 1649373253073,
+  :block/updated-at 1649373253073}
+ {:block/name "books/adhd 20",
+  :block/created-at 1649373240081,
+  :block/updated-at 1649373240081}
+ {:block/name "books/all the news that’s fit to click",
+  :block/created-at 1649373248555,
+  :block/updated-at 1649373248555}
+ {:block/name "books/an engine not a camera",
+  :block/created-at 1649373270424,
+  :block/updated-at 1649373270424}
+ {:block/name "books/an ugly truth",
+  :block/created-at 1649373238194,
+  :block/updated-at 1649373238194}
+ {:block/name "books/atlas of ai",
+  :block/created-at 1649373238906,
+  :block/updated-at 1649373238906}
+ {:block/name "books/blue mars",
+  :block/created-at 1649373269766,
+  :block/updated-at 1649373269766}
+ {:block/name "books/building a digital analytics organization",
+  :block/created-at 1649373249204,
+  :block/updated-at 1649373249204}
+ {:block/name "books/building analytics teams",
+  :block/created-at 1649373238526,
+  :block/updated-at 1649373238526}
+ {:block/name "books/cataloging the world",
+  :block/created-at 1649373270786,
+  :block/updated-at 1649373270786}
+ {:block/name "books/cracking the pm interview",
+  :block/created-at 1649373238623,
+  :block/updated-at 1649373238623}
+ {:block/name "books/data feminism",
+  :block/created-at 1649373240792,
+  :block/updated-at 1649373240792}
+ {:block/name "books/decode and conquer",
+  :block/created-at 1649373242750,
+  :block/updated-at 1649373242750}
+ {:block/name "books/empowered",
+  :block/created-at 1649373272760,
+  :block/updated-at 1649373272760}
+ {:block/name "books/escaping the build trap",
+  :block/created-at 1649373273606,
+  :block/updated-at 1649373273606}
+ {:block/name "books/first platoon",
+  :block/created-at 1649373250526,
+  :block/updated-at 1649373250526}
+ {:block/name "books/flying blind",
+  :block/created-at 1649373244914,
+  :block/updated-at 1649373244914}
+ {:block/name "books/good strategy bad strategy",
+  :block/created-at 1649373243206,
+  :block/updated-at 1649373243206}
+ {:block/name "books/just enough research 2e",
+  :block/created-at 1649373247659,
+  :block/updated-at 1649373247659}
+ {:block/name "books/kill it with fire",
+  :block/created-at 1649373271078,
+  :block/updated-at 1649373271078}
+ {:block/name "books/politics is for power",
+  :block/created-at 1649373275809,
+  :block/updated-at 1649373275809}
+ {:block/name "books/product roadmaps relaunched",
+  :block/created-at 1649373276885,
+  :block/updated-at 1649373276885}
+ {:block/name "books/reign of terror",
+  :block/created-at 1649373279896,
+  :block/updated-at 1649373279896}
+ {:block/name "books/restricted data",
+  :block/created-at 1649373282157,
+  :block/updated-at 1649373282157}
+ {:block/name "books/seeing like a state",
+  :block/created-at 1649373271687,
+  :block/updated-at 1649373271687}
+ {:block/name "books/strategic analytics",
+  :block/created-at 1649373234985,
+  :block/updated-at 1649373234985}
+ {:block/name "books/the charisma machine",
+  :block/created-at 1649373242570,
+  :block/updated-at 1649373242570}
+ {:block/name "books/the chickenshit club",
+  :block/created-at 1649373236036,
+  :block/updated-at 1649373236036}
+ {:block/name "books/the contrarian",
+  :block/created-at 1649373250294,
+  :block/updated-at 1649373250294}
+ {:block/name "books/the democratic surround",
+  :block/created-at 1649373235830,
+  :block/updated-at 1649373235830}
+ {:block/name "books/the first 90 days",
+  :block/created-at 1649373251459,
+  :block/updated-at 1649373251459}
+ {:block/name "books/the idea factory",
+  :block/created-at 1649373239276,
+  :block/updated-at 1649373239276}
+ {:block/name "books/the informed company",
+  :block/created-at 1649373276391,
+  :block/updated-at 1649373276391}
+ {:block/name "books/the premonition",
+  :block/created-at 1649373250017,
+  :block/updated-at 1649373250017}
+ {:block/name "books/the sellout",
+  :block/created-at 1649373235628,
+  :block/updated-at 1649373235628}
+ {:block/name "books/thinking in promises",
+  :block/created-at 1649373242932,
+  :block/updated-at 1649373242932}
+ {:block/name "books/this is how they tell me the world ends",
+  :block/created-at 1649373252177,
+  :block/updated-at 1649373252177}
+ {:block/name "books/unbelievable",
+  :block/created-at 1649373271390,
+  :block/updated-at 1649373271390}
+ {:block/name "books/working backwards",
+  :block/created-at 1649373235300,
+  :block/updated-at 1649373235300}
  {:block/name "boston globe",
   :block/created-at 1649267130263,
   :block/updated-at 1649267130263}
  {:block/name "bprs]",
-  :block/created-at 1649090073924,
-  :block/updated-at 1649090073924}
+  :block/created-at 1649373274755,
+  :block/updated-at 1649373274755}
  {:block/name "brian waligorski",
   :block/created-at 1649090099369,
   :block/updated-at 1649090099369}
  {:block/name "brian waligorski_brian's",
-  :block/created-at 1649090084284,
-  :block/updated-at 1649090084284}
+  :block/created-at 1649373274503,
+  :block/updated-at 1649373274503}
  {:block/name "bryan deemer",
   :block/created-at 1649278428358,
   :block/updated-at 1649278428358}
  {:block/name "building machine learning pipelines",
-  :block/created-at 1649090101335,
-  :block/updated-at 1649090101335}
+  :block/created-at 1649373269047,
+  :block/updated-at 1649373269047}
  {:block/name "business performance reviews",
-  :block/created-at 1649090099502,
-  :block/updated-at 1649090099502}
+  :block/created-at 1649373269339,
+  :block/updated-at 1649373269339}
  {:block/name
   "business performance reviews_^4brqfp_presenting department leads",
-  :block/created-at 1649090073923,
-  :block/updated-at 1649090073923}
+  :block/created-at 1649373274753,
+  :block/updated-at 1649373274753}
  {:block/name "business rules playbook",
-  :block/created-at 1649090099587,
-  :block/updated-at 1649090099587}
+  :block/created-at 1649373269499,
+  :block/updated-at 1649373269499}
  {:block/name "c",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name
+  "c. todd lombardo, bruce mccarthy, evan ryan, and michael connors",
+  :block/created-at 1649373276868,
+  :block/updated-at 1649373276868}
+ {:block/name "caitlin petre",
+  :block/created-at 1649373248552,
+  :block/updated-at 1649373248552}
+ {:block/name "camille fournier",
+  :block/created-at 1649373274215,
+  :block/updated-at 1649373274215}
  {:block/name "card",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "catherine d'ignazio and lauren f. klein",
+  :block/created-at 1649373240782,
+  :block/updated-at 1649373240782}
  {:block/name "ceo",
-  :block/created-at 1649090685039,
-  :block/updated-at 1649090685039}
+  :block/created-at 1649373278682,
+  :block/updated-at 1649373278682}
  {:block/name "charlotte",
   :block/created-at 1649175026064,
   :block/updated-at 1649175026064}
  {:block/name "charlotte sutton",
-  :block/created-at 1649090098985,
-  :block/updated-at 1649090098985}
+  :block/created-at 1649373269267,
+  :block/updated-at 1649373269267}
  {:block/name "chief product and technology officer",
-  :block/created-at 1649090075739,
-  :block/updated-at 1649090075739}
+  :block/created-at 1649373271641,
+  :block/updated-at 1649373271641}
  {:block/name "chief strategy officer]",
-  :block/created-at 1649090076008,
-  :block/updated-at 1649090076008}
+  :block/created-at 1649373273500,
+  :block/updated-at 1649373273500}
+ {:block/name "christina xu",
+  :block/created-at 1649373245327,
+  :block/updated-at 1649373245327}
  {:block/name "circleci",
-  :block/created-at 1649342309329,
-  :block/updated-at 1649342309329}
+  :block/created-at 1649373273375,
+  :block/updated-at 1649373273375}
+ {:block/name "clare corthell",
+  :block/created-at 1649373241631,
+  :block/updated-at 1649373241631}
+ {:block/name "classicalbumsundays.com",
+  :block/created-at 1649373245515,
+  :block/updated-at 1649373245515}
  {:block/name "climb",
   :block/created-at 1647826710509,
   :block/updated-at 1647826710509}
+ {:block/name "clippings_html",
+  :block/created-at 1649373247613,
+  :block/updated-at 1649373247613}
  {:block/name "clockwise",
-  :block/created-at 1649090099551,
-  :block/updated-at 1649090099551}
+  :block/created-at 1649373271039,
+  :block/updated-at 1649373271039}
+ {:block/name "coaching real leaders",
+  :block/created-at 1649373283874,
+  :block/updated-at 1649373283874}
+ {:block/name "colin bryar and bill carr",
+  :block/created-at 1649373235294,
+  :block/updated-at 1649373235294}
  {:block/name "content strategy",
   :block/created-at 1647872029127,
   :block/updated-at 1647872029127}
  {:block/name "content strategy workshops",
-  :block/created-at 1649090099410,
-  :block/updated-at 1649090099410}
+  :block/created-at 1649373270114,
+  :block/updated-at 1649373270114}
  {:block/name "contents",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "cory doctorow",
+  :block/created-at 1649373236120,
+  :block/updated-at 1649373236120}
+ {:block/name "courtney rubin",
+  :block/created-at 1649373234238,
+  :block/updated-at 1649373234238}
  {:block/name "cpto]",
-  :block/created-at 1649090075739,
-  :block/updated-at 1649090075739}
+  :block/created-at 1649373271643,
+  :block/updated-at 1649373271643}
  {:block/name "cs",
   :block/created-at 1649265793293,
   :block/updated-at 1649265793293}
  {:block/name "cso",
-  :block/created-at 1649090076008,
-  :block/updated-at 1649090076008}
+  :block/created-at 1649373273500,
+  :block/updated-at 1649373273500}
  {:block/name "customer service",
   :block/created-at 1649265601512,
   :block/updated-at 1649265795092}
+ {:block/name "cyd harrell",
+  :block/created-at 1649373239953,
+  :block/updated-at 1649373239953}
  {:block/name "daily note template",
-  :block/created-at 1649090074478,
-  :block/updated-at 1649090074478}
+  :block/created-at 1649373270065,
+  :block/updated-at 1649373270065}
+ {:block/name "daily notes",
+  :block/created-at 1647811436495,
+  :block/updated-at 1647811436495}
  {:block/name "dailynote 2022",
-  :block/created-at 1649090073483,
-  :block/updated-at 1649090073483}
+  :block/created-at 1649373269273,
+  :block/updated-at 1649373269273}
+ {:block/name "danah boyd",
+  :block/created-at 1649373269526,
+  :block/updated-at 1649373269526}
+ {:block/name "danny buerkli",
+  :block/created-at 1649373236199,
+  :block/updated-at 1649373236199}
  {:block/name "darya",
-  :block/created-at 1649338519960,
-  :block/updated-at 1649338519960}
+  :block/created-at 1649373280548,
+  :block/updated-at 1649373280548}
  {:block/name "darya ushakova",
-  :block/created-at 1649090100052,
-  :block/updated-at 1649338538588}
+  :block/created-at 1649373268423,
+  :block/updated-at 1649373268423}
  {:block/name "data - insights - beliefs - bets",
   :block/created-at 1649342793934,
   :block/updated-at 1649342793934}
@@ -672,58 +1259,58 @@
   :block/created-at 1647826706406,
   :block/updated-at 1648478675337}
  {:block/name "data and insights 2022 okrs",
-  :block/created-at 1649090099133,
-  :block/updated-at 1649090099133}
+  :block/created-at 1649373274912,
+  :block/updated-at 1649373274912}
  {:block/name "data and insights 2022 okrs_okrs for 2022",
-  :block/created-at 1649090074102,
-  :block/updated-at 1649090074102}
+  :block/created-at 1649373274909,
+  :block/updated-at 1649373274909}
  {:block/name "data and insights department]",
-  :block/created-at 1649090074107,
-  :block/updated-at 1649090074107}
+  :block/created-at 1649373274913,
+  :block/updated-at 1649373274913}
  {:block/name "data and insights group",
-  :block/created-at 1649090099499,
-  :block/updated-at 1649090099499}
+  :block/created-at 1649373269405,
+  :block/updated-at 1649373269405}
  {:block/name
   "data and insights group_2022 planning_data and insights_ 2022 planning",
-  :block/created-at 1649090076410,
-  :block/updated-at 1649090076410}
+  :block/created-at 1649373277914,
+  :block/updated-at 1649373277914}
  {:block/name "data and insights group_data and insights",
-  :block/created-at 1649090074197,
-  :block/updated-at 1649090074197}
+  :block/created-at 1649373270019,
+  :block/updated-at 1649373270019}
  {:block/name
   "data and insights group_prioritization framework_departmental prioritization framework",
-  :block/created-at 1649090076409,
-  :block/updated-at 1649090076409}
+  :block/created-at 1649373277913,
+  :block/updated-at 1649373277913}
  {:block/name "data and insights group_roadmap",
-  :block/created-at 1649090073558,
-  :block/updated-at 1649090073558}
+  :block/created-at 1649373275655,
+  :block/updated-at 1649373275655}
  {:block/name "data and insights group_strategy",
-  :block/created-at 1649090076088,
-  :block/updated-at 1649090076088}
+  :block/created-at 1649373277263,
+  :block/updated-at 1649373277263}
  {:block/name "data and insights/data survey",
   :block/created-at 1648481482743,
   :block/updated-at 1648481482743}
  {:block/name "data engineer tech screen note",
-  :block/created-at 1649090099797,
-  :block/updated-at 1649090099797}
+  :block/created-at 1649373272390,
+  :block/updated-at 1649373272390}
  {:block/name "data engineering",
   :block/created-at 1648475502649,
   :block/updated-at 1648475502649}
  {:block/name "data engineering group",
-  :block/created-at 1649090099714,
-  :block/updated-at 1649090099714}
+  :block/created-at 1649373273531,
+  :block/updated-at 1649373273531}
  {:block/name "data engineering group_data team",
-  :block/created-at 1649090073859,
-  :block/updated-at 1649090073859}
+  :block/created-at 1649373274179,
+  :block/updated-at 1649373274179}
  {:block/name "data engineers",
   :block/created-at 1648487138566,
   :block/updated-at 1648487138566}
  {:block/name "data leads",
-  :block/created-at 1649105661624,
-  :block/updated-at 1649105661624}
+  :block/created-at 1649373274637,
+  :block/updated-at 1649373274637}
  {:block/name "data management platform",
-  :block/created-at 1649090099758,
-  :block/updated-at 1649338310447}
+  :block/created-at 1649373269456,
+  :block/updated-at 1649373269456}
  {:block/name "data platform",
   :block/created-at 1648663016378,
   :block/updated-at 1649080265944}
@@ -731,14 +1318,14 @@
   :block/created-at 1648650350937,
   :block/updated-at 1648650350937}
  {:block/name "data team",
-  :block/created-at 1649090075073,
-  :block/updated-at 1649090075073}
+  :block/created-at 1649373274154,
+  :block/updated-at 1649373274154}
  {:block/name "data warehouse",
-  :block/created-at 1649090074639,
-  :block/updated-at 1649090074639}
+  :block/created-at 1649373270189,
+  :block/updated-at 1649373270189}
  {:block/name "datadog",
-  :block/created-at 1649083658557,
-  :block/updated-at 1649083658557}
+  :block/created-at 1649373273376,
+  :block/updated-at 1649373273376}
  {:block/name "dataset",
   :block/created-at 1648154559819,
   :block/updated-at 1648154559819}
@@ -748,18 +1335,27 @@
  {:block/name "datasets as products",
   :block/created-at 1648154560206,
   :block/updated-at 1648154560206}
+ {:block/name "dave fowler and matthew c. david",
+  :block/created-at 1649373276383,
+  :block/updated-at 1649373276383}
+ {:block/name "david graeber",
+  :block/created-at 1649373240523,
+  :block/updated-at 1649373240523}
  {:block/name "david riordan",
   :block/created-at 1647877031338,
   :block/updated-at 1647877031338}
  {:block/name "dbt",
-  :block/created-at 1649090073860,
-  :block/updated-at 1649090073860}
+  :block/created-at 1649373274179,
+  :block/updated-at 1649373274179}
  {:block/name "decode and conquer",
-  :block/created-at 1649090102358,
-  :block/updated-at 1649090102358}
+  :block/created-at 1649373268194,
+  :block/updated-at 1649373268194}
+ {:block/name "defector.com",
+  :block/created-at 1649373272442,
+  :block/updated-at 1649373272442}
  {:block/name "development environment configuration",
-  :block/created-at 1649090100098,
-  :block/updated-at 1649090100098}
+  :block/created-at 1649373275287,
+  :block/updated-at 1649373275287}
  {:block/name "development planning",
   :block/created-at 1648481756092,
   :block/updated-at 1648481756092}
@@ -772,57 +1368,90 @@
  {:block/name "digital editors",
   :block/created-at 1649174551508,
   :block/updated-at 1649174551508}
+ {:block/name "dimitris poulopoulos",
+  :block/created-at 1649373244543,
+  :block/updated-at 1649373244543}
+ {:block/name "discard",
+  :block/created-at 1649373234159,
+  :block/updated-at 1649373234159}
+ {:block/name "dithering",
+  :block/created-at 1649373280617,
+  :block/updated-at 1649373280617}
  {:block/name "dmp",
-  :block/created-at 1649338286123,
-  :block/updated-at 1649338286123}
+  :block/created-at 1649373269458,
+  :block/updated-at 1649373269458}
  {:block/name "docker",
-  :block/created-at 1649340365397,
-  :block/updated-at 1649340365397}
+  :block/created-at 1649373273377,
+  :block/updated-at 1649373273377}
  {:block/name "doing",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "donald mackenzie",
+  :block/created-at 1649373270381,
+  :block/updated-at 1649373270381}
  {:block/name "done",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "douglas rushkoff",
+  :block/created-at 1649373277304,
+  :block/updated-at 1649373277304}
  {:block/name "draft obsidian templates",
-  :block/created-at 1649090099901,
-  :block/updated-at 1649090099901}
+  :block/created-at 1649373270065,
+  :block/updated-at 1649373270065}
  {:block/name "dsi",
   :block/created-at 1648154559945,
   :block/updated-at 1648154559945}
- {:block/name "efficiency hacks",
-  :block/created-at 1649090086609,
-  :block/updated-at 1649090086609}
+ {:block/name "edward m. hallowell and john j. ratey",
+  :block/created-at 1649373240080,
+  :block/updated-at 1649373240080}
+ {:block/name "eitan hersh",
+  :block/created-at 1649373275788,
+  :block/updated-at 1649373275788}
  {:block/name "elixir",
-  :block/created-at 1649340395495,
-  :block/updated-at 1649340395495}
+  :block/created-at 1649373273374,
+  :block/updated-at 1649373273374}
  {:block/name "engineering systems",
-  :block/created-at 1649090099992,
-  :block/updated-at 1649090099992}
+  :block/created-at 1649373270192,
+  :block/updated-at 1649373270192}
  {:block/name "epic",
-  :block/created-at 1649090074101,
-  :block/updated-at 1649090074101}
+  :block/created-at 1649373274909,
+  :block/updated-at 1649373274909}
+ {:block/name "eric holthaus",
+  :block/created-at 1649373281598,
+  :block/updated-at 1649373281598}
+ {:block/name "erika hall",
+  :block/created-at 1649373247613,
+  :block/updated-at 1649373247613}
  {:block/name "eva",
   :block/created-at 1649090289552,
   :block/updated-at 1649090289552}
  {:block/name "eva von weltin",
-  :block/created-at 1649084570608,
-  :block/updated-at 1649090325738}
+  :block/created-at 1649373274630,
+  :block/updated-at 1649373274630}
  {:block/name "experiment",
-  :block/created-at 1649097551753,
-  :block/updated-at 1649097551753}
+  :block/created-at 1649373274634,
+  :block/updated-at 1649373274634}
  {:block/name "experimentation",
   :block/created-at 1649278138839,
   :block/updated-at 1649278138839}
+ {:block/name "favorite",
+  :block/created-at 1649373234967,
+  :block/updated-at 1649373234967}
  {:block/name "favorites",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "feedly",
+  :block/created-at 1649373246321,
+  :block/updated-at 1649373246321}
  {:block/name "fleeting",
   :block/created-at 1648736802016,
   :block/updated-at 1648736802016}
  {:block/name "floor rates",
   :block/created-at 1649265887490,
   :block/updated-at 1649265887490}
+ {:block/name "fred turner",
+  :block/created-at 1649373235825,
+  :block/updated-at 1649373235825}
  {:block/name "free culture",
   :block/created-at 1648514276367,
   :block/updated-at 1648514276367}
@@ -830,29 +1459,50 @@
   :block/created-at 1648514267303,
   :block/updated-at 1648514267303}
  {:block/name "gabe",
-  :block/created-at 1649090499295,
-  :block/updated-at 1649090499295}
+  :block/created-at 1649373278705,
+  :block/updated-at 1649373278705}
  {:block/name "gabriel escobar",
-  :block/created-at 1649090099934,
-  :block/updated-at 1649090509427}
+  :block/created-at 1649373278704,
+  :block/updated-at 1649373278704}
+ {:block/name "gabriel weinberg, lauren mccann",
+  :block/created-at 1649373234155,
+  :block/updated-at 1649373234155}
  {:block/name "gary potosky",
-  :block/created-at 1649090074434,
-  :block/updated-at 1649090074434}
+  :block/created-at 1649373272351,
+  :block/updated-at 1649373272351}
+ {:block/name "gayle laakmann mcdowell, jackie bavaro",
+  :block/created-at 1649373238622,
+  :block/updated-at 1649373238622}
+ {:block/name "general intellect unit",
+  :block/created-at 1649373240194,
+  :block/updated-at 1649373240194}
  {:block/name "george kurtas",
   :block/created-at 1648736177150,
   :block/updated-at 1648736177150}
  {:block/name "github actions",
-  :block/created-at 1649342415629,
-  :block/updated-at 1649342415629}
+  :block/created-at 1649373273375,
+  :block/updated-at 1649373273375}
  {:block/name "golden datasets",
   :block/created-at 1648154560206,
   :block/updated-at 1648154560206}
  {:block/name "google analytics",
-  :block/created-at 1649090075032,
-  :block/updated-at 1649090075032}
+  :block/created-at 1649373276316,
+  :block/updated-at 1649373276316}
  {:block/name "governance",
-  :block/created-at 1649090076408,
-  :block/updated-at 1649090076408}
+  :block/created-at 1649373277913,
+  :block/updated-at 1649373277913}
+ {:block/name "green",
+  :block/created-at 1649373234980,
+  :block/updated-at 1649373234980}
+ {:block/name "harvard business review",
+  :block/created-at 1649373234955,
+  :block/updated-at 1649373234955}
+ {:block/name "hbr - manager",
+  :block/created-at 1649373235358,
+  :block/updated-at 1649373235358}
+ {:block/name "hbr.org",
+  :block/created-at 1649373235358,
+  :block/updated-at 1649373235358}
  {:block/name "hiring",
   :block/created-at 1648154559942,
   :block/updated-at 1648154559942}
@@ -860,11 +1510,20 @@
   :block/created-at 1648154559941,
   :block/updated-at 1648154559941}
  {:block/name "homepage",
-  :block/created-at 1649090073475,
-  :block/updated-at 1649090073475}
+  :block/created-at 1649373269268,
+  :block/updated-at 1649373269268}
  {:block/name "how economics shapes science",
-  :block/created-at 1649090101180,
-  :block/updated-at 1649090101180}
+  :block/created-at 1649373269150,
+  :block/updated-at 1649373269150}
+ {:block/name "huberman lab",
+  :block/created-at 1649373239797,
+  :block/updated-at 1649373239797}
+ {:block/name "ian nowland",
+  :block/created-at 1649373279111,
+  :block/updated-at 1649373279111}
+ {:block/name "ibooks",
+  :block/created-at 1649373234955,
+  :block/updated-at 1649373234955}
  {:block/name "in-progress",
   :block/created-at 1647807341644,
   :block/updated-at 1647807341644}
@@ -872,128 +1531,125 @@
   :block/created-at 1649090100201,
   :block/updated-at 1649338573954}
  {:block/name "incident tracking",
-  :block/created-at 1649338556142,
-  :block/updated-at 1649338556142}
+  :block/created-at 1649373270092,
+  :block/updated-at 1649373270092}
  {:block/name "incomplete",
-  :block/created-at 1649090076273,
-  :block/updated-at 1649090076273}
- {:block/name "info",
-  :block/created-at 1649090086610,
-  :block/updated-at 1649090086610}
+  :block/created-at 1649373276152,
+  :block/updated-at 1649373276152}
+ {:block/name "information",
+  :block/created-at 1649373269527,
+  :block/updated-at 1649373269527}
  {:block/name "information discoverability",
-  :block/created-at 1649090076408,
-  :block/updated-at 1649090076408}
+  :block/created-at 1649373277913,
+  :block/updated-at 1649373277913}
+ {:block/name "infrastructure",
+  :block/created-at 1649373247631,
+  :block/updated-at 1649373247631}
  {:block/name "inq4all",
-  :block/created-at 1649090100487,
-  :block/updated-at 1649090100487}
+  :block/created-at 1649373268949,
+  :block/updated-at 1649373268949}
  {:block/name "inquirer",
   :block/created-at 1647826706277,
   :block/updated-at 1648477162145}
  {:block/name "inquirer 90 day plan",
-  :block/created-at 1649090100433,
-  :block/updated-at 1649090100433}
+  :block/created-at 1649373269405,
+  :block/updated-at 1649373269405}
  {:block/name "inquirer architecture diagram - 2020.pdf",
-  :block/created-at 1649090074634,
-  :block/updated-at 1649090074634}
+  :block/created-at 1649373270184,
+  :block/updated-at 1649373270184}
  {:block/name "inquirer content strategy",
-  :block/created-at 1649090099411,
-  :block/updated-at 1649090099411}
+  :block/created-at 1649373270113,
+  :block/updated-at 1649373270113}
  {:block/name "inquirer data strategy",
-  :block/created-at 1649090073476,
-  :block/updated-at 1649090073476}
+  :block/created-at 1649373269268,
+  :block/updated-at 1649373269268}
  {:block/name "inquirer datasets",
-  :block/created-at 1649090100600,
-  :block/updated-at 1649090100600}
+  :block/created-at 1649373270135,
+  :block/updated-at 1649373270135}
  {:block/name "inquirer hypotheses",
-  :block/created-at 1649090100740,
-  :block/updated-at 1649090100740}
+  :block/created-at 1649373274154,
+  :block/updated-at 1649373274154}
  {:block/name "inquirer onboarding",
-  :block/created-at 1649090100652,
-  :block/updated-at 1649090100652}
+  :block/created-at 1649373269410,
+  :block/updated-at 1649373269410}
  {:block/name "inquirer operations",
-  :block/created-at 1649090099495,
-  :block/updated-at 1649338479147}
+  :block/created-at 1649373269339,
+  :block/updated-at 1649373269339}
  {:block/name "inquirer operations_operations",
-  :block/created-at 1649090073918,
-  :block/updated-at 1649090073918}
+  :block/created-at 1649373274751,
+  :block/updated-at 1649373274751}
  {:block/name "inquirer prep",
-  :block/created-at 1649090100241,
-  :block/updated-at 1649090100241}
+  :block/created-at 1649373276724,
+  :block/updated-at 1649373276724}
  {:block/name "inquirer questions",
-  :block/created-at 1649090100565,
-  :block/updated-at 1649090100565}
+  :block/created-at 1649373268242,
+  :block/updated-at 1649373268242}
  {:block/name "inquirer strategy",
-  :block/created-at 1649090100524,
-  :block/updated-at 1649090100524}
+  :block/created-at 1649373268267,
+  :block/updated-at 1649373268267}
  {:block/name "inquirer welcome letter",
-  :block/created-at 1649090100327,
-  :block/updated-at 1649090100327}
+  :block/created-at 1649373268427,
+  :block/updated-at 1649373268427}
  {:block/name "inquirer welcome letter_30 60 90-day expectations",
-  :block/created-at 1649090074871,
-  :block/updated-at 1649090074871}
+  :block/created-at 1649373282654,
+  :block/updated-at 1649373282654}
  {:block/name "inquirer welcome letter_^0x7p5a_lydia hamilton",
-  :block/created-at 1649090075132,
-  :block/updated-at 1649090075132}
+  :block/created-at 1649373269409,
+  :block/updated-at 1649373269409}
  {:block/name "inquirer welcome letter_^5m4e8x_becky bowers",
-  :block/created-at 1649090075128,
-  :block/updated-at 1649090075128}
+  :block/created-at 1649373269406,
+  :block/updated-at 1649373269406}
  {:block/name "inquirer welcome letter_^5v5fvp_ross maghielse",
-  :block/created-at 1649090075131,
-  :block/updated-at 1649090075131}
+  :block/created-at 1649373269408,
+  :block/updated-at 1649373269408}
  {:block/name "inquirer welcome letter_^d8rnaz_nicole henninger",
-  :block/created-at 1649090075130,
-  :block/updated-at 1649090075130}
+  :block/created-at 1649373269407,
+  :block/updated-at 1649373269407}
  {:block/name "inquirer welcome letter_^em1ucq_sarah schmalbach",
-  :block/created-at 1649090075132,
-  :block/updated-at 1649090075132}
+  :block/created-at 1649373269409,
+  :block/updated-at 1649373269409}
  {:block/name "inquirer welcome letter_^f86fxx",
-  :block/created-at 1649090075833,
-  :block/updated-at 1649090075833}
+  :block/created-at 1649373280580,
+  :block/updated-at 1649373280580}
  {:block/name "inquirer welcome letter_^fd6vjd_amanda baker",
-  :block/created-at 1649090075132,
-  :block/updated-at 1649090075132}
+  :block/created-at 1649373269409,
+  :block/updated-at 1649373269409}
  {:block/name "inquirer welcome letter_^jjlub7_patrick kerkstra",
-  :block/created-at 1649090075130,
-  :block/updated-at 1649090075130}
+  :block/created-at 1649373269408,
+  :block/updated-at 1649373269408}
  {:block/name "inquirer welcome letter_^jy6z6p_darya",
-  :block/created-at 1649090075131,
-  :block/updated-at 1649090075131}
+  :block/created-at 1649373269408,
+  :block/updated-at 1649373269408}
  {:block/name "inquirer welcome letter_^nhzyok_george kurtas",
-  :block/created-at 1649090075129,
-  :block/updated-at 1649090075129}
+  :block/created-at 1649373269407,
+  :block/updated-at 1649373269407}
  {:block/name "inquirer welcome letter_^oncil1_ben deanne",
-  :block/created-at 1649090075129,
-  :block/updated-at 1649090075129}
+  :block/created-at 1649373269406,
+  :block/updated-at 1649373269406}
  {:block/name "inquirer welcome letter_^v1pfcl_pete doucette",
-  :block/created-at 1649090075131,
-  :block/updated-at 1649090075131}
+  :block/created-at 1649373269408,
+  :block/updated-at 1649373269408}
  {:block/name "inquirer welcome letter_^vseb7u_toan dang",
-  :block/created-at 1649090075129,
-  :block/updated-at 1649090075129}
+  :block/created-at 1649373269407,
+  :block/updated-at 1649373269407}
  {:block/name "inquirer welcome letter_^xy4m1o_lindsay grow",
-  :block/created-at 1649090075130,
-  :block/updated-at 1649090075130}
+  :block/created-at 1649373269407,
+  :block/updated-at 1649373269407}
  {:block/name "inquirer/adsales",
-  :block/created-at 1649338278739,
-  :block/updated-at 1649338278739}
- {:block/name "inquirer/adsales]",
-  :block/created-at 1649090074288,
-  :block/updated-at 1649090074288}
+  :block/created-at 1649373269458,
+  :block/updated-at 1649373269458}
  {:block/name "inquirer/analytics",
   :block/created-at 1648154559652,
   :block/updated-at 1648154559652}
  {:block/name "inquirer/colleague",
-  :block/created-at 1649090364056,
-  :block/updated-at 1649090364056}
+  :block/created-at 1649373279067,
+  :block/updated-at 1649373279067}
  {:block/name "inquirer/department",
-  :block/created-at 1649338479143,
-  :block/updated-at 1649338479143}
+  :block/created-at 1649373269340,
+  :block/updated-at 1649373269340}
  {:block/name "inquirer/design system",
-  :block/created-at 1649342337163,
-  :block/updated-at 1649342337163}
- {:block/name "inquirer/dibb",
-  :block/created-at 1649270946457,
-  :block/updated-at 1649270946457}
+  :block/created-at 1649373273374,
+  :block/updated-at 1649373273374}
  {:block/name "inquirer/dns",
   :block/created-at 1649342719248,
   :block/updated-at 1649342770299}
@@ -1004,8 +1660,8 @@
   :block/created-at 1649342337164,
   :block/updated-at 1649342921080}
  {:block/name "inquirer/hr",
-  :block/created-at 1649270862489,
-  :block/updated-at 1649270862489}
+  :block/created-at 1649373271348,
+  :block/updated-at 1649373271348}
  {:block/name "inquirer/mobile app",
   :block/created-at 1649278290793,
   :block/updated-at 1649278290793}
@@ -1015,78 +1671,132 @@
  {:block/name "inquirer/person",
   :block/created-at 1648154559652,
   :block/updated-at 1648154559652}
- {:block/name "inquirer/person]",
-  :block/created-at 1649090354758,
-  :block/updated-at 1649090354758}
- {:block/name "inquirer/proje",
-  :block/created-at 1649270941889,
-  :block/updated-at 1649270941889}
+ {:block/name "inquirer/person inquirer",
+  :block/created-at 1648131415197,
+  :block/updated-at 1648131415197}
  {:block/name "inquirer/project",
   :block/created-at 1649270847611,
   :block/updated-at 1649270847611}
  {:block/name "inquirer/projects",
-  :block/created-at 1649090074198,
-  :block/updated-at 1649090074198}
+  :block/created-at 1649373270092,
+  :block/updated-at 1649373270092}
+ {:block/name "inquirer/projects]",
+  :block/created-at 1649373241767,
+  :block/updated-at 1649373241767}
  {:block/name "insights guild",
-  :block/created-at 1649090101878,
-  :block/updated-at 1649090101878}
- {:block/name "instrumentation challenge",
-  :block/created-at 1649270833265,
-  :block/updated-at 1649270833265}
+  :block/created-at 1649373274554,
+  :block/updated-at 1649373274554}
+ {:block/name "instapaper",
+  :block/created-at 1649373233924,
+  :block/updated-at 1649373233924}
  {:block/name "interview",
-  :block/created-at 1649090073477,
-  :block/updated-at 1649090073477}
+  :block/created-at 1649373269269,
+  :block/updated-at 1649373269269}
  {:block/name "invoice payment fee",
   :block/created-at 1648154560626,
   :block/updated-at 1648154560626}
+ {:block/name "jacobin radio",
+  :block/created-at 1649373252528,
+  :block/updated-at 1649373252528}
+ {:block/name "james bridle",
+  :block/created-at 1649373239608,
+  :block/updated-at 1649373239608}
+ {:block/name "james c. scott",
+  :block/created-at 1649373271683,
+  :block/updated-at 1649373271683}
+ {:block/name "james clear",
+  :block/created-at 1649373238295,
+  :block/updated-at 1649373238295}
+ {:block/name "jason fried and david heinemeier hansson",
+  :block/created-at 1649373249628,
+  :block/updated-at 1649373249628}
  {:block/name "jeff cooney",
-  :block/created-at 1649090076912,
-  :block/updated-at 1649090076912}
+  :block/created-at 1649373269185,
+  :block/updated-at 1649373269185}
  {:block/name "jen",
-  :block/created-at 1649090076500,
-  :block/updated-at 1649090076500}
+  :block/created-at 1649373277218,
+  :block/updated-at 1649373277218}
  {:block/name "jenkins",
-  :block/created-at 1649342343813,
-  :block/updated-at 1649342343813}
+  :block/created-at 1649373273375,
+  :block/updated-at 1649373273375}
+ {:block/name "jesse eisinger",
+  :block/created-at 1649373236034,
+  :block/updated-at 1649373236034}
  {:block/name "jim anton",
-  :block/created-at 1649090076501,
-  :block/updated-at 1649090076501}
+  :block/created-at 1649373277218,
+  :block/updated-at 1649373277218}
+ {:block/name "joe morrison",
+  :block/created-at 1649373235515,
+  :block/updated-at 1649373235515}
+ {:block/name "john j. ratey and eric hagerman",
+  :block/created-at 1649373277612,
+  :block/updated-at 1649373277612}
+ {:block/name "john k. thompson",
+  :block/created-at 1649373238522,
+  :block/updated-at 1649373238522}
+ {:block/name "jon gertner",
+  :block/created-at 1649373239230,
+  :block/updated-at 1649373239230}
  {:block/name "joni seager",
-  :block/created-at 1649090101728,
-  :block/updated-at 1649090101728}
+  :block/created-at 1649373273479,
+  :block/updated-at 1649373273479}
+ {:block/name "journaling prompts",
+  :block/created-at 1647810565343,
+  :block/updated-at 1647810565343}
  {:block/name "journals",
-  :block/created-at 1649090076319,
-  :block/updated-at 1649090076319}
+  :block/created-at 1649373269064,
+  :block/updated-at 1649373269064}
  {:block/name "journals/2021-11-30",
-  :block/created-at 1649090076319,
-  :block/updated-at 1649090076319}
+  :block/created-at 1649373269064,
+  :block/updated-at 1649373269064}
+ {:block/name "judge glock",
+  :block/created-at 1649373235963,
+  :block/updated-at 1649373235963}
  {:block/name "julia haslinger",
   :block/created-at 1649090073559,
   :block/updated-at 1649090073559}
  {:block/name "karl stark",
-  :block/created-at 1649090073473,
-  :block/updated-at 1649090073473}
+  :block/created-at 1649373269266,
+  :block/updated-at 1649373269266}
  {:block/name "kate",
   :block/created-at 1647963027482,
   :block/updated-at 1647963027482}
  {:block/name "kate connolly",
-  :block/created-at 1649090076502,
-  :block/updated-at 1649090076502}
+  :block/created-at 1649373277219,
+  :block/updated-at 1649373277219}
+ {:block/name "kate crawford",
+  :block/created-at 1649373238889,
+  :block/updated-at 1649373238889}
  {:block/name "katie krzaczek",
-  :block/created-at 1649090074434,
-  :block/updated-at 1649090074434}
+  :block/created-at 1649373272351,
+  :block/updated-at 1649373272351}
+ {:block/name "katy tur",
+  :block/created-at 1649373271388,
+  :block/updated-at 1649373271388}
  {:block/name "kava",
   :block/created-at 1647826706276,
   :block/updated-at 1647826706276}
  {:block/name "killing dsi",
   :block/created-at 1649270282271,
   :block/updated-at 1649347337344}
+ {:block/name "kim scott",
+  :block/created-at 1649373282818,
+  :block/updated-at 1649373282818}
+ {:block/name "kim stanley robinson",
+  :block/created-at 1649373269765,
+  :block/updated-at 1649373269765}
+ {:block/name "kindle",
+  :block/created-at 1649373235294,
+  :block/updated-at 1649373235294}
+ {:block/name "know your enemy",
+  :block/created-at 1649373241941,
+  :block/updated-at 1649373241941}
  {:block/name "kpis",
   :block/created-at 1648154560209,
   :block/updated-at 1648154560209}
- {:block/name "larry maucieri phd",
-  :block/created-at 1649090084589,
-  :block/updated-at 1649090084589}
+ {:block/name "kristen taylor",
+  :block/created-at 1649373242231,
+  :block/updated-at 1649373242231}
  {:block/name "last mile project",
   :block/created-at 1647960985954,
   :block/updated-at 1647960985954}
@@ -1097,38 +1807,44 @@
   :block/created-at 1648572511201,
   :block/updated-at 1648572511201}
  {:block/name "lauren amato",
-  :block/created-at 1649089526320,
-  :block/updated-at 1649089526320}
+  :block/created-at 1649373274632,
+  :block/updated-at 1649373274632}
  {:block/name "lauren kauffman",
   :block/created-at 1648581999496,
   :block/updated-at 1648581999496}
  {:block/name "leadwork]",
-  :block/created-at 1649090074981,
-  :block/updated-at 1649090074981}
+  :block/created-at 1649373273532,
+  :block/updated-at 1649373273532}
  {:block/name "lenfest local lab",
-  :block/created-at 1649090100324,
-  :block/updated-at 1649090100324}
+  :block/created-at 1649373268294,
+  :block/updated-at 1649373268294}
+ {:block/name "lewis c. lin",
+  :block/created-at 1649373242751,
+  :block/updated-at 1649373242751}
+ {:block/name "liked",
+  :block/created-at 1649373244375,
+  :block/updated-at 1649373244375}
  {:block/name "lindsay grow",
-  :block/created-at 1649090075320,
-  :block/updated-at 1649090075320}
+  :block/created-at 1649373268422,
+  :block/updated-at 1649373268422}
  {:block/name "lindsey deutch",
   :block/created-at 1648154560623,
   :block/updated-at 1648154560623}
  {:block/name "lisa",
-  :block/created-at 1649090683559,
-  :block/updated-at 1649090683559}
+  :block/created-at 1649373278682,
+  :block/updated-at 1649373278682}
  {:block/name "lisa hughes",
-  :block/created-at 1649090101531,
-  :block/updated-at 1649090685042}
+  :block/created-at 1649373271347,
+  :block/updated-at 1649373271347}
  {:block/name "lisa hughes_ceo",
-  :block/created-at 1649090073918,
-  :block/updated-at 1649090073918}
+  :block/created-at 1649373274750,
+  :block/updated-at 1649373274750}
  {:block/name "lisa hughes_lisa",
-  :block/created-at 1649090076271,
-  :block/updated-at 1649090076271}
+  :block/created-at 1649373276150,
+  :block/updated-at 1649373276150}
  {:block/name "liveblog",
-  :block/created-at 1649090073474,
-  :block/updated-at 1649090073474}
+  :block/created-at 1649373269267,
+  :block/updated-at 1649373269267}
  {:block/name "liz grace",
   :block/created-at 1649278125878,
   :block/updated-at 1649278125878}
@@ -1138,39 +1854,57 @@
  {:block/name "loomis",
   :block/created-at 1649090466113,
   :block/updated-at 1649090466113}
+ {:block/name "lse_ public lectures and events",
+  :block/created-at 1649373280946,
+  :block/updated-at 1649373280946}
  {:block/name "lydia",
-  :block/created-at 1649338483880,
-  :block/updated-at 1649338483880}
+  :block/created-at 1649373277944,
+  :block/updated-at 1649373277944}
  {:block/name "lydia hamilton",
-  :block/created-at 1649090099497,
-  :block/updated-at 1649338483881}
+  :block/created-at 1649373268423,
+  :block/updated-at 1649373268423}
  {:block/name "lydia hamilton_lydia",
-  :block/created-at 1649090073920,
-  :block/updated-at 1649090073920}
+  :block/created-at 1649373274752,
+  :block/updated-at 1649373274752}
  {:block/name "managing editor",
-  :block/created-at 1649090074058,
-  :block/updated-at 1649090074058}
+  :block/created-at 1649373269478,
+  :block/updated-at 1649373269478}
  {:block/name "maps",
   :block/created-at 1649264253466,
   :block/updated-at 1649264253466}
+ {:block/name "mar 20th, 2022",
+  :block/created-at 1647807325697,
+  :block/updated-at 1647809921152}
+ {:block/name "mar 21st, 2022",
+  :block/created-at 1647848995375,
+  :block/updated-at 1647850317432}
  {:block/name "mara",
   :block/created-at 1647957935917,
   :block/updated-at 1647957935917}
+ {:block/name "marianne bellotti",
+  :block/created-at 1649373271075,
+  :block/updated-at 1649373271075}
  {:block/name "mark",
   :block/created-at 1649090471749,
   :block/updated-at 1649090471749}
+ {:block/name "mark burgess",
+  :block/created-at 1649373242924,
+  :block/updated-at 1649373242924}
  {:block/name "mark loomis",
   :block/created-at 1648154559649,
   :block/updated-at 1649090471755}
+ {:block/name "mark robichaux",
+  :block/created-at 1649373245911,
+  :block/updated-at 1649373245911}
  {:block/name "marketing",
   :block/created-at 1649090102393,
   :block/updated-at 1649090102393}
  {:block/name "marketing rpa - subscription data challenges",
-  :block/created-at 1649090102090,
-  :block/updated-at 1649090102090}
- {:block/name "master myself",
-  :block/created-at 1649090088301,
-  :block/updated-at 1649090088301}
+  :block/created-at 1649373270043,
+  :block/updated-at 1649373270043}
+ {:block/name "marty cagan and chris jones",
+  :block/created-at 1649373272743,
+  :block/updated-at 1649373272743}
  {:block/name "mather",
   :block/created-at 1649090074637,
   :block/updated-at 1649090074637}
@@ -1178,14 +1912,23 @@
   :block/created-at 1649090101806,
   :block/updated-at 1649090101806}
  {:block/name "matt boggie_matt",
-  :block/created-at 1649090076910,
-  :block/updated-at 1649090076910}
+  :block/created-at 1649373269183,
+  :block/updated-at 1649373269183}
+ {:block/name "max chafkin",
+  :block/created-at 1649373250291,
+  :block/updated-at 1649373250291}
+ {:block/name "medium",
+  :block/created-at 1649373234238,
+  :block/updated-at 1649373234238}
  {:block/name "meeting",
   :block/created-at 1648477465370,
   :block/updated-at 1648477465370}
+ {:block/name "meeting minutes",
+  :block/created-at 1647810348612,
+  :block/updated-at 1647810348612}
  {:block/name "meeting-notes",
-  :block/created-at 1649338338820,
-  :block/updated-at 1649338338820}
+  :block/created-at 1649373274820,
+  :block/updated-at 1649373274820}
  {:block/name "meeting/1_1",
   :block/created-at 1648477465369,
   :block/updated-at 1648477465369}
@@ -1193,62 +1936,119 @@
   :block/created-at 1648490901716,
   :block/updated-at 1648490901716}
  {:block/name "megan griffith-greene",
-  :block/created-at 1649090074435,
-  :block/updated-at 1649090074435}
+  :block/created-at 1649373272351,
+  :block/updated-at 1649373272351}
+ {:block/name "melissa perri",
+  :block/created-at 1649373273601,
+  :block/updated-at 1649373273601}
  {:block/name "meter",
-  :block/created-at 1649097328335,
-  :block/updated-at 1649097328335}
+  :block/created-at 1649373274634,
+  :block/updated-at 1649373274634}
  {:block/name "metrics that matter",
-  :block/created-at 1649090101676,
-  :block/updated-at 1649090101676}
+  :block/created-at 1649373276154,
+  :block/updated-at 1649373276154}
  {:block/name "metrics-that-matter]",
-  :block/created-at 1649090076275,
-  :block/updated-at 1649090076275}
+  :block/created-at 1649373276154,
+  :block/updated-at 1649373276154}
+ {:block/name "michael d. watkins",
+  :block/created-at 1649373251409,
+  :block/updated-at 1649373251409}
+ {:block/name "michael lewis",
+  :block/created-at 1649373249988,
+  :block/updated-at 1649373249988}
+ {:block/name "michael margolis",
+  :block/created-at 1649373272090,
+  :block/updated-at 1649373272090}
  {:block/name "michael zimbalist",
   :block/created-at 1649090101572,
   :block/updated-at 1649090101572}
  {:block/name "michael zimbalist_chief strategy officer",
-  :block/created-at 1649090073917,
-  :block/updated-at 1649090073917}
+  :block/created-at 1649373274750,
+  :block/updated-at 1649373274750}
  {:block/name "mike cost",
   :block/created-at 1649266897170,
   :block/updated-at 1649266897170}
+ {:block/name "mike monteiro",
+  :block/created-at 1649373249406,
+  :block/updated-at 1649373249406}
+ {:block/name "misinformation",
+  :block/created-at 1649373269527,
+  :block/updated-at 1649373269527}
  {:block/name "molly eichel",
-  :block/created-at 1649090073472,
-  :block/updated-at 1649090073472}
+  :block/created-at 1649373269266,
+  :block/updated-at 1649373269266}
+ {:block/name "morgan g. ames",
+  :block/created-at 1649373242557,
+  :block/updated-at 1649373242557}
+ {:block/name "motherboard.vice.com",
+  :block/created-at 1649373283237,
+  :block/updated-at 1649373283237}
+ {:block/name "mtv.com",
+  :block/created-at 1649373273880,
+  :block/updated-at 1649373273880}
  {:block/name "nadia",
-  :block/created-at 1649089540511,
-  :block/updated-at 1649089540511}
+  :block/created-at 1649373274632,
+  :block/updated-at 1649373274632}
+ {:block/name "nadia eghbal",
+  :block/created-at 1649373248349,
+  :block/updated-at 1649373248349}
  {:block/name "nadya tan",
   :block/created-at 1649100845678,
   :block/updated-at 1649100845678}
  {:block/name "naviga",
-  :block/created-at 1649089320044,
-  :block/updated-at 1649089320044}
+  :block/created-at 1649373274632,
+  :block/updated-at 1649373274632}
+ {:block/name "netflix technology blog",
+  :block/created-at 1649373248771,
+  :block/updated-at 1649373248771}
+ {:block/name "new york state attorney general",
+  :block/created-at 1649373244716,
+  :block/updated-at 1649373244716}
+ {:block/name "newyorker.com",
+  :block/created-at 1649373240990,
+  :block/updated-at 1649373240990}
+ {:block/name "nicolas carter",
+  :block/created-at 1649373278391,
+  :block/updated-at 1649373278391}
  {:block/name "nicole",
   :block/created-at 1647962593436,
   :block/updated-at 1647962593436}
+ {:block/name "nicole forsgren phd, jez humble, gene kim",
+  :block/created-at 1649373253068,
+  :block/updated-at 1649373253068}
  {:block/name "nicole henninger",
-  :block/created-at 1649090075321,
-  :block/updated-at 1649090075321}
+  :block/created-at 1649373268422,
+  :block/updated-at 1649373268422}
+ {:block/name "nicole perlroth",
+  :block/created-at 1649373252153,
+  :block/updated-at 1649373252153}
+ {:block/name "nir eyal",
+  :block/created-at 1649373237891,
+  :block/updated-at 1649373237891}
  {:block/name "notes",
-  :block/created-at 1649090076850,
-  :block/updated-at 1649090076850}
+  :block/created-at 1649373269108,
+  :block/updated-at 1649373269108}
  {:block/name "now",
   :block/created-at 1647807341644,
   :block/updated-at 1647807341644}
  {:block/name "obsidian",
   :block/created-at 1649090102314,
   :block/updated-at 1649090102314}
+ {:block/name "odd lots",
+  :block/created-at 1649373279486,
+  :block/updated-at 1649373279486}
  {:block/name "okrs",
   :block/created-at 1648481742937,
   :block/updated-at 1648481742937}
+ {:block/name "ologies with alie ward",
+  :block/created-at 1649373235689,
+  :block/updated-at 1649373235689}
  {:block/name "omnifocus",
   :block/created-at 1647873621361,
   :block/updated-at 1647873621361}
  {:block/name "onboarding journey",
-  :block/created-at 1649081534364,
-  :block/updated-at 1649081534364}
+  :block/created-at 1649373274629,
+  :block/updated-at 1649373274629}
  {:block/name "operational excellence",
   :block/created-at 1648154560625,
   :block/updated-at 1648154560625}
@@ -1256,108 +2056,207 @@
   :block/created-at 1648490890988,
   :block/updated-at 1648490890988}
  {:block/name "operations",
-  :block/created-at 1649338476760,
-  :block/updated-at 1649338476760}
+  :block/created-at 1649373269340,
+  :block/updated-at 1649373269340}
+ {:block/name "orange",
+  :block/created-at 1649373238194,
+  :block/updated-at 1649373238194}
  {:block/name "organization priorities",
-  :block/created-at 1649090102275,
-  :block/updated-at 1649090102275}
+  :block/created-at 1649373274577,
+  :block/updated-at 1649373274577}
  {:block/name "orientation structured interview questions",
-  :block/created-at 1649090100429,
-  :block/updated-at 1649090100429}
+  :block/created-at 1649373268966,
+  :block/updated-at 1649373268966}
  {:block/name "outcome mapping for metrics that matter",
-  :block/created-at 1649090101731,
-  :block/updated-at 1649090101731}
+  :block/created-at 1649373276153,
+  :block/updated-at 1649373276153}
  {:block/name "outcome mapping for metrics that matter_^nnvvws",
-  :block/created-at 1649090076273,
-  :block/updated-at 1649090076273}
+  :block/created-at 1649373276152,
+  :block/updated-at 1649373276152}
  {:block/name "ownership framework",
-  :block/created-at 1649090076408,
-  :block/updated-at 1649090076408}
+  :block/created-at 1649373277913,
+  :block/updated-at 1649373277913}
  {:block/name "pages",
-  :block/created-at 1649090076849,
-  :block/updated-at 1649090076849}
+  :block/created-at 1649373269107,
+  :block/updated-at 1649373269107}
  {:block/name "pages/inquirer 90 day plan",
-  :block/created-at 1649090076850,
-  :block/updated-at 1649090076850}
+  :block/created-at 1649373269108,
+  :block/updated-at 1649373269108}
  {:block/name "pages/inquirer 90 day plan_^82d136",
-  :block/created-at 1649090076848,
-  :block/updated-at 1649090076848}
+  :block/created-at 1649373269107,
+  :block/updated-at 1649373269107}
  {:block/name "pasted image 20220202160722.png",
-  :block/created-at 1649090076503,
-  :block/updated-at 1649090076503}
+  :block/created-at 1649373277220,
+  :block/updated-at 1649373277220}
  {:block/name "pasted image 20220202160808.png",
-  :block/created-at 1649090076503,
-  :block/updated-at 1649090076503}
+  :block/created-at 1649373277220,
+  :block/updated-at 1649373277220}
  {:block/name "pasted image 20220202160846.png",
-  :block/created-at 1649090076503,
-  :block/updated-at 1649090076503}
+  :block/created-at 1649373277220,
+  :block/updated-at 1649373277220}
  {:block/name "pasted image 20220202160927.png",
-  :block/created-at 1649090076502,
-  :block/updated-at 1649090076502}
+  :block/created-at 1649373277219,
+  :block/updated-at 1649373277219}
  {:block/name "pasted image 20220202160955.png",
-  :block/created-at 1649090076502,
-  :block/updated-at 1649090076502}
+  :block/created-at 1649373277219,
+  :block/updated-at 1649373277219}
  {:block/name "pasted image 20220202163416.png",
-  :block/created-at 1649090076504,
-  :block/updated-at 1649090076504}
+  :block/created-at 1649373277221,
+  :block/updated-at 1649373277221}
  {:block/name "pasted image 20220202163747.png",
-  :block/created-at 1649090076504,
-  :block/updated-at 1649090076504}
+  :block/created-at 1649373277221,
+  :block/updated-at 1649373277221}
  {:block/name "pasted image 20220210133307.png",
-  :block/created-at 1649090076913,
-  :block/updated-at 1649090076913}
+  :block/created-at 1649373269186,
+  :block/updated-at 1649373269186}
  {:block/name "pasted image 20220210133338.png",
-  :block/created-at 1649090076913,
-  :block/updated-at 1649090076913}
+  :block/created-at 1649373269186,
+  :block/updated-at 1649373269186}
  {:block/name "patrick kerkstra",
-  :block/created-at 1649090098986,
-  :block/updated-at 1649090098986}
+  :block/created-at 1649373268422,
+  :block/updated-at 1649373268422}
+ {:block/name "paul beatty",
+  :block/created-at 1649373235627,
+  :block/updated-at 1649373235627}
+ {:block/name
+  "paul h. o'neill sr., ken segel, geoff webster, mark graban, john toussaint, and paul h. o'neill jr.",
+  :block/created-at 1649373243418,
+  :block/updated-at 1649373243418}
  {:block/name "pde week",
   :block/created-at 1647826710515,
   :block/updated-at 1647874750677}
  {:block/name "pde week - 2021q4",
-  :block/created-at 1649090101470,
-  :block/updated-at 1649090101470}
+  :block/created-at 1649373270000,
+  :block/updated-at 1649373270000}
  {:block/name "pde week - 2022q1",
-  :block/created-at 1649090101630,
-  :block/updated-at 1649090101630}
+  :block/created-at 1649373277264,
+  :block/updated-at 1649373277264}
  {:block/name "performance goals",
-  :block/created-at 1649270894666,
-  :block/updated-at 1649270894666}
+  :block/created-at 1649373271349,
+  :block/updated-at 1649373271349}
  {:block/name "performance management",
-  :block/created-at 1649090101533,
-  :block/updated-at 1649270894670}
+  :block/created-at 1649373271347,
+  :block/updated-at 1649373271347}
  {:block/name
   "performance management_performance management goals_performance goals",
-  :block/created-at 1649090076088,
-  :block/updated-at 1649090076088}
+  :block/created-at 1649373277263,
+  :block/updated-at 1649373277263}
  {:block/name "personal",
   :block/created-at 1647826706275,
   :block/updated-at 1647826706275}
  {:block/name "personal bio",
-  :block/created-at 1649090102760,
-  :block/updated-at 1649090102760}
+  :block/created-at 1649373269009,
+  :block/updated-at 1649373269009}
  {:block/name "personal/realization",
   :block/created-at 1647826706274,
   :block/updated-at 1647826706274}
  {:block/name "pete doucette",
   :block/created-at 1649090074014,
   :block/updated-at 1649090074014}
+ {:block/name "peter robison",
+  :block/created-at 1649373244907,
+  :block/updated-at 1649373244907}
  {:block/name "philadelphia inquirer",
   :block/created-at 1648477159194,
   :block/updated-at 1648477159194}
  {:block/name "philladelphia inquirer",
-  :block/created-at 1649090102844,
-  :block/updated-at 1649090102844}
+  :block/created-at 1649373269064,
+  :block/updated-at 1649373269064}
+ {:block/name "phillips, judah",
+  :block/created-at 1649373249202,
+  :block/updated-at 1649373249202}
  {:block/name "piano",
   :block/created-at 1649278212509,
   :block/updated-at 1649278212509}
+ {:block/name "pink",
+  :block/created-at 1649373234965,
+  :block/updated-at 1649373234965}
+ {:block/name "podcasts",
+  :block/created-at 1649373234077,
+  :block/updated-at 1649373234077}
+ {:block/name "podcasts/06 hardware is hard",
+  :block/created-at 1649373238736,
+  :block/updated-at 1649373238736}
+ {:block/name "podcasts/068  common knowledge",
+  :block/created-at 1649373240196,
+  :block/updated-at 1649373240196}
+ {:block/name
+  "podcasts/adhd  how anyone can improve their focus  episode 37",
+  :block/created-at 1649373239812,
+  :block/updated-at 1649373239812}
+ {:block/name
+  "podcasts/adhd part 2 with how to adhd black girl lost keys jahla osborne  more",
+  :block/created-at 1649373235692,
+  :block/updated-at 1649373235692}
+ {:block/name
+  "podcasts/amazon narratives memos working backwards from release more",
+  :block/created-at 1649373235204,
+  :block/updated-at 1649373235204}
+ {:block/name
+  "podcasts/attentiondeficit neuropsychology adhd part 1 with russell barkley",
+  :block/created-at 1649373247217,
+  :block/updated-at 1649373247217}
+ {:block/name "podcasts/cloudflare",
+  :block/created-at 1649373280625,
+  :block/updated-at 1649373280625}
+ {:block/name
+  "podcasts/clubhouse and airpods twitter meerkat and clubhouse clubhouse monetization",
+  :block/created-at 1649373273070,
+  :block/updated-at 1649373273070}
+ {:block/name
+  "podcasts/dr robert sapolsky science of stress testosterone  free will  episode 35",
+  :block/created-at 1649373241802,
+  :block/updated-at 1649373241802}
+ {:block/name "podcasts/episode 129 superfascism with liv agar",
+  :block/created-at 1649373242373,
+  :block/updated-at 1649373242373}
+ {:block/name "podcasts/episode 26 that colossal wreck",
+  :block/created-at 1649373234079,
+  :block/updated-at 1649373234079}
+ {:block/name "podcasts/escaping the build trap  melissa perri",
+  :block/created-at 1649373244014,
+  :block/updated-at 1649373244014}
+ {:block/name "podcasts/how do i navigate a new senior role",
+  :block/created-at 1649373283875,
+  :block/updated-at 1649373283875}
+ {:block/name
+  "podcasts/how the worlds companies wound up in a deepening supply chain nightmare",
+  :block/created-at 1649373279497,
+  :block/updated-at 1649373279497}
+ {:block/name "podcasts/how to increase motivation  drive  episode 12",
+  :block/created-at 1649373241459,
+  :block/updated-at 1649373241459}
+ {:block/name "podcasts/is limitless choice killing us slowly",
+  :block/created-at 1649373241153,
+  :block/updated-at 1649373241153}
+ {:block/name
+  "podcasts/jacobin radio w suzi weissman all the news that’s fit to click w caitlin petre",
+  :block/created-at 1649373252541,
+  :block/updated-at 1649373252541}
+ {:block/name
+  "podcasts/maximizing productivity physical  mental health with daily tools  episode 28",
+  :block/created-at 1649373245146,
+  :block/updated-at 1649373245146}
+ {:block/name "podcasts/the antitrans agenda",
+  :block/created-at 1649373241943,
+  :block/updated-at 1649373241943}
+ {:block/name "podcasts/the challenges of audio content moderation",
+  :block/created-at 1649373246730,
+  :block/updated-at 1649373246730}
+ {:block/name
+  "podcasts/the privatized state and government outsourcing of public powers",
+  :block/created-at 1649373280950,
+  :block/updated-at 1649373280950}
+ {:block/name
+  "podcasts/the science of making  breaking habits  episode 53",
+  :block/created-at 1649373278084,
+  :block/updated-at 1649373278084}
  {:block/name "premium content recommendation engine",
-  :block/created-at 1649100778851,
-  :block/updated-at 1649100778851}
+  :block/created-at 1649373274635,
+  :block/updated-at 1649373274635}
  {:block/name "preset",
-  :block/created-at 1649090102886,
-  :block/updated-at 1649090102886}
+  :block/created-at 1649373274880,
+  :block/updated-at 1649373274880}
  {:block/name "priorities for the week",
   :block/created-at 1648474362197,
   :block/updated-at 1648474362197}
@@ -1374,183 +2273,321 @@
   :block/created-at 1647826706394,
   :block/updated-at 1647826706394}
  {:block/name "priority_priority project list",
-  :block/created-at 1649090073471,
-  :block/updated-at 1649090073471}
+  :block/created-at 1649373269265,
+  :block/updated-at 1649373269265}
+ {:block/name "priya parker",
+  :block/created-at 1649373251811,
+  :block/updated-at 1649373251811}
+ {:block/name "product",
+  :block/created-at 1649373247631,
+  :block/updated-at 1649373247631}
  {:block/name "product and operations group",
-  :block/created-at 1649090099711,
-  :block/updated-at 1649090099711}
+  :block/created-at 1649373270019,
+  :block/updated-at 1649373270019}
+ {:block/name "product management",
+  :block/created-at 1649373242751,
+  :block/updated-at 1649373242751}
  {:block/name "product roadmaps relaunched",
-  :block/created-at 1649090102151,
-  :block/updated-at 1649090102151}
+  :block/created-at 1649373268897,
+  :block/updated-at 1649373268897}
  {:block/name "product, design, and engineering",
-  :block/created-at 1649090101627,
-  :block/updated-at 1649090101627}
+  :block/created-at 1649373273340,
+  :block/updated-at 1649373273340}
  {:block/name "product, design, and engineering_pde",
-  :block/created-at 1649090076701,
-  :block/updated-at 1649090076701}
+  :block/created-at 1649373273339,
+  :block/updated-at 1649373273339}
  {:block/name "project",
-  :block/created-at 1649090075834,
-  :block/updated-at 1649090075834}
+  :block/created-at 1649373280581,
+  :block/updated-at 1649373280581}
  {:block/name "projects",
   :block/created-at 1647826706395,
   :block/updated-at 1647826706395}
  {:block/name "propensity to subscribe",
-  :block/created-at 1649097522357,
-  :block/updated-at 1649097522357}
+  :block/created-at 1649373274634,
+  :block/updated-at 1649373274634}
+ {:block/name "qanon anonymous",
+  :block/created-at 1649373242371,
+  :block/updated-at 1649373242371}
  {:block/name "rachelc",
   :block/created-at 1647957937960,
   :block/updated-at 1647957937960}
+ {:block/name "readwise highlights",
+  :block/created-at 1649373233926,
+  :block/updated-at 1649373233926}
  {:block/name "reflection",
   :block/created-at 1647826706276,
   :block/updated-at 1647826706276}
  {:block/name "reflections- week one",
-  :block/created-at 1649090075128,
-  :block/updated-at 1649090075128}
+  :block/created-at 1649373269406,
+  :block/updated-at 1649373269406}
  {:block/name "registration",
-  :block/created-at 1649097531123,
-  :block/updated-at 1649097531123}
- {:block/name "rishi kumar",
-  :block/created-at 1649090086610,
-  :block/updated-at 1649090086610}
+  :block/created-at 1649373274634,
+  :block/updated-at 1649373274634}
+ {:block/name "richard rumelt",
+  :block/created-at 1649373243184,
+  :block/updated-at 1649373243184}
+ {:block/name "rick perlstein",
+  :block/created-at 1649373244374,
+  :block/updated-at 1649373244374}
+ {:block/name "riordan on huffduffer",
+  :block/created-at 1649373244006,
+  :block/updated-at 1649373244006}
  {:block/name "roam",
   :block/created-at 1647826706276,
   :block/updated-at 1647826706276}
  {:block/name "ross maghielse",
-  :block/created-at 1649090073475,
-  :block/updated-at 1649090073475}
+  :block/created-at 1649373268424,
+  :block/updated-at 1649373268424}
  {:block/name "rp&a",
-  :block/created-at 1649090075689,
-  :block/updated-at 1649090075689}
- {:block/name "rsd.-",
-  :block/created-at 1649090087110,
-  :block/updated-at 1649090087110}
+  :block/created-at 1649373270042,
+  :block/updated-at 1649373270042}
  {:block/name "salesforce",
-  :block/created-at 1649090076501,
-  :block/updated-at 1649090076501}
+  :block/created-at 1649373277218,
+  :block/updated-at 1649373277218}
  {:block/name "salesforce data model",
-  :block/created-at 1649090102715,
-  :block/updated-at 1649090102715}
+  :block/created-at 1649373277221,
+  :block/updated-at 1649373277221}
+ {:block/name "sandeep uttamchandani",
+  :block/created-at 1649373246116,
+  :block/updated-at 1649373246116}
  {:block/name "sarah jarvis",
-  :block/created-at 1649097202882,
-  :block/updated-at 1649097596580}
+  :block/created-at 1649373274528,
+  :block/updated-at 1649373274528}
  {:block/name "sarah schmalbach",
-  :block/created-at 1649090075322,
-  :block/updated-at 1649090075322}
+  :block/created-at 1649373268423,
+  :block/updated-at 1649373268423}
+ {:block/name "scott h. young",
+  :block/created-at 1649373278756,
+  :block/updated-at 1649373278756}
  {:block/name "screen shot 2022-03-09 at 11.15.07.png",
-  :block/created-at 1649090073638,
-  :block/updated-at 1649090073638}
+  :block/created-at 1649373274815,
+  :block/updated-at 1649373274815}
  {:block/name "screen shot 2022-03-09 at 11.15.39.png",
-  :block/created-at 1649090073639,
-  :block/updated-at 1649090073639}
+  :block/created-at 1649373274815,
+  :block/updated-at 1649373274815}
  {:block/name "screen shot 2022-03-09 at 11.19.43.png",
-  :block/created-at 1649090073639,
-  :block/updated-at 1649090073639}
+  :block/created-at 1649373274816,
+  :block/updated-at 1649373274816}
  {:block/name "self",
-  :block/created-at 1649090102668,
-  :block/updated-at 1649090102668}
+  :block/created-at 1649373272042,
+  :block/updated-at 1649373272042}
  {:block/name "self-embetterment",
-  :block/created-at 1649090103052,
-  :block/updated-at 1649090103052}
+  :block/created-at 1649373272413,
+  :block/updated-at 1649373272413}
  {:block/name "self_ambition",
-  :block/created-at 1649090073559,
-  :block/updated-at 1649090073559}
+  :block/created-at 1649373275655,
+  :block/updated-at 1649373275655}
+ {:block/name "sheera frenkel and cecilia kang",
+  :block/created-at 1649373238189,
+  :block/updated-at 1649373238189}
+ {:block/name "shoshana zuboff",
+  :block/created-at 1649373252803,
+  :block/updated-at 1649373252803}
+ {:block/name "snipd",
+  :block/created-at 1649373247200,
+  :block/updated-at 1649373247200}
+ {:block/name "sniperinmahwah.wordpress.com",
+  :block/created-at 1649373237800,
+  :block/updated-at 1649373237800}
+ {:block/name "spencer ackerman",
+  :block/created-at 1649373279874,
+  :block/updated-at 1649373279874}
+ {:block/name "spotify_ a product story",
+  :block/created-at 1649373238727,
+  :block/updated-at 1649373238727}
  {:block/name "stack overflow",
-  :block/created-at 1649090102633,
-  :block/updated-at 1649090102633}
+  :block/created-at 1649373270264,
+  :block/updated-at 1649373270264}
+ {:block/name "status",
+  :block/created-at 1647826706395,
+  :block/updated-at 1647826706395}
+ {:block/name "steve yegge",
+  :block/created-at 1649373280244,
+  :block/updated-at 1649373280244}
  {:block/name "stories",
-  :block/created-at 1649090085248,
-  :block/updated-at 1649090085248}
+  :block/created-at 1649373268328,
+  :block/updated-at 1649373268328}
+ {:block/name "stratechery.com",
+  :block/created-at 1649373233923,
+  :block/updated-at 1649373233923}
  {:block/name "subscrber data popup squad",
-  :block/created-at 1649090073860,
-  :block/updated-at 1649090073860}
+  :block/created-at 1649373274179,
+  :block/updated-at 1649373274179}
  {:block/name "subscriber data reporting",
   :block/created-at 1648653497198,
   :block/updated-at 1648653497198}
  {:block/name "subscriber data warehouse",
-  :block/created-at 1649090102090,
-  :block/updated-at 1649090102090}
+  :block/created-at 1649373269182,
+  :block/updated-at 1649373269182}
  {:block/name "subscriber lifecycle project",
   :block/created-at 1647956141485,
   :block/updated-at 1647956141485}
  {:block/name "success criteria",
   :block/created-at 1648663011004,
   :block/updated-at 1648663011004}
+ {:block/name "supplemental",
+  :block/created-at 1649373234155,
+  :block/updated-at 1649373234155}
+ {:block/name "supplementals",
+  :block/created-at 1649373234155,
+  :block/updated-at 1649373234155}
+ {:block/name "supplementals/atomic habits",
+  :block/created-at 1649373238305,
+  :block/updated-at 1649373238305}
+ {:block/name "supplementals/bullshit jobs",
+  :block/created-at 1649373240555,
+  :block/updated-at 1649373240555}
+ {:block/name "supplementals/cable cowboy",
+  :block/created-at 1649373245917,
+  :block/updated-at 1649373245917}
+ {:block/name "supplementals/dreyer’s english",
+  :block/created-at 1649373242085,
+  :block/updated-at 1649373242085}
+ {:block/name "supplementals/driven to distraction",
+  :block/created-at 1649373245712,
+  :block/updated-at 1649373245712}
+ {:block/name "supplementals/it doesn’t have to be crazy at work",
+  :block/created-at 1649373249639,
+  :block/updated-at 1649373249639}
+ {:block/name "supplementals/network propaganda",
+  :block/created-at 1649373248989,
+  :block/updated-at 1649373248989}
+ {:block/name "supplementals/new dark age",
+  :block/created-at 1649373239614,
+  :block/updated-at 1649373239614}
+ {:block/name "supplementals/punished by rewards",
+  :block/created-at 1649373274994,
+  :block/updated-at 1649373274994}
+ {:block/name "supplementals/radical candor",
+  :block/created-at 1649373282849,
+  :block/updated-at 1649373282849}
+ {:block/name "supplementals/spark",
+  :block/created-at 1649373277617,
+  :block/updated-at 1649373277617}
+ {:block/name "supplementals/super thinking",
+  :block/created-at 1649373234167,
+  :block/updated-at 1649373234167}
+ {:block/name "supplementals/the age of surveillance capitalism",
+  :block/created-at 1649373252808,
+  :block/updated-at 1649373252808}
+ {:block/name "supplementals/the art of gathering",
+  :block/created-at 1649373251817,
+  :block/updated-at 1649373251817}
+ {:block/name "supplementals/the wealth of networks",
+  :block/created-at 1649373235444,
+  :block/updated-at 1649373235444}
+ {:block/name "supplementals/thinking in bets",
+  :block/created-at 1649373247958,
+  :block/updated-at 1649373247958}
+ {:block/name "supplementals/what you do is who you are",
+  :block/created-at 1649373238416,
+  :block/updated-at 1649373238416}
  {:block/name "support",
-  :block/created-at 1649090075324,
-  :block/updated-at 1649090075324}
+  :block/created-at 1649373268425,
+  :block/updated-at 1649373268425}
+ {:block/name "sway",
+  :block/created-at 1649373241151,
+  :block/updated-at 1649373241151}
  {:block/name "tahsinekram.pdf",
-  :block/created-at 1649090074958,
-  :block/updated-at 1649090074958}
+  :block/created-at 1649373273528,
+  :block/updated-at 1649373273528}
  {:block/name "task",
-  :block/created-at 1649090073922,
-  :block/updated-at 1649090073922}
+  :block/created-at 1649373269183,
+  :block/updated-at 1649373269183}
  {:block/name "tasks",
-  :block/created-at 1649090102533,
-  :block/updated-at 1649090102533}
+  :block/created-at 1649373268346,
+  :block/updated-at 1649373268346}
+ {:block/name "testing_optimization",
+  :block/created-at 1649373238012,
+  :block/updated-at 1649373238012}
  {:block/name "the chickenshit club",
-  :block/created-at 1649090101133,
-  :block/updated-at 1649090101133}
+  :block/created-at 1649373268217,
+  :block/updated-at 1649373268217}
  {:block/name "the first 90 days",
-  :block/created-at 1649090100241,
-  :block/updated-at 1649090100241}
+  :block/created-at 1649373269107,
+  :block/updated-at 1649373269107}
  {:block/name "the idea factory",
-  :block/created-at 1649090101050,
-  :block/updated-at 1649090101050}
+  :block/created-at 1649373268842,
+  :block/updated-at 1649373268842}
+ {:block/name "the lawfare podcast",
+  :block/created-at 1649373246697,
+  :block/updated-at 1649373246697}
+ {:block/name "the stratechery podcast",
+  :block/created-at 1649373273067,
+  :block/updated-at 1649373273067}
  {:block/name "things i'm working on",
   :block/created-at 1647873592815,
   :block/updated-at 1647873653369}
+ {:block/name "tim carmody",
+  :block/created-at 1649373251071,
+  :block/updated-at 1649373251071}
+ {:block/name "tinyletter.com",
+  :block/created-at 1649373235754,
+  :block/updated-at 1649373235754}
  {:block/name "tj furman",
-  :block/created-at 1649100855815,
-  :block/updated-at 1649100855815}
+  :block/created-at 1649373274636,
+  :block/updated-at 1649373274636}
  {:block/name "toan dang",
-  :block/created-at 1649090074634,
-  :block/updated-at 1649090074634}
+  :block/created-at 1649373268422,
+  :block/updated-at 1649373268422}
  {:block/name "todd gillespe",
-  :block/created-at 1649090074638,
-  :block/updated-at 1649090074638}
+  :block/created-at 1649373270188,
+  :block/updated-at 1649373270188}
  {:block/name "todo",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
  {:block/name "tracy o'rourke",
-  :block/created-at 1649090102426,
-  :block/updated-at 1649090102426}
+  :block/created-at 1649373269185,
+  :block/updated-at 1649373269185}
  {:block/name "unify subscriber data",
   :block/created-at 1647956036430,
   :block/updated-at 1647956036430}
  {:block/name "user story mapping",
-  :block/created-at 1649090074016,
-  :block/updated-at 1649090074016}
+  :block/created-at 1649373269499,
+  :block/updated-at 1649373269499}
  {:block/name "vacation stops",
   :block/created-at 1649265718115,
   :block/updated-at 1649265718115}
  {:block/name "vassavi kolusu",
-  :block/created-at 1649090102710,
-  :block/updated-at 1649090102710}
+  :block/created-at 1649373275324,
+  :block/updated-at 1649373275324}
  {:block/name "vendor",
-  :block/created-at 1649090074636,
-  :block/updated-at 1649090074636}
+  :block/created-at 1649373270187,
+  :block/updated-at 1649373270187}
  {:block/name "wait",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
  {:block/name "waiting",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
- {:block/name "with a new preface'",
-  :block/created-at 1649090086243,
-  :block/updated-at 1649090086243}
+ {:block/name "weekly plan",
+  :block/created-at 1647826706406,
+  :block/updated-at 1647826706406}
+ {:block/name "weekly review",
+  :block/created-at 1647809979726,
+  :block/updated-at 1647809979726}
  {:block/name "working backwards",
-  :block/created-at 1649090101095,
-  :block/updated-at 1649090101095}
+  :block/created-at 1649373268327,
+  :block/updated-at 1649373268327}
  {:block/name
   "working backwards - presentations and metrics at amazon.pdf",
-  :block/created-at 1649090073921,
-  :block/updated-at 1649090073921}
+  :block/created-at 1649373274752,
+  :block/updated-at 1649373274752}
+ {:block/name "writing",
+  :block/created-at 1647808784552,
+  :block/updated-at 1647808784552}
+ {:block/name "yochai benkler",
+  :block/created-at 1649373235434,
+  :block/updated-at 1649373235434}
+ {:block/name "yochai benkler, robert faris, hal roberts",
+  :block/created-at 1649373248983,
+  :block/updated-at 1649373248983}
  {:block/name "your job",
-  :block/created-at 1649090100646,
-  :block/updated-at 1649090100646}
+  :block/created-at 1649373268985,
+  :block/updated-at 1649373268985}
  {:block/name "zimbalist",
-  :block/created-at 1649090076008,
-  :block/updated-at 1649090076008}
+  :block/created-at 1649373273500,
+  :block/updated-at 1649373273500}
  {:block/name "{{date_gggg-[w]ww}}_priorities for the week",
-  :block/created-at 1649090073471, 
-  :block/updated-at 1649090073471}]
+  :block/created-at 1649373269265, 
+  :block/updated-at 1649373269265}]
