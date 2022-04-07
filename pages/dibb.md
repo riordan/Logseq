@@ -1,11 +1,11 @@
 -
 - {{renderer :kanban_ncfl}}
 	- DIBB Proposals
-	  collapsed:: true
 		- #fleeting Ideas
 		- Write Proposal
 			- [[dibb/Experimentation Coordination]]
-				-
+			- [[Incident Management]]
+			- [[dibb/Event Horizon]]
 		- Proposed
 		- Active
 		- Completed
