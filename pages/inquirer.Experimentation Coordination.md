@@ -2,7 +2,11 @@ alias:: inquirer/Experimentation Coordination
 tags:: inquirer/project, inquirer/dibb, dibb
 title:: dibb/Experimentation Coordination
 
--
+- ## DIBB
+	- ### Data
+	- ### Insights
+	- ### Beliefs
+	- ### Bet
 - ## Project Structure
 - ## Project Notes
 - [[2022/04/06]]
