@@ -47,4 +47,4 @@ title:: dibb/Experimentation Coordination
 		- Pull automated data from all known experiment sources
 		- Visualize active experiment timelines
 		- Post new experiments to a slack channel
-		- Post a weekly update of all running experiments
+		- Post a weekly update of all running (non-_ permanent _) experiments
