@@ -1,5 +1,5 @@
 ---
-aliases: Philadelphia Inquirer
+alias: Philadelphia Inquirer
 ---
 
 -
