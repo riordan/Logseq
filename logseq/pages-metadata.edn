@@ -1,7 +1,4 @@
-[{:block/name "'working backwards_ insights",
-  :block/created-at 1649373268327,
-  :block/updated-at 1649373268327}
- {:block/name "1",
+[{:block/name "1",
   :block/created-at 1649373268420,
   :block/updated-at 1649373268420}
  {:block/name "1969",
@@ -721,9 +718,6 @@
  {:block/name "analytics team",
   :block/created-at 1647817104717,
   :block/updated-at 1647817104717}
- {:block/name "and secrets from inside amazon'",
-  :block/created-at 1649373268328,
-  :block/updated-at 1649373268328}
  {:block/name "andy",
   :block/created-at 1648580538438,
   :block/updated-at 1648580538438}
@@ -1305,6 +1299,9 @@
  {:block/name "data management platform",
   :block/created-at 1649373269456,
   :block/updated-at 1649373269456}
+ {:block/name "data platform",
+  :block/created-at 1649687194787,
+  :block/updated-at 1649687194787}
  {:block/name "data program",
   :block/created-at 1648650350937,
   :block/updated-at 1648650350937}
@@ -1842,6 +1839,9 @@
  {:block/name "liz grace",
   :block/created-at 1649278125878,
   :block/updated-at 1649278125878}
+ {:block/name "logseq",
+  :block/created-at 1649687194529,
+  :block/updated-at 1649687194529}
  {:block/name "loomis",
   :block/created-at 1649090466113,
   :block/updated-at 1649090466113}
@@ -1875,6 +1875,9 @@
  {:block/name "mark burgess",
   :block/created-at 1649373242924,
   :block/updated-at 1649373242924}
+ {:block/name "mark loomis",
+  :block/created-at 1649687194676,
+  :block/updated-at 1649687194676}
  {:block/name "mark robichaux",
   :block/created-at 1649591857432,
   :block/updated-at 1649591857432}
@@ -2401,9 +2404,6 @@
  {:block/name "steve yegge",
   :block/created-at 1649591857923,
   :block/updated-at 1649591857923}
- {:block/name "stories",
-  :block/created-at 1649373268328,
-  :block/updated-at 1649373268328}
  {:block/name "stratechery.com",
   :block/created-at 1649373233923,
   :block/updated-at 1649373233923}
