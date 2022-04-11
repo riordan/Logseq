@@ -1,6 +1,6 @@
 -
 - 💯 Logseq Must Haves (to be worth switching from Obsidian):
-  collapsed:: true
 	- [x] iPad support with syncing
-	- [x] Persistent block references
-	  [x] Mermaidjs diagrams
+	- [ ] Persistent block references
+		- as of [[2022/04/11]] still breaking when reindexed.
+	- [x] Mermaidjs diagrams
