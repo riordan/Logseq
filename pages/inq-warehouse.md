@@ -1,1 +1,2 @@
-- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current organization structure detracts from the intention of `inq-warehouse` being the gold standard for data work at The Inquirer. At the time of writing, the
+- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current organization structure detracts from the intention of `inq-warehouse` being the gold standard for data work at The Inquirer. At the time of writing, there are
+- inq-warehouse.analytics
