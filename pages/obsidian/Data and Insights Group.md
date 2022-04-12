@@ -1,5 +1,5 @@
 ---
-tags: [inquirer/teams]
+tags: inquirer/teams
 alias: Data and Insights, Data and Insights Department
 ---
 

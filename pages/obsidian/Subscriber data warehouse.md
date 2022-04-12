@@ -1,5 +1,5 @@
 ---
-tags: [inquirer/projects]
+tags: inquirer/projects
 ---
 
 - [Project page - confluence](https://inquirer.atlassian.net/wiki/spaces/KB/pages/1772552239/Subscription+Data+Warehouse+Project)

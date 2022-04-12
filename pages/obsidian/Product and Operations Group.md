@@ -1,5 +1,5 @@
 ---
-tags: [inquirer/teams]
+tags: inquirer/teams
 ---
 
 # Divisions

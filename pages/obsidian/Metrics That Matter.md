@@ -1,5 +1,5 @@
 ---
-tags: [inquirer/projects]
+tags: inquirer/projects
 ---
 
 # Document Reference:
