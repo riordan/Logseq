@@ -1,9 +1,9 @@
 - ## Capabilities:
 	- ### Components:
 		- Data Acquisition Framework: [[Vestapol]] & [[Airbyte]]
-		- Data Lake:
+		- Data Lake: [[gcs]] with configuration
 		- Data Warehouse
-		- Data Orchestration Platform
+		- Data Orchestration Platform:
 		- Data Scheduler
 		- Data Modeling Pipelines
 		- Reporting
