@@ -1,10 +1,9 @@
 - Bloat
 	- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current organization structure detracts from the intention of `inq-warehouse` being the gold standard for data work at The Inquirer.
 	  
-	  At the time of writing ( [[2022/04/12]] ), there are 160 discrete tables in the `inq-warehouse.analytics` dataset, comprising all tables in (or previously in) our production DBT instance (see ((625584a2-d43f-4dc8-9ce7-1529ef9dc52f)) ). There are
+	  At the time of writing ( [[2022/04/12]] ), there are 160 discrete tables in the `inq-warehouse.analytics` dataset, comprising all tables in (or previously in) our production DBT instance (see ((625584a2-d43f-4dc8-9ce7-1529ef9dc52f)) ).
 	- inq-warehouse.analytics dataset:
 	  id:: 625584a2-d43f-4dc8-9ce7-1529ef9dc52f
-	  collapsed:: true
 		- tableId                      Type    Labels   Time Partitioning   Clustered Fields
 		   ----------------------------------------------- ------- -------- ------------------- ------------------
 		    2022_goals                                      TABLE
