@@ -1,1 +1,1 @@
-- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current structure encourages co-mingling
+- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current structure encourages
