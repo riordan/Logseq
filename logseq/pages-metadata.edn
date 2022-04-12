@@ -537,7 +537,7 @@
   :block/updated-at 1649684712659}
  {:block/name "2022/04/12",
   :block/created-at 1649683542860,
-  :block/updated-at 1649683542860}
+  :block/updated-at 1649769966828}
  {:block/name "2022/04/13",
   :block/created-at 1649683555074,
   :block/updated-at 1649683555074}
@@ -607,9 +607,6 @@
  {:block/name "[pde]",
   :block/created-at 1649373273341,
   :block/updated-at 1649373273341}
- {:block/name "[philadelphia inquirer]",
-  :block/created-at 1649373270136,
-  :block/updated-at 1649373270136}
  {:block/name "[projects",
   :block/created-at 1649373273532,
   :block/updated-at 1649373273532}
@@ -1105,7 +1102,7 @@
   :block/updated-at 1649373274755}
  {:block/name "brian waligorski",
   :block/created-at 1649090099369,
-  :block/updated-at 1649090099369}
+  :block/updated-at 1649770001752}
  {:block/name "brian waligorski_brian's",
   :block/created-at 1649373274503,
   :block/updated-at 1649373274503}
@@ -1287,9 +1284,6 @@
  {:block/name "data engineering group",
   :block/created-at 1649373273531,
   :block/updated-at 1649373273531}
- {:block/name "data engineering group_data team",
-  :block/created-at 1649373274179,
-  :block/updated-at 1649373274179}
  {:block/name "data engineers",
   :block/created-at 1648487138566,
   :block/updated-at 1648487138566}
@@ -1301,7 +1295,7 @@
   :block/updated-at 1649373269456}
  {:block/name "data platform",
   :block/created-at 1649687194787,
-  :block/updated-at 1649687194787}
+  :block/updated-at 1649770170125}
  {:block/name "data program",
   :block/created-at 1648650350937,
   :block/updated-at 1648650350937}
@@ -1347,6 +1341,9 @@
  {:block/name "development planning",
   :block/created-at 1648481756092,
   :block/updated-at 1648481756092}
+ {:block/name "devin",
+  :block/created-at 1649768910776,
+  :block/updated-at 1649768910776}
  {:block/name "dibb",
   :block/created-at 1649257705852,
   :block/updated-at 1649347698074}
@@ -1656,6 +1653,9 @@
  {:block/name "inquirer/hr",
   :block/created-at 1649373271348,
   :block/updated-at 1649373271348}
+ {:block/name "inquirer/legal",
+  :block/created-at 1649768910774,
+  :block/updated-at 1649768910774}
  {:block/name "inquirer/mobile app",
   :block/created-at 1649278290793,
   :block/updated-at 1649278290793}
@@ -1671,9 +1671,6 @@
  {:block/name "inquirer/projects",
   :block/created-at 1649373270092,
   :block/updated-at 1649373270092}
- {:block/name "inquirer/projects]",
-  :block/created-at 1649686490306,
-  :block/updated-at 1649686490306}
  {:block/name "insights guild",
   :block/created-at 1649373274554,
   :block/updated-at 1649373274554}
@@ -1770,6 +1767,9 @@
  {:block/name "killing dsi",
   :block/created-at 1649270282271,
   :block/updated-at 1649347337344}
+ {:block/name "kim rossmair johnson",
+  :block/created-at 1649768910774,
+  :block/updated-at 1649768910774}
  {:block/name "kim scott",
   :block/created-at 1649591848574,
   :block/updated-at 1649591848574}
@@ -2025,9 +2025,6 @@
  {:block/name "obsidian/data platform",
   :block/created-at 1649687090736,
   :block/updated-at 1649687090736}
- {:block/name "obsidian/inquirer",
-  :block/created-at 1649687110727,
-  :block/updated-at 1649687110727}
  {:block/name "obsidian/logseq",
   :block/created-at 1649687134185,
   :block/updated-at 1649687134185}

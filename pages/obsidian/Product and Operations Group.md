@@ -1,9 +1,8 @@
 ---
 tags: [inquirer/teams]
 ---
-# Divisions
 
+# Divisions
 ## Product
 [[Becky Bowers]]' team.
-
 ## [[Data and Insights Group|Data and Insights]]

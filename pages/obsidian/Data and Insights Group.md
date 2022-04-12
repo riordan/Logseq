@@ -12,8 +12,6 @@ Data and Insights is part of the [[Product and Operations Group]] and contains t
 3. [ ] [[Data and Insights 2022 OKRs|OKRs for 2022]]
 4. [ ] [[#Mission]]
 5. [ ] Training Plan
-
-
 # Portfolio
 - Teams:
 	- [[Analytics Team]]
@@ -21,21 +19,15 @@ Data and Insights is part of the [[Product and Operations Group]] and contains t
 - **Offerings:**
 	- **Products**
 	- **Services**
-
 ## Foundation
 ### Mission
-
 ### Principles
-
 ## Prioritization
 ### Prioritization Framework
 1. Company Mission, Vision, North Star
 2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
-3. We assist in The Inquirer's annual goals and 
-
+3. We assist in The Inquirer's annual goals and
 ## Roadmap
-
-
 ## 2022 Planning
 ### OKRs
 
