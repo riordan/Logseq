@@ -12,4 +12,5 @@ tags: [[inquirer/projects]]
 			- Equevelent of User360, Meter Stops, etc.
 		- Migrate all ongoing reporting to use new sources
 			- Dashboards, tools like meter stops
+			- Set up hybrid tools to do historical lookups
 		-
