@@ -1,1 +1,1 @@
-- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current structure makes navigating related data assets difficult
+- We need to improve the data discovery experience in the inq-warehouse BigQuery project, as the current structure makes navigating related data assets difficult and is prone to get much
