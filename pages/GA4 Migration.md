@@ -8,5 +8,6 @@ tags: [[inquirer/projects]]
 			- Switch to purely event-based collection & analysis
 			- Validate that we're collecting everything correctly
 		- Create vital reporting in native Google interface
-		- Create new data pipelines for all analyses
+		- Create new data pipelines  and use it for all new analysis work
+		-
 		-
