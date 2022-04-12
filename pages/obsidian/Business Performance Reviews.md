@@ -1,5 +1,5 @@
 ---
-alias: BPR, BPRs
+alias: BPR, BPRs, Business Performance Reviews
 tags: inquirer/projects
 ---
 
