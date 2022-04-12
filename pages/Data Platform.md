@@ -2,7 +2,7 @@
 	- ### Components:
 		- Data Acquisition Framework: [[Vestapol]] & [[Airbyte]]
 		- Data Lake: [[gcs]] with configuration
-		- Data Warehouse
+		- Data Warehouse: [[BigQuery]] [[inq-warehouse]]
 		- Data Workflow Tool: [[Airflow]]
 		- Data Modeling Pipelines
 		- Reporting
