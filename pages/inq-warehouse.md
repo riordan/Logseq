@@ -171,4 +171,4 @@
 		- DBT Cloud is limited to writing to one GCP project for each [environment](https://cloud.getdbt.com/#/accounts/38962/projects/62160/environments/) it uses.
 - DBT to Bigquery Semantics:
 	- DBT: {{ database }}.{{ schema }}.{{ identifier }}
-	- BQ:  {{ gcp_p}}
+	- BQ:  {{ gcp-project }}.{{gcp_dataset}}.{{table}}
