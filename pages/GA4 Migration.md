@@ -9,6 +9,6 @@ tags: [[inquirer/projects]]
 			- Validate that we're collecting everything correctly
 		- Create vital reporting in native Google interface
 		- Create new data pipelines from GA4 eventstream and use it for all new analysis work
-			- Equevelent of User360,
+			- Equevelent of User360, Meter Stops, etc.
 		-
 		-
