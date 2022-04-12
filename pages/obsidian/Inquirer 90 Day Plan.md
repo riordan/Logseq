@@ -8,6 +8,7 @@ Building off of [[Matt Boggie]] [[Inquirer Welcome Letter#30 60 90-day Expectati
 - [ ] #task Make a full 90 days project doc here ⏫ 🛫 2021-12-13 ⏳ 2021-12-14 📅 2021-12-15 🔼  #task
 - Month One: [[#^eaf3fb]]
 # Learning Plan
+id:: 625440ef-c808-43a3-8e81-127e61f2fab6
 
 ^eaf3fb
 ## Learning Plan Template:
