@@ -1,1 +1,1 @@
-- We need to improve the data discovery experience in the inq-warehouse BigQuery project, intended to be the pristine workspace for data related projects
+- We need to improve the data discovery experience in the inq-warehouse BigQuery project, intended to be the gold standard for data analysis
