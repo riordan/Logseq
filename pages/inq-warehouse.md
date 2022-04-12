@@ -169,6 +169,7 @@
 	- For a data user who is looking to work with "Good Data", this is a bad experience. All tools that connect to our data warehouse natively present data in the hierarchy of: `GCP Project > GCP Dataset > Tables (alphabetical)>Table`. This hierarchy is how most of our users will encounter the data we are structuring and documenting for them with DBT, despite the presence of our [dbt docs](https://cloud.getdbt.com/accounts/38962/jobs/46050/docs/#!/overview) and a searchable data catalog as reference tools, as the data users will still need to locate the assets in their native data workspace tools (e.g. Google Bigquery UI, Hex, Data Studio).
 	- There are limitations of the current architecture:
 		- DBT Cloud is limited to writing to one GCP project for each [environment](https://cloud.getdbt.com/#/accounts/38962/projects/62160/environments/) it uses.
+		-
 - DBT to Bigquery Semantics:
 	- DBT: {{ database }}.{{ schema }}.{{ identifier }}
 	- BQ:  {{ gcp-project }}.{{gcp_dataset}}.{{table}}
