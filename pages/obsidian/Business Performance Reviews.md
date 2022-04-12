@@ -1,6 +1,6 @@
 ---
 alias: BPR, BPRs
-tags: inquirer/projects]
+tags: inquirer/projects
 ---
 
 # Overview: Business Performance Review
