@@ -166,4 +166,4 @@
 			    vaccines_full_boosted_total                     VIEW
 			    vaccines_full_total                             VIEW
 			    vaccines_oneshot_total                          VIEW
-	- For a user
+	- For a data user who is looking to work with "Good Data", this is a bad experience.
