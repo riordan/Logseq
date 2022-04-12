@@ -10,5 +10,6 @@ tags: [[inquirer/projects]]
 		- Create vital reporting in native Google interface
 		- Create new data pipelines from GA4 eventstream and use it for all new analysis work (to get analysts used to working with it)
 			- Equevelent of User360, Meter Stops, etc.
-		- Migrate all key reporting
+		- Migrate all ongoing reporting to use new sources
+			- Dashboards, tools like meter stops
 		-
