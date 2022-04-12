@@ -1,6 +1,6 @@
 ---
 tags: [inquirer/teams]
-aliases: [Data and Insights, Data and Insights Department]
+alias: Data and Insights, Data and Insights Department
 ---
 
 # Group Overview
