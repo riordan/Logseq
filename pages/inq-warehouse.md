@@ -166,4 +166,4 @@
 			    vaccines_full_boosted_total                     VIEW
 			    vaccines_full_total                             VIEW
 			    vaccines_oneshot_total                          VIEW
-	- For a data user who is looking to work with "Good Data", this is a bad experience. All tools that connect to our data warehouse natively present data in the hierarchy of: `GCP Project > GCP Dataset > Tables (alphabetical)`. This structure is how most of our users will encounter the data we are
+	- For a data user who is looking to work with "Good Data", this is a bad experience. All tools that connect to our data warehouse natively present data in the hierarchy of: `GCP Project > GCP Dataset > Tables (alphabetical)>Table Schema`. This structure is how most of our users will encounter the data we are structuring and documenting for them with DBT.
