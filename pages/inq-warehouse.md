@@ -166,4 +166,4 @@
 			    vaccines_full_boosted_total                     VIEW
 			    vaccines_full_total                             VIEW
 			    vaccines_oneshot_total                          VIEW
-	- For a data user who is looking to work with "Good Data", this is a bad experience. All tools that connect to our data warehouse natively present data as
+	- For a data user who is looking to work with "Good Data", this is a bad experience. All tools that connect to our data warehouse natively present data in the hierarchy of: `GCP Project > GCP Dataset > Tables`
