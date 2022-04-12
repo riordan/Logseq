@@ -3,6 +3,7 @@
 	- At the time of writing ( [[2022/04/12]] ), there are 160 discrete tables in the `inq-warehouse.analytics` dataset, comprising all tables in (or previously in) our production DBT instance (see ((625584a2-d43f-4dc8-9ce7-1529ef9dc52f)) ). This is a mix of the Analytics team's working datasets, canonical representations of source logs, and modeled data across domains of the Newsroom's COVID work, marketing, newsletters, KPIs, and ad sales.
 		- inq-warehouse.analytics dataset:
 		  id:: 625584a2-d43f-4dc8-9ce7-1529ef9dc52f
+		  collapsed:: true
 			- tableId                      Type    Labels   Time Partitioning   Clustered Fields
 			   ----------------------------------------------- ------- -------- ------------------- ------------------
 			    2022_goals                                      TABLE
@@ -165,3 +166,4 @@
 			    vaccines_full_boosted_total                     VIEW
 			    vaccines_full_total                             VIEW
 			    vaccines_oneshot_total                          VIEW
+	- For a user
