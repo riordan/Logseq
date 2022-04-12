@@ -1,6 +1,7 @@
 ---
 alias: BPR, BPRs, Business Performance Reviews
 tags: inquirer/projects
+title: Operational Excellence Project Check-In
 ---
 
 # Overview: Business Performance Review

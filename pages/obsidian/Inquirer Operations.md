@@ -7,4 +7,4 @@ alias: Operations
 - Leader: [[Lydia Hamilton]]
 	- Program manager for strategy / newsroom / marketing: [[Aaron Moore]]
 # Programs
-- [[Business Performance Reviews]]
+- [[Operational Excellence Project Check-In]]
