@@ -3,8 +3,7 @@
 		- Data Acquisition Framework: [[Vestapol]] & [[Airbyte]]
 		- Data Lake: [[gcs]] with configuration
 		- Data Warehouse
-		- Data Orchestration Platform:
-		- Data Scheduler
+		- Data Workflow Tool:
 		- Data Modeling Pipelines
 		- Reporting
 		- Dashboards
