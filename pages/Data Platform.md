@@ -1,14 +1,16 @@
 - ## Capabilities:
 	- ### Components:
+		- Data Acquisition
 		- Data Lake
 		- Data Warehouse
 		- Data Orchestration Platform
 		- Data Scheduler
 		- Data Modeling Pipelines
 		- Reporting
-		  8. Exploration and BI tool
-		  9. Data registry
-		  10. Data Discovery
+		- Dashboards
+		- Exploration and BI tool
+		- Data registry
+		- Data Product Discovery
 	- ## Essential (MVP)
 		-
 	- ## Nice To Have
