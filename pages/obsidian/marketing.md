@@ -14,6 +14,6 @@
 			- Accountability
 			- Empowering team members to make decisions
 - ## Structure
-- !
+-
 - [[Pete Doucette]] - Chief Revenue Officer
 	- [[Darya Ushakova]] - VP of Consumer Marketing
