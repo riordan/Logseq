@@ -4,16 +4,16 @@
 - [2022 Marketing Roadmap](https://docs.google.com/spreadsheets/d/1d6Cn8yTeTRiPb5lOHTmlFAKyK9L0iiETBhPe5o4F0Bs/edit#gid=1383755865)
 - ## Priorities
 	- ### Beliefs
-		- Objective:  
+		- #### Objective:  
 		  To create the holistic (digital & print) consumer marketing “machine” that sets high goals, then aggressively pursues and achieves them. We desire to be “Best in Class” for consumer marketing in the industry.
-		- Our Hallmarks:
-		- Operational Excellence
-		- Key focus on speed
-		- High quality customer experiences
-		- Collaboration
-		- Accountability
-		- Empowering team members to make decisions
+		- #### Our Hallmarks:
+			- Operational Excellence
+			- Key focus on speed
+			- High quality customer experiences
+			- Collaboration
+			- Accountability
+			- Empowering team members to make decisions
 - ## Structure
--
+- !
 - [[Pete Doucette]] - Chief Revenue Officer
 	- [[Darya Ushakova]] - VP of Consumer Marketing
