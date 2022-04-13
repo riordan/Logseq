@@ -1,6 +1,6 @@
 ---
 tags: inquirer/person, inquirer/colleague
-alias: Darya, darya
+alias: Darya
 ---
 
 - VP Of Consumer [[Marketing]] & Strategy

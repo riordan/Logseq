@@ -1,1 +1,2 @@
+- Sub-group of [[Marketing]] overseen by [[Darya Ushakova]]
 -
