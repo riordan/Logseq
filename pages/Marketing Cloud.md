@@ -1,2 +1,3 @@
-- [[Salesforce]] platform for Email [[Marketing]]. Primary outbound tool for [[Marketing Ops]].
+- [[Salesforce]] platform for Email and SMS used by [[Marketing]]. Primary outbound tool for [[Marketing Ops]].
+	-
 	- Formerly ExactTarget + Pardot
