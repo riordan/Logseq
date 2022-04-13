@@ -33,5 +33,6 @@
 		- [[Kim Rossmair Johnson]] - Manager of Marketing Ops, [[Marketing Operations]] Team
 			- [[Devin Peak]] - Analyst, Database Operations
 			- [[Mia Serrano]] - Analyst Email Operations
-			-
+			- [[Shyam Deolaliker]] Analyst Onsite Operations
+		- [[Jody Vaughn]] Manager [[Market Research]]
 		-
