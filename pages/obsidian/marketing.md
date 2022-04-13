@@ -22,5 +22,6 @@
 			- [[YaYa Horne]] - Community Engagement Manager
 			- [[Terrance Young]] -- Manager, Audience Development
 			- [[Mark Nichols]] - Associate Manager, Paid Digital (inbound acquisition ads)
-			-
+			- [[Gia Benedetti]] - Events & Store Specialist
+		- [[Sarah Jarvis]] - Sr Acquisition Manager
 -
