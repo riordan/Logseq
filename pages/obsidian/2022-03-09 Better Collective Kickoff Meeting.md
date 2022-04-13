@@ -62,5 +62,5 @@ tags: inquirer, meeting-notes
 		- Keep [[adblock]] detector w/ blocker off on the betting sections
 		- Prefer to keep it off for paywall; this content will be unmetered
 			- Telegraph keeps internal links
-	- Care about % of adblocking; need to get them adblocked %; GATM-SS
+	- Care about % of [[adblocking]] ; need to get them adblocked %; GATM-SS
 	- Have sample code for integration with NY Post; would love to see how it works
