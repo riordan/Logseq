@@ -1,5 +1,6 @@
-- ---
-  alias: Elizabeth Grace
-  
-  ---
+---
+alias: Elizabeth Grace
+tags: inquirer/colleague
+---
+
 -
