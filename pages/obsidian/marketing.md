@@ -30,5 +30,5 @@
 		- [[Rachel Ciampaglia]] - Director, Engagement & Loyalty
 			- [[Mara Hughes]] - [[Engagement & Loyalty Manager]]
 			- [[James Wilkinson]] - [[Engagement & Loyalty Manager]]
-		-
+	- [[Kim Rossmair]]
 	-
