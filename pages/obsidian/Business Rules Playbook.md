@@ -1,7 +1,7 @@
 
 
 ## [[2022-03-15]] - [[mara]]
-- Currently Stalled: owned by [[rachelc]]. Asked for by [[Pete Doucette]]
+- Currently Stalled: owned by [[Rachel Ciampaglia]]. Asked for by [[Pete Doucette]]
 	- Literally just sentences like "We send emails to winbacks"
 	- "All new digital subs are activated at the beginning of their subscriptions"; extremely generic
 - rippling into mara's work:
