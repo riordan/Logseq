@@ -1,3 +1,3 @@
 - [[Salesforce]] platform for Email and SMS used by [[Marketing]]. Primary outbound tool for [[Marketing Ops]].
-	- Used by [[Inkbox]] for [[newsletter]]
+	- Used by [[Inkbox]] for [[Newsletters]]
 	- Formerly ExactTarget + Pardot
