@@ -59,7 +59,7 @@ tags: inquirer, meeting-notes
 	- Operators using GeoComply app to get real lat/lon
 	- Default to home state for an operator if they're coming from a location without it
 	- **What % of audience using an adblock?**
-		- Keep adblock detector w/ blocker off on the betting sections
+		- Keep [[adblock]] detector w/ blocker off on the betting sections
 		- Prefer to keep it off for paywall; this content will be unmetered
 			- Telegraph keeps internal links
 	- Care about % of adblocking; need to get them adblocked %; GATM-SS
