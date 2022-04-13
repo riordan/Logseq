@@ -21,5 +21,6 @@
 		- [[Michelle Lopez]] - Director of Audience Development
 			- [[YaYa Horne]] - Community Engagement Manager
 			- [[Terrance Young]] -- Manager, Audience Development
-			- [[Mark Nichols]] - Associate Manager, Paid Digital
+			- [[Mark Nichols]] - Associate Manager, Paid Digital (inbound acquisition ads)
+			-
 -
