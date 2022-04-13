@@ -24,4 +24,5 @@
 			- [[Mark Nichols]] - Associate Manager, Paid Digital (inbound acquisition ads)
 			- [[Gia Benedetti]] - Events & Store Specialist
 		- [[Sarah Jarvis]] - Sr Acquisition Manager
+			- [[Madison Messics]] - Acquisition Associate
 -
