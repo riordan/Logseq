@@ -27,6 +27,6 @@
 			- [[Madison Messics]] - Acquisition Associate
 		- [[Liz Grace]] - Manager Business Intelligence & Innovation
 		- [[Rachel Ciampaglia]] - Director, Engagement & Loyalty
-			-
+			- [[Mara Hughes]]
 		-
 -

@@ -1,6 +1,6 @@
 
 
-## [[2022-03-15]] - [[mara]]
+## [[2022-03-15]] - [[Mara Hughes]]
 - Currently Stalled: owned by [[Rachel Ciampaglia]]. Asked for by [[Pete Doucette]]
 	- Literally just sentences like "We send emails to winbacks"
 	- "All new digital subs are activated at the beginning of their subscriptions"; extremely generic
