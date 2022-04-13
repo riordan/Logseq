@@ -26,6 +26,7 @@
 		- [[Sarah Jarvis]] - Sr Acquisition Manager
 			- [[Madison Messics]] - Acquisition Associate
 		- [[Liz Grace]] - Manager Business Intelligence & Innovation
-		- [[Rachel Ciampaglia]]
+		- [[Rachel Ciampaglia]] - Director, Engagement & Loyalty
+			-
 		-
 -
