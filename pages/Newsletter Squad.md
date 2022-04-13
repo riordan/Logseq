@@ -1,1 +1,3 @@
-- inquirer
+---
+tags: inquirer/squad
+---
