@@ -15,7 +15,6 @@
 			- Empowering team members to make decisions
 - ## Structure
 - Org Chart (as of [[2022/04/13]])
-  collapsed:: true
 	- ![image.png](../../assets/image_1649853833460_0.png)
 - [[Pete Doucette]] - Chief Revenue Officer
 	- [[Darya Ushakova]] - VP of Subscriber Marketing
@@ -28,6 +27,7 @@
 			- [[Madison Messics]] - Acquisition Associate
 		- [[Liz Grace]] - Manager Business Intelligence & Innovation
 		- [[Rachel Ciampaglia]] - Director, Engagement & Loyalty
-			- [[Mara Hughes]]
+			- [[Mara Hughes]] - Engagement & Loyalty Manager
+			-
 		-
 -
