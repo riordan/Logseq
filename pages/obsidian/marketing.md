@@ -15,6 +15,6 @@
 			- Empowering team members to make decisions
 - ## Structure
 - Org Chart (as of [[2022/04/13]])
-	-
+	- ![image.png](../../assets/image_1649853833460_0.png)
 - [[Pete Doucette]] - Chief Revenue Officer
 	- [[Darya Ushakova]] - VP of Consumer Marketing
