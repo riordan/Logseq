@@ -30,5 +30,6 @@
 		- [[Rachel Ciampaglia]] - Director, Engagement & Loyalty
 			- [[Mara Hughes]] - [[Engagement & Loyalty Manager]]
 			- [[James Wilkinson]] - [[Engagement & Loyalty Manager]]
-	- [[Kim Rossmair Johnson]] - Manager of Marketing Ops,
+	- [[Kim Rossmair Johnson]] - Manager of Marketing Ops, [[Marketing Operations]] Team
+		- [[Devin]]
 	-
