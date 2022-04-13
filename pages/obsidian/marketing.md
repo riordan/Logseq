@@ -1,5 +1,5 @@
 - ## Resources:
-- []
+- [Department Confluence](https://inquirer.atlassian.net/wiki/spaces/MAR/overview)
 - Weekly Meeting: Wednesdays - 1:30-3 - [agenda](https://docs.google.com/spreadsheets/d/1p37DccIHJMS97JWD1EtGGNQ29kEDkwS4Ih_kuCt-eBY/edit#gid=0)
 - [2022 Marketing Roadmap](https://docs.google.com/spreadsheets/d/1d6Cn8yTeTRiPb5lOHTmlFAKyK9L0iiETBhPe5o4F0Bs/edit#gid=1383755865)
 - ## Priorities
