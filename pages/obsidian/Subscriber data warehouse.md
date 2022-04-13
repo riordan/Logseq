@@ -11,7 +11,7 @@ tags: inquirer/projects
 - [x] #task Remap high level plan (Phase 1 being popup team -> conclusion ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
 - [ ] #task Tighten up project scope (FOCUSING ON/ NOT FOCUSING ON)
 - [x] #task Build out Risk Map (project Charter and report out) ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
-### For [[Matt Boggie|Matt]]
+- ### For [[Matt Boggie]]
 - [ ] #task Warehouse Project Kickoff: Where are we, what are the risks, what are the concerns?
 ### Kickoff Meeting - Invite List:
 [
