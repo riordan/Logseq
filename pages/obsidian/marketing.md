@@ -19,4 +19,6 @@
 - [[Pete Doucette]] - Chief Revenue Officer
 	- [[Darya Ushakova]] - VP of Subscriber Marketing
 		- [[Michelle Lopez]] - Director of Audience Development
-		-
+			- [[YaYa Horne]] - Community Engagement Manager
+			- [[Terrance Young]]
+-
