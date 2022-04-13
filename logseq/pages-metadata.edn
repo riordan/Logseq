@@ -1,4 +1,16 @@
-[{:block/name "1",
+[{:block/name "../pages/inquirer 90 day plan_^eaf3fb",
+  :block/created-at 1649773647135,
+  :block/updated-at 1649773647135}
+ {:block/name "../pages/inquirer prep",
+  :block/created-at 1649773647398,
+  :block/updated-at 1649773647398}
+ {:block/name "../pages/logseq",
+  :block/created-at 1649773647136,
+  :block/updated-at 1649773647136}
+ {:block/name "../pages/the first 90 days",
+  :block/created-at 1649773647135,
+  :block/updated-at 1649773647135}
+ {:block/name "1",
   :block/created-at 1649373268420,
   :block/updated-at 1649373268420}
  {:block/name "1969",
@@ -10,6 +22,9 @@
  {:block/name "1969/12/31",
   :block/created-at 1649373234167,
   :block/updated-at 1649373234167}
+ {:block/name "1plusx",
+  :block/created-at 1649773781188,
+  :block/updated-at 1649773781188}
  {:block/name "2014",
   :block/created-at 1649373270785,
   :block/updated-at 1649373270785}
@@ -130,9 +145,21 @@
  {:block/name "2021 strategic plan deck.pdf",
   :block/created-at 1649373268267,
   :block/updated-at 1649373268267}
+ {:block/name "2021-12-13_^bia6rq",
+  :block/created-at 1649773648685,
+  :block/updated-at 1649773648685}
+ {:block/name "2021-12-15_^s1l82y _ notes from earlier today",
+  :block/created-at 1649773648985,
+  :block/updated-at 1649773648985}
  {:block/name "2021-12-16_inquirer engineering systems overview",
   :block/created-at 1649373270185,
   :block/updated-at 1649373270185}
+ {:block/name "2021-12-27_^gbu1lx",
+  :block/created-at 1649773786091,
+  :block/updated-at 1649773786091}
+ {:block/name "2021-12-28_^e69w7k",
+  :block/created-at 1649773777805,
+  :block/updated-at 1649773777805}
  {:block/name "2021-12-28_data platform questions",
   :block/created-at 1649373274503,
   :block/updated-at 1649373274503}
@@ -334,15 +361,72 @@
  {:block/name "2021/11/26",
   :block/created-at 1649591849729,
   :block/updated-at 1649591849729}
+ {:block/name "2021/11/29",
+  :block/created-at 1649773647400,
+  :block/updated-at 1649773969840}
  {:block/name "2021/11/30",
   :block/created-at 1649373235359,
   :block/updated-at 1649373235359}
  {:block/name "2021/12",
   :block/created-at 1649090110495,
   :block/updated-at 1649090110495}
+ {:block/name "2021/12/03",
+  :block/created-at 1649773647132,
+  :block/updated-at 1649774116562}
+ {:block/name "2021/12/05",
+  :block/created-at 1649773646213,
+  :block/updated-at 1649774142915}
  {:block/name "2021/12/06",
   :block/created-at 1649373282657,
   :block/updated-at 1649373282657}
+ {:block/name "2021/12/07",
+  :block/created-at 1649773646989,
+  :block/updated-at 1649773646989}
+ {:block/name "2021/12/08",
+  :block/created-at 1649773646451,
+  :block/updated-at 1649773646451}
+ {:block/name "2021/12/09",
+  :block/created-at 1649773646719,
+  :block/updated-at 1649773646719}
+ {:block/name "2021/12/10",
+  :block/created-at 1649773647495,
+  :block/updated-at 1649773647495}
+ {:block/name "2021/12/11",
+  :block/created-at 1649773647248,
+  :block/updated-at 1649773647248}
+ {:block/name "2021/12/13",
+  :block/created-at 1649773648687,
+  :block/updated-at 1649853144733}
+ {:block/name "2021/12/14",
+  :block/created-at 1649773647967,
+  :block/updated-at 1649773647967}
+ {:block/name "2021/12/15",
+  :block/created-at 1649773648988,
+  :block/updated-at 1649853137789}
+ {:block/name "2021/12/16",
+  :block/created-at 1649773648145,
+  :block/updated-at 1649857547969}
+ {:block/name "2021/12/17",
+  :block/created-at 1649773647724,
+  :block/updated-at 1649773647724}
+ {:block/name "2021/12/18",
+  :block/created-at 1649773648450,
+  :block/updated-at 1649773648450}
+ {:block/name "2021/12/20",
+  :block/created-at 1649773648323,
+  :block/updated-at 1649773648323}
+ {:block/name "2021/12/21",
+  :block/created-at 1649773648532,
+  :block/updated-at 1649773648532}
+ {:block/name "2021/12/22",
+  :block/created-at 1649773648842,
+  :block/updated-at 1649855750945}
+ {:block/name "2021/12/23",
+  :block/created-at 1649773649354,
+  :block/updated-at 1649773649354}
+ {:block/name "2021/12/24",
+  :block/created-at 1649773649416,
+  :block/updated-at 1649773649416}
  {:block/name "2021/12/25",
   :block/created-at 1649591862756,
   :block/updated-at 1649591862756}
@@ -352,9 +436,25 @@
  {:block/name "2021/12/27",
   :block/created-at 1649591862760,
   :block/updated-at 1649591862760}
+ {:block/name "2021/12/28",
+  :block/created-at 1649773649155,
+  :block/updated-at 1649773675885}
+ {:block/name "2021/12/31",
+  :block/created-at 1649773649487,
+  :block/updated-at 1649853131670}
  {:block/name "2022",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
+ {:block/name "2022 strategic plan",
+  :block/created-at 1649773648979,
+  :block/updated-at 1649773648979}
+ {:block/name
+  "2022-01-04_finalizing 2021 audience numbers targets for 2022 forecast",
+  :block/created-at 1649773778048,
+  :block/updated-at 1649773778048}
+ {:block/name "2022-01-05_^expw3w",
+  :block/created-at 1649773776869,
+  :block/updated-at 1649773776869}
  {:block/name "2022-01-05_possible [[data and insights 2022 okrs",
   :block/created-at 1649373275693,
   :block/updated-at 1649373275693}
@@ -370,30 +470,75 @@
  {:block/name "2022-03-01_last week",
   :block/created-at 1649373272351,
   :block/updated-at 1649373272351}
+ {:block/name "2022-03-07_data and insights 2022 okrs",
+  :block/created-at 1649773785759,
+  :block/updated-at 1649773785759}
  {:block/name "2022-03-09 better collective kickoff meeting",
   :block/created-at 1649373272061,
-  :block/updated-at 1649373272061}
+  :block/updated-at 1649855623150}
+ {:block/name "2022-03-09 bettor collective kickoff meeting",
+  :block/created-at 1649773784778,
+  :block/updated-at 1649773784778}
  {:block/name "2022-q1",
   :block/created-at 1649373269457,
   :block/updated-at 1649373269457}
+ {:block/name "2022-w02_priorities for the week",
+  :block/created-at 1649773777567,
+  :block/updated-at 1649773777567}
+ {:block/name "2022-w03_priorities for the week",
+  :block/created-at 1649773776864,
+  :block/updated-at 1649773776864}
+ {:block/name "2022-w05_priorities for the week",
+  :block/created-at 1649773780205,
+  :block/updated-at 1649773780205}
+ {:block/name "2022-w06_priorities for the week",
+  :block/created-at 1649773780931,
+  :block/updated-at 1649773780931}
+ {:block/name "2022-w09_plans",
+  :block/created-at 1649773782452,
+  :block/updated-at 1649773782452}
+ {:block/name "2022-w10_priorities for the week",
+  :block/created-at 1649773784442,
+  :block/updated-at 1649773784442}
+ {:block/name "2022-w11_priorities for the week",
+  :block/created-at 1649773784775,
+  :block/updated-at 1649773784775}
+ {:block/name "2022-w12_priorities for the week",
+  :block/created-at 1649773786087,
+  :block/updated-at 1649773786087}
  {:block/name "2022-w13",
   :block/created-at 1649373275656,
   :block/updated-at 1649373275656}
+ {:block/name "2022-w13_priorities for the week",
+  :block/created-at 1649773786266,
+  :block/updated-at 1649773786266}
  {:block/name "2022-w16",
   :block/created-at 1649676872609,
   :block/updated-at 1649685469426}
  {:block/name "2022/01",
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
+ {:block/name "2022/01/01",
+  :block/created-at 1649773777394,
+  :block/updated-at 1649773777394}
+ {:block/name "2022/01/03",
+  :block/created-at 1649773777800,
+  :block/updated-at 1649855455167}
  {:block/name "2022/01/04",
   :block/created-at 1649373274180,
-  :block/updated-at 1649373274180}
+  :block/updated-at 1649855617479}
+ {:block/name "2022/01/05",
+  :block/created-at 1649773777583,
+  :block/updated-at 1649773777583}
  {:block/name "2022/01/06",
   :block/created-at 1649373271642,
-  :block/updated-at 1649373271642}
+  :block/updated-at 1649857355857}
+ {:block/name "2022/01/07",
+  :block/created-at 1649773778232,
+  :block/updated-at 1649855215955}
  {:block/name "2022/01/10",
   :block/created-at 1649373276755,
-  :block/updated-at 1649373276755}
+  :block/updated-at 1649855402650}
  {:block/name "2022/01/11",
   :block/created-at 1648154560207,
   :block/updated-at 1648154560207}
@@ -403,24 +548,51 @@
  {:block/name "2022/01/13",
   :block/created-at 1649373274753,
   :block/updated-at 1649373274753}
+ {:block/name "2022/01/14",
+  :block/created-at 1649773777185,
+  :block/updated-at 1649857521386}
  {:block/name "2022/01/16",
   :block/created-at 1649373240787,
   :block/updated-at 1649373240787}
  {:block/name "2022/01/17",
   :block/created-at 1649339480260,
   :block/updated-at 1649339480260}
+ {:block/name "2022/01/18",
+  :block/created-at 1649773780395,
+  :block/updated-at 1649773780395}
  {:block/name "2022/01/19",
   :block/created-at 1649373233928,
   :block/updated-at 1649373233928}
  {:block/name "2022/01/20",
   :block/created-at 1649373280581,
-  :block/updated-at 1649373280581}
+  :block/updated-at 1649855817513}
+ {:block/name "2022/01/21",
+  :block/created-at 1649773779555,
+  :block/updated-at 1649773779555}
+ {:block/name "2022/01/24",
+  :block/created-at 1649773779802,
+  :block/updated-at 1649855438262}
+ {:block/name "2022/01/25",
+  :block/created-at 1649773780586,
+  :block/updated-at 1649773780586}
+ {:block/name "2022/01/26",
+  :block/created-at 1649773780214,
+  :block/updated-at 1649773780214}
  {:block/name "2022/01/27",
   :block/created-at 1649339416477,
   :block/updated-at 1649339416477}
  {:block/name "2022/01/28",
   :block/created-at 1649339416505,
   :block/updated-at 1649339416505}
+ {:block/name "2022/01/29",
+  :block/created-at 1649773780760,
+  :block/updated-at 1649773780760}
+ {:block/name "2022/01/30",
+  :block/created-at 1649773778903,
+  :block/updated-at 1649773778903}
+ {:block/name "2022/01/31",
+  :block/created-at 1649773780945,
+  :block/updated-at 1649773780945}
  {:block/name "2022/02",
   :block/created-at 1649090073481,
   :block/updated-at 1649090073481}
@@ -430,57 +602,141 @@
  {:block/name "2022/02/02",
   :block/created-at 1649373277217,
   :block/updated-at 1649373277217}
+ {:block/name "2022/02/03",
+  :block/created-at 1649773782678,
+  :block/updated-at 1649773782678}
+ {:block/name "2022/02/04",
+  :block/created-at 1649773782675,
+  :block/updated-at 1649773782675}
+ {:block/name "2022/02/05",
+  :block/created-at 1649773782678,
+  :block/updated-at 1649773782678}
+ {:block/name "2022/02/06",
+  :block/created-at 1649773782879,
+  :block/updated-at 1649773782879}
  {:block/name "2022/02/07",
   :block/created-at 1649373274880,
-  :block/updated-at 1649373274880}
+  :block/updated-at 1649855421664}
+ {:block/name "2022/02/08",
+  :block/created-at 1649773782879,
+  :block/updated-at 1649855831061}
+ {:block/name "2022/02/09",
+  :block/created-at 1649773783064,
+  :block/updated-at 1649773783064}
+ {:block/name "2022/02/10",
+  :block/created-at 1649773781412,
+  :block/updated-at 1649773781412}
+ {:block/name "2022/02/11",
+  :block/created-at 1649773781409,
+  :block/updated-at 1649855807905}
+ {:block/name "2022/02/12",
+  :block/created-at 1649773781412,
+  :block/updated-at 1649773781412}
  {:block/name "2022/02/14",
   :block/created-at 1649373270044,
   :block/updated-at 1649373270044}
+ {:block/name "2022/02/15",
+  :block/created-at 1649773781590,
+  :block/updated-at 1649773781590}
  {:block/name "2022/02/16",
   :block/created-at 1649373273529,
   :block/updated-at 1649373273529}
+ {:block/name "2022/02/17",
+  :block/created-at 1649773781589,
+  :block/updated-at 1649773781589}
+ {:block/name "2022/02/18",
+  :block/created-at 1649773781756,
+  :block/updated-at 1649773781756}
+ {:block/name "2022/02/19",
+  :block/created-at 1649773781918,
+  :block/updated-at 1649773781918}
+ {:block/name "2022/02/20",
+  :block/created-at 1649773782267,
+  :block/updated-at 1649773782267}
  {:block/name "2022/02/21",
   :block/created-at 1649373269186,
   :block/updated-at 1649373269186}
+ {:block/name "2022/02/22",
+  :block/created-at 1649773782082,
+  :block/updated-at 1649773782082}
  {:block/name "2022/02/23",
   :block/created-at 1649373269273,
-  :block/updated-at 1649373269273}
+  :block/updated-at 1649855714504}
  {:block/name "2022/02/24",
   :block/created-at 1649373269271,
   :block/updated-at 1649373269271}
  {:block/name "2022/02/25",
   :block/created-at 1649373269273,
   :block/updated-at 1649373269273}
+ {:block/name "2022/02/26",
+  :block/created-at 1649773783753,
+  :block/updated-at 1649773783753}
+ {:block/name "2022/02/27",
+  :block/created-at 1649773784268,
+  :block/updated-at 1649773784268}
+ {:block/name "2022/02/28",
+  :block/created-at 1649773784265,
+  :block/updated-at 1649855720200}
  {:block/name "2022/03",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
  {:block/name "2022/03/01",
   :block/created-at 1649373247216,
-  :block/updated-at 1649373247216}
+  :block/updated-at 1649855727276}
  {:block/name "2022/03/02",
   :block/created-at 1649373277263,
-  :block/updated-at 1649373277263}
+  :block/updated-at 1649855732085}
+ {:block/name "2022/03/03",
+  :block/created-at 1649773784451,
+  :block/updated-at 1649855792183}
  {:block/name "2022/03/04",
   :block/created-at 1649339417492,
   :block/updated-at 1649339417492}
  {:block/name "2022/03/05",
   :block/created-at 1649339417320,
   :block/updated-at 1649339417320}
+ {:block/name "2022/03/06",
+  :block/created-at 1649773785306,
+  :block/updated-at 1649773785306}
  {:block/name "2022/03/07",
   :block/created-at 1649373276791,
-  :block/updated-at 1649373276791}
+  :block/updated-at 1649855801095}
  {:block/name "2022/03/08",
   :block/created-at 1649373272350,
   :block/updated-at 1649373272350}
  {:block/name "2022/03/09",
   :block/created-at 1649373272061,
   :block/updated-at 1649373272061}
+ {:block/name "2022/03/10",
+  :block/created-at 1649773784782,
+  :block/updated-at 1649773784782}
+ {:block/name "2022/03/11",
+  :block/created-at 1649773785922,
+  :block/updated-at 1649773785922}
+ {:block/name "2022/03/12",
+  :block/created-at 1649773785925,
+  :block/updated-at 1649773785925}
+ {:block/name "2022/03/13",
+  :block/created-at 1649773786392,
+  :block/updated-at 1649773786392}
+ {:block/name "2022/03/14",
+  :block/created-at 1649773786389,
+  :block/updated-at 1649773786389}
  {:block/name "2022/03/15",
   :block/created-at 1649373269498,
   :block/updated-at 1649373269498}
- {:block/name "2022/03/20",
-  :block/created-at 1647826710512,
-  :block/updated-at 1647826710512}
+ {:block/name "2022/03/16",
+  :block/created-at 1649773786097,
+  :block/updated-at 1649773786097}
+ {:block/name "2022/03/17",
+  :block/created-at 1649773786100,
+  :block/updated-at 1649773786100}
+ {:block/name "2022/03/18",
+  :block/created-at 1649773786840,
+  :block/updated-at 1649773786840}
+ {:block/name "2022/03/19",
+  :block/created-at 1649773786271,
+  :block/updated-at 1649773786271}
  {:block/name "2022/03/21",
   :block/created-at 1647826706277,
   :block/updated-at 1649255239668}
@@ -534,13 +790,13 @@
   :block/updated-at 1649591834091}
  {:block/name "2022/04/11",
   :block/created-at 1649649631902,
-  :block/updated-at 1649684712659}
+  :block/updated-at 1649857345397}
  {:block/name "2022/04/12",
   :block/created-at 1649683542860,
-  :block/updated-at 1649769966828}
+  :block/updated-at 1649798648322}
  {:block/name "2022/04/13",
-  :block/created-at 1649683555074,
-  :block/updated-at 1649683555074}
+  :block/created-at 1649852179158,
+  :block/updated-at 1649858913157}
  {:block/name "2022/04/14",
   :block/created-at 1649683563675,
   :block/updated-at 1649683563675}
@@ -562,6 +818,12 @@
  {:block/name "6241c362-6e48-47e5-975f-06520dd4a8ed",
   :block/created-at 1648478629564,
   :block/updated-at 1648478629564}
+ {:block/name "6256c3f3-d7c7-41dc-8091-47152b2cbd34",
+  :block/created-at 1649854697570,
+  :block/updated-at 1649854697570}
+ {:block/name "802f514b-5e0d-4214-ac56-9e77dcf119fe.png",
+  :block/created-at 1649773649150,
+  :block/updated-at 1649773649150}
  {:block/name "['charlotte']",
   :block/created-at 1649373269479,
   :block/updated-at 1649373269479}
@@ -571,12 +833,6 @@
  {:block/name "[annie mendez",
   :block/created-at 1649373269362,
   :block/updated-at 1649373269362}
- {:block/name "[bpr",
-  :block/created-at 1649373274755,
-  :block/updated-at 1649373274755}
- {:block/name "[data and insights",
-  :block/created-at 1649373274913,
-  :block/updated-at 1649373274913}
  {:block/name "[data engineer hiring]",
   :block/created-at 1649373273532,
   :block/updated-at 1649373273532}
@@ -586,15 +842,21 @@
  {:block/name "[inquirer",
   :block/created-at 1649373269193,
   :block/updated-at 1649373269193}
- {:block/name "[inquirer/projects]",
-  :block/created-at 1649373269193,
-  :block/updated-at 1649373269193}
- {:block/name "[inquirer/teams]",
-  :block/created-at 1649373270020,
-  :block/updated-at 1649373270020}
+ {:block/name "[inquirer/projects",
+  :block/created-at 1649770324546,
+  :block/updated-at 1649770324546}
+ {:block/name "[inquirer/teams",
+  :block/created-at 1649770319720,
+  :block/updated-at 1649770319720}
+ {:block/name "[jen",
+  :block/created-at 1649773779546,
+  :block/updated-at 1649773779546}
  {:block/name "[lenfest lab]",
   :block/created-at 1649373268295,
   :block/updated-at 1649373268295}
+ {:block/name "[mark loomis",
+  :block/created-at 1649773648309,
+  :block/updated-at 1649773648309}
  {:block/name "[matt",
   :block/created-at 1649373271643,
   :block/updated-at 1649373271643}
@@ -619,6 +881,9 @@
  {:block/name "[strategic plan]",
   :block/created-at 1649373268268,
   :block/updated-at 1649373268268}
+ {:block/name "[subscriber data warehouse",
+  :block/created-at 1649773647717,
+  :block/updated-at 1649773647717}
  {:block/name "[vp of data and insights]",
   :block/created-at 1649373268986,
   :block/updated-at 1649373268986}
@@ -631,9 +896,23 @@
  {:block/name "_^eaf3fb",
   :block/created-at 1649373282658,
   :block/updated-at 1649373282658}
+ {:block/name "_julia haslinger team interview",
+  :block/created-at 1649773648685,
+  :block/updated-at 1649773648685}
+ {:block/name "_mark loomis 1 1",
+  :block/created-at 1649773777798,
+  :block/updated-at 1649773777798}
  {:block/name "_mission",
   :block/created-at 1649373274909,
   :block/updated-at 1649373274909}
+ {:block/name
+  "_newsroom product sync https inquirer atlassian net wiki spaces pd pages 1530691627 newsroom product sync_ newsroom ",
+  :block/created-at 1649773777799,
+  :block/updated-at 1649773777799}
+ {:block/name
+  "_newsroom product sync https inquirer atlassian net wiki spaces pd pages 1530691627 newsroom product sync_ newsroom / product sync",
+  :block/created-at 1649773777799,
+  :block/updated-at 1649773777799}
  {:block/name "_okr workshop",
   :block/created-at 1649373276755,
   :block/updated-at 1649373276755}
@@ -655,18 +934,42 @@
  {:block/name "aaron moore",
   :block/created-at 1649373269182,
   :block/updated-at 1649373269182}
+ {:block/name "ad block",
+  :block/created-at 1649855517928,
+  :block/updated-at 1649855517928}
+ {:block/name "ad blocking",
+  :block/created-at 1649855503976,
+  :block/updated-at 1649855503976}
  {:block/name "ad sales",
   :block/created-at 1649373269457,
   :block/updated-at 1649373269457}
+ {:block/name "adblock",
+  :block/created-at 1649855483660,
+  :block/updated-at 1649855538661}
+ {:block/name "adblocker",
+  :block/created-at 1649855533287,
+  :block/updated-at 1649855533287}
+ {:block/name "adblocking",
+  :block/created-at 1649855500550,
+  :block/updated-at 1649855500550}
  {:block/name "adhd",
   :block/created-at 1647826706275,
   :block/updated-at 1647826706275}
  {:block/name "adhd cbt",
   :block/created-at 1649373276792,
   :block/updated-at 1649373276792}
+ {:block/name "adswerve",
+  :block/created-at 1649773649152,
+  :block/updated-at 1649773649152}
  {:block/name "agile",
   :block/created-at 1649294842219,
   :block/updated-at 1649294842219}
+ {:block/name "airbyte",
+  :block/created-at 1649770667606,
+  :block/updated-at 1649791451796}
+ {:block/name "airflow",
+  :block/created-at 1649770738489,
+  :block/updated-at 1649770738489}
  {:block/name "airr",
   :block/created-at 1649373234077,
   :block/updated-at 1649373234077}
@@ -688,9 +991,15 @@
  {:block/name "alexandra",
   :block/created-at 1649373274631,
   :block/updated-at 1649373274631}
+ {:block/name "alexandra williams",
+  :block/created-at 1649773647240,
+  :block/updated-at 1649773647240}
  {:block/name "alfie kohn",
   :block/created-at 1649591849149,
   :block/updated-at 1649591849149}
+ {:block/name "alignment",
+  :block/created-at 1649773649487,
+  :block/updated-at 1649773649487}
  {:block/name "amanda baker",
   :block/created-at 1649373268423,
   :block/updated-at 1649373268423}
@@ -748,6 +1057,9 @@
  {:block/name "arc",
   :block/created-at 1649373273375,
   :block/updated-at 1649373273375}
+ {:block/name "arc composer",
+  :block/created-at 1649773648319,
+  :block/updated-at 1649773648319}
  {:block/name "arc fusion",
   :block/created-at 1649373273375,
   :block/updated-at 1649373273375}
@@ -950,6 +1262,12 @@
  {:block/name "better collective",
   :block/created-at 1649373272061,
   :block/updated-at 1649373272061}
+ {:block/name "bettor collective",
+  :block/created-at 1649773784777,
+  :block/updated-at 1649773784777}
+ {:block/name "bigquery",
+  :block/created-at 1649770808819,
+  :block/updated-at 1649770808819}
  {:block/name "bill tevis",
   :block/created-at 1649373269408,
   :block/updated-at 1649373269408}
@@ -1097,25 +1415,40 @@
  {:block/name "boston globe",
   :block/created-at 1649267130263,
   :block/updated-at 1649267130263}
- {:block/name "bprs]",
-  :block/created-at 1649373274755,
-  :block/updated-at 1649373274755}
+ {:block/name "bpr",
+  :block/created-at 1649770301183,
+  :block/updated-at 1649770301183}
+ {:block/name "bprs",
+  :block/created-at 1649770298479,
+  :block/updated-at 1649770298479}
  {:block/name "brian waligorski",
   :block/created-at 1649090099369,
   :block/updated-at 1649770001752}
  {:block/name "brian waligorski_brian's",
   :block/created-at 1649373274503,
   :block/updated-at 1649373274503}
+ {:block/name "brian waligorski_dr's priorities for brian_priorities",
+  :block/created-at 1649773777805,
+  :block/updated-at 1649773777805}
+ {:block/name "brittany bailey",
+  :block/created-at 1649773781407,
+  :block/updated-at 1649773781407}
+ {:block/name "brown institute",
+  :block/created-at 1649773781181,
+  :block/updated-at 1649773781181}
  {:block/name "bryan deemer",
   :block/created-at 1649278428358,
   :block/updated-at 1649278428358}
  {:block/name "business performance reviews",
-  :block/created-at 1649373269339,
-  :block/updated-at 1649373269339}
+  :block/created-at 1649773777183,
+  :block/updated-at 1649773777183}
  {:block/name
   "business performance reviews_^4brqfp_presenting department leads",
   :block/created-at 1649373274753,
   :block/updated-at 1649373274753}
+ {:block/name "business performance reviews_bpr",
+  :block/created-at 1649773781404,
+  :block/updated-at 1649773781404}
  {:block/name "business rules playbook",
   :block/created-at 1649373269499,
   :block/updated-at 1649373269499}
@@ -1126,6 +1459,9 @@
   "c. todd lombardo, bruce mccarthy, evan ryan, and michael connors",
   :block/created-at 1649591851121,
   :block/updated-at 1649591851121}
+ {:block/name "c69472d6-da93-4f3a-ae1a-0df538f958af.jpeg",
+  :block/created-at 1649773648971,
+  :block/updated-at 1649773648971}
  {:block/name "caitlin petre",
   :block/created-at 1649591850521,
   :block/updated-at 1649591850521}
@@ -1138,6 +1474,9 @@
  {:block/name "catherine d'ignazio and lauren f. klein",
   :block/created-at 1649591848143,
   :block/updated-at 1649591848143}
+ {:block/name "cathy rubin",
+  :block/created-at 1649773782456,
+  :block/updated-at 1649773782456}
  {:block/name "ceo",
   :block/created-at 1649373278682,
   :block/updated-at 1649373278682}
@@ -1147,6 +1486,9 @@
  {:block/name "charlotte sutton",
   :block/created-at 1649373269267,
   :block/updated-at 1649373269267}
+ {:block/name "chicago",
+  :block/created-at 1649854032689,
+  :block/updated-at 1649854032689}
  {:block/name "chief product and technology officer",
   :block/created-at 1649373271641,
   :block/updated-at 1649373271641}
@@ -1180,6 +1522,9 @@
  {:block/name "coaching real leaders",
   :block/created-at 1649373283874,
   :block/updated-at 1649373283874}
+ {:block/name "code yellow",
+  :block/created-at 1649773779799,
+  :block/updated-at 1649773779799}
  {:block/name "colin bryar and bill carr",
   :block/created-at 1649591846045,
   :block/updated-at 1649591846045}
@@ -1222,12 +1567,21 @@
  {:block/name "dailynote 2022",
   :block/created-at 1649373269273,
   :block/updated-at 1649373269273}
+ {:block/name "dan hirschhorn",
+  :block/created-at 1649773777578,
+  :block/updated-at 1649773777578}
+ {:block/name "dan hirshhorn",
+  :block/created-at 1649773777577,
+  :block/updated-at 1649773777577}
  {:block/name "dan kirchberger",
   :block/created-at 1649684764758,
   :block/updated-at 1649684764758}
  {:block/name "danah boyd",
   :block/created-at 1649591861789,
   :block/updated-at 1649591861789}
+ {:block/name "daniel mcnichol",
+  :block/created-at 1649773646442,
+  :block/updated-at 1649773646442}
  {:block/name "danny buerkli",
   :block/created-at 1649373236199,
   :block/updated-at 1649373236199}
@@ -1236,25 +1590,34 @@
   :block/updated-at 1649373280548}
  {:block/name "darya ushakova",
   :block/created-at 1649373268423,
-  :block/updated-at 1649373268423}
+  :block/updated-at 1649854781783}
+ {:block/name "data",
+  :block/created-at 1649773675884,
+  :block/updated-at 1649773675884}
  {:block/name "data - insights - beliefs - bets",
   :block/created-at 1649591845423,
   :block/updated-at 1649591845423}
+ {:block/name "data access",
+  :block/created-at 1649773778231,
+  :block/updated-at 1649773778231}
  {:block/name "data and insights",
   :block/created-at 1647826706406,
   :block/updated-at 1648478675337}
  {:block/name "data and insights 2022 okrs",
   :block/created-at 1649373274912,
   :block/updated-at 1649373274912}
+ {:block/name "data and insights 2022 okrs_okr calendar",
+  :block/created-at 1649773785300,
+  :block/updated-at 1649773785300}
  {:block/name "data and insights 2022 okrs_okrs for 2022",
   :block/created-at 1649373274909,
   :block/updated-at 1649373274909}
- {:block/name "data and insights department]",
-  :block/created-at 1649373274913,
-  :block/updated-at 1649373274913}
+ {:block/name "data and insights department",
+  :block/created-at 1649770312163,
+  :block/updated-at 1649770312163}
  {:block/name "data and insights group",
   :block/created-at 1649373269405,
-  :block/updated-at 1649373269405}
+  :block/updated-at 1649770322055}
  {:block/name
   "data and insights group_2022 planning_data and insights_ 2022 planning",
   :block/created-at 1649373277914,
@@ -1262,6 +1625,12 @@
  {:block/name "data and insights group_data and insights",
   :block/created-at 1649373270019,
   :block/updated-at 1649373270019}
+ {:block/name "data and insights group_data and insights group",
+  :block/created-at 1649773776863,
+  :block/updated-at 1649773776863}
+ {:block/name "data and insights group_prioritization framework",
+  :block/created-at 1649773778728,
+  :block/updated-at 1649773778728}
  {:block/name
   "data and insights group_prioritization framework_departmental prioritization framework",
   :block/created-at 1649373277913,
@@ -1295,10 +1664,25 @@
   :block/updated-at 1649373269456}
  {:block/name "data platform",
   :block/created-at 1649687194787,
-  :block/updated-at 1649770170125}
+  :block/updated-at 1649770808820}
+ {:block/name "data platform questions",
+  :block/created-at 1649773649152,
+  :block/updated-at 1649773649152}
+ {:block/name "data products",
+  :block/created-at 1649773785298,
+  :block/updated-at 1649773785298}
  {:block/name "data program",
   :block/created-at 1648650350937,
   :block/updated-at 1648650350937}
+ {:block/name "data quality",
+  :block/created-at 1649773777579,
+  :block/updated-at 1649773777579}
+ {:block/name "data sources",
+  :block/created-at 1649798648321,
+  :block/updated-at 1649798673643}
+ {:block/name "data strategy overview",
+  :block/created-at 1649773784261,
+  :block/updated-at 1649773784261}
  {:block/name "data studio",
   :block/created-at 1649591837021,
   :block/updated-at 1649591837021}
@@ -1311,6 +1695,9 @@
  {:block/name "datadog",
   :block/created-at 1649373273376,
   :block/updated-at 1649373273376}
+ {:block/name "datahub",
+  :block/created-at 1649773647711,
+  :block/updated-at 1649773647711}
  {:block/name "dataset",
   :block/created-at 1648154559819,
   :block/updated-at 1648154559819}
@@ -1326,22 +1713,58 @@
  {:block/name "david graeber",
   :block/created-at 1649591852525,
   :block/updated-at 1649591852525}
+ {:block/name "david headshot.jpeg",
+  :block/created-at 1649773646212,
+  :block/updated-at 1649773646212}
+ {:block/name "david maialetti",
+  :block/created-at 1649773782460,
+  :block/updated-at 1649773782460}
  {:block/name "david riordan",
   :block/created-at 1647877031338,
   :block/updated-at 1647877031338}
+ {:block/name "day planner-20211206",
+  :block/created-at 1649773647252,
+  :block/updated-at 1649773647252}
+ {:block/name "day planner-20211207",
+  :block/created-at 1649773646991,
+  :block/updated-at 1649773646991}
+ {:block/name "day planner-20211213",
+  :block/created-at 1649773648689,
+  :block/updated-at 1649773648689}
+ {:block/name "day planner-20220118_^7d0x0b",
+  :block/created-at 1649773780392,
+  :block/updated-at 1649773780392}
+ {:block/name "day planner-20220208",
+  :block/created-at 1649773783249,
+  :block/updated-at 1649773783249}
+ {:block/name "daypass",
+  :block/created-at 1649773648841,
+  :block/updated-at 1649773648841}
  {:block/name "dbt",
   :block/created-at 1649373274179,
   :block/updated-at 1649373274179}
+ {:block/name "dc9ca433-e0ff-4e32-8b51-1ae3f971af11.jpeg",
+  :block/created-at 1649773648970,
+  :block/updated-at 1649773648970}
+ {:block/name "decision",
+  :block/created-at 1649773784449,
+  :block/updated-at 1649773784449}
  {:block/name "defector.com",
   :block/created-at 1649591846556,
   :block/updated-at 1649591846556}
+ {:block/name "dei",
+  :block/created-at 1649773648985,
+  :block/updated-at 1649773648985}
  {:block/name "development environment configuration",
   :block/created-at 1649373275287,
   :block/updated-at 1649373275287}
+ {:block/name "development environment configuration_^1bc4a5",
+  :block/created-at 1649773647235,
+  :block/updated-at 1649773647235}
  {:block/name "development planning",
   :block/created-at 1648481756092,
   :block/updated-at 1648481756092}
- {:block/name "devin",
+ {:block/name "devin peak",
   :block/created-at 1649768910776,
   :block/updated-at 1649768910776}
  {:block/name "dibb",
@@ -1398,9 +1821,19 @@
  {:block/name "elixir",
   :block/created-at 1649373273374,
   :block/updated-at 1649373273374}
+ {:block/name "elizabeth grace",
+  :block/created-at 1649854158967,
+  :block/updated-at 1649854158967}
+ {:block/name "engagement & loyalty manager",
+  :block/created-at 1649854557387,
+  :block/updated-at 1649854557387}
  {:block/name "engineering systems",
   :block/created-at 1649373270192,
   :block/updated-at 1649373270192}
+ {:block/name
+  "engineering systems_[[2021-12-16_inquirer engineering systems overview]] with [[toan dang]]",
+  :block/created-at 1649773648130,
+  :block/updated-at 1649773648130}
  {:block/name "epic",
   :block/created-at 1649373274909,
   :block/updated-at 1649373274909}
@@ -1428,15 +1861,24 @@
  {:block/name "favorites",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "feed logic",
+  :block/created-at 1649773647248,
+  :block/updated-at 1649773647248}
  {:block/name "feedly",
   :block/created-at 1649373246321,
   :block/updated-at 1649373246321}
+ {:block/name "first party data",
+  :block/created-at 1649773648984,
+  :block/updated-at 1649773648984}
  {:block/name "fleeting",
   :block/created-at 1648736802016,
   :block/updated-at 1648736802016}
  {:block/name "floor rates",
   :block/created-at 1649265887490,
   :block/updated-at 1649265887490}
+ {:block/name "foundational data",
+  :block/created-at 1649773649486,
+  :block/updated-at 1649773649486}
  {:block/name "fred turner",
   :block/created-at 1649591859948,
   :block/updated-at 1649591859948}
@@ -1446,6 +1888,9 @@
  {:block/name "free culture book club",
   :block/created-at 1648514267303,
   :block/updated-at 1648514267303}
+ {:block/name "ga4 migration",
+  :block/created-at 1649790761840,
+  :block/updated-at 1649791344489}
  {:block/name "gabe",
   :block/created-at 1649373278705,
   :block/updated-at 1649373278705}
@@ -1461,33 +1906,72 @@
  {:block/name "gayle laakmann mcdowell, jackie bavaro",
   :block/created-at 1649591845921,
   :block/updated-at 1649591845921}
+ {:block/name "gcs",
+  :block/created-at 1649770686582,
+  :block/updated-at 1649770686582}
+ {:block/name "general",
+  :block/created-at 1649773647964,
+  :block/updated-at 1649773647964}
  {:block/name "general intellect unit",
   :block/created-at 1649373240194,
   :block/updated-at 1649373240194}
+ {:block/name "george krutas",
+  :block/created-at 1649773646660,
+  :block/updated-at 1649773646660}
  {:block/name "george kurtas",
   :block/created-at 1648736177150,
   :block/updated-at 1648736177150}
+ {:block/name "gia benedetti",
+  :block/created-at 1649853976686,
+  :block/updated-at 1649853976686}
  {:block/name "github actions",
   :block/created-at 1649373273375,
   :block/updated-at 1649373273375}
  {:block/name "github projects",
   :block/created-at 1649433053706,
   :block/updated-at 1649433053706}
+ {:block/name "godeeper",
+  :block/created-at 1649773647709,
+  :block/updated-at 1649773647709}
  {:block/name "golden datasets",
   :block/created-at 1648154560206,
   :block/updated-at 1648154560206}
+ {:block/name "goodbehaviors",
+  :block/created-at 1649773647722,
+  :block/updated-at 1649773647722}
+ {:block/name "google",
+  :block/created-at 1649790807526,
+  :block/updated-at 1649790807526}
  {:block/name "google analytics",
   :block/created-at 1649373276316,
   :block/updated-at 1649373276316}
+ {:block/name "google cloud",
+  :block/created-at 1649773649281,
+  :block/updated-at 1649773649281}
+ {:block/name "google optimize",
+  :block/created-at 1649773777580,
+  :block/updated-at 1649773777580}
  {:block/name "governance",
   :block/created-at 1649373277913,
   :block/updated-at 1649373277913}
  {:block/name "green",
   :block/created-at 1649373234980,
   :block/updated-at 1649373234980}
+ {:block/name "gripes",
+  :block/created-at 1649773647964,
+  :block/updated-at 1649773647964}
+ {:block/name "gsheet",
+  :block/created-at 1649773777581,
+  :block/updated-at 1649773777581}
+ {:block/name "hanson",
+  :block/created-at 1649773782077,
+  :block/updated-at 1649773782077}
  {:block/name "harvard business review",
   :block/created-at 1649373234955,
   :block/updated-at 1649373234955}
+ {:block/name "hawk shannon",
+  :block/created-at 1649773647241,
+  :block/updated-at 1649773647241}
  {:block/name "hbr - manager",
   :block/created-at 1649373235358,
   :block/updated-at 1649373235358}
@@ -1497,12 +1981,27 @@
  {:block/name "hearkin",
   :block/created-at 1649591837020,
   :block/updated-at 1649591837020}
+ {:block/name "hero digital",
+  :block/created-at 1649773777174,
+  :block/updated-at 1649773777174}
  {:block/name "hiring",
   :block/created-at 1648154559942,
   :block/updated-at 1648154559942}
  {:block/name "hiring/sr. marketing analyst",
   :block/created-at 1648154559941,
   :block/updated-at 1648154559941}
+ {:block/name "hiring_2021q1 data engineer hiring",
+  :block/created-at 1649773784448,
+  :block/updated-at 1649773784448}
+ {:block/name "hiring_2022-q1 data engineer hiring",
+  :block/created-at 1649773786514,
+  :block/updated-at 1649773786514}
+ {:block/name "hiringg",
+  :block/created-at 1649855720199,
+  :block/updated-at 1649855720199}
+ {:block/name "home",
+  :block/created-at 1649773647402,
+  :block/updated-at 1649773647402}
  {:block/name "homepage",
   :block/created-at 1649373269268,
   :block/updated-at 1649373269268}
@@ -1515,15 +2014,24 @@
  {:block/name "ibooks",
   :block/created-at 1649373234955,
   :block/updated-at 1649373234955}
+ {:block/name "idea",
+  :block/created-at 1649773647965,
+  :block/updated-at 1649773647965}
  {:block/name "in-progress",
   :block/created-at 1647807341644,
   :block/updated-at 1647807341644}
  {:block/name "incident management",
   :block/created-at 1649090100201,
   :block/updated-at 1649338573954}
+ {:block/name "incident management _ incident management",
+  :block/created-at 1649773784262,
+  :block/updated-at 1649773784262}
  {:block/name "incident tracking",
   :block/created-at 1649591853632,
   :block/updated-at 1649591853632}
+ {:block/name "incident.io",
+  :block/created-at 1649773782259,
+  :block/updated-at 1649773782259}
  {:block/name "incomplete",
   :block/created-at 1649373276152,
   :block/updated-at 1649373276152}
@@ -1536,6 +2044,15 @@
  {:block/name "infrastructure",
   :block/created-at 1649591854331,
   :block/updated-at 1649591854331}
+ {:block/name "inkbox",
+  :block/created-at 1649857405934,
+  :block/updated-at 1649857405934}
+ {:block/name "inq-research-strategy-ideas (1).pdf",
+  :block/created-at 1649773783058,
+  :block/updated-at 1649773783058}
+ {:block/name "inq-warehouse",
+  :block/created-at 1649770808819,
+  :block/updated-at 1649853739098}
  {:block/name "inq4all",
   :block/created-at 1649373268949,
   :block/updated-at 1649373268949}
@@ -1544,7 +2061,7 @@
   :block/updated-at 1648477162145}
  {:block/name "inquirer 90 day plan",
   :block/created-at 1649373269405,
-  :block/updated-at 1649373269405}
+  :block/updated-at 1649770326248}
  {:block/name "inquirer architecture diagram - 2020.pdf",
   :block/created-at 1649373270184,
   :block/updated-at 1649373270184}
@@ -1563,6 +2080,9 @@
  {:block/name "inquirer onboarding",
   :block/created-at 1649373269410,
   :block/updated-at 1649373269410}
+ {:block/name "inquirer onboarding_onboarding",
+  :block/created-at 1649773785298,
+  :block/updated-at 1649773785298}
  {:block/name "inquirer operations",
   :block/created-at 1649373269339,
   :block/updated-at 1649373269339}
@@ -1578,6 +2098,12 @@
  {:block/name "inquirer strategy",
   :block/created-at 1649373268267,
   :block/updated-at 1649373268267}
+ {:block/name "inquirer strategy_2021 strategic plan",
+  :block/created-at 1649773647234,
+  :block/updated-at 1649773647234}
+ {:block/name "inquirer strategy_strategic plan",
+  :block/created-at 1649773779785,
+  :block/updated-at 1649773779785}
  {:block/name "inquirer welcome letter",
   :block/created-at 1649373268427,
   :block/updated-at 1649373268427}
@@ -1665,18 +2191,30 @@
  {:block/name "inquirer/person",
   :block/created-at 1648154559652,
   :block/updated-at 1648154559652}
+ {:block/name "inquirer/proje",
+  :block/created-at 1649790781931,
+  :block/updated-at 1649790781931}
  {:block/name "inquirer/project",
   :block/created-at 1649270847611,
   :block/updated-at 1649270847611}
  {:block/name "inquirer/projects",
-  :block/created-at 1649373270092,
-  :block/updated-at 1649373270092}
+  :block/created-at 1649770403411,
+  :block/updated-at 1649770403411}
+ {:block/name "inquirer/squad",
+  :block/created-at 1649857612848,
+  :block/updated-at 1649857612848}
+ {:block/name "inquirer/teams",
+  :block/created-at 1649770322049,
+  :block/updated-at 1649770322049}
  {:block/name "insights guild",
   :block/created-at 1649373274554,
   :block/updated-at 1649373274554}
  {:block/name "instapaper",
   :block/created-at 1649373233924,
   :block/updated-at 1649373233924}
+ {:block/name "internal comms",
+  :block/created-at 1649773780387,
+  :block/updated-at 1649773780387}
  {:block/name "interview",
   :block/created-at 1649373269269,
   :block/updated-at 1649373269269}
@@ -1695,6 +2233,9 @@
  {:block/name "james clear",
   :block/created-at 1649373238295,
   :block/updated-at 1649373238295}
+ {:block/name "james wilkinson",
+  :block/created-at 1649854546986,
+  :block/updated-at 1649854546986}
  {:block/name "jason fried and david heinemeier hansson",
   :block/created-at 1649373249628,
   :block/updated-at 1649373249628}
@@ -1707,12 +2248,21 @@
  {:block/name "jenkins",
   :block/created-at 1649373273375,
   :block/updated-at 1649373273375}
+ {:block/name "jeremy beha",
+  :block/created-at 1649773777572,
+  :block/updated-at 1649773777572}
  {:block/name "jesse eisinger",
   :block/created-at 1649591845009,
   :block/updated-at 1649591845009}
  {:block/name "jim anton",
   :block/created-at 1649373277218,
   :block/updated-at 1649373277218}
+ {:block/name "jira",
+  :block/created-at 1649855961711,
+  :block/updated-at 1649855961711}
+ {:block/name "jody vaughn",
+  :block/created-at 1649854980925,
+  :block/updated-at 1649854980925}
  {:block/name "joe morrison",
   :block/created-at 1649373235515,
   :block/updated-at 1649373235515}
@@ -1722,6 +2272,9 @@
  {:block/name "john k. thompson",
   :block/created-at 1649591847958,
   :block/updated-at 1649591847958}
+ {:block/name "john roberts",
+  :block/created-at 1649773782459,
+  :block/updated-at 1649773782459}
  {:block/name "jon gertner",
   :block/created-at 1649591844672,
   :block/updated-at 1649591844672}
@@ -1737,12 +2290,30 @@
  {:block/name "journals/2021-11-30",
   :block/created-at 1649373269064,
   :block/updated-at 1649373269064}
+ {:block/name "journals/2022",
+  :block/created-at 1649773779132,
+  :block/updated-at 1649773779132}
+ {:block/name "journals/2022/weeks",
+  :block/created-at 1649773779133,
+  :block/updated-at 1649773779133}
+ {:block/name "journals/2022/weeks/2022-w04_priorities for the week",
+  :block/created-at 1649773779132,
+  :block/updated-at 1649773779132}
+ {:block/name "journals/2022/weeks/2022-w05_priorities for the week",
+  :block/created-at 1649773779782,
+  :block/updated-at 1649773779782}
  {:block/name "judge glock",
   :block/created-at 1649591856900,
   :block/updated-at 1649591856900}
  {:block/name "julia haslinger",
   :block/created-at 1649090073559,
   :block/updated-at 1649090073559}
+ {:block/name "julie busby",
+  :block/created-at 1649773782457,
+  :block/updated-at 1649773782457}
+ {:block/name "julie westfall",
+  :block/created-at 1649773648318,
+  :block/updated-at 1649773648318}
  {:block/name "karl stark",
   :block/created-at 1649373269266,
   :block/updated-at 1649373269266}
@@ -1764,12 +2335,24 @@
  {:block/name "kava",
   :block/created-at 1647826706276,
   :block/updated-at 1647826706276}
+ {:block/name "kevin mcwilliams",
+  :block/created-at 1649773784093,
+  :block/updated-at 1649773784093}
  {:block/name "killing dsi",
   :block/created-at 1649270282271,
   :block/updated-at 1649347337344}
+ {:block/name "kim",
+  :block/created-at 1649855186771,
+  :block/updated-at 1649855186771}
+ {:block/name "kim ",
+  :block/created-at 1649854365798,
+  :block/updated-at 1649854365798}
+ {:block/name "kim rossmair",
+  :block/created-at 1649854482314,
+  :block/updated-at 1649854482314}
  {:block/name "kim rossmair johnson",
   :block/created-at 1649768910774,
-  :block/updated-at 1649768910774}
+  :block/updated-at 1649854482315}
  {:block/name "kim scott",
   :block/created-at 1649591848574,
   :block/updated-at 1649591848574}
@@ -1782,9 +2365,12 @@
  {:block/name "know your enemy",
   :block/created-at 1649591847092,
   :block/updated-at 1649591847092}
+ {:block/name "kpi",
+  :block/created-at 1649773648320,
+  :block/updated-at 1649853794283}
  {:block/name "kpis",
-  :block/created-at 1648154560209,
-  :block/updated-at 1648154560209}
+  :block/created-at 1649853013105,
+  :block/updated-at 1649853013105}
  {:block/name "kristen taylor",
   :block/created-at 1649591845105,
   :block/updated-at 1649591845105}
@@ -1803,12 +2389,18 @@
  {:block/name "lauren kauffman",
   :block/created-at 1648581999496,
   :block/updated-at 1648581999496}
+ {:block/name "leadership meeting",
+  :block/created-at 1649773648978,
+  :block/updated-at 1649773648978}
  {:block/name "leadwork]",
   :block/created-at 1649373273532,
   :block/updated-at 1649373273532}
  {:block/name "lenfest local lab",
   :block/created-at 1649373268294,
   :block/updated-at 1649373268294}
+ {:block/name "lenfest local lab_lenfest lab",
+  :block/created-at 1649773648137,
+  :block/updated-at 1649773648137}
  {:block/name "lewis c. lin",
   :block/created-at 1649373242751,
   :block/updated-at 1649373242751}
@@ -1838,13 +2430,16 @@
   :block/updated-at 1649373269267}
  {:block/name "liz grace",
   :block/created-at 1649278125878,
-  :block/updated-at 1649278125878}
+  :block/updated-at 1649854158969}
+ {:block/name "local news lab",
+  :block/created-at 1649773781180,
+  :block/updated-at 1649773781180}
  {:block/name "logseq",
   :block/created-at 1649687194529,
   :block/updated-at 1649687194529}
  {:block/name "loomis",
-  :block/created-at 1649090466113,
-  :block/updated-at 1649090466113}
+  :block/created-at 1649855354030,
+  :block/updated-at 1649855354030}
  {:block/name "lse_ public lectures and events",
   :block/created-at 1649373280946,
   :block/updated-at 1649373280946}
@@ -1857,6 +2452,12 @@
  {:block/name "lydia hamilton_lydia",
   :block/created-at 1649373274752,
   :block/updated-at 1649373274752}
+ {:block/name "madison messics",
+  :block/created-at 1649854054588,
+  :block/updated-at 1649854054588}
+ {:block/name "mailto_tgillespie@inquirer.com",
+  :block/created-at 1649773648987,
+  :block/updated-at 1649773648987}
  {:block/name "managing editor",
   :block/created-at 1649373269478,
   :block/updated-at 1649373269478}
@@ -1864,8 +2465,11 @@
   :block/created-at 1649264253466,
   :block/updated-at 1649264253466}
  {:block/name "mara",
+  :block/created-at 1649854333149,
+  :block/updated-at 1649854333149}
+ {:block/name "mara hughes",
   :block/created-at 1647957935917,
-  :block/updated-at 1647957935917}
+  :block/updated-at 1649854333150}
  {:block/name "marianne bellotti",
   :block/created-at 1649591850050,
   :block/updated-at 1649591850050}
@@ -1875,30 +2479,60 @@
  {:block/name "mark burgess",
   :block/created-at 1649373242924,
   :block/updated-at 1649373242924}
+ {:block/name "mark ganslaugh",
+  :block/created-at 1649773782258,
+  :block/updated-at 1649773782258}
  {:block/name "mark loomis",
   :block/created-at 1649687194676,
-  :block/updated-at 1649687194676}
+  :block/updated-at 1649855356769}
+ {:block/name "mark loomis_mark",
+  :block/created-at 1649855640952,
+  :block/updated-at 1649855640952}
+ {:block/name "mark nichols",
+  :block/created-at 1649853931832,
+  :block/updated-at 1649853931832}
  {:block/name "mark robichaux",
   :block/created-at 1649591857432,
   :block/updated-at 1649591857432}
+ {:block/name "market research",
+  :block/created-at 1649854989208,
+  :block/updated-at 1649854989208}
  {:block/name "marketing",
   :block/created-at 1649090102393,
-  :block/updated-at 1649090102393}
+  :block/updated-at 1649855328848}
+ {:block/name "marketing cloud",
+  :block/created-at 1649857264236,
+  :block/updated-at 1649857414827}
+ {:block/name "marketing operations",
+  :block/created-at 1649854845311,
+  :block/updated-at 1649855016195}
+ {:block/name "marketing ops",
+  :block/created-at 1649855016194,
+  :block/updated-at 1649855016194}
  {:block/name "marketing rpa - subscription data challenges",
   :block/created-at 1649373270043,
   :block/updated-at 1649373270043}
+ {:block/name "marketing technology",
+  :block/created-at 1649855318036,
+  :block/updated-at 1649855318036}
+ {:block/name "martech",
+  :block/created-at 1649855260416,
+  :block/updated-at 1649855318037}
  {:block/name "marty cagan and chris jones",
   :block/created-at 1649591857164,
   :block/updated-at 1649591857164}
  {:block/name "mather",
   :block/created-at 1649090074637,
   :block/updated-at 1649090074637}
+ {:block/name "matt",
+  :block/created-at 1649773780207,
+  :block/updated-at 1649773780207}
  {:block/name "matt boggie",
   :block/created-at 1649090101806,
   :block/updated-at 1649090101806}
- {:block/name "matt boggie_matt",
-  :block/created-at 1649373269183,
-  :block/updated-at 1649373269183}
+ {:block/name "matt boggie_cpto",
+  :block/created-at 1649773777180,
+  :block/updated-at 1649773777180}
  {:block/name "max chafkin",
   :block/created-at 1649373250291,
   :block/updated-at 1649373250291}
@@ -1931,13 +2565,16 @@
   :block/updated-at 1649373274634}
  {:block/name "metrics that matter",
   :block/created-at 1649373276154,
-  :block/updated-at 1649373276154}
+  :block/updated-at 1649770330041}
  {:block/name "metrics-that-matter]",
   :block/created-at 1649373276154,
   :block/updated-at 1649373276154}
  {:block/name "mgg",
   :block/created-at 1649591837019,
   :block/updated-at 1649591837019}
+ {:block/name "mia serrano",
+  :block/created-at 1649854937985,
+  :block/updated-at 1649854937985}
  {:block/name "michael d. watkins",
   :block/created-at 1649591858954,
   :block/updated-at 1649591858954}
@@ -1953,6 +2590,12 @@
  {:block/name "michael zimbalist_chief strategy officer",
   :block/created-at 1649373274750,
   :block/updated-at 1649373274750}
+ {:block/name "michael zimbalist_mz",
+  :block/created-at 1649773780392,
+  :block/updated-at 1649773780392}
+ {:block/name "michelle lopez",
+  :block/created-at 1649853871128,
+  :block/updated-at 1649853871128}
  {:block/name "mike cost",
   :block/created-at 1649266897170,
   :block/updated-at 1649266897170}
@@ -1962,24 +2605,39 @@
  {:block/name "misinformation",
   :block/created-at 1649591861790,
   :block/updated-at 1649591861790}
+ {:block/name "modelstorming",
+  :block/created-at 1649773776871,
+  :block/updated-at 1649773776871}
  {:block/name "molly eichel",
   :block/created-at 1649373269266,
   :block/updated-at 1649373269266}
+ {:block/name "more perfect union",
+  :block/created-at 1649773776872,
+  :block/updated-at 1649773776872}
  {:block/name "morgan g. ames",
   :block/created-at 1649373242557,
   :block/updated-at 1649373242557}
  {:block/name "motherboard.vice.com",
   :block/created-at 1649373283237,
   :block/updated-at 1649373283237}
+ {:block/name "motion recruiting",
+  :block/created-at 1649773784448,
+  :block/updated-at 1649773784448}
  {:block/name "mtv.com",
   :block/created-at 1649591845563,
   :block/updated-at 1649591845563}
+ {:block/name "mz",
+  :block/created-at 1649773781185,
+  :block/updated-at 1649773781185}
  {:block/name "nadia",
   :block/created-at 1649373274632,
   :block/updated-at 1649373274632}
  {:block/name "nadia eghbal",
   :block/created-at 1649591858331,
   :block/updated-at 1649591858331}
+ {:block/name "nadya",
+  :block/created-at 1649773777575,
+  :block/updated-at 1649773777575}
  {:block/name "nadya tan",
   :block/created-at 1649100845678,
   :block/updated-at 1649100845678}
@@ -1992,9 +2650,33 @@
  {:block/name "new york state attorney general",
   :block/created-at 1649373244716,
   :block/updated-at 1649373244716}
+ {:block/name "news guild",
+  :block/created-at 1649773783056,
+  :block/updated-at 1649773783056}
+ {:block/name "newsletter",
+  :block/created-at 1649857469826,
+  :block/updated-at 1649857469826}
+ {:block/name "newsletter squad",
+  :block/created-at 1649857522434,
+  :block/updated-at 1649857612849}
+ {:block/name "newsletters",
+  :block/created-at 1649773648318,
+  :block/updated-at 1649857588409}
+ {:block/name "newsroom",
+  :block/created-at 1649773782077,
+  :block/updated-at 1649773782077}
+ {:block/name "newsroom analytics",
+  :block/created-at 1649773782669,
+  :block/updated-at 1649773782669}
+ {:block/name "newsroom indexes",
+  :block/created-at 1649773648314,
+  :block/updated-at 1649773648314}
  {:block/name "newyorker.com",
   :block/created-at 1649373240990,
   :block/updated-at 1649373240990}
+ {:block/name "nextsteps",
+  :block/created-at 1649773780387,
+  :block/updated-at 1649773780387}
  {:block/name "nicolas carter",
   :block/created-at 1649373278391,
   :block/updated-at 1649373278391}
@@ -2022,15 +2704,9 @@
  {:block/name "obsidian",
   :block/created-at 1649090102314,
   :block/updated-at 1649090102314}
- {:block/name "obsidian/data platform",
-  :block/created-at 1649687090736,
-  :block/updated-at 1649687090736}
  {:block/name "obsidian/logseq",
   :block/created-at 1649687134185,
   :block/updated-at 1649687134185}
- {:block/name "obsidian/mark loomis",
-  :block/created-at 1649687176203,
-  :block/updated-at 1649687176203}
  {:block/name "obsidian/obsidian",
   :block/created-at 1649687158720,
   :block/updated-at 1649687158720}
@@ -2046,12 +2722,18 @@
  {:block/name "omnifocus",
   :block/created-at 1647873621361,
   :block/updated-at 1647873621361}
+ {:block/name "onboarding",
+  :block/created-at 1649773646438,
+  :block/updated-at 1649773646438}
  {:block/name "onboarding journey",
   :block/created-at 1649373274629,
   :block/updated-at 1649373274629}
  {:block/name "operational excellence",
   :block/created-at 1648154560625,
   :block/updated-at 1648154560625}
+ {:block/name "operational excellence project check-in",
+  :block/created-at 1649373269339,
+  :block/updated-at 1649770403416}
  {:block/name "operational excellence/progress check-in",
   :block/created-at 1648490890988,
   :block/updated-at 1648490890988}
@@ -2064,6 +2746,9 @@
  {:block/name "organization priorities",
   :block/created-at 1649373274577,
   :block/updated-at 1649373274577}
+ {:block/name "orggoals",
+  :block/created-at 1649773648321,
+  :block/updated-at 1649773648321}
  {:block/name "orientation structured interview questions",
   :block/created-at 1649373268966,
   :block/updated-at 1649373268966}
@@ -2085,6 +2770,99 @@
  {:block/name "pages/inquirer 90 day plan_^82d136",
   :block/created-at 1649373269107,
   :block/updated-at 1649373269107}
+ {:block/name "pasted image 20211217123812.png",
+  :block/created-at 1649773647722,
+  :block/updated-at 1649773647722}
+ {:block/name "pasted image 20211217154344.png",
+  :block/created-at 1649773647720,
+  :block/updated-at 1649773647720}
+ {:block/name "pasted image 20211220144412.png",
+  :block/created-at 1649773648315,
+  :block/updated-at 1649773648315}
+ {:block/name "pasted image 20211220144502.png",
+  :block/created-at 1649773648316,
+  :block/updated-at 1649773648316}
+ {:block/name "pasted image 20220124110608.png",
+  :block/created-at 1649773779785,
+  :block/updated-at 1649773779785}
+ {:block/name "pasted image 20220124110922.png",
+  :block/created-at 1649773779786,
+  :block/updated-at 1649773779786}
+ {:block/name "pasted image 20220124111218.png",
+  :block/created-at 1649773779787,
+  :block/updated-at 1649773779787}
+ {:block/name "pasted image 20220124111822.png",
+  :block/created-at 1649773779787,
+  :block/updated-at 1649773779787}
+ {:block/name "pasted image 20220124111845.png",
+  :block/created-at 1649773779788,
+  :block/updated-at 1649773779788}
+ {:block/name "pasted image 20220124112435.png",
+  :block/created-at 1649773779788,
+  :block/updated-at 1649773779788}
+ {:block/name "pasted image 20220124113755.png",
+  :block/created-at 1649773779789,
+  :block/updated-at 1649773779789}
+ {:block/name "pasted image 20220124114134.png",
+  :block/created-at 1649773779790,
+  :block/updated-at 1649773779790}
+ {:block/name "pasted image 20220124114544.png",
+  :block/created-at 1649773779790,
+  :block/updated-at 1649773779790}
+ {:block/name "pasted image 20220124114711.png",
+  :block/created-at 1649773779791,
+  :block/updated-at 1649773779791}
+ {:block/name "pasted image 20220124114856.png",
+  :block/created-at 1649773779793,
+  :block/updated-at 1649773779793}
+ {:block/name "pasted image 20220124115211.png",
+  :block/created-at 1649773779794,
+  :block/updated-at 1649773779794}
+ {:block/name "pasted image 20220124115233.png",
+  :block/created-at 1649773779795,
+  :block/updated-at 1649773779795}
+ {:block/name "pasted image 20220124115352.png",
+  :block/created-at 1649773779795,
+  :block/updated-at 1649773779795}
+ {:block/name "pasted image 20220124115432.png",
+  :block/created-at 1649773779795,
+  :block/updated-at 1649773779795}
+ {:block/name "pasted image 20220124115843.png",
+  :block/created-at 1649773779796,
+  :block/updated-at 1649773779796}
+ {:block/name "pasted image 20220124120300.png",
+  :block/created-at 1649773779796,
+  :block/updated-at 1649773779796}
+ {:block/name "pasted image 20220131160610.png",
+  :block/created-at 1649773780935,
+  :block/updated-at 1649773780935}
+ {:block/name "pasted image 20220131161144.png",
+  :block/created-at 1649773780937,
+  :block/updated-at 1649773780937}
+ {:block/name "pasted image 20220131161226.png",
+  :block/created-at 1649773780938,
+  :block/updated-at 1649773780938}
+ {:block/name "pasted image 20220131161320.png",
+  :block/created-at 1649773780938,
+  :block/updated-at 1649773780938}
+ {:block/name "pasted image 20220131161511.png",
+  :block/created-at 1649773780939,
+  :block/updated-at 1649773780939}
+ {:block/name "pasted image 20220131162200.png",
+  :block/created-at 1649773780941,
+  :block/updated-at 1649773780941}
+ {:block/name "pasted image 20220131162347.png",
+  :block/created-at 1649773780941,
+  :block/updated-at 1649773780941}
+ {:block/name "pasted image 20220131163215.png",
+  :block/created-at 1649773780942,
+  :block/updated-at 1649773780942}
+ {:block/name "pasted image 20220131163737.png",
+  :block/created-at 1649773780942,
+  :block/updated-at 1649773780942}
+ {:block/name "pasted image 20220131165229.png",
+  :block/created-at 1649773780943,
+  :block/updated-at 1649773780943}
  {:block/name "pasted image 20220202160722.png",
   :block/created-at 1649373277220,
   :block/updated-at 1649373277220}
@@ -2112,6 +2890,21 @@
  {:block/name "pasted image 20220210133338.png",
   :block/created-at 1649373269186,
   :block/updated-at 1649373269186}
+ {:block/name "pasted image 20220316121826.png",
+  :block/created-at 1649773786094,
+  :block/updated-at 1649773786094}
+ {:block/name "pasted image 20220316131530.png",
+  :block/created-at 1649773786093,
+  :block/updated-at 1649773786093}
+ {:block/name "pasted image 20220316131553.png",
+  :block/created-at 1649773786094,
+  :block/updated-at 1649773786094}
+ {:block/name "pasted image 20220316131653.png",
+  :block/created-at 1649773786093,
+  :block/updated-at 1649773786093}
+ {:block/name "pasted image 20220316134021.png",
+  :block/created-at 1649773786095,
+  :block/updated-at 1649773786095}
  {:block/name "patrick kerkstra",
   :block/created-at 1649373268422,
   :block/updated-at 1649373268422}
@@ -2122,6 +2915,12 @@
   "paul h. o'neill sr., ken segel, geoff webster, mark graban, john toussaint, and paul h. o'neill jr.",
   :block/created-at 1649373243418,
   :block/updated-at 1649373243418}
+ {:block/name "pde",
+  :block/created-at 1649853102100,
+  :block/updated-at 1649853102100}
+ {:block/name "pde stakeholders",
+  :block/created-at 1649773784447,
+  :block/updated-at 1649773784447}
  {:block/name "pde week",
   :block/created-at 1647826710515,
   :block/updated-at 1647874750677}
@@ -2131,12 +2930,21 @@
  {:block/name "pde week - 2022q1",
   :block/created-at 1649373277264,
   :block/updated-at 1649373277264}
+ {:block/name "pde/leads",
+  :block/created-at 1649853102101,
+  :block/updated-at 1649853102101}
+ {:block/name "pde/leads/blockers",
+  :block/created-at 1649853102100,
+  :block/updated-at 1649853102100}
  {:block/name "performance goals",
   :block/created-at 1649373271349,
   :block/updated-at 1649373271349}
  {:block/name "performance management",
   :block/created-at 1649373271347,
   :block/updated-at 1649373271347}
+ {:block/name "performance management_performance goals",
+  :block/created-at 1649773785760,
+  :block/updated-at 1649773785760}
  {:block/name
   "performance management_performance management goals_performance goals",
   :block/created-at 1649373277263,
@@ -2165,12 +2973,18 @@
  {:block/name "phillips, judah",
   :block/created-at 1649591853651,
   :block/updated-at 1649591853651}
+ {:block/name "philly",
+  :block/created-at 1649773648839,
+  :block/updated-at 1649773648839}
  {:block/name "piano",
   :block/created-at 1649278212509,
   :block/updated-at 1649278212509}
  {:block/name "pink",
   :block/created-at 1649373234965,
   :block/updated-at 1649373234965}
+ {:block/name "pmo",
+  :block/created-at 1649773648529,
+  :block/updated-at 1649773648529}
  {:block/name "podcasts",
   :block/created-at 1649373234077,
   :block/updated-at 1649373234077}
@@ -2254,9 +3068,22 @@
  {:block/name "premium content recommendation engine",
   :block/created-at 1649373274635,
   :block/updated-at 1649373274635}
+ {:block/name "prep",
+  :block/created-at 1649773647398,
+  :block/updated-at 1649773647398}
  {:block/name "preset",
   :block/created-at 1649373274880,
   :block/updated-at 1649373274880}
+ {:block/name
+  "preset_initial thoughts on preset for inquirer 2022-02-07",
+  :block/created-at 1649773782871,
+  :block/updated-at 1649773782871}
+ {:block/name "principles",
+  :block/created-at 1649773649281,
+  :block/updated-at 1649773649281}
+ {:block/name "print",
+  :block/created-at 1649773647715,
+  :block/updated-at 1649773647715}
  {:block/name "priorities for the week",
   :block/created-at 1648474362197,
   :block/updated-at 1648474362197}
@@ -2272,6 +3099,9 @@
  {:block/name "priority/normal",
   :block/created-at 1647826706394,
   :block/updated-at 1647826706394}
+ {:block/name "priority/okr",
+  :block/created-at 1649853794281,
+  :block/updated-at 1649853794281}
  {:block/name "priority_priority project list",
   :block/created-at 1649373269265,
   :block/updated-at 1649373269265}
@@ -2283,10 +3113,16 @@
   :block/updated-at 1649591851128}
  {:block/name "product and operations group",
   :block/created-at 1649373270019,
-  :block/updated-at 1649373270019}
+  :block/updated-at 1649770334563}
+ {:block/name "product design",
+  :block/created-at 1649773647955,
+  :block/updated-at 1649773647955}
  {:block/name "product management",
   :block/created-at 1649373242751,
   :block/updated-at 1649373242751}
+ {:block/name "product team",
+  :block/created-at 1649773777802,
+  :block/updated-at 1649773777802}
  {:block/name "product, design, and engineering",
   :block/created-at 1649373273340,
   :block/updated-at 1649373273340}
@@ -2296,6 +3132,9 @@
  {:block/name "project",
   :block/created-at 1649373280581,
   :block/updated-at 1649373280581}
+ {:block/name "project inky",
+  :block/created-at 1649773647245,
+  :block/updated-at 1649773647245}
  {:block/name "projects",
   :block/created-at 1647826706395,
   :block/updated-at 1647826706395}
@@ -2305,9 +3144,21 @@
  {:block/name "qanon anonymous",
   :block/created-at 1649373242371,
   :block/updated-at 1649373242371}
- {:block/name "rachelc",
+ {:block/name "question",
+  :block/created-at 1649773648136,
+  :block/updated-at 1649773648136}
+ {:block/name "questions",
+  :block/created-at 1649773646442,
+  :block/updated-at 1649773646442}
+ {:block/name "rachel ciampaglia",
   :block/created-at 1647957937960,
-  :block/updated-at 1647957937960}
+  :block/updated-at 1649854276236}
+ {:block/name "rachelc",
+  :block/created-at 1649854276235,
+  :block/updated-at 1649854276235}
+ {:block/name "reading",
+  :block/created-at 1649773778897,
+  :block/updated-at 1649773778897}
  {:block/name "readwise highlights",
   :block/created-at 1649373233926,
   :block/updated-at 1649373233926}
@@ -2320,12 +3171,24 @@
  {:block/name "registration",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
+ {:block/name "retention",
+  :block/created-at 1649773648677,
+  :block/updated-at 1649773648677}
+ {:block/name "retention data",
+  :block/created-at 1649773648131,
+  :block/updated-at 1649773648131}
+ {:block/name "rich jones",
+  :block/created-at 1649773782459,
+  :block/updated-at 1649773782459}
  {:block/name "richard rumelt",
   :block/created-at 1649591860293,
   :block/updated-at 1649591860293}
  {:block/name "rick perlstein",
   :block/created-at 1649591847543,
   :block/updated-at 1649591847543}
+ {:block/name "ricky eades",
+  :block/created-at 1649773780576,
+  :block/updated-at 1649773780576}
  {:block/name "riordan on huffduffer",
   :block/created-at 1649591848979,
   :block/updated-at 1649591848979}
@@ -2349,13 +3212,49 @@
   :block/updated-at 1649591847230}
  {:block/name "sarah jarvis",
   :block/created-at 1649373274528,
-  :block/updated-at 1649373274528}
+  :block/updated-at 1649854032689}
  {:block/name "sarah schmalbach",
   :block/created-at 1649373268423,
   :block/updated-at 1649373268423}
  {:block/name "scott h. young",
   :block/created-at 1649373278756,
   :block/updated-at 1649373278756}
+ {:block/name "screen shot 2021-12-06 at 10.08.50 am.png",
+  :block/created-at 1649773647234,
+  :block/updated-at 1649773647234}
+ {:block/name "screen shot 2021-12-06 at 10.14.37 am.png",
+  :block/created-at 1649773647235,
+  :block/updated-at 1649773647235}
+ {:block/name "screen shot 2021-12-06 at 10.22.15 am.png",
+  :block/created-at 1649773647237,
+  :block/updated-at 1649773647237}
+ {:block/name "screen shot 2021-12-15 at 3.13.04 pm.png",
+  :block/created-at 1649773648980,
+  :block/updated-at 1649773648980}
+ {:block/name "screen shot 2021-12-15 at 3.17.00 pm.png",
+  :block/created-at 1649773648980,
+  :block/updated-at 1649773648980}
+ {:block/name "screen shot 2021-12-15 at 3.21.16 pm.png",
+  :block/created-at 1649773648981,
+  :block/updated-at 1649773648981}
+ {:block/name "screen shot 2021-12-15 at 3.23.58 pm.png",
+  :block/created-at 1649773648981,
+  :block/updated-at 1649773648981}
+ {:block/name "screen shot 2021-12-15 at 3.26.17 pm.png",
+  :block/created-at 1649773648982,
+  :block/updated-at 1649773648982}
+ {:block/name "screen shot 2021-12-15 at 3.30.38 pm.png",
+  :block/created-at 1649773648983,
+  :block/updated-at 1649773648983}
+ {:block/name "screen shot 2021-12-17 at 12.14.19 pm.png",
+  :block/created-at 1649773647714,
+  :block/updated-at 1649773647714}
+ {:block/name "screen shot 2021-12-17 at 12.15.27 pm.png",
+  :block/created-at 1649773647713,
+  :block/updated-at 1649773647713}
+ {:block/name "screen shot 2021-12-17 at 12.16.35 pm.png",
+  :block/created-at 1649773647714,
+  :block/updated-at 1649773647714}
  {:block/name "screen shot 2022-03-09 at 11.15.07.png",
   :block/created-at 1649373274815,
   :block/updated-at 1649373274815}
@@ -2380,6 +3279,9 @@
  {:block/name "shoshana zuboff",
   :block/created-at 1649373252803,
   :block/updated-at 1649373252803}
+ {:block/name "shyam deolaliker",
+  :block/created-at 1649854973482,
+  :block/updated-at 1649854973482}
  {:block/name "snipd",
   :block/created-at 1649373247200,
   :block/updated-at 1649373247200}
@@ -2389,33 +3291,67 @@
  {:block/name "spencer ackerman",
   :block/created-at 1649591847750,
   :block/updated-at 1649591847750}
+ {:block/name "sports",
+  :block/created-at 1649773781404,
+  :block/updated-at 1649773781404}
  {:block/name "spotify_ a product story",
   :block/created-at 1649591846414,
   :block/updated-at 1649591846414}
  {:block/name "stack overflow",
   :block/created-at 1649373270264,
   :block/updated-at 1649373270264}
+ {:block/name "stakeholder sync",
+  :block/created-at 1649773646654,
+  :block/updated-at 1649773646654}
  {:block/name "status",
   :block/created-at 1649686490329,
   :block/updated-at 1649686490329}
  {:block/name "steve yegge",
   :block/created-at 1649591857923,
   :block/updated-at 1649591857923}
+ {:block/name "stitch data",
+  :block/created-at 1649791451794,
+  :block/updated-at 1649791510386}
  {:block/name "stratechery.com",
   :block/created-at 1649373233923,
   :block/updated-at 1649373233923}
+ {:block/name "strategy",
+  :block/created-at 1649773777172,
+  :block/updated-at 1649773777172}
  {:block/name "subscrber data popup squad",
   :block/created-at 1649373274179,
   :block/updated-at 1649373274179}
+ {:block/name "subscriber acquisition marketing",
+  :block/created-at 1649773779325,
+  :block/updated-at 1649773779325}
  {:block/name "subscriber data reporting",
   :block/created-at 1648653497198,
   :block/updated-at 1648653497198}
  {:block/name "subscriber data warehouse",
   :block/created-at 1649373269182,
-  :block/updated-at 1649373269182}
+  :block/updated-at 1649855822370}
+ {:block/name "subscriber data warehouse_kickoff needs",
+  :block/created-at 1649773782874,
+  :block/updated-at 1649773782874}
+ {:block/name
+  "subscriber data warehouse_pre-kickoff risks and concerns",
+  :block/created-at 1649773783063,
+  :block/updated-at 1649773783063}
+ {:block/name "subscriber lifecycle journey project",
+  :block/created-at 1649773786653,
+  :block/updated-at 1649773786653}
  {:block/name "subscriber lifecycle project",
   :block/created-at 1647956141485,
   :block/updated-at 1647956141485}
+ {:block/name "subscriber marketing",
+  :block/created-at 1649854626559,
+  :block/updated-at 1649854698377}
+ {:block/name "subscription",
+  :block/created-at 1649773648135,
+  :block/updated-at 1649773648135}
+ {:block/name "subscription equity",
+  :block/created-at 1649773779797,
+  :block/updated-at 1649773779797}
  {:block/name "success criteria",
   :block/created-at 1648663011004,
   :block/updated-at 1648663011004}
@@ -2482,21 +3418,39 @@
  {:block/name "sway",
   :block/created-at 1649373241151,
   :block/updated-at 1649373241151}
+ {:block/name "system",
+  :block/created-at 1649773646441,
+  :block/updated-at 1649773646441}
+ {:block/name "tag_fleeting",
+  :block/created-at 1649773785302,
+  :block/updated-at 1649773785302}
  {:block/name "tahsinekram.pdf",
   :block/created-at 1649373273528,
   :block/updated-at 1649373273528}
+ {:block/name "takeaway",
+  :block/created-at 1649773647717,
+  :block/updated-at 1649773647717}
  {:block/name "task",
   :block/created-at 1649373269183,
   :block/updated-at 1649373269183}
+ {:block/name "taskboard",
+  :block/created-at 1649773648128,
+  :block/updated-at 1649773648128}
  {:block/name "tasks",
   :block/created-at 1649373268346,
   :block/updated-at 1649373268346}
+ {:block/name "terrance young",
+  :block/created-at 1649853913787,
+  :block/updated-at 1649853913787}
  {:block/name "testing_optimization",
   :block/created-at 1649591855274,
   :block/updated-at 1649591855274}
  {:block/name "the first 90 days",
   :block/created-at 1649373269107,
   :block/updated-at 1649373269107}
+ {:block/name "the indexes",
+  :block/created-at 1649773780933,
+  :block/updated-at 1649773780933}
  {:block/name "the lawfare podcast",
   :block/created-at 1649591846868,
   :block/updated-at 1649591846868}
@@ -2527,9 +3481,15 @@
  {:block/name "tracy o'rourke",
   :block/created-at 1649373269185,
   :block/updated-at 1649373269185}
+ {:block/name "tribune",
+  :block/created-at 1649854025996,
+  :block/updated-at 1649854025996}
  {:block/name "unify subscriber data",
   :block/created-at 1647956036430,
   :block/updated-at 1647956036430}
+ {:block/name "upstatement",
+  :block/created-at 1649773648672,
+  :block/updated-at 1649773648672}
  {:block/name "user story mapping",
   :block/created-at 1649373269499,
   :block/updated-at 1649373269499}
@@ -2542,6 +3502,9 @@
  {:block/name "vendor",
   :block/created-at 1649373270187,
   :block/updated-at 1649373270187}
+ {:block/name "vestapol",
+  :block/created-at 1649770657690,
+  :block/updated-at 1649770657690}
  {:block/name "wait",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -2558,6 +3521,12 @@
   "working backwards - presentations and metrics at amazon.pdf",
   :block/created-at 1649373274752,
   :block/updated-at 1649373274752}
+ {:block/name "writing",
+  :block/created-at 1649773779136,
+  :block/updated-at 1649773779136}
+ {:block/name "yaya horne",
+  :block/created-at 1649853900772,
+  :block/updated-at 1649853900772}
  {:block/name "yochai benkler",
   :block/created-at 1649373235434,
   :block/updated-at 1649373235434}
@@ -2567,6 +3536,9 @@
  {:block/name "your job",
   :block/created-at 1649373268985,
   :block/updated-at 1649373268985}
+ {:block/name "zeynip gunbay",
+  :block/created-at 1649773648839,
+  :block/updated-at 1649773648839}
  {:block/name "zimbalist",
   :block/created-at 1649373273500,
   :block/updated-at 1649373273500}
