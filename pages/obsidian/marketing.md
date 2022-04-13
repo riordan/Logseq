@@ -1,2 +1,3 @@
-# Weekly Meeting:
-Wednesdays - 1:30-3 - [agenda](https://docs.google.com/spreadsheets/d/1p37DccIHJMS97JWD1EtGGNQ29kEDkwS4Ih_kuCt-eBY/edit#gid=0)
+-
+- ## Weekly Meeting:
+  Wednesdays - 1:30-3 - [agenda](https://docs.google.com/spreadsheets/d/1p37DccIHJMS97JWD1EtGGNQ29kEDkwS4Ih_kuCt-eBY/edit#gid=0)
