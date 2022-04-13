@@ -16,7 +16,7 @@
 - ## Structure
 - Org Chart (as of [[2022/04/13]])
 	- ![image.png](../../assets/image_1649853833460_0.png)
-- [[Pete Doucette]] - Chief Revenue Officer
+- [[Pete Doucette]] - Chief Revenue Officer:
 	- [[Darya Ushakova]] - VP of Subscriber Marketing
 		- [[Michelle Lopez]] - Director of Audience Development
 			- [[YaYa Horne]] - Community Engagement Manager
@@ -30,4 +30,4 @@
 			- [[Mara Hughes]] - [[Engagement & Loyalty Manager]]
 			- [[James Wilkinson]] - [[Engagement & Loyalty Manager]]
 		-
--
+	-
