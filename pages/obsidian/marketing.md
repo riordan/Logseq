@@ -35,7 +35,7 @@
 			- [[Mia Serrano]] - Analyst Email Operations
 			- [[Shyam Deolaliker]] Analyst Onsite Operations
 		- [[Jody Vaughn]] Manager [[Market Research]] ([[Market Research]] Team)
-		- [[Nadya Tan]] Director of [[]]
+		- [[Nadya Tan]] Director of [[Marketing Technology]]
 		-
 		-
 		-
