@@ -40,8 +40,8 @@ title:: inquirer/Experimentation Coordination
 	  > The data export thing we should just talk through in more detail.  Make sure what we are getting from the tools is meaningful.  For a lot of the tools we don’t use them for hte analysis - mostly for the splitting and experience
 - [[2022/04/06]] [[kate]]
   collapsed:: true
-	- [[Liz Grace]] in [[marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
-		- she's on parental leave; current owner for [[marketing]] is [[Nadya Tan]]
+	- [[Liz Grace]] in [[Marketing]] used to own [[experimentation]] for [[Analytics Team]] before moving over to marketing
+		- she's on parental leave; current owner for [[Marketing]] is [[Nadya Tan]]
 	- ways we track stuff:
 	- Platforms:
 		- [[Piano]]

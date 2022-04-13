@@ -1,2 +1,2 @@
-- #marketing [2022 Marketing Roadmap](https://docs.google.com/spreadsheets/d/1d6Cn8yTeTRiPb5lOHTmlFAKyK9L0iiETBhPe5o4F0Bs/edit#gid=1383755865)
+- #Marketing [2022 Marketing Roadmap](https://docs.google.com/spreadsheets/d/1d6Cn8yTeTRiPb5lOHTmlFAKyK9L0iiETBhPe5o4F0Bs/edit#gid=1383755865)
 -
