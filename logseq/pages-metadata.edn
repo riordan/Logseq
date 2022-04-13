@@ -772,7 +772,7 @@
   :block/updated-at 1649591847961}
  {:block/name "2022/04/04",
   :block/created-at 1649044849355,
-  :block/updated-at 1649426226498}
+  :block/updated-at 1649874221672}
  {:block/name "2022/04/05",
   :block/created-at 1649131233491,
   :block/updated-at 1649187531023}
@@ -796,7 +796,7 @@
   :block/updated-at 1649798648322}
  {:block/name "2022/04/13",
   :block/created-at 1649852179158,
-  :block/updated-at 1649872952175}
+  :block/updated-at 1649874217844}
  {:block/name "2022/04/14",
   :block/created-at 1649683563675,
   :block/updated-at 1649683563675}
@@ -1803,6 +1803,9 @@
  {:block/name "douglas rushkoff",
   :block/created-at 1649591858549,
   :block/updated-at 1649591858549}
+ {:block/name "dr. refaie",
+  :block/created-at 1649873953274,
+  :block/updated-at 1649873953274}
  {:block/name "draft obsidian templates",
   :block/created-at 1649373270065,
   :block/updated-at 1649373270065}
