@@ -31,5 +31,6 @@
 				- [[Mara Hughes]] - [[Engagement & Loyalty Manager]]
 				- [[James Wilkinson]] - [[Engagement & Loyalty Manager]]
 		- [[Kim Rossmair Johnson]] - Manager of Marketing Ops, [[Marketing Operations]] Team
-			- [[Devin]]
+			- [[Devin Peak]] - Analyst, Database Operations
+			-
 		-
