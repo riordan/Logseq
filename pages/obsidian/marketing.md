@@ -30,9 +30,10 @@
 			- [[Rachel Ciampaglia]] - Director, Engagement & Loyalty
 				- [[Mara Hughes]] - [[Engagement & Loyalty Manager]]
 				- [[James Wilkinson]] - [[Engagement & Loyalty Manager]]
-		- [[Kim Rossmair Johnson]] - Manager of [[Marketing Operations]] , [[Marketing Operations]] Team
+		- [[Kim Rossmair Johnson]] - Manager of [[Marketing Ops]] , [[Marketing Operations]] Team
 			- [[Devin Peak]] - Analyst, Database Operations
 			- [[Mia Serrano]] - Analyst Email Operations
 			- [[Shyam Deolaliker]] Analyst Onsite Operations
 		- [[Jody Vaughn]] Manager [[Market Research]] ([[Market Research]] Team)
+		-
 		-
