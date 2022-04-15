@@ -1,2 +1,2 @@
 - ## Secret Plan:
-	- Build a central Business Operations group for independent local newsrooms.
+	- Build a central Business Operations group for independent local newsrooms. Let local publications spin up
