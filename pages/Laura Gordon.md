@@ -1,2 +1,4 @@
-- Psychologist
-- [Client Portal](https://beryl-nightingale.clientsecure.me/sign-in)
+- [[ADHD]] Psychologist
+- Logistics
+	- [Client Portal](https://beryl-nightingale.clientsecure.me/sign-in)
+	- Need to submit bills directly to insurance provider
