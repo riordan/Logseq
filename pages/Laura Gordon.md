@@ -1,0 +1,2 @@
+- Psychologist
+- [Client Portal](https://beryl-nightingale.clientsecure.me/sign-in)
