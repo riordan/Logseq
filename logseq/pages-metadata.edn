@@ -820,7 +820,10 @@
   :block/updated-at 1650402076979}
  {:block/name "2022/04/20",
   :block/created-at 1650432343543,
-  :block/updated-at 1650468309222}
+  :block/updated-at 1650485057828}
+ {:block/name "2022/04/21",
+  :block/created-at 1650520557524,
+  :block/updated-at 1650520557524}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -3207,6 +3210,9 @@
  {:block/name "registration",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
+ {:block/name "research guild",
+  :block/created-at 1650481635588,
+  :block/updated-at 1650481635588}
  {:block/name "retention",
   :block/created-at 1649773648677,
   :block/updated-at 1649773648677}
