@@ -1,0 +1,4 @@
+- ## Resources
+	- [Course Home](https://www.coursera.org/learn/remote-team-management/home/week/1)
+- ## Plan
+	- 5 weeks
