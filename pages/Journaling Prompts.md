@@ -1,0 +1,11 @@
+- [[Journaling Prompts]]
+	- What's one thing I learned yesterday?
+	- What's one thing I'm grateful for today?
+	- What's one thing I want to accomplish today?
+	- What's one challenge I may experience today?
+	- Any other thoughts?
+	- What's one thing I learned yesterday?
+	- What's one thing I'm grateful for today?
+	- What's one thing I want to accomplish today?
+	- What's one challenge I may experience today?
+	- Any other thoughts?
