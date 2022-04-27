@@ -1,4 +1,6 @@
--
-- title:: [inquirer/projects]
+---
+alias: inquirer/projects
+---
+
 -
 -
