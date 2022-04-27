@@ -1,6 +1,6 @@
 ---
 alias: KPIs
-tags: [[inquirer/projects]], [[priority/okr]]
+tags: [[inquirer/project]], [[priority/okr]]
 ---
 
 -
