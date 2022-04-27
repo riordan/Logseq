@@ -827,6 +827,18 @@
  {:block/name "2022/04/22",
   :block/created-at 1650600013538,
   :block/updated-at 1650600013538}
+ {:block/name "2022/04/23",
+  :block/created-at 1650686474551,
+  :block/updated-at 1650686474551}
+ {:block/name "2022/04/24",
+  :block/created-at 1650773691910,
+  :block/updated-at 1650773691910}
+ {:block/name "2022/04/25",
+  :block/created-at 1650861246822,
+  :block/updated-at 1650905221515}
+ {:block/name "2022/04/26",
+  :block/created-at 1650946200438,
+  :block/updated-at 1650990770116}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -2035,6 +2047,9 @@
  {:block/name "homepage",
   :block/created-at 1649373269268,
   :block/updated-at 1649373269268}
+ {:block/name "how to manage a remote team",
+  :block/created-at 1650898710423,
+  :block/updated-at 1650898756343}
  {:block/name "huberman lab",
   :block/created-at 1649373239797,
   :block/updated-at 1649373239797}
@@ -2074,6 +2089,9 @@
  {:block/name "information discoverability",
   :block/created-at 1649373277913,
   :block/updated-at 1649373277913}
+ {:block/name "informer",
+  :block/created-at 1650905126321,
+  :block/updated-at 1650905126321}
  {:block/name "infrastructure",
   :block/created-at 1649591854331,
   :block/updated-at 1649591854331}
@@ -2316,7 +2334,7 @@
   :block/updated-at 1649373273479}
  {:block/name "journaling prompts",
   :block/created-at 1649686490331,
-  :block/updated-at 1649686490331}
+  :block/updated-at 1650893370653}
  {:block/name "journals",
   :block/created-at 1649373269064,
   :block/updated-at 1649373269064}
@@ -2373,7 +2391,7 @@
   :block/updated-at 1649773784093}
  {:block/name "killing dsi",
   :block/created-at 1649270282271,
-  :block/updated-at 1649347337344}
+  :block/updated-at 1650902509533}
  {:block/name "kim",
   :block/created-at 1649855186771,
   :block/updated-at 1649855186771}
@@ -2680,6 +2698,9 @@
  {:block/name "naviga",
   :block/created-at 1649373274632,
   :block/updated-at 1649373274632}
+ {:block/name "ncs",
+  :block/created-at 1650988938370,
+  :block/updated-at 1650988938370}
  {:block/name "netflix technology blog",
   :block/created-at 1649591851902,
   :block/updated-at 1649591851902}
