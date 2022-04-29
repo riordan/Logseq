@@ -3,18 +3,13 @@ aliases: [PDE]
 ---
 
 - ## [[2022]] Priorities for [[Product, Design, and Engineering]]
-	- [Source](https://docs.google.com/presentation/d/1JZmEnF0SKHjAp10PEqmmWqi3fCUcwwyqQdMGkWdTRHo/edit)
-	  
-	  | INITIATIVE | DESCRIPTION | IMPACT |
-	  | ---------- | ----------- | ------ |
-	  |            |             |        |
-	  | Redesigned Inquirer & Workflow | Overhaul outmoded tech and workflows to support a redesigned Inquirer and a simpler layout process. |      Reduced support costs \ Reduced platform costs \ SSO/MFA integration for security  |     |
-	  
-	    
-	  
-	  Endpoint Security Updates
-	  
-	  Establish device management, single-sign-on, and multi-factor authentication across Inquirer systems and devices
+- [Source](https://docs.google.com/presentation/d/1JZmEnF0SKHjAp10PEqmmWqi3fCUcwwyqQdMGkWdTRHo/edit)
+- | INITIATIVE | DESCRIPTION | IMPACT |
+  | ---------- | ----------- | ------ |
+  |            |             |        |
+  | Redesigned Inquirer & Workflow | Overhaul outmoded tech and workflows to support a redesigned Inquirer and a simpler layout process. |      Reduced support costs \ Reduced platform costs \ SSO/MFA integration for security  |     |
+- Endpoint Security Updates
+	- Establish device management, single-sign-on, and multi-factor authentication across Inquirer systems and devices
 - Reduced support costs
 - Faster new employee onboarding
 - Secure control of sensitive data
