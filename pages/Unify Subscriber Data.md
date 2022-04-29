@@ -1,5 +1,6 @@
 ---
-tags: [[inquirer/project]], [[dibb]] 
+tags: [[inquirer/project]], [[dibb]]
+alias:  
 ---
 
 	- linked to [[killing DSI]]
