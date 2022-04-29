@@ -6,7 +6,10 @@ aliases: [PDE]
 	- [[Matt Boggie]]: Chief Product & Technology Officer
 		- [[George Kurtas]]: Chief Information Officer
 - ## Rituals:
-	- Wee
+	- Weekly Standup Meetings:
+		- Mondays: [[PDE/Leads/Themes for the Week]]
+		- Wednesdays: [[PDE/Leads/Blockers]]
+		-
 - ## [[2022]] Priorities for [[Product, Design, and Engineering]]
   collapsed:: true
 	- [Source](https://docs.google.com/presentation/d/1JZmEnF0SKHjAp10PEqmmWqi3fCUcwwyqQdMGkWdTRHo/edit)
