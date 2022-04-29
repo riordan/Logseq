@@ -550,7 +550,7 @@
   :block/updated-at 1649373275625}
  {:block/name "2022/01/13",
   :block/created-at 1649373274753,
-  :block/updated-at 1649373274753}
+  :block/updated-at 1651232093322}
  {:block/name "2022/01/14",
   :block/created-at 1649773777185,
   :block/updated-at 1649857521386}
@@ -839,6 +839,15 @@
  {:block/name "2022/04/26",
   :block/created-at 1650946200438,
   :block/updated-at 1650990770116}
+ {:block/name "2022/04/27",
+  :block/created-at 1651058342743,
+  :block/updated-at 1651081838279}
+ {:block/name "2022/04/28",
+  :block/created-at 1651121912422,
+  :block/updated-at 1651230986981}
+ {:block/name "2022/04/29",
+  :block/created-at 1651205524657,
+  :block/updated-at 1651232821940}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -848,6 +857,9 @@
  {:block/name "30 day diagnosis",
   :block/created-at 1649373275694,
   :block/updated-at 1649373275694}
+ {:block/name "360 assessment process",
+  :block/created-at 1651069291421,
+  :block/updated-at 1651069291421}
  {:block/name "6241c362-6e48-47e5-975f-06520dd4a8ed",
   :block/created-at 1648478629564,
   :block/updated-at 1648478629564}
@@ -869,9 +881,6 @@
  {:block/name "[annie mendez",
   :block/created-at 1649373269362,
   :block/updated-at 1649373269362}
- {:block/name "[data engineer hiring]",
-  :block/created-at 1649373273532,
-  :block/updated-at 1649373273532}
  {:block/name "[data team]",
   :block/created-at 1649373274947,
   :block/updated-at 1649373274947}
@@ -893,9 +902,6 @@
  {:block/name "[mark loomis",
   :block/created-at 1649773648309,
   :block/updated-at 1649773648309}
- {:block/name "[matt",
-  :block/created-at 1649373271643,
-  :block/updated-at 1649373271643}
  {:block/name "[mz",
   :block/created-at 1649373273499,
   :block/updated-at 1649373273499}
@@ -906,9 +912,6 @@
   :block/created-at 1649373273341,
   :block/updated-at 1649373273341}
  {:block/name "[projects",
-  :block/created-at 1649373273532,
-  :block/updated-at 1649373273532}
- {:block/name "[projects/inquirer",
   :block/created-at 1649373273532,
   :block/updated-at 1649373273532}
  {:block/name "[seager]",
@@ -1579,9 +1582,9 @@
  {:block/name "courtney rubin",
   :block/created-at 1649373234238,
   :block/updated-at 1649373234238}
- {:block/name "cpto]",
-  :block/created-at 1649373271643,
-  :block/updated-at 1649373271643}
+ {:block/name "cpto",
+  :block/created-at 1651232067283,
+  :block/updated-at 1651232067283}
  {:block/name "cs",
   :block/created-at 1649265793293,
   :block/updated-at 1649265793293}
@@ -1636,6 +1639,9 @@
  {:block/name "data access",
   :block/created-at 1649773778231,
   :block/updated-at 1649773778231}
+ {:block/name "data analysts",
+  :block/created-at 1651070219641,
+  :block/updated-at 1651070219641}
  {:block/name "data and insights",
   :block/created-at 1647826706406,
   :block/updated-at 1648478675337}
@@ -1680,6 +1686,9 @@
  {:block/name "data and insights/data survey",
   :block/created-at 1648481482743,
   :block/updated-at 1648481482743}
+ {:block/name "data engineer hiring",
+  :block/created-at 1651069348386,
+  :block/updated-at 1651069348386}
  {:block/name "data engineer tech screen note",
   :block/created-at 1649373272390,
   :block/updated-at 1649373272390}
@@ -1760,7 +1769,7 @@
   :block/updated-at 1649773782460}
  {:block/name "david riordan",
   :block/created-at 1647877031338,
-  :block/updated-at 1647877031338}
+  :block/updated-at 1651232207036}
  {:block/name "day planner-20211206",
   :block/created-at 1649773647252,
   :block/updated-at 1649773647252}
@@ -1930,6 +1939,9 @@
  {:block/name "free culture book club",
   :block/created-at 1648514267303,
   :block/updated-at 1648514267303}
+ {:block/name "full replication",
+  :block/created-at 1651230902523,
+  :block/updated-at 1651230902523}
  {:block/name "ga4 migration",
   :block/created-at 1649790761840,
   :block/updated-at 1649791344489}
@@ -2028,7 +2040,7 @@
   :block/updated-at 1649773777174}
  {:block/name "hiring",
   :block/created-at 1648154559942,
-  :block/updated-at 1648154559942}
+  :block/updated-at 1651069348388}
  {:block/name "hiring/sr. marketing analyst",
   :block/created-at 1648154559941,
   :block/updated-at 1648154559941}
@@ -2247,10 +2259,10 @@
   :block/updated-at 1649790781931}
  {:block/name "inquirer/project",
   :block/created-at 1649270847611,
-  :block/updated-at 1649270847611}
+  :block/updated-at 1651067779648}
  {:block/name "inquirer/projects",
-  :block/created-at 1649770403411,
-  :block/updated-at 1649770403411}
+  :block/created-at 1651067779646,
+  :block/updated-at 1651067779646}
  {:block/name "inquirer/squad",
   :block/created-at 1649857612848,
   :block/updated-at 1649857612848}
@@ -2443,9 +2455,9 @@
  {:block/name "leadership meeting",
   :block/created-at 1649773648978,
   :block/updated-at 1649773648978}
- {:block/name "leadwork]",
-  :block/created-at 1649373273532,
-  :block/updated-at 1649373273532}
+ {:block/name "leadwork",
+  :block/created-at 1651069341570,
+  :block/updated-at 1651069341570}
  {:block/name "lenfest local lab",
   :block/created-at 1649373268294,
   :block/updated-at 1649373268294}
@@ -2580,13 +2592,13 @@
   :block/updated-at 1649773780207}
  {:block/name "matt boggie",
   :block/created-at 1649090101806,
-  :block/updated-at 1649090101806}
- {:block/name "matt boggie_cpto",
-  :block/created-at 1649773777180,
-  :block/updated-at 1649773777180}
+  :block/updated-at 1651232072194}
  {:block/name "max chafkin",
   :block/created-at 1649373250291,
   :block/updated-at 1649373250291}
+ {:block/name "me",
+  :block/created-at 1651232207034,
+  :block/updated-at 1651232207034}
  {:block/name "medium",
   :block/created-at 1649373234238,
   :block/updated-at 1649373234238}
@@ -2989,10 +3001,16 @@
   :block/updated-at 1649373277264}
  {:block/name "pde/leads",
   :block/created-at 1649853102101,
-  :block/updated-at 1649853102101}
+  :block/updated-at 1651231857993}
  {:block/name "pde/leads/blockers",
   :block/created-at 1649853102100,
   :block/updated-at 1649853102100}
+ {:block/name "pde/leads/highs and lows",
+  :block/created-at 1651231746942,
+  :block/updated-at 1651231746942}
+ {:block/name "pde/leads/themes for the week",
+  :block/created-at 1651232015729,
+  :block/updated-at 1651232015729}
  {:block/name "performance goals",
   :block/created-at 1649373271349,
   :block/updated-at 1649373271349}
@@ -3180,15 +3198,15 @@
  {:block/name "product management",
   :block/created-at 1649373242751,
   :block/updated-at 1649373242751}
+ {:block/name "product showcase",
+  :block/created-at 1651068736362,
+  :block/updated-at 1651068736362}
  {:block/name "product team",
   :block/created-at 1649773777802,
   :block/updated-at 1649773777802}
  {:block/name "product, design, and engineering",
   :block/created-at 1649373273340,
-  :block/updated-at 1649373273340}
- {:block/name "product, design, and engineering_pde",
-  :block/created-at 1649373273339,
-  :block/updated-at 1649373273339}
+  :block/updated-at 1651232039128}
  {:block/name "progressive data profiling",
   :block/created-at 1649871044792,
   :block/updated-at 1649871044792}
@@ -3201,6 +3219,9 @@
  {:block/name "projects",
   :block/created-at 1647826706395,
   :block/updated-at 1647826706395}
+ {:block/name "projects/inquirer",
+  :block/created-at 1651069343673,
+  :block/updated-at 1651069343673}
  {:block/name "propensity to subscribe",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
@@ -3558,10 +3579,13 @@
   :block/updated-at 1649854025996}
  {:block/name "unify subscriber data",
   :block/created-at 1647956036430,
-  :block/updated-at 1647956036430}
+  :block/updated-at 1651232145532}
  {:block/name "upstatement",
   :block/created-at 1649773648672,
   :block/updated-at 1649773648672}
+ {:block/name "usd",
+  :block/created-at 1651232145530,
+  :block/updated-at 1651232145530}
  {:block/name "user story mapping",
   :block/created-at 1649373269499,
   :block/updated-at 1649373269499}
