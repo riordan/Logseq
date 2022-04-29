@@ -6,6 +6,7 @@ tags: inquirer/projects
 - [Business Case for PMO](https://docs.google.com/document/d/1LAfelIdodRE83oGMo5FFhmXlT_6iaiph1jpQx75ZT_M/edit#)
 # Kickoff
 ## Kickoff Needs
+id:: 6257269e-8f60-4f1f-8d19-31b3e5f163d8
 ### For [[Aaron Moore]]
 - [x] #task Finalize invite list for [[Subscriber data warehouse]] kickoff ⏫ 🛫 2022-02-07 ⏳ 2022-02-02 📅 2022-02-07
 - [x] #task Remap high level plan (Phase 1 being popup team -> conclusion ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
