@@ -9,7 +9,8 @@ aliases: [PDE]
 	- Weekly Standup Meetings:
 		- Mondays: [[PDE/Leads/Themes for the Week]]
 		- Wednesdays: [[PDE/Leads/Blockers]]
-		-
+		- Fridays: [[PDE/Leads/Highs and Lows]]
+	-
 - ## [[2022]] Priorities for [[Product, Design, and Engineering]]
   collapsed:: true
 	- [Source](https://docs.google.com/presentation/d/1JZmEnF0SKHjAp10PEqmmWqi3fCUcwwyqQdMGkWdTRHo/edit)
