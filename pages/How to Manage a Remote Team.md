@@ -8,6 +8,7 @@
 			- In this module, you will learn about how to prepare a remote-friendly organization, and apply it by assessing your current remote readiness.
 			- #### About Remote Work
 				- Understand the factors supporting the remote work movement
+				-
 			- #### Building a Team
 				- Understand how hiring and onboarding differ for a distributed workforce
 			- #### Work Environment
@@ -54,7 +55,6 @@
 			- The final assignment is worth 25% of your grade.
 	- Schedule:
 		- [Week 1](https://www.coursera.org/learn/remote-team-management/home/week/1): ((627004d2-13bf-453b-8b76-e939dbba0ef4))
-			-
 		- [Week 2](https://www.coursera.org/learn/remote-team-management/home/week/2): ((a87d5bb3-0a8a-476d-98a6-8033fdd7508b))
 		- [Week 3](https://www.coursera.org/learn/remote-team-management/home/week/3): ((c2583b56-df8c-433e-8de6-637fd9e928f4))
 		- [Week 4](https://www.coursera.org/learn/remote-team-management/home/week/4): ((7cbcbe38-7fb0-4a21-a99d-da8ce6cb6402))
