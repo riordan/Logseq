@@ -4,7 +4,8 @@ alias: Aquil
 ---
 
 - ## Resources:
-	- []
+	- [1:1 notes](https://docs.google.com/document/d/1ZDX0ejjnk02y-THwJCXtKrYKMihV7YnZt_YF3U1434Y/edit#)
+	-
 - ## Biography
 	- Personal Life
 		- Family:
