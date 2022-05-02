@@ -14,4 +14,4 @@ alias: Aquil
 	- Focus
 		- AI as dynamical systems
 			- building on top of Maryam Mizzakhani
-			-
+		- Interested in explainable AI
