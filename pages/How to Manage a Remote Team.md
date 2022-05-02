@@ -3,12 +3,11 @@
 - ## Plan
 	- 5 weeks
 	- [Syllabus](https://www.coursera.org/learn/remote-team-management/supplement/jmLDt/course-syllabus):
-		- ### Remote Work Best Practices
+		- ### [Remote Work Best Practices](https://www.coursera.org/learn/remote-team-management/home/week/1)
 		  id:: 627004d2-13bf-453b-8b76-e939dbba0ef4
 			- In this module, you will learn about how to prepare a remote-friendly organization, and apply it by assessing your current remote readiness.
 			- #### About Remote Work
 				- Understand the factors supporting the remote work movement
-				-
 			- #### Building a Team
 				- Understand how hiring and onboarding differ for a distributed workforce
 			- #### Work Environment
