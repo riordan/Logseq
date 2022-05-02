@@ -3,6 +3,8 @@ tags: inquirer/colleague
 alias: Aquil
 ---
 
+- ## Resources:
+	- []
 - ## Biography
 	- Personal Life
 		- Family:
