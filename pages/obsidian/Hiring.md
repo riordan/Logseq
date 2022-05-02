@@ -1,5 +1,5 @@
 ---
-tags: projects/inquirer, leadwork
+tags:  leadwork
 aliases: Data Engineer Hiring
 ---
 Hiring for [[Data Engineering Group]]
