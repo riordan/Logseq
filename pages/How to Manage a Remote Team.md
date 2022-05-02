@@ -34,16 +34,16 @@
 			  Understand and plan the specific steps to a remote transition
 			- Assessment: Graded Quiz 
 			  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
-		- Culture and Values for Distributed Teams 
-		  In this module, you will understand the importance of culture and values statements for supporting business strategy. You will learn how to develop, roll out, and refine organizational values for a distributed team.
-		- Considerations for Culture Building
-		  Understand how culture factors into a distributed team environment
-		- Organizational Values for Distributed Teams
-		  Determine the values that will serve your organization
-		- Developing and Upholding Values
-		  Determine the values that will serve your organization; Adjust and fine-tune your values to empower your team
-		- Assessment: Graded Quiz 
-		  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
-		- Final Assignment: Remote Transition Plan
+		- ### Culture and Values for Distributed Teams
+			- In this module, you will understand the importance of culture and values statements for supporting business strategy. You will learn how to develop, roll out, and refine organizational values for a distributed team.
+			- Considerations for Culture Building
+			  Understand how culture factors into a distributed team environment
+			- Organizational Values for Distributed Teams
+			  Determine the values that will serve your organization
+			- Developing and Upholding Values
+			  Determine the values that will serve your organization; Adjust and fine-tune your values to empower your team
+			- Assessment: Graded Quiz 
+			  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
+		- ### Final Assignment: Remote Transition Plan
 			- Applying what you’ve learned in this course, you'll follow prompts to outline a customized transition plan that will work for your unique team. You'll also review transition plans submitted by peers, and receive peer review on your plan.
 			- The final assignment is worth 25% of your grade.
