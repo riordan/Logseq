@@ -829,7 +829,7 @@
   :block/updated-at 1651490379931}
  {:block/name "2022/05/02",
   :block/created-at 1651490379932,
-  :block/updated-at 1651490858095}
+  :block/updated-at 1651491093669}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -3579,7 +3579,7 @@
   :block/updated-at 1649686490335}
  {:block/name "weekly review",
   :block/created-at 1649686490330,
-  :block/updated-at 1649686490330}
+  :block/updated-at 1651491984922}
  {:block/name
   "working backwards - presentations and metrics at amazon.pdf",
   :block/created-at 1649373274752,
