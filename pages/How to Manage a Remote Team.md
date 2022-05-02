@@ -2,3 +2,5 @@
 	- [Course Home](https://www.coursera.org/learn/remote-team-management/home/week/1)
 - ## Plan
 	- 5 weeks
+	- [Syllabus](https://www.coursera.org/learn/remote-team-management/supplement/jmLDt/course-syllabus):
+		-
