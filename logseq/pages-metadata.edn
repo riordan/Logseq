@@ -378,7 +378,7 @@
   :block/updated-at 1651490746352}
  {:block/name "2021/12/09",
   :block/created-at 1651490746181,
-  :block/updated-at 1651490746181}
+  :block/updated-at 1651497972706}
  {:block/name "2021/12/10",
   :block/created-at 1651490746278,
   :block/updated-at 1651490746278}
@@ -829,7 +829,10 @@
   :block/updated-at 1651490379931}
  {:block/name "2022/05/02",
   :block/created-at 1651490379932,
-  :block/updated-at 1651491093669}
+  :block/updated-at 1651509462018}
+ {:block/name "2022/05/16",
+  :block/created-at 1651494131232,
+  :block/updated-at 1651494131232}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -1067,8 +1070,11 @@
   :block/created-at 1649373274881,
   :block/updated-at 1649373274881}
  {:block/name "aquil",
+  :block/created-at 1651493910187,
+  :block/updated-at 1651493910187}
+ {:block/name "aquil jones",
   :block/created-at 1649084570608,
-  :block/updated-at 1649084570608}
+  :block/updated-at 1651505776993}
  {:block/name "arc",
   :block/created-at 1649373273375,
   :block/updated-at 1649373273375}
@@ -1591,6 +1597,9 @@
  {:block/name "dan kirchberger",
   :block/created-at 1649684764758,
   :block/updated-at 1649684764758}
+ {:block/name "dan kirchberger/onboarding",
+  :block/created-at 1651494102863,
+  :block/updated-at 1651494131280}
  {:block/name "danah boyd",
   :block/created-at 1649591861789,
   :block/updated-at 1649591861789}
@@ -1776,6 +1785,9 @@
  {:block/name "dc9ca433-e0ff-4e32-8b51-1ae3f971af11.jpeg",
   :block/created-at 1649773648970,
   :block/updated-at 1649773648970}
+ {:block/name "dec 6th, 2021",
+  :block/created-at 1651493509104,
+  :block/updated-at 1651493509104}
  {:block/name "decision",
   :block/created-at 1649773784449,
   :block/updated-at 1649773784449}
@@ -1894,6 +1906,33 @@
  {:block/name "favorites",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "feb 14th, 2022",
+  :block/created-at 1651493509319,
+  :block/updated-at 1651493509319}
+ {:block/name "feb 16th, 2022",
+  :block/created-at 1651493509035,
+  :block/updated-at 1651493509035}
+ {:block/name "feb 1st, 2022",
+  :block/created-at 1651493509419,
+  :block/updated-at 1651493509419}
+ {:block/name "feb 21st, 2022",
+  :block/created-at 1651493509638,
+  :block/updated-at 1651493509638}
+ {:block/name "feb 23rd, 2022",
+  :block/created-at 1651493508704,
+  :block/updated-at 1651493508704}
+ {:block/name "feb 24th, 2022",
+  :block/created-at 1651493508703,
+  :block/updated-at 1651493508703}
+ {:block/name "feb 25th, 2022",
+  :block/created-at 1651493508704,
+  :block/updated-at 1651493508704}
+ {:block/name "feb 2nd, 2022",
+  :block/created-at 1651493509576,
+  :block/updated-at 1651493509576}
+ {:block/name "feb 7th, 2022",
+  :block/created-at 1651493509530,
+  :block/updated-at 1651493509530}
  {:block/name "feed logic",
   :block/created-at 1649773647248,
   :block/updated-at 1649773647248}
@@ -1951,9 +1990,6 @@
  {:block/name "general intellect unit",
   :block/created-at 1649373240194,
   :block/updated-at 1649373240194}
- {:block/name "george krutas",
-  :block/created-at 1649773646660,
-  :block/updated-at 1649773646660}
  {:block/name "george kurtas",
   :block/created-at 1648736177150,
   :block/updated-at 1648736177150}
@@ -2022,7 +2058,7 @@
   :block/updated-at 1649773777174}
  {:block/name "hiring",
   :block/created-at 1648154559942,
-  :block/updated-at 1651069348388}
+  :block/updated-at 1651494020267}
  {:block/name "hiring/sr. marketing analyst",
   :block/created-at 1648154559941,
   :block/updated-at 1648154559941}
@@ -2043,7 +2079,7 @@
   :block/updated-at 1649373269268}
  {:block/name "how to manage a remote team",
   :block/created-at 1650898710423,
-  :block/updated-at 1650898756343}
+  :block/updated-at 1651509274649}
  {:block/name "huberman lab",
   :block/created-at 1649373239797,
   :block/updated-at 1649373239797}
@@ -2278,6 +2314,24 @@
  {:block/name "james wilkinson",
   :block/created-at 1649854546986,
   :block/updated-at 1649854546986}
+ {:block/name "jan 10th, 2022",
+  :block/created-at 1651493508903,
+  :block/updated-at 1651493508903}
+ {:block/name "jan 12th, 2022",
+  :block/created-at 1651493509495,
+  :block/updated-at 1651493509495}
+ {:block/name "jan 13th, 2022",
+  :block/created-at 1651493509423,
+  :block/updated-at 1651493509423}
+ {:block/name "jan 20th, 2022",
+  :block/created-at 1651493509384,
+  :block/updated-at 1651493509384}
+ {:block/name "jan 4th, 2022",
+  :block/created-at 1651493508825,
+  :block/updated-at 1651493508825}
+ {:block/name "jan 6th, 2022",
+  :block/created-at 1651493509365,
+  :block/updated-at 1651493509365}
  {:block/name "jason fried and david heinemeier hansson",
   :block/created-at 1649373249628,
   :block/updated-at 1649373249628}
@@ -2503,6 +2557,27 @@
  {:block/name "maps",
   :block/created-at 1649264253466,
   :block/updated-at 1649264253466}
+ {:block/name "mar 15th, 2022",
+  :block/created-at 1651493508832,
+  :block/updated-at 1651493508832}
+ {:block/name "mar 1st, 2022",
+  :block/created-at 1651493508853,
+  :block/updated-at 1651493508853}
+ {:block/name "mar 20th, 2022",
+  :block/created-at 1651493508777,
+  :block/updated-at 1651493508777}
+ {:block/name "mar 2nd, 2022",
+  :block/created-at 1651493509483,
+  :block/updated-at 1651493509483}
+ {:block/name "mar 7th, 2022",
+  :block/created-at 1651493508799,
+  :block/updated-at 1651493508799}
+ {:block/name "mar 8th, 2022",
+  :block/created-at 1651493508852,
+  :block/updated-at 1651493508852}
+ {:block/name "mar 9th, 2022",
+  :block/created-at 1651493508815,
+  :block/updated-at 1651493508815}
  {:block/name "mara",
   :block/created-at 1649854333149,
   :block/updated-at 1649854333149}
@@ -3180,9 +3255,6 @@
  {:block/name "projects",
   :block/created-at 1647826706395,
   :block/updated-at 1647826706395}
- {:block/name "projects/inquirer",
-  :block/created-at 1651069343673,
-  :block/updated-at 1651069343673}
  {:block/name "propensity to subscribe",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
@@ -3540,7 +3612,7 @@
   :block/updated-at 1649854025996}
  {:block/name "unify subscriber data",
   :block/created-at 1647956036430,
-  :block/updated-at 1651232145532}
+  :block/updated-at 1651505922770}
  {:block/name "upstatement",
   :block/created-at 1649773648672,
   :block/updated-at 1649773648672}
