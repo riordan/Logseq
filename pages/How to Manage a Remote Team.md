@@ -10,8 +10,10 @@
 			  id:: 531c2474-1156-468f-a8d8-7a90261e839f
 				- Understand the factors supporting the remote work movement
 			- #### Building a Team
+			  id:: 36136cc3-dd57-45b2-b6b6-2edd2dbd85b0
 				- Understand how hiring and onboarding differ for a distributed workforce
 			- #### Work Environment
+			  id:: 13f5671b-0b02-4430-9396-9ae2ea913c01
 				- Create a physical environment that empowers employees to work effectively; Understand how hiring and onboarding differ for a distributed workforce
 			- #### Assessment: Graded Quiz
 				- This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
