@@ -193,8 +193,8 @@
  ;; }
 
  ;; Mobile photo uploading setup
- ;; :mobile/photo
- ;; {:allow-editing? true}
+  :mobile/photo
+  {:allow-editing? true}
 
  ;; Extra CodeMirror options
  ;; :editor/extra-codemirror-options {:keyMap "emacs" :lineWrapping true}
