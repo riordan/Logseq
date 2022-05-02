@@ -16,6 +16,7 @@
 				- This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
 				-
 		- ### Managing Remote Teams
+		  id:: a87d5bb3-0a8a-476d-98a6-8033fdd7508b
 			- In this module, you will learn about common challenges and adjustments that need to be made when beginning to manage a remote team. You will understand and be able to evaluate performance, morale, and success metrics.
 			- Communication is Crucial
 			  Begin to become a strong asynchronous communicator
@@ -50,4 +51,5 @@
 			- The final assignment is worth 25% of your grade.
 	- Schedule:
 		- [Week 1](https://www.coursera.org/learn/remote-team-management/home/week/1): ((627004d2-13bf-453b-8b76-e939dbba0ef4))
-		-
+		- [Week 2](https://www.coursera.org/learn/remote-team-management/home/week/2): ((a87d5bb3-0a8a-476d-98a6-8033fdd7508b))
+		- [Week 3]()
