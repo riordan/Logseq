@@ -24,16 +24,16 @@
 			  Lead and create leaders in a remote environment
 			- Assessment: Graded Quiz 
 			  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
-		- Remote Adaptation Processes for Organizations
-		  In this module, you will gain understanding of your organization's current level of remote adaptation, and begin to map out a foundational strategy for optional remote operation.
-		- Types of Remote Teams
-		  Begin to plan a remote transition; Determine what type of remote team you have or plan to have
-		- Phases of Remote Adaptation
-		  Determine your current phase and look ahead to the remote transition process
-		- Transitioning Your Colocated Organization to Remote
-		  Understand and plan the specific steps to a remote transition
-		- Assessment: Graded Quiz 
-		  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
+		- ### Remote Adaptation Processes for Organizations
+			- In this module, you will gain understanding of your organization's current level of remote adaptation, and begin to map out a foundational strategy for optional remote operation.
+			- Types of Remote Teams
+			  Begin to plan a remote transition; Determine what type of remote team you have or plan to have
+			- Phases of Remote Adaptation
+			  Determine your current phase and look ahead to the remote transition process
+			- Transitioning Your Colocated Organization to Remote
+			  Understand and plan the specific steps to a remote transition
+			- Assessment: Graded Quiz 
+			  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
 		- Culture and Values for Distributed Teams 
 		  In this module, you will understand the importance of culture and values statements for supporting business strategy. You will learn how to develop, roll out, and refine organizational values for a distributed team.
 		- Considerations for Culture Building
@@ -45,5 +45,5 @@
 		- Assessment: Graded Quiz 
 		  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
 		- Final Assignment: Remote Transition Plan
-		  Applying what you’ve learned in this course, you'll follow prompts to outline a customized transition plan that will work for your unique team. You'll also review transition plans submitted by peers, and receive peer review on your plan.
-		- The final assignment is worth 25% of your grade.
+			- Applying what you’ve learned in this course, you'll follow prompts to outline a customized transition plan that will work for your unique team. You'll also review transition plans submitted by peers, and receive peer review on your plan.
+			- The final assignment is worth 25% of your grade.
