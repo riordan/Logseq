@@ -13,4 +13,5 @@ alias: Aquil
 			- ((626fca8f-2a8d-423e-b453-4161a8b443b7))
 	- Focus
 		- AI as dynamical systems
+			- building on top of Maryam Mizzakhani
 			-
