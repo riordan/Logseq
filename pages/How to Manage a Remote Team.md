@@ -4,31 +4,26 @@
 	- 5 weeks
 	- [Syllabus](https://www.coursera.org/learn/remote-team-management/supplement/jmLDt/course-syllabus):
 		- ### Remote Work Best Practices
-		  collapsed:: true
 			- In this module, you will learn about how to prepare a remote-friendly organization, and apply it by assessing your current remote readiness.
 			- #### About Remote Work
-			  collapsed:: true
 				- Understand the factors supporting the remote work movement
 			- #### Building a Team
-			  collapsed:: true
 				- Understand how hiring and onboarding differ for a distributed workforce
 			- #### Work Environment
-			  collapsed:: true
 				- Create a physical environment that empowers employees to work effectively; Understand how hiring and onboarding differ for a distributed workforce
-			- #### Assessment: Graded Quiz 
-			  collapsed:: true
+			- #### Assessment: Graded Quiz
 				- This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
 				-
-		- Managing Remote Teams
-		- In this module, you will learn about common challenges and adjustments that need to be made when beginning to manage a remote team. You will understand and be able to evaluate performance, morale, and success metrics.
-		- Communication is Crucial
-		  Begin to become a strong asynchronous communicator
-		- Measuring Success
-		  Set and track appropriate metrics and outcomes for success in a distributed environment
-		- Personal Development and Leadership
-		  Lead and create leaders in a remote environment
-		- Assessment: Graded Quiz 
-		  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
+		- ### Managing Remote Teams
+			- In this module, you will learn about common challenges and adjustments that need to be made when beginning to manage a remote team. You will understand and be able to evaluate performance, morale, and success metrics.
+			- Communication is Crucial
+			  Begin to become a strong asynchronous communicator
+			- Measuring Success
+			  Set and track appropriate metrics and outcomes for success in a distributed environment
+			- Personal Development and Leadership
+			  Lead and create leaders in a remote environment
+			- Assessment: Graded Quiz 
+			  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
 		- Remote Adaptation Processes for Organizations
 		  In this module, you will gain understanding of your organization's current level of remote adaptation, and begin to map out a foundational strategy for optional remote operation.
 		- Types of Remote Teams
