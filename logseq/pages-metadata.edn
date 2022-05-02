@@ -1,18 +1,6 @@
 [{:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
- {:block/name "../pages/inquirer 90 day plan_^eaf3fb",
-  :block/created-at 1649773647135,
-  :block/updated-at 1649773647135}
- {:block/name "../pages/inquirer prep",
-  :block/created-at 1649773647398,
-  :block/updated-at 1649773647398}
- {:block/name "../pages/logseq",
-  :block/created-at 1649773647136,
-  :block/updated-at 1649773647136}
- {:block/name "../pages/the first 90 days",
-  :block/created-at 1649773647135,
-  :block/updated-at 1649773647135}
  {:block/name "1",
   :block/created-at 1649373268420,
   :block/updated-at 1649373268420}
@@ -365,8 +353,8 @@
   :block/created-at 1649591849729,
   :block/updated-at 1649591849729}
  {:block/name "2021/11/29",
-  :block/created-at 1649773647400,
-  :block/updated-at 1649773969840}
+  :block/created-at 1651490746669,
+  :block/updated-at 1651490746669}
  {:block/name "2021/11/30",
   :block/created-at 1649373235359,
   :block/updated-at 1649373235359}
@@ -374,62 +362,62 @@
   :block/created-at 1649090110495,
   :block/updated-at 1649090110495}
  {:block/name "2021/12/03",
-  :block/created-at 1649773647132,
-  :block/updated-at 1649774116562}
+  :block/created-at 1651490746418,
+  :block/updated-at 1651490746418}
  {:block/name "2021/12/05",
-  :block/created-at 1649773646213,
-  :block/updated-at 1649774142915}
+  :block/created-at 1651490746653,
+  :block/updated-at 1651490746653}
  {:block/name "2021/12/06",
   :block/created-at 1649373282657,
   :block/updated-at 1649373282657}
  {:block/name "2021/12/07",
-  :block/created-at 1649773646989,
-  :block/updated-at 1649773646989}
+  :block/created-at 1651490746354,
+  :block/updated-at 1651490746354}
  {:block/name "2021/12/08",
-  :block/created-at 1649773646451,
-  :block/updated-at 1649773646451}
+  :block/created-at 1651490746352,
+  :block/updated-at 1651490746352}
  {:block/name "2021/12/09",
-  :block/created-at 1649773646719,
-  :block/updated-at 1649773646719}
+  :block/created-at 1651490746181,
+  :block/updated-at 1651490746181}
  {:block/name "2021/12/10",
-  :block/created-at 1649773647495,
-  :block/updated-at 1649773647495}
+  :block/created-at 1651490746278,
+  :block/updated-at 1651490746278}
  {:block/name "2021/12/11",
-  :block/created-at 1649773647248,
-  :block/updated-at 1649773647248}
+  :block/created-at 1651490746663,
+  :block/updated-at 1651490746663}
  {:block/name "2021/12/13",
-  :block/created-at 1649773648687,
-  :block/updated-at 1649853144733}
+  :block/created-at 1651490746720,
+  :block/updated-at 1651490746720}
  {:block/name "2021/12/14",
-  :block/created-at 1649773647967,
-  :block/updated-at 1649773647967}
+  :block/created-at 1651490745991,
+  :block/updated-at 1651490745991}
  {:block/name "2021/12/15",
-  :block/created-at 1649773648988,
-  :block/updated-at 1649853137789}
+  :block/created-at 1651490746077,
+  :block/updated-at 1651490746077}
  {:block/name "2021/12/16",
-  :block/created-at 1649773648145,
-  :block/updated-at 1649857547969}
+  :block/created-at 1651490745860,
+  :block/updated-at 1651490745860}
  {:block/name "2021/12/17",
-  :block/created-at 1649773647724,
-  :block/updated-at 1649773647724}
+  :block/created-at 1651490746467,
+  :block/updated-at 1651490746467}
  {:block/name "2021/12/18",
-  :block/created-at 1649773648450,
-  :block/updated-at 1649773648450}
+  :block/created-at 1651490746513,
+  :block/updated-at 1651490746513}
  {:block/name "2021/12/20",
-  :block/created-at 1649773648323,
-  :block/updated-at 1649773648323}
+  :block/created-at 1651490746806,
+  :block/updated-at 1651490746806}
  {:block/name "2021/12/21",
-  :block/created-at 1649773648532,
-  :block/updated-at 1649773648532}
+  :block/created-at 1651490746551,
+  :block/updated-at 1651490746551}
  {:block/name "2021/12/22",
-  :block/created-at 1649773648842,
-  :block/updated-at 1649855750945}
+  :block/created-at 1651490745945,
+  :block/updated-at 1651490745945}
  {:block/name "2021/12/23",
-  :block/created-at 1649773649354,
-  :block/updated-at 1649773649354}
+  :block/created-at 1651490745811,
+  :block/updated-at 1651490745811}
  {:block/name "2021/12/24",
-  :block/created-at 1649773649416,
-  :block/updated-at 1649773649416}
+  :block/created-at 1651490746576,
+  :block/updated-at 1651490746576}
  {:block/name "2021/12/25",
   :block/created-at 1649591862756,
   :block/updated-at 1649591862756}
@@ -440,11 +428,11 @@
   :block/created-at 1649591862760,
   :block/updated-at 1649591862760}
  {:block/name "2021/12/28",
-  :block/created-at 1649773649155,
-  :block/updated-at 1649773675885}
+  :block/created-at 1651490745767,
+  :block/updated-at 1651490745767}
  {:block/name "2021/12/31",
-  :block/created-at 1649773649487,
-  :block/updated-at 1649853131670}
+  :block/created-at 1651490745706,
+  :block/updated-at 1651490745706}
  {:block/name "2022",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
@@ -470,9 +458,6 @@
  {:block/name "2022-01-21_tracy o'rourke",
   :block/created-at 1649373271326,
   :block/updated-at 1649373271326}
- {:block/name "2022-03-01_last week",
-  :block/created-at 1649373272351,
-  :block/updated-at 1649373272351}
  {:block/name "2022-03-07_data and insights 2022 okrs",
   :block/created-at 1649773785759,
   :block/updated-at 1649773785759}
@@ -512,9 +497,6 @@
  {:block/name "2022-w13",
   :block/created-at 1649373275656,
   :block/updated-at 1649373275656}
- {:block/name "2022-w13_priorities for the week",
-  :block/created-at 1649773786266,
-  :block/updated-at 1649773786266}
  {:block/name "2022-w16",
   :block/created-at 1649676872609,
   :block/updated-at 1649685469426}
@@ -522,23 +504,23 @@
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
  {:block/name "2022/01/01",
-  :block/created-at 1649773777394,
-  :block/updated-at 1649773777394}
+  :block/created-at 1651490745392,
+  :block/updated-at 1651490745392}
  {:block/name "2022/01/03",
-  :block/created-at 1649773777800,
-  :block/updated-at 1649855455167}
+  :block/created-at 1651490745487,
+  :block/updated-at 1651490745487}
  {:block/name "2022/01/04",
   :block/created-at 1649373274180,
   :block/updated-at 1649855617479}
  {:block/name "2022/01/05",
-  :block/created-at 1649773777583,
-  :block/updated-at 1649773777583}
+  :block/created-at 1651490745315,
+  :block/updated-at 1651490745315}
  {:block/name "2022/01/06",
   :block/created-at 1649373271642,
   :block/updated-at 1649857355857}
  {:block/name "2022/01/07",
-  :block/created-at 1649773778232,
-  :block/updated-at 1649855215955}
+  :block/created-at 1651490745367,
+  :block/updated-at 1651490745367}
  {:block/name "2022/01/10",
   :block/created-at 1649373276755,
   :block/updated-at 1649855402650}
@@ -552,8 +534,8 @@
   :block/created-at 1649373274753,
   :block/updated-at 1651232093322}
  {:block/name "2022/01/14",
-  :block/created-at 1649773777185,
-  :block/updated-at 1649857521386}
+  :block/created-at 1651490279330,
+  :block/updated-at 1651490279330}
  {:block/name "2022/01/16",
   :block/created-at 1649373240787,
   :block/updated-at 1649373240787}
@@ -561,8 +543,8 @@
   :block/created-at 1649339480260,
   :block/updated-at 1649339480260}
  {:block/name "2022/01/18",
-  :block/created-at 1649773780395,
-  :block/updated-at 1649773780395}
+  :block/created-at 1651490279626,
+  :block/updated-at 1651490279626}
  {:block/name "2022/01/19",
   :block/created-at 1649373233928,
   :block/updated-at 1649373233928}
@@ -570,17 +552,17 @@
   :block/created-at 1649373280581,
   :block/updated-at 1649855817513}
  {:block/name "2022/01/21",
-  :block/created-at 1649773779555,
-  :block/updated-at 1649773779555}
+  :block/created-at 1651490280454,
+  :block/updated-at 1651490280454}
  {:block/name "2022/01/24",
-  :block/created-at 1649773779802,
-  :block/updated-at 1649855438262}
+  :block/created-at 1651490280144,
+  :block/updated-at 1651490280144}
  {:block/name "2022/01/25",
-  :block/created-at 1649773780586,
-  :block/updated-at 1649773780586}
+  :block/created-at 1651490278827,
+  :block/updated-at 1651490278827}
  {:block/name "2022/01/26",
-  :block/created-at 1649773780214,
-  :block/updated-at 1649773780214}
+  :block/created-at 1651490278823,
+  :block/updated-at 1651490278823}
  {:block/name "2022/01/27",
   :block/created-at 1649339416477,
   :block/updated-at 1649339416477}
@@ -588,14 +570,14 @@
   :block/created-at 1649339416505,
   :block/updated-at 1649339416505}
  {:block/name "2022/01/29",
-  :block/created-at 1649773780760,
-  :block/updated-at 1649773780760}
+  :block/created-at 1651490279794,
+  :block/updated-at 1651490279794}
  {:block/name "2022/01/30",
-  :block/created-at 1649773778903,
-  :block/updated-at 1649773778903}
+  :block/created-at 1651490278515,
+  :block/updated-at 1651490278515}
  {:block/name "2022/01/31",
-  :block/created-at 1649773780945,
-  :block/updated-at 1649773780945}
+  :block/created-at 1651490280039,
+  :block/updated-at 1651490280039}
  {:block/name "2022/02",
   :block/created-at 1649090073481,
   :block/updated-at 1649090073481}
@@ -606,62 +588,62 @@
   :block/created-at 1649373277217,
   :block/updated-at 1649373277217}
  {:block/name "2022/02/03",
-  :block/created-at 1649773782678,
-  :block/updated-at 1649773782678}
+  :block/created-at 1651490278145,
+  :block/updated-at 1651490278145}
  {:block/name "2022/02/04",
-  :block/created-at 1649773782675,
-  :block/updated-at 1649773782675}
+  :block/created-at 1651490278148,
+  :block/updated-at 1651490278148}
  {:block/name "2022/02/05",
-  :block/created-at 1649773782678,
-  :block/updated-at 1649773782678}
+  :block/created-at 1651490279934,
+  :block/updated-at 1651490279934}
  {:block/name "2022/02/06",
-  :block/created-at 1649773782879,
-  :block/updated-at 1649773782879}
+  :block/created-at 1651490279228,
+  :block/updated-at 1651490279228}
  {:block/name "2022/02/07",
   :block/created-at 1649373274880,
   :block/updated-at 1649855421664}
  {:block/name "2022/02/08",
-  :block/created-at 1649773782879,
-  :block/updated-at 1649855831061}
+  :block/created-at 1651490278226,
+  :block/updated-at 1651490278226}
  {:block/name "2022/02/09",
-  :block/created-at 1649773783064,
-  :block/updated-at 1649773783064}
+  :block/created-at 1651490278224,
+  :block/updated-at 1651490278224}
  {:block/name "2022/02/10",
-  :block/created-at 1649773781412,
-  :block/updated-at 1649773781412}
+  :block/created-at 1651490278221,
+  :block/updated-at 1651490278221}
  {:block/name "2022/02/11",
-  :block/created-at 1649773781409,
-  :block/updated-at 1649855807905}
+  :block/created-at 1651490279862,
+  :block/updated-at 1651490279862}
  {:block/name "2022/02/12",
-  :block/created-at 1649773781412,
-  :block/updated-at 1649773781412}
+  :block/created-at 1651490279865,
+  :block/updated-at 1651490279865}
  {:block/name "2022/02/14",
   :block/created-at 1649373270044,
   :block/updated-at 1649373270044}
  {:block/name "2022/02/15",
-  :block/created-at 1649773781590,
-  :block/updated-at 1649773781590}
+  :block/created-at 1651490279515,
+  :block/updated-at 1651490279515}
  {:block/name "2022/02/16",
   :block/created-at 1649373273529,
   :block/updated-at 1649373273529}
  {:block/name "2022/02/17",
-  :block/created-at 1649773781589,
-  :block/updated-at 1649773781589}
+  :block/created-at 1651490277995,
+  :block/updated-at 1651490277995}
  {:block/name "2022/02/18",
-  :block/created-at 1649773781756,
-  :block/updated-at 1649773781756}
+  :block/created-at 1651490277991,
+  :block/updated-at 1651490277991}
  {:block/name "2022/02/19",
-  :block/created-at 1649773781918,
-  :block/updated-at 1649773781918}
+  :block/created-at 1651490277994,
+  :block/updated-at 1651490277994}
  {:block/name "2022/02/20",
-  :block/created-at 1649773782267,
-  :block/updated-at 1649773782267}
+  :block/created-at 1651490280969,
+  :block/updated-at 1651490280969}
  {:block/name "2022/02/21",
   :block/created-at 1649373269186,
   :block/updated-at 1649373269186}
  {:block/name "2022/02/22",
-  :block/created-at 1649773782082,
-  :block/updated-at 1649773782082}
+  :block/created-at 1651490278705,
+  :block/updated-at 1651490278705}
  {:block/name "2022/02/23",
   :block/created-at 1649373269273,
   :block/updated-at 1649855714504}
@@ -672,14 +654,14 @@
   :block/created-at 1649373269273,
   :block/updated-at 1649373269273}
  {:block/name "2022/02/26",
-  :block/created-at 1649773783753,
-  :block/updated-at 1649773783753}
+  :block/created-at 1651490280582,
+  :block/updated-at 1651490280582}
  {:block/name "2022/02/27",
-  :block/created-at 1649773784268,
-  :block/updated-at 1649773784268}
+  :block/created-at 1651490279055,
+  :block/updated-at 1651490279055}
  {:block/name "2022/02/28",
-  :block/created-at 1649773784265,
-  :block/updated-at 1649855720200}
+  :block/created-at 1651490279052,
+  :block/updated-at 1651490279052}
  {:block/name "2022/03",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
@@ -690,8 +672,8 @@
   :block/created-at 1649373277263,
   :block/updated-at 1649855732085}
  {:block/name "2022/03/03",
-  :block/created-at 1649773784451,
-  :block/updated-at 1649855792183}
+  :block/created-at 1651490743285,
+  :block/updated-at 1651490743285}
  {:block/name "2022/03/04",
   :block/created-at 1649339417492,
   :block/updated-at 1649339417492}
@@ -699,8 +681,8 @@
   :block/created-at 1649339417320,
   :block/updated-at 1649339417320}
  {:block/name "2022/03/06",
-  :block/created-at 1649773785306,
-  :block/updated-at 1649773785306}
+  :block/created-at 1651490743062,
+  :block/updated-at 1651490743062}
  {:block/name "2022/03/07",
   :block/created-at 1649373276791,
   :block/updated-at 1649855801095}
@@ -711,62 +693,47 @@
   :block/created-at 1649373272061,
   :block/updated-at 1649373272061}
  {:block/name "2022/03/10",
-  :block/created-at 1649773784782,
-  :block/updated-at 1649773784782}
+  :block/created-at 1651490743087,
+  :block/updated-at 1651490743087}
  {:block/name "2022/03/11",
-  :block/created-at 1649773785922,
-  :block/updated-at 1649773785922}
+  :block/created-at 1651490743090,
+  :block/updated-at 1651490743090}
  {:block/name "2022/03/12",
-  :block/created-at 1649773785925,
-  :block/updated-at 1649773785925}
+  :block/created-at 1651490743176,
+  :block/updated-at 1651490743176}
  {:block/name "2022/03/13",
-  :block/created-at 1649773786392,
-  :block/updated-at 1649773786392}
+  :block/created-at 1651490743873,
+  :block/updated-at 1651490743873}
  {:block/name "2022/03/14",
-  :block/created-at 1649773786389,
-  :block/updated-at 1649773786389}
+  :block/created-at 1651490743039,
+  :block/updated-at 1651490743039}
  {:block/name "2022/03/15",
   :block/created-at 1649373269498,
   :block/updated-at 1649373269498}
  {:block/name "2022/03/16",
-  :block/created-at 1649773786097,
-  :block/updated-at 1649773786097}
+  :block/created-at 1651490742931,
+  :block/updated-at 1651490742931}
  {:block/name "2022/03/17",
-  :block/created-at 1649773786100,
-  :block/updated-at 1649773786100}
+  :block/created-at 1651490742933,
+  :block/updated-at 1651490742933}
  {:block/name "2022/03/18",
-  :block/created-at 1649773786840,
-  :block/updated-at 1649773786840}
+  :block/created-at 1651490742980,
+  :block/updated-at 1651490742980}
  {:block/name "2022/03/19",
-  :block/created-at 1649773786271,
-  :block/updated-at 1649773786271}
+  :block/created-at 1651490743017,
+  :block/updated-at 1651490743017}
+ {:block/name "2022/03/20",
+  :block/created-at 1651489841190,
+  :block/updated-at 1651489841190}
  {:block/name "2022/03/21",
   :block/created-at 1647826706277,
   :block/updated-at 1649255239668}
  {:block/name "2022/03/22",
   :block/created-at 1647826710515,
   :block/updated-at 1649255238272}
- {:block/name "2022/03/23",
-  :block/created-at 1648008910117,
-  :block/updated-at 1649348047725}
  {:block/name "2022/03/24",
   :block/created-at 1648154560211,
   :block/updated-at 1649255236249}
- {:block/name "2022/03/25",
-  :block/created-at 1648465474051,
-  :block/updated-at 1648465474051}
- {:block/name "2022/03/28",
-  :block/created-at 1648465474179,
-  :block/updated-at 1649255234900}
- {:block/name "2022/03/29",
-  :block/created-at 1648526408545,
-  :block/updated-at 1648650342199}
- {:block/name "2022/03/30",
-  :block/created-at 1648613358377,
-  :block/updated-at 1648657804029}
- {:block/name "2022/03/31",
-  :block/created-at 1648699913963,
-  :block/updated-at 1648699913963}
  {:block/name "2022/04",
   :block/created-at 1648481774920,
   :block/updated-at 1648481774920}
@@ -776,18 +743,12 @@
  {:block/name "2022/04/04",
   :block/created-at 1649044849355,
   :block/updated-at 1649874221672}
- {:block/name "2022/04/05",
-  :block/created-at 1649131233491,
-  :block/updated-at 1649187531023}
  {:block/name "2022/04/06",
   :block/created-at 1649217638958,
   :block/updated-at 1649270455303}
  {:block/name "2022/04/07",
   :block/created-at 1648650526305,
   :block/updated-at 1649348164195}
- {:block/name "2022/04/08",
-  :block/created-at 1649390431533,
-  :block/updated-at 1649434421462}
  {:block/name "2022/04/10",
   :block/created-at 1649591834091,
   :block/updated-at 1649676689509}
@@ -809,57 +770,12 @@
  {:block/name "2022/04/16",
   :block/created-at 1649683592230,
   :block/updated-at 1649683592230}
- {:block/name "2022/04/17",
-  :block/created-at 1650168095346,
-  :block/updated-at 1650168095346}
- {:block/name "2022/04/18",
-  :block/created-at 1650254699382,
-  :block/updated-at 1650295531488}
- {:block/name "2022/04/19",
-  :block/created-at 1650346627238,
-  :block/updated-at 1650402076979}
- {:block/name "2022/04/20",
-  :block/created-at 1650432343543,
-  :block/updated-at 1650485057828}
- {:block/name "2022/04/21",
-  :block/created-at 1650520557524,
-  :block/updated-at 1650563804644}
- {:block/name "2022/04/22",
-  :block/created-at 1650600013538,
-  :block/updated-at 1650600013538}
- {:block/name "2022/04/23",
-  :block/created-at 1650686474551,
-  :block/updated-at 1650686474551}
- {:block/name "2022/04/24",
-  :block/created-at 1650773691910,
-  :block/updated-at 1650773691910}
- {:block/name "2022/04/25",
-  :block/created-at 1650861246822,
-  :block/updated-at 1650905221515}
- {:block/name "2022/04/26",
-  :block/created-at 1650946200438,
-  :block/updated-at 1650990770116}
- {:block/name "2022/04/27",
-  :block/created-at 1651058342743,
-  :block/updated-at 1651081838279}
- {:block/name "2022/04/28",
-  :block/created-at 1651121912422,
-  :block/updated-at 1651230986981}
- {:block/name "2022/04/29",
-  :block/created-at 1651205524657,
-  :block/updated-at 1651489565778}
- {:block/name "2022/04/30",
-  :block/created-at 1651292190640,
-  :block/updated-at 1651292190640}
  {:block/name "2022/05",
-  :block/created-at 1651489552186,
-  :block/updated-at 1651489552186}
- {:block/name "2022/05/01",
-  :block/created-at 1651378408050,
-  :block/updated-at 1651378408050}
+  :block/created-at 1651490379931,
+  :block/updated-at 1651490379931}
  {:block/name "2022/05/02",
-  :block/created-at 1651464112028,
-  :block/updated-at 1651489783307}
+  :block/created-at 1651490379932,
+  :block/updated-at 1651490379932}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -899,12 +815,9 @@
  {:block/name "[inquirer",
   :block/created-at 1649373269193,
   :block/updated-at 1649373269193}
- {:block/name "[inquirer/projects",
-  :block/created-at 1649770324546,
-  :block/updated-at 1649770324546}
- {:block/name "[inquirer/teams",
-  :block/created-at 1649770319720,
-  :block/updated-at 1649770319720}
+ {:block/name "[inquirer/teams]",
+  :block/created-at 1651489851262,
+  :block/updated-at 1651489851262}
  {:block/name "[jen",
   :block/created-at 1649773779546,
   :block/updated-at 1649773779546}
@@ -923,12 +836,6 @@
  {:block/name "[pde]",
   :block/created-at 1649373273341,
   :block/updated-at 1649373273341}
- {:block/name "[projects",
-  :block/created-at 1649373273532,
-  :block/updated-at 1649373273532}
- {:block/name "[projects/inquirer",
-  :block/created-at 1651236085264,
-  :block/updated-at 1651236085264}
  {:block/name "[seager]",
   :block/created-at 1649373273480,
   :block/updated-at 1649373273480}
@@ -976,9 +883,9 @@
  {:block/name "_prioritization framework",
   :block/created-at 1649373274909,
   :block/updated-at 1649373274909}
- {:block/name "_reflections_reflection",
-  :block/created-at 1649373269271,
-  :block/updated-at 1649373269271}
+ {:block/name "_reflections",
+  :block/created-at 1651490277991,
+  :block/updated-at 1651490277991}
  {:block/name "a",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -1105,6 +1012,66 @@
  {:block/name "apache superset",
   :block/created-at 1649373274881,
   :block/updated-at 1649373274881}
+ {:block/name "apr 10th, 2022",
+  :block/created-at 1651489840602,
+  :block/updated-at 1651489840602}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1651489840561,
+  :block/updated-at 1651489840561}
+ {:block/name "apr 12th, 2022",
+  :block/created-at 1651489840531,
+  :block/updated-at 1651489840531}
+ {:block/name "apr 14th, 2022",
+  :block/created-at 1651489840404,
+  :block/updated-at 1651489840404}
+ {:block/name "apr 15th, 2022",
+  :block/created-at 1651489840373,
+  :block/updated-at 1651489840373}
+ {:block/name "apr 17th, 2022",
+  :block/created-at 1651489840348,
+  :block/updated-at 1651489840348}
+ {:block/name "apr 18th, 2022",
+  :block/created-at 1651489840331,
+  :block/updated-at 1651489840331}
+ {:block/name "apr 19th, 2022",
+  :block/created-at 1651489840294,
+  :block/updated-at 1651489840294}
+ {:block/name "apr 20th, 2022",
+  :block/created-at 1651489840238,
+  :block/updated-at 1651489840238}
+ {:block/name "apr 21st, 2022",
+  :block/created-at 1651489840203,
+  :block/updated-at 1651489840203}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1651489840164,
+  :block/updated-at 1651489840164}
+ {:block/name "apr 26th, 2022",
+  :block/created-at 1651489840129,
+  :block/updated-at 1651489840129}
+ {:block/name "apr 27th, 2022",
+  :block/created-at 1651489840076,
+  :block/updated-at 1651489840076}
+ {:block/name "apr 28th, 2022",
+  :block/created-at 1651489839987,
+  :block/updated-at 1651489839987}
+ {:block/name "apr 29th, 2022",
+  :block/created-at 1651489839872,
+  :block/updated-at 1651489839872}
+ {:block/name "apr 4th, 2022",
+  :block/created-at 1651489840847,
+  :block/updated-at 1651489840847}
+ {:block/name "apr 5th, 2022",
+  :block/created-at 1651489840787,
+  :block/updated-at 1651489840787}
+ {:block/name "apr 6th, 2022",
+  :block/created-at 1651489840744,
+  :block/updated-at 1651489840744}
+ {:block/name "apr 7th, 2022",
+  :block/created-at 1651489840688,
+  :block/updated-at 1651489840688}
+ {:block/name "apr 8th, 2022",
+  :block/created-at 1651489840643,
+  :block/updated-at 1651489840643}
  {:block/name "aquil",
   :block/created-at 1649084570608,
   :block/updated-at 1649084570608}
@@ -1478,9 +1445,6 @@
  {:block/name "brian waligorski",
   :block/created-at 1649090099369,
   :block/updated-at 1649770001752}
- {:block/name "brian waligorski_brian's",
-  :block/created-at 1649373274503,
-  :block/updated-at 1649373274503}
  {:block/name "brian waligorski_dr's priorities for brian_priorities",
   :block/created-at 1649773777805,
   :block/updated-at 1649773777805}
@@ -1727,7 +1691,7 @@
   :block/updated-at 1649373269456}
  {:block/name "data platform",
   :block/created-at 1649687194787,
-  :block/updated-at 1649770808820}
+  :block/updated-at 1651490348896}
  {:block/name "data platform questions",
   :block/created-at 1649773649152,
   :block/updated-at 1649773649152}
@@ -1936,6 +1900,33 @@
  {:block/name "favorites",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "feb 12th, 2022",
+  :block/created-at 1651489842260,
+  :block/updated-at 1651489842260}
+ {:block/name "feb 15th, 2022",
+  :block/created-at 1651489842216,
+  :block/updated-at 1651489842216}
+ {:block/name "feb 19th, 2022",
+  :block/created-at 1651489842141,
+  :block/updated-at 1651489842141}
+ {:block/name "feb 20th, 2022",
+  :block/created-at 1651489842098,
+  :block/updated-at 1651489842098}
+ {:block/name "feb 24th, 2022",
+  :block/created-at 1651489841926,
+  :block/updated-at 1651489841926}
+ {:block/name "feb 26th, 2022",
+  :block/created-at 1651489841925,
+  :block/updated-at 1651489841925}
+ {:block/name "feb 27th, 2022",
+  :block/created-at 1651489841877,
+  :block/updated-at 1651489841877}
+ {:block/name "feb 5th, 2022",
+  :block/created-at 1651489842505,
+  :block/updated-at 1651489842505}
+ {:block/name "feb 6th, 2022",
+  :block/created-at 1651489842453,
+  :block/updated-at 1651489842453}
  {:block/name "feed logic",
   :block/created-at 1649773647248,
   :block/updated-at 1649773647248}
@@ -2278,9 +2269,6 @@
  {:block/name "inquirer/person",
   :block/created-at 1648154559652,
   :block/updated-at 1648154559652}
- {:block/name "inquirer/proje",
-  :block/created-at 1649790781931,
-  :block/updated-at 1649790781931}
  {:block/name "inquirer/project",
   :block/created-at 1649270847611,
   :block/updated-at 1651067779648}
@@ -2323,6 +2311,12 @@
  {:block/name "james wilkinson",
   :block/created-at 1649854546986,
   :block/updated-at 1649854546986}
+ {:block/name "jan 29th, 2022",
+  :block/created-at 1651489842739,
+  :block/updated-at 1651489842739}
+ {:block/name "jan 30th, 2022",
+  :block/created-at 1651489842684,
+  :block/updated-at 1651489842684}
  {:block/name "jason fried and david heinemeier hansson",
   :block/created-at 1649373249628,
   :block/updated-at 1649373249628}
@@ -2428,12 +2422,6 @@
  {:block/name "killing dsi",
   :block/created-at 1649270282271,
   :block/updated-at 1650902509533}
- {:block/name "kim",
-  :block/created-at 1649855186771,
-  :block/updated-at 1649855186771}
- {:block/name "kim ",
-  :block/created-at 1649854365798,
-  :block/updated-at 1649854365798}
  {:block/name "kim rossmair",
   :block/created-at 1649854482314,
   :block/updated-at 1649854482314}
@@ -2554,6 +2542,48 @@
  {:block/name "maps",
   :block/created-at 1649264253466,
   :block/updated-at 1649264253466}
+ {:block/name "mar 12th, 2022",
+  :block/created-at 1651489841470,
+  :block/updated-at 1651489841470}
+ {:block/name "mar 13th, 2022",
+  :block/created-at 1651489841440,
+  :block/updated-at 1651489841440}
+ {:block/name "mar 19th, 2022",
+  :block/created-at 1651489841270,
+  :block/updated-at 1651489841270}
+ {:block/name "mar 20th, 2022",
+  :block/created-at 1651489841240,
+  :block/updated-at 1651489841240}
+ {:block/name "mar 21st, 2022",
+  :block/created-at 1651489841198,
+  :block/updated-at 1651489841198}
+ {:block/name "mar 22nd, 2022",
+  :block/created-at 1651489841151,
+  :block/updated-at 1651489841151}
+ {:block/name "mar 23rd, 2022",
+  :block/created-at 1651489841109,
+  :block/updated-at 1651489841109}
+ {:block/name "mar 24th, 2022",
+  :block/created-at 1651489841072,
+  :block/updated-at 1651489841072}
+ {:block/name "mar 25th, 2022",
+  :block/created-at 1651489841045,
+  :block/updated-at 1651489841045}
+ {:block/name "mar 28th, 2022",
+  :block/created-at 1651489841002,
+  :block/updated-at 1651489841002}
+ {:block/name "mar 29th, 2022",
+  :block/created-at 1651489840950,
+  :block/updated-at 1651489840950}
+ {:block/name "mar 30th, 2022",
+  :block/created-at 1651489840924,
+  :block/updated-at 1651489840924}
+ {:block/name "mar 31st, 2022",
+  :block/created-at 1651489840898,
+  :block/updated-at 1651489840898}
+ {:block/name "mar 6th, 2022",
+  :block/created-at 1651489841630,
+  :block/updated-at 1651489841630}
  {:block/name "mara",
   :block/created-at 1649854333149,
   :block/updated-at 1649854333149}
@@ -2575,9 +2605,6 @@
  {:block/name "mark loomis",
   :block/created-at 1649687194676,
   :block/updated-at 1649855356769}
- {:block/name "mark loomis_mark",
-  :block/created-at 1649855640952,
-  :block/updated-at 1649855640952}
  {:block/name "mark nichols",
   :block/created-at 1649853931832,
   :block/updated-at 1649853931832}
@@ -2623,6 +2650,9 @@
  {:block/name "max chafkin",
   :block/created-at 1649373250291,
   :block/updated-at 1649373250291}
+ {:block/name "may 2nd, 2022",
+  :block/created-at 1651489839745,
+  :block/updated-at 1651490369397}
  {:block/name "me",
   :block/created-at 1651232207034,
   :block/updated-at 1651232207034}
@@ -2683,9 +2713,6 @@
  {:block/name "michael zimbalist_chief strategy officer",
   :block/created-at 1649373274750,
   :block/updated-at 1649373274750}
- {:block/name "michael zimbalist_mz",
-  :block/created-at 1649773780392,
-  :block/updated-at 1649773780392}
  {:block/name "michelle lopez",
   :block/created-at 1649853871128,
   :block/updated-at 1649853871128}
@@ -2722,15 +2749,9 @@
  {:block/name "mz",
   :block/created-at 1649773781185,
   :block/updated-at 1649773781185}
- {:block/name "nadia",
-  :block/created-at 1649373274632,
-  :block/updated-at 1649373274632}
  {:block/name "nadia eghbal",
   :block/created-at 1649591858331,
   :block/updated-at 1649591858331}
- {:block/name "nadya",
-  :block/created-at 1649773777575,
-  :block/updated-at 1649773777575}
  {:block/name "nadya tan",
   :block/created-at 1649100845678,
   :block/updated-at 1649100845678}
@@ -3044,9 +3065,6 @@
  {:block/name "performance management",
   :block/created-at 1649373271347,
   :block/updated-at 1649373271347}
- {:block/name "performance management_performance goals",
-  :block/created-at 1649773785760,
-  :block/updated-at 1649773785760}
  {:block/name
   "performance management_performance management goals_performance goals",
   :block/created-at 1649373277263,
