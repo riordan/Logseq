@@ -1,1 +1,3 @@
-- ---
+---
+tags: [[inquirer/colleague]] 
+---
