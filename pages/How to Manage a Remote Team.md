@@ -7,6 +7,7 @@
 		  id:: 627004d2-13bf-453b-8b76-e939dbba0ef4
 			- In this module, you will learn about how to prepare a remote-friendly organization, and apply it by assessing your current remote readiness.
 			- #### About Remote Work
+			  id:: 531c2474-1156-468f-a8d8-7a90261e839f
 				- Understand the factors supporting the remote work movement
 			- #### Building a Team
 				- Understand how hiring and onboarding differ for a distributed workforce
