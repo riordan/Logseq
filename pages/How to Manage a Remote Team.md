@@ -27,6 +27,7 @@
 			- Assessment: Graded Quiz 
 			  This quiz covers everything you learned in this week. It's worth 18.75% of your total grade and you can retake it as many times as you like.
 		- ### Remote Adaptation Processes for Organizations
+		  id:: c2583b56-df8c-433e-8de6-637fd9e928f4
 			- In this module, you will gain understanding of your organization's current level of remote adaptation, and begin to map out a foundational strategy for optional remote operation.
 			- Types of Remote Teams
 			  Begin to plan a remote transition; Determine what type of remote team you have or plan to have
@@ -52,4 +53,5 @@
 	- Schedule:
 		- [Week 1](https://www.coursera.org/learn/remote-team-management/home/week/1): ((627004d2-13bf-453b-8b76-e939dbba0ef4))
 		- [Week 2](https://www.coursera.org/learn/remote-team-management/home/week/2): ((a87d5bb3-0a8a-476d-98a6-8033fdd7508b))
-		- [Week 3]()
+		- [Week 3](https://www.coursera.org/learn/remote-team-management/home/week/3): ((c2583b56-df8c-433e-8de6-637fd9e928f4))
+		- [Week 4](https://www.coursera.org/learn/remote-team-management/home/week/4)
