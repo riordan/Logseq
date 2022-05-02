@@ -4,6 +4,7 @@
 	- 5 weeks
 	- [Syllabus](https://www.coursera.org/learn/remote-team-management/supplement/jmLDt/course-syllabus):
 		- ### Remote Work Best Practices
+		  id:: 627004d2-13bf-453b-8b76-e939dbba0ef4
 			- In this module, you will learn about how to prepare a remote-friendly organization, and apply it by assessing your current remote readiness.
 			- #### About Remote Work
 				- Understand the factors supporting the remote work movement
@@ -48,4 +49,5 @@
 			- Applying what you’ve learned in this course, you'll follow prompts to outline a customized transition plan that will work for your unique team. You'll also review transition plans submitted by peers, and receive peer review on your plan.
 			- The final assignment is worth 25% of your grade.
 	- Schedule:
+		- [Week 1](https://www.coursera.org/learn/remote-team-management/home/week/1): ((627004d2-13bf-453b-8b76-e939dbba0ef4))
 		-
