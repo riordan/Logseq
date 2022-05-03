@@ -3,7 +3,7 @@
 	- Stable
 	- Production
 	- Deprecated
-	- S
+	- Superseded
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
 	-
