@@ -1,5 +1,5 @@
 ---
-tags: data governance
+tags: data governance, [[memo]] status
 ---
 
 - ## Lifecycle Statuses
