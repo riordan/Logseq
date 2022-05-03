@@ -19,7 +19,7 @@ Every department will share their update in this form 3x/yr with a focus on:
   The attendees will be:
 - Standing Members:
 	- Executive Team:
-		- ([[Lisa Hughes|CEO]], [[michael zimbalist|Chief Strategy Officer]], [[Matt Boggie]])
+		- ([[Lisa Hughes]], [[michael zimbalist]], [[Matt Boggie]])
 	- [[Lydia Hamilton]] - [[Inquirer Operations|Operations]]
 - Department leads for groups presenting that month ^4brqfp
   
