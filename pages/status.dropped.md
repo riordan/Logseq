@@ -1,2 +1,2 @@
 - ## Definition:
-	-
+	- Effort has been ended. Represents a final stage.
