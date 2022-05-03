@@ -1,0 +1,2 @@
+- Definition
+	- Effort is fully under way.
