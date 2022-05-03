@@ -7,7 +7,8 @@ tags: data governance
 		- [R Lifecycle](https://lifecycle.r-lib.org/articles/stages.html)
 			- Experimental
 			- Stable
-			- Deprecated
+			- Deprecated:
+				-
 			- Superseded
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
