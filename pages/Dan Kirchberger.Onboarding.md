@@ -4,7 +4,7 @@ title:: Dan Kirchberger/Onboarding
 -
 -
 - ## Questions
-	-
+	- {{query [[question]] }}
 -
 - ## Prior to beginning
 	- ### Leadup
