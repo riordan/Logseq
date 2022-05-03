@@ -1,5 +1,9 @@
 - ## Lifecycle Statuses
-	-
+	- Experimental
+	- Stable
+	- Production
+	- Deprecated
+	- S
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
 	-
