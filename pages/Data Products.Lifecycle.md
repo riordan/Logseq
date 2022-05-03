@@ -1,5 +1,5 @@
 ---
-tags: data governance, [[memo]] status
+tags: data governance, [[memo]], status/work-in-progress
 ---
 
 - ## Lifecycle Statuses
@@ -13,7 +13,7 @@ tags: data governance, [[memo]] status
 			- Superseded
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
-		- Data Products
+		- [[Data Products]]
 			- Data Services
 			- Dashboards & Report Generators
 			- Analyses & Reports
