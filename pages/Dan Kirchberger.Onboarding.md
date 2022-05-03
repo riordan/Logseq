@@ -5,7 +5,8 @@ title:: Dan Kirchberger/Onboarding
 - ## Prior to beginning
 	- ### Leadup
 	- ### -3 days [[2022/05/13]] (Friday prior to starting)
-		- Have
+		- TODO have welcome letter completed
+		-
 - ## Start Day
 	-
 -
