@@ -14,6 +14,10 @@ tags: data governance
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
 		- Data Products
+			- Data Services
 			- Dashboards & Report Generators
-			-
+			- Analyses & Reports
+		- Datasets
+		- Data Pipelines
+		-
 	-
