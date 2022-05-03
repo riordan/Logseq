@@ -1,3 +1,6 @@
-- ---
-  tags: agile coach, inquirer/colleague
-- ---
+---
+tags: agile coach, inquirer/colleague
+alias: Chocolate Ninja
+---
+
+-
