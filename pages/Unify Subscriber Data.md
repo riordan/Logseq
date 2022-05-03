@@ -12,5 +12,6 @@ alias: USD
 	- ### Resources
 	- ### Active Needs
 		- More involved support: Agile Coaching & domain organization
+			- Talk to Ty
 			- facilitate requirements gathering workshops
 			-
