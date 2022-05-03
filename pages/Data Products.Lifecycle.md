@@ -1,6 +1,7 @@
-- ---
-  tags: 
-  ---
+---
+tags: governance
+---
+
 - ## Lifecycle Statuses
 	- Experimental
 	- Stable
