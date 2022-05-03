@@ -1,5 +1,5 @@
 ---
-tags: governance
+tags: data governance
 ---
 
 - ## Lifecycle Statuses
