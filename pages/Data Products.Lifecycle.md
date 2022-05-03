@@ -13,4 +13,5 @@ tags: data governance
 			- Superseded
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
+		- Data
 	-
