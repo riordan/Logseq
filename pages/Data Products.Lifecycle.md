@@ -14,7 +14,7 @@ tags: data governance, [[memo]], status/work-in-progress
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
 		- [[Data Products]]
-			- Data Services
+			- Data-powered Services
 			- Dashboards & Report Generators
 			- Analyses & Reports
 		- Datasets
