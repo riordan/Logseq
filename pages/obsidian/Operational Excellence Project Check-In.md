@@ -24,8 +24,8 @@ Every department will share their update in this form 3x/yr with a focus on:
 - Department leads for groups presenting that month ^4brqfp
   
   Each month, 2 departments will present a detailed update, rotating so that each department presents 3x/year.
-## Our Role
-Our role in this project will be to assist [[Lydia Hamilton|Lydia]] in creating the elements of this process that help communicate these updates and the mechanisms to track the progress over time. The short version of that is:
+- ## Our Role
+  Our role in this project will be to assist [[Lydia Hamilton]] in creating the elements of this process that help communicate these updates and the mechanisms to track the progress over time. The short version of that is:
 - A slide deck template - to help structure what we're looking to get from each briefing
 - The baseline metrics we'll be expecting from everyone
 - What kinds of group/project specific metrics we'll want to see
@@ -36,10 +36,10 @@ Our role in this project will be to assist [[Lydia Hamilton|Lydia]] in creating 
   Ultimately, we want to help each group stay focused in the content they present so it's highly relevant, while giving them a meaningful way to communicate nuanced details, and to raise concerns to executives. We also need to decide what's a meaningful way to keep these updated and tracked.
   
   We aim to have this operational in a month or two. I'm hoping that we can have something usable to begin workshopping with the exec team in about 3 weeks (week of [[2022-02-01]]).
-## Background
-We don't have this sort of regular briefing structure here at The Inquirer, so it's possible for our execs not to know about important work that's going on, to learn from it, or help align it with other work that's happening elsewhere. [[Lydia Hamilton|Lydia]]'s built these kinds of [update structures and frameworks](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/Tuning_sessions) previously at The Wikimedia Foundation.
-
-Our ability to help here will assist in the [[Data and Insights Group]]'s overall efforts to make The Inquirer more aligned with our Strategy, and to ensure that our Strategy is fully aligned with The Inquirer's Mission.
+- ## Background
+  We don't have this sort of regular briefing structure here at The Inquirer, so it's possible for our execs not to know about important work that's going on, to learn from it, or help align it with other work that's happening elsewhere. [[Lydia Hamilton]] 's built these kinds of [update structures and frameworks](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/Tuning_sessions) previously at The Wikimedia Foundation.
+  
+  Our ability to help here will assist in the [[Data and Insights Group]]'s overall efforts to make The Inquirer more aligned with our Strategy, and to ensure that our Strategy is fully aligned with The Inquirer's Mission.
 # Resources
 - [[2022-01-13]] - [Project Overview Doc](https://docs.google.com/document/d/1ixWMSY8Q2LDX2AeC83am5x5J1AqAm6pvj82ta3fEVF8/edit#)
 - Lydia's prior [example from Wikimedia Foundation](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/Tuning_sessions)
