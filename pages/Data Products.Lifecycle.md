@@ -4,6 +4,7 @@ tags: data governance
 
 - ## Lifecycle Statuses
 	- Frameworks
+		- R
 		- Experimental
 		- Stable
 		- Deprecated
