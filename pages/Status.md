@@ -1,5 +1,9 @@
 - Statuses:
 	- [[status/upcoming]]
 	- [[status/work-in-progress]]
+	- [[status/active]]
+	- [[status/completed]]
+	- [[status/dropped]]
+	- [[status/paused]]
 	-
 	-
