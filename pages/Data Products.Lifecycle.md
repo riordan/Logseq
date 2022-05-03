@@ -19,5 +19,5 @@ tags: data governance
 			- Analyses & Reports
 		- Datasets
 		- Data Pipelines
-		-
+		- Data Sources
 	-
