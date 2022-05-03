@@ -4,11 +4,11 @@ tags: data governance
 
 - ## Lifecycle Statuses
 	- Frameworks
-		- R
-		- Experimental
-		- Stable
-		- Deprecated
-		- Superseded
+		- [R Lifecycle](https://lifecycle.r-lib.org/articles/stages.html)
+			- Experimental
+			- Stable
+			- Deprecated
+			- Superseded
 - ## Feature brainstorm:
 	- Consistent lifecycle labels across products
 	-
