@@ -43,6 +43,7 @@ alias: Logseq
 		- ## Plugins
 			- Manually installed plugins
 				- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
+				- [[Smart Blocks]]
 - ## ((62379de4-41e2-4162-a949-7c47aee31942))
 	- All templates are managed at [[logseq/templates]].
-	-
+	- Some use [[Smart Blocks]]
