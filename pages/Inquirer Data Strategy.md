@@ -1,6 +1,6 @@
 - ## Data Strategy Components
-	-
 	- ### Data Platform
 	- ### Data Analytics
 	- ### Data Activation
-	-
+	- ### Data Policy
+		- Data
