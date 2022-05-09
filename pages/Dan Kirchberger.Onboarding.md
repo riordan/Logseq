@@ -1,6 +1,8 @@
 title:: Dan Kirchberger/Onboarding
 
 - Start date: [[2022/05/16]]
+- [Onboarding Coordination Doc](https://docs.google.com/document/d/15tDZoP5qLXI5K8ldlPVbH4TW52NJqwWVSps1kBt8OK0/edit#heading=h.a0timl600que)
+-
 -
 -
 - ## Questions
