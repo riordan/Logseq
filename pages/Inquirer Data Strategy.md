@@ -1,4 +1,5 @@
 - ## Data Strategy Components
+  id:: 627944b6-2c57-4299-98f1-8c36f7ded71e
 	- ### Data Infrastructure
 		- Instrumentation
 		- \Data Platform
