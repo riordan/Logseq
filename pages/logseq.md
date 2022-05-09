@@ -43,4 +43,5 @@ alias: Logseq
 		- ## Plugins
 			- Manually installed plugins
 				- [Logseq Periodic Notes](https://github.com/brendonscript/logseq-periodic-notes)
-- ((62379de4-41e2-4162-a949-7c47aee31942))
+- ## ((62379de4-41e2-4162-a949-7c47aee31942))
+	-
