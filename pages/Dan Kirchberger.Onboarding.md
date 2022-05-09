@@ -15,9 +15,3 @@ title:: Dan Kirchberger/Onboarding
 		- TODO have welcome letter completed [[2022/05/13]]
 		-
 		-
-- ## Start Day
-	-
--
-- ## Documents
-	-
--
