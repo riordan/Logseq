@@ -7,4 +7,4 @@
 	- ### Data Policy
 		- Data collection
 		- First-Party Data Strategy
-		- [[data governance]]
+		- [[Data Governance]]
