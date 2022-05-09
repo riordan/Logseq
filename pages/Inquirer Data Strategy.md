@@ -6,4 +6,5 @@
 	- ### Data Activation
 	- ### Data Policy
 		- Data collection
-		-
+		- First-Party Data Strategy
+		- [[data governance]]
