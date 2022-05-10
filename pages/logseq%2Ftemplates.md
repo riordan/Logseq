@@ -2,7 +2,7 @@
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- [[Weekly Review]]
 	  template:: Weekly Review
-	  collapsed:: true
+		- <%month%>
 		- Plus: What went well?
 		- Minus: What didn't go so well?
 		- Next: What will I focus on next week?
