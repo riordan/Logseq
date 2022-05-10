@@ -1,6 +1,9 @@
 [{:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
+ {:block/name "#",
+  :block/created-at 1652121131514,
+  :block/updated-at 1652121131514}
  {:block/name "1",
   :block/created-at 1649373268420,
   :block/updated-at 1649373268420}
@@ -853,7 +856,7 @@
   :block/updated-at 1651864867046}
  {:block/name "2022/05/09",
   :block/created-at 1651864875382,
-  :block/updated-at 1652119695276}
+  :block/updated-at 1652122692501}
  {:block/name "2022/05/10",
   :block/created-at 1651864878659,
   :block/updated-at 1652119192263}
@@ -1027,6 +1030,12 @@
  {:block/name "agile coach",
   :block/created-at 1651585410545,
   :block/updated-at 1651585410545}
+ {:block/name "agile/retro",
+  :block/created-at 1652120273446,
+  :block/updated-at 1652120273446}
+ {:block/name "agile/sprintplanning",
+  :block/created-at 1652120276768,
+  :block/updated-at 1652120276768}
  {:block/name "airbyte",
   :block/created-at 1649770667606,
   :block/updated-at 1649791451796}
@@ -1631,8 +1640,8 @@
   :block/created-at 1649591845449,
   :block/updated-at 1649591845449}
  {:block/name "daily note template",
-  :block/created-at 1649373270065,
-  :block/updated-at 1649373270065}
+  :block/created-at 1652121185661,
+  :block/updated-at 1652121185661}
  {:block/name "daily notes",
   :block/created-at 1649686490332,
   :block/updated-at 1649686490332}
@@ -1903,8 +1912,8 @@
   :block/created-at 1649873953274,
   :block/updated-at 1649873953274}
  {:block/name "draft obsidian templates",
-  :block/created-at 1649373270065,
-  :block/updated-at 1649373270065}
+  :block/created-at 1652121136475,
+  :block/updated-at 1652121136475}
  {:block/name "dream journal",
   :block/created-at 1649647912266,
   :block/updated-at 1649647912266}
@@ -2580,7 +2589,10 @@
   :block/updated-at 1649773781180}
  {:block/name "logseq",
   :block/created-at 1649687194529,
-  :block/updated-at 1649687194529}
+  :block/updated-at 1652121819920}
+ {:block/name "logseq/templates",
+  :block/created-at 1652121287210,
+  :block/updated-at 1652121287210}
  {:block/name "loomis",
   :block/created-at 1649855354030,
   :block/updated-at 1649855354030}
@@ -2707,9 +2719,9 @@
  {:block/name "meeting-notes",
   :block/created-at 1649591858790,
   :block/updated-at 1649591858790}
- {:block/name "meeting/1_1",
-  :block/created-at 1648477465369,
-  :block/updated-at 1648477465369}
+ {:block/name "meeting/1:1",
+  :block/created-at 1652120173353,
+  :block/updated-at 1652120173353}
  {:block/name "meeting/agile",
   :block/created-at 1652108908540,
   :block/updated-at 1652108908540}
@@ -2877,7 +2889,7 @@
   :block/updated-at 1649687134185}
  {:block/name "obsidian/obsidian",
   :block/created-at 1649687158720,
-  :block/updated-at 1649687158720}
+  :block/updated-at 1652121183423}
  {:block/name "odd lots",
   :block/created-at 1649373279486,
   :block/updated-at 1649373279486}
@@ -3465,6 +3477,9 @@
  {:block/name "shyam deolaliker",
   :block/created-at 1649854973482,
   :block/updated-at 1649854973482}
+ {:block/name "smart blocks",
+  :block/created-at 1652121802427,
+  :block/updated-at 1652121802427}
  {:block/name "snipd",
   :block/created-at 1649373247200,
   :block/updated-at 1649373247200}
