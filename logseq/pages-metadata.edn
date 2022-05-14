@@ -871,7 +871,7 @@
   :block/updated-at 1651589731297}
  {:block/name "2022/05/14",
   :block/created-at 1651864900652,
-  :block/updated-at 1651864900652}
+  :block/updated-at 1652558175721}
  {:block/name "2022/05/16",
   :block/created-at 1651494131232,
   :block/updated-at 1651494131232}
@@ -1114,6 +1114,9 @@
  {:block/name "annie jacobsen",
   :block/created-at 1649591848815,
   :block/updated-at 1649591848815}
+ {:block/name "anomaly detection",
+  :block/created-at 1652554048459,
+  :block/updated-at 1652554048459}
  {:block/name "another system diagram - today 1.pdf",
   :block/created-at 1649373270185,
   :block/updated-at 1649373270185}
@@ -1757,7 +1760,7 @@
   :block/updated-at 1649373269456}
  {:block/name "data platform",
   :block/created-at 1649687194787,
-  :block/updated-at 1651490348896}
+  :block/updated-at 1652550056137}
  {:block/name "data platform questions",
   :block/created-at 1649773649152,
   :block/updated-at 1649773649152}
