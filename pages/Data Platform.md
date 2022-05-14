@@ -1,5 +1,6 @@
 - ## Capabilities:
 	- ### Components:
+		-
 		- Data Acquisition Framework: [[Vestapol]] & [[Airbyte]]
 		- Data Lake: [[gcs]] with configuration
 		- Data Warehouse: [[BigQuery]] [[inq-warehouse]]
