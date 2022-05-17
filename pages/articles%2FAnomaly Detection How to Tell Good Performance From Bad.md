@@ -12,3 +12,7 @@ referrer::readwise
 	  tags:: 
 	  id:: efa524ac-8aa0-4008-a19f-a91015343415
 	  Beyond accuracy, the most commonly used metrics when evaluating anomaly detection solutions are F1, Precision and Recall
+	- link:: [null](null)
+	  on:: [[2022/05/14]]
+	  tags:: 
+	  Beyond accuracy, the most commonly used metrics when evaluating anomaly detection solutions are F1, Precision and Recall
