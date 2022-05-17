@@ -1,4 +1,7 @@
-[{:block/name " subscriber profiles",
+[{:block/name "",
+  :block/created-at 1652798071812,
+  :block/updated-at 1652798071812}
+ {:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
  {:block/name "#",
@@ -878,6 +881,9 @@
  {:block/name "2022/05/16",
   :block/created-at 1651494131232,
   :block/updated-at 1652729250906}
+ {:block/name "2022/05/17",
+  :block/created-at 1652798071190,
+  :block/updated-at 1652801616166}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -1228,6 +1234,10 @@
   :block/created-at 1649591858334,
   :block/updated-at 1649591858334}
  {:block/name
+  "articles/is the chief data officer being effective a scorecard to measure",
+  :block/created-at 1652801624230,
+  :block/updated-at 1652801624230}
+ {:block/name
   "articles/is the chief data officer being effective — a scorecard to measure",
   :block/created-at 1649591847233,
   :block/updated-at 1649591847233}
@@ -1266,6 +1276,10 @@
   "articles/tech and the fake market tactic – humane tech – medium",
   :block/created-at 1649373239496,
   :block/updated-at 1649373239496}
+ {:block/name
+  "articles/the 4 questions you should stop asking during your oneonone meetings",
+  :block/created-at 1652801864012,
+  :block/updated-at 1652801864191}
  {:block/name "articles/the 4 types of liars you’ll meet in your life",
   :block/created-at 1649591849317,
   :block/updated-at 1649591849317}
@@ -1285,7 +1299,7 @@
   :block/updated-at 1649591850909}
  {:block/name "articles/the rise of data downtime",
   :block/created-at 1652558419518,
-  :block/updated-at 1652558419518}
+  :block/updated-at 1652801624103}
  {:block/name
   "articles/the shocking meltdown of ample hills — brooklyn’s hottest ice cream company",
   :block/created-at 1649373234240,
@@ -1320,6 +1334,9 @@
   "articles/“what gets measured gets managed” — it’s wrong and drucker never said it",
   :block/created-at 1649373236202,
   :block/updated-at 1649373236202}
+ {:block/name "arvid tchivzhel",
+  :block/created-at 1652798668213,
+  :block/updated-at 1652798668213}
  {:block/name "automating report delivery",
   :block/created-at 1648154560210,
   :block/updated-at 1648154560210}
@@ -1329,6 +1346,9 @@
  {:block/name "b",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "barr moses",
+  :block/created-at 1652801624003,
+  :block/updated-at 1652801624003}
  {:block/name "becky bowers",
   :block/created-at 1648154560624,
   :block/updated-at 1648154560624}
@@ -2516,6 +2536,9 @@
  {:block/name "kate crawford",
   :block/created-at 1649591845716,
   :block/updated-at 1649591845716}
+ {:block/name "katherine ruane",
+  :block/created-at 1652798298428,
+  :block/updated-at 1652798298428}
  {:block/name "katie krzaczek",
   :block/created-at 1649373272351,
   :block/updated-at 1649373272351}
@@ -2675,6 +2698,9 @@
  {:block/name "marianne bellotti",
   :block/created-at 1649591850050,
   :block/updated-at 1649591850050}
+ {:block/name "mario",
+  :block/created-at 1652800761779,
+  :block/updated-at 1652800761779}
  {:block/name "mark",
   :block/created-at 1649090471749,
   :block/updated-at 1649090471749}
@@ -2771,6 +2797,9 @@
  {:block/name "meeting/worksession",
   :block/created-at 1648490901716,
   :block/updated-at 1648490901716}
+ {:block/name "megan",
+  :block/created-at 1652800744590,
+  :block/updated-at 1652800744590}
  {:block/name "megan angren",
   :block/created-at 1652107199497,
   :block/updated-at 1652107199497}
