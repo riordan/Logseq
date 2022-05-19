@@ -47,18 +47,17 @@
 	- [[Weekly Plan]]
 		- [[Data and Insights]]
 			- What things need to be done by the
-	template:: 🚥 Kanban
-
+	- template:: 🚥 Kanban
 		- **Board name:** #kanban
 			- [[🟢 low]]
-			{{renderer :todomaster}}
+			  			{{renderer :todomaster}}
 				- ...
 				- ...
 			- [[🟡 normal]]
-			{{renderer :todomaster}}
+			  			{{renderer :todomaster}}
 				- ...
 				- ...
 			- [[🔴 high]]
-			{{renderer :todomaster}}
+			  			{{renderer :todomaster}}
 				- ...
 				- ...
