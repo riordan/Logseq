@@ -2,6 +2,7 @@
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- [[Weekly Review]]
 	  template:: Weekly Review
+	  collapsed:: true
 		-
 		- Plus: What went well?
 		- Minus: What didn't go so well?
