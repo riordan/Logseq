@@ -20,4 +20,6 @@ alias: USD
 		- Kickoff [[2022/05/24]]
 			- Presentation
 				- Project Overview
-				- Why
+				- Why we're doing this approach
+				- What we've done so far
+					-
