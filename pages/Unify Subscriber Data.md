@@ -15,4 +15,6 @@ alias: USD
 			- Talk to [[Ty Walker]]
 			- facilitate requirements gathering workshops
 -
--
+- ## DSI
+	- ### DSI Data Modeling
+		- Kickoff tomorrow
