@@ -23,5 +23,5 @@ alias: USD
 				- Why we're doing this approach
 				- What we've done so far
 				- Challenges
-				-
+			- Sale
 				-
