@@ -17,4 +17,6 @@ alias: USD
 -
 - ## DSI
 	- ### DSI Data Modeling
-		- Kickoff tomorrow
+		- Kickoff [[2022/05/24]]
+			- Presentation
+				-
