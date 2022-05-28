@@ -6,6 +6,6 @@ tags: [[kb/asset]] , [[Data Infrastructure]]
 - ## Resources
 	- [[BigQuery]]
 	- [[Google Cloud Storage]]
-	- [[Cloud Composer]]
+	- [[Cloud Composer]] -- [[Airflow]]
 	-
 	-
