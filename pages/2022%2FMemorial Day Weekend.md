@@ -24,7 +24,7 @@ title:: 2022/Memorial Day Weekend
 	- Data Product Lifecycle Framework
 	- Research, Reports, and Dashboards Database
 	- Send out [[Data and Insights/Data Survey]]
-	-
+	- Confluence Landing Page
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
