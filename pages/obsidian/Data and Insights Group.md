@@ -23,6 +23,7 @@ alias: Data and Insights, Data and Insights Department
 ## Foundation
 	- ### Mission
 	  id:: 626fca95-3e85-44a8-bb6b-d57e5561d5df
+		-
 	- ### Principles
 	  id:: 626fca95-0c73-4851-84e4-5ecd243ad19b
 ## Prioritization
