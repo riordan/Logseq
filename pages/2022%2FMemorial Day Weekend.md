@@ -12,7 +12,8 @@ title:: 2022/Memorial Day Weekend
 	- Finish writing [DSI Deprecation RFC](https://docs.google.com/document/d/1tc9SYMbwR1QBo81V2K9wl1HOW2QMBnPnaM21izQmt0Y/edit?usp=sharing)
 	- [[Development Planning]]: Overview Memo
 	  id:: 62926633-a2a7-4fbe-8f02-9053afdd19ba
-	- Finish writing [[Incident]]
+	- Finish writing [[Incident Management]] [RFC](https://docs.google.com/document/d/1MTFScPfLHSxzx2TFBuIbHpSQsVC6exIMtG0kZBV93tY/edit#)
+	-
 	-
 - Days:
 	- Friday ✅
