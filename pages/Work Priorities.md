@@ -11,7 +11,7 @@ tags: kb/hub
 - ## Process
 	- ### Organizing Your Work Priorities {{renderer :todomaster}}
 	  id:: 6292339a-dc62-49a7-86b9-999cc5156444
-		- #### TODO Reaffirm what your job is {{renderer :todomaster}}
+		- #### TODO Reaffirm what [[Your Job]] is {{renderer :todomaster}}
 			- TODO Review the Inquirer [[Inquirer Welcome Letter]]
 				- Question: What do you think you're here to do?
 				- Question: How will you accomplish what you're here to do?
