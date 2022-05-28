@@ -1,1 +1,2 @@
-- About: This page can be the hub where you reflect and refine what matters for your job and career growth.
+- About: This page can be the hub allowing reflection and recollection of what matters for your job and career growth.
+- ##
