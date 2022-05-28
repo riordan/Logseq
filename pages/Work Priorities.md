@@ -8,9 +8,10 @@
 			- TODO Review the Inquirer [[Inquirer Welcome Letter]]
 				- Question: What do you think you're here to do?
 				- Question: How will you accomplish what you're here to do?
-			- #### TODO Reaffirm
+			- #### TODO Reaffirm what the company's priorities are {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2022-05-28 Sat 10:42:39]
 			  :END:
+			- #### Re
 				-
 			-
