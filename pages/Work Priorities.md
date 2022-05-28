@@ -17,5 +17,5 @@
 		- ### Make a roadmap
 		- ### Accelerating Tools
 		- ### Capture a [[Theory of Change]]
-			- Decide on what
+			- Rearticulate teh
 			-
