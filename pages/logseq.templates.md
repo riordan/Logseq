@@ -83,7 +83,8 @@
 				  			{{renderer :todomaster}}
 					- ...
 					- ...
-		- procons #.v-kanban
+		- Pros and Cons
+		  procons #.v-kanban
 		  template:: procons
 			- #like
 				-
