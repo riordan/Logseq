@@ -148,9 +148,6 @@
  {:block/name "2021-12-15_^s1l82y _ notes from earlier today",
   :block/created-at 1649773648985,
   :block/updated-at 1649773648985}
- {:block/name "2021-12-16_inquirer engineering systems overview",
-  :block/created-at 1649373270185,
-  :block/updated-at 1649373270185}
  {:block/name "2021-12-27_^gbu1lx",
   :block/created-at 1649773786091,
   :block/updated-at 1649773786091}
@@ -384,7 +381,7 @@
   :block/updated-at 1651490746352}
  {:block/name "2021/12/09",
   :block/created-at 1651490746181,
-  :block/updated-at 1651497972706}
+  :block/updated-at 1653754425848}
  {:block/name "2021/12/10",
   :block/created-at 1651490746278,
   :block/updated-at 1651490746278}
@@ -402,7 +399,7 @@
   :block/updated-at 1651490746077}
  {:block/name "2021/12/16",
   :block/created-at 1651490745860,
-  :block/updated-at 1651490745860}
+  :block/updated-at 1653754416358}
  {:block/name "2021/12/17",
   :block/created-at 1651490746467,
   :block/updated-at 1651490746467}
@@ -905,6 +902,24 @@
  {:block/name "2022/05/25",
   :block/created-at 1653451723150,
   :block/updated-at 1653451723150}
+ {:block/name "2022/05/26",
+  :block/created-at 1653754382330,
+  :block/updated-at 1653754382330}
+ {:block/name "2022/05/27",
+  :block/created-at 1653754381651,
+  :block/updated-at 1653754381651}
+ {:block/name "2022/05/28",
+  :block/created-at 1653754381652,
+  :block/updated-at 1653754381652}
+ {:block/name "2022/05/29",
+  :block/created-at 1653754381654,
+  :block/updated-at 1653754381654}
+ {:block/name "2022/05/30",
+  :block/created-at 1653754381655,
+  :block/updated-at 1653754381655}
+ {:block/name "2022/memorial day weekend",
+  :block/created-at 1653754381656,
+  :block/updated-at 1653754381656}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -932,6 +947,9 @@
  {:block/name "627944b6-2c57-4299-98f1-8c36f7ded71e",
   :block/created-at 1652118142641,
   :block/updated-at 1652118142641}
+ {:block/name "62919f59-c01e-47e2-81e7-9309d1744726",
+  :block/created-at 1653754381653,
+  :block/updated-at 1653754381653}
  {:block/name "802f514b-5e0d-4214-ac56-9e77dcf119fe.png",
   :block/created-at 1649773649150,
   :block/updated-at 1649773649150}
@@ -1364,6 +1382,9 @@
  {:block/name "arvid tchivzhel",
   :block/created-at 1652798668213,
   :block/updated-at 1652798668213}
+ {:block/name "auth0",
+  :block/created-at 1653754382773,
+  :block/updated-at 1653754382773}
  {:block/name "automating report delivery",
   :block/created-at 1648154560210,
   :block/updated-at 1648154560210}
@@ -1559,6 +1580,9 @@
  {:block/name "bprs",
   :block/created-at 1649770298479,
   :block/updated-at 1649770298479}
+ {:block/name "bq",
+  :block/created-at 1653754381703,
+  :block/updated-at 1653754381703}
  {:block/name "brian waligorski",
   :block/created-at 1649090099369,
   :block/updated-at 1649770001752}
@@ -1584,6 +1608,9 @@
  {:block/name "business performance reviews_bpr",
   :block/created-at 1649773781404,
   :block/updated-at 1649773781404}
+ {:block/name "business rules",
+  :block/created-at 1653754381864,
+  :block/updated-at 1653754381864}
  {:block/name "business rules playbook",
   :block/created-at 1649373269499,
   :block/updated-at 1649373269499}
@@ -1621,12 +1648,18 @@
  {:block/name "ceo",
   :block/created-at 1649373278682,
   :block/updated-at 1649373278682}
+ {:block/name "challenge",
+  :block/created-at 1653754382327,
+  :block/updated-at 1653754382327}
  {:block/name "charlotte",
   :block/created-at 1649175026064,
   :block/updated-at 1649175026064}
  {:block/name "charlotte sutton",
   :block/created-at 1649373269267,
   :block/updated-at 1649373269267}
+ {:block/name "chartbeat",
+  :block/created-at 1653754382768,
+  :block/updated-at 1653754382768}
  {:block/name "chicago",
   :block/created-at 1649854032689,
   :block/updated-at 1649854032689}
@@ -1663,6 +1696,9 @@
  {:block/name "clockwise",
   :block/created-at 1649373271039,
   :block/updated-at 1649373271039}
+ {:block/name "cloud composer",
+  :block/created-at 1653754381773,
+  :block/updated-at 1653754381773}
  {:block/name "coaching real leaders",
   :block/created-at 1649373283874,
   :block/updated-at 1649373283874}
@@ -1815,6 +1851,9 @@
  {:block/name "data governance",
   :block/created-at 1651587855035,
   :block/updated-at 1651587855035}
+ {:block/name "data infrastructure",
+  :block/created-at 1653754381704,
+  :block/updated-at 1653754381704}
  {:block/name "data leads",
   :block/created-at 1649373274637,
   :block/updated-at 1649373274637}
@@ -2007,10 +2046,6 @@
  {:block/name "engineering systems",
   :block/created-at 1649373270192,
   :block/updated-at 1649373270192}
- {:block/name
-  "engineering systems_[[2021-12-16_inquirer engineering systems overview]] with [[toan dang]]",
-  :block/created-at 1649773648130,
-  :block/updated-at 1649773648130}
  {:block/name "epic",
   :block/created-at 1649373274909,
   :block/updated-at 1649373274909}
@@ -2113,6 +2148,9 @@
  {:block/name "gayle laakmann mcdowell, jackie bavaro",
   :block/created-at 1649591845921,
   :block/updated-at 1649591845921}
+ {:block/name "gcp",
+  :block/created-at 1653754381818,
+  :block/updated-at 1653754381818}
  {:block/name "gcs",
   :block/created-at 1649770686582,
   :block/updated-at 1649770686582}
@@ -2134,6 +2172,9 @@
  {:block/name "github projects",
   :block/created-at 1649433053706,
   :block/updated-at 1649433053706}
+ {:block/name "gke",
+  :block/created-at 1653754381772,
+  :block/updated-at 1653754381772}
  {:block/name "godeeper",
   :block/created-at 1649773647709,
   :block/updated-at 1649773647709}
@@ -2152,6 +2193,12 @@
  {:block/name "google cloud",
   :block/created-at 1649773649281,
   :block/updated-at 1649773649281}
+ {:block/name "google cloud storage",
+  :block/created-at 1653754381802,
+  :block/updated-at 1653754381802}
+ {:block/name "google kubernetes engine",
+  :block/created-at 1653754381790,
+  :block/updated-at 1653754381790}
  {:block/name "google optimize",
   :block/created-at 1649773777580,
   :block/updated-at 1649773777580}
@@ -2245,6 +2292,9 @@
  {:block/name "incomplete",
   :block/created-at 1649373276152,
   :block/updated-at 1649373276152}
+ {:block/name "informatica",
+  :block/created-at 1653754382776,
+  :block/updated-at 1653754382776}
  {:block/name "information",
   :block/created-at 1649591861790,
   :block/updated-at 1649591861790}
@@ -2260,6 +2310,15 @@
  {:block/name "inkbox",
   :block/created-at 1649857405934,
   :block/updated-at 1649857405934}
+ {:block/name "inkforce",
+  :block/created-at 1653754381840,
+  :block/updated-at 1653754381840}
+ {:block/name "inkforce squad",
+  :block/created-at 1653754381838,
+  :block/updated-at 1653754381838}
+ {:block/name "inq-datawarehouse gcp project structure",
+  :block/created-at 1653754381991,
+  :block/updated-at 1653754381991}
  {:block/name "inq-research-strategy-ideas (1).pdf",
   :block/created-at 1649773783058,
   :block/updated-at 1649773783058}
@@ -2287,6 +2346,9 @@
  {:block/name "inquirer datasets",
   :block/created-at 1649373270135,
   :block/updated-at 1649373270135}
+ {:block/name "inquirer engineering",
+  :block/created-at 1653754381836,
+  :block/updated-at 1653754381836}
  {:block/name "inquirer hypotheses",
   :block/created-at 1649373274154,
   :block/updated-at 1649373274154}
@@ -2419,6 +2481,9 @@
  {:block/name "instapaper",
   :block/created-at 1649373233924,
   :block/updated-at 1649373233924}
+ {:block/name "instrumentation",
+  :block/created-at 1653754382767,
+  :block/updated-at 1653754382767}
  {:block/name "internal comms",
   :block/created-at 1649773780387,
   :block/updated-at 1649773780387}
@@ -2470,6 +2535,9 @@
  {:block/name "jen",
   :block/created-at 1649373277218,
   :block/updated-at 1649373277218}
+ {:block/name "jen mcgroaty",
+  :block/created-at 1653754381837,
+  :block/updated-at 1653754381837}
  {:block/name "jenkins",
   :block/created-at 1649373273375,
   :block/updated-at 1649373273375}
@@ -2551,6 +2619,9 @@
  {:block/name "julie westfall",
   :block/created-at 1649773648318,
   :block/updated-at 1649773648318}
+ {:block/name "k8s",
+  :block/created-at 1653754381919,
+  :block/updated-at 1653754381919}
  {:block/name "kanban",
   :block/created-at 1652960409261,
   :block/updated-at 1652960409261}
@@ -2578,6 +2649,15 @@
  {:block/name "kava",
   :block/created-at 1647826706276,
   :block/updated-at 1647826706276}
+ {:block/name "kb",
+  :block/created-at 1653754381704,
+  :block/updated-at 1653754381704}
+ {:block/name "kb/asset",
+  :block/created-at 1653754381819,
+  :block/updated-at 1653754381819}
+ {:block/name "kb/hub",
+  :block/created-at 1653754381704,
+  :block/updated-at 1653754381704}
  {:block/name "kevin mcwilliams",
   :block/created-at 1649773784093,
   :block/updated-at 1649773784093}
@@ -2611,6 +2691,9 @@
  {:block/name "kristen taylor",
   :block/created-at 1649591845105,
   :block/updated-at 1649591845105}
+ {:block/name "kubernetes",
+  :block/created-at 1653754381791,
+  :block/updated-at 1653754381791}
  {:block/name "last mile project",
   :block/created-at 1647960985954,
   :block/updated-at 1647960985954}
@@ -2923,9 +3006,45 @@
  {:block/name "ncs",
   :block/created-at 1650988938370,
   :block/updated-at 1650988938370}
+ {:block/name "needs",
+  :block/created-at 1653754382775,
+  :block/updated-at 1653754382775}
  {:block/name "netflix technology blog",
   :block/created-at 1649591851902,
   :block/updated-at 1649591851902}
+ {:block/name "new page: 2022",
+  :block/created-at 1653754382053,
+  :block/updated-at 1653754382053}
+ {:block/name "new page: 2022/memorial day weekend",
+  :block/created-at 1653754382053,
+  :block/updated-at 1653754382053}
+ {:block/name "new page: data infras",
+  :block/created-at 1653754382061,
+  :block/updated-at 1653754382061}
+ {:block/name "new page: data infrast",
+  :block/created-at 1653754382067,
+  :block/updated-at 1653754382067}
+ {:block/name "new page: data infrastr",
+  :block/created-at 1653754382076,
+  :block/updated-at 1653754382076}
+ {:block/name "new page: data infrastru",
+  :block/created-at 1653754382081,
+  :block/updated-at 1653754382081}
+ {:block/name "new page: data infrastruc",
+  :block/created-at 1653754382086,
+  :block/updated-at 1653754382086}
+ {:block/name "new page: data infrastruct",
+  :block/created-at 1653754382092,
+  :block/updated-at 1653754382092}
+ {:block/name "new page: data infrastructu",
+  :block/created-at 1653754382097,
+  :block/updated-at 1653754382097}
+ {:block/name "new page: data infrastructur",
+  :block/created-at 1653754382106,
+  :block/updated-at 1653754382106}
+ {:block/name "new page: data infrastructure",
+  :block/created-at 1653754382111,
+  :block/updated-at 1653754382111}
  {:block/name "new page: smart blocks",
   :block/created-at 1652960445603,
   :block/updated-at 1652960445603}
@@ -2983,6 +3102,9 @@
  {:block/name "notes",
   :block/created-at 1649373269108,
   :block/updated-at 1649373269108}
+ {:block/name "notyours",
+  :block/created-at 1653754381936,
+  :block/updated-at 1653754381936}
  {:block/name "now",
   :block/created-at 1647807341644,
   :block/updated-at 1647807341644}
@@ -3411,6 +3533,9 @@
  {:block/name "product management",
   :block/created-at 1649373242751,
   :block/updated-at 1649373242751}
+ {:block/name "product manager",
+  :block/created-at 1653754381863,
+  :block/updated-at 1653754381863}
  {:block/name "product showcase",
   :block/created-at 1651068736362,
   :block/updated-at 1651068736362}
@@ -3787,6 +3912,9 @@
  {:block/name "the stratechery podcast",
   :block/created-at 1649373273067,
   :block/updated-at 1649373273067}
+ {:block/name "theory of change",
+  :block/created-at 1653754381959,
+  :block/updated-at 1653754381959}
  {:block/name "things i'm working on",
   :block/created-at 1647873592815,
   :block/updated-at 1647873653369}
@@ -3799,6 +3927,9 @@
  {:block/name "tj furman",
   :block/created-at 1649373274636,
   :block/updated-at 1649373274636}
+ {:block/name "toan",
+  :block/created-at 1653754381942,
+  :block/updated-at 1653754381942}
  {:block/name "toan dang",
   :block/created-at 1649373268422,
   :block/updated-at 1649373268422}
@@ -3847,6 +3978,9 @@
  {:block/name "vicki schneider",
   :block/created-at 1649952150221,
   :block/updated-at 1649952150221}
+ {:block/name "vscode",
+  :block/created-at 1653754381650,
+  :block/updated-at 1653754381650}
  {:block/name "wait",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
@@ -3862,6 +3996,12 @@
  {:block/name "weekly review",
   :block/created-at 1649686490330,
   :block/updated-at 1651491984922}
+ {:block/name "work priorities",
+  :block/created-at 1653754381959,
+  :block/updated-at 1653754381959}
+ {:block/name "workflow orchestration",
+  :block/created-at 1653754381772,
+  :block/updated-at 1653754381772}
  {:block/name
   "working backwards - presentations and metrics at amazon.pdf",
   :block/created-at 1649373274752,
