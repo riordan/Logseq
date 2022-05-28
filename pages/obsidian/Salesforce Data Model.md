@@ -3,7 +3,7 @@
 # Data Model Tour [[2022-02-02]]
 Participants:
 - [[Toan Dang]]
-- [[Jen]]
+- [[Jen McGroaty]]
 - [[Jim Anton]]
 - [[Vassavi Kolusu]] - Senior [[Salesforce]] Developer
 - [[Brian Waligorski]]
