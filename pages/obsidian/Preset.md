@@ -1,5 +1,6 @@
 - Preset is a hosted [[Apache Superset]]
 - Initial Thoughts on Preset for [[Inquirer]] [[2022-02-07]]
+  id:: 626fca96-2c3e-44ab-a6ad-bb7198c0a4a4
 	- Note to [[Brian Waligorski]]
 	  1. Superset's not ready for BQ Primetime.
 	  	1. SQL Lab fetches table previews with SELECT * LIMIT commands every time a user looks at a new dataset in the UI. They're going to have to use the table preview / row retrieval that's costless before we consider rolling it out broadly.
