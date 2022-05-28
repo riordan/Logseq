@@ -3,4 +3,4 @@ alias: inkforce
 ---
 
 - ## Overview
-	- [[Inquirer Engineering]] team
+	- [[Inquirer Engineering]] team responsible for [[Salesforce]],
