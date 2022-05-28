@@ -23,7 +23,7 @@
 			- Nothing really captured on the Advertising side, but do capture some of our own FB Ad Data, Google Ads, raw commenting data via Forua, Auth0, some SF, Salesforce, Eventbrite
 		- Site Data Collection ( #Instrumentation )
 			- [[Google Analytics]]
-			- Chartbeat
+			- [[Chartbeat]]
 			- [[Mather]] - Major #vendor
 				- Economics consultant for pricing
 				- Marketing team uses them as data science capability
@@ -45,14 +45,12 @@
 				- Nobody told Mark CCPA compliance and audits were his job
 				- **we have never resourced #governance nor compliance here and have huge issues around governance and compliance as a result**
 			- BlueConic: Customer Data Platform
-				-
 				- "Resolve user identity" - Tracks user behavior in a customer focused model.
 					- Collects on frontend AND backend
 				- Should be able to drive customer behavior
 					- "give me users who've read sports articles in the last 30 days" and can export that to Marketing Cloud
 				- Super JS based; doesn't work well with AMP
 				- Implemented in an ad-hoc way, so not piped in with unified definitions or source-true definitions
-				-
 			- Wunderkind (formerly BounceX) - marketing integration. Used for driving newsletter signup.
 				- Could all be done in BlueConic.
 			- Brown Institute has a Snowplow Analytics (self-hosted analytics).
