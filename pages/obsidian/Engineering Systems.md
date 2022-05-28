@@ -80,7 +80,7 @@
 				- overlap with piano, [[blueconic]], wunderkind, [[Mather]]
 			- Salesforce Service portal: Definition of a unique person
 				- Manage subscriptions, support faq
-- Our needs: Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
+	- The Inquirer's data  (at a high level): Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
 - Challenges:
 	- Lots of web data collection
 		- Many trackers on our site for lots of vendors
