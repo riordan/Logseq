@@ -2,7 +2,7 @@
 - ## Current Priorities
 - ## Previous Priorities
 - ## Process
-	- ### Organizing Your Work Priorities
+	- ### Organizing Your Work Priorities {{renderer :todomaster}}
 	  id:: 6292339a-dc62-49a7-86b9-999cc5156444
-		- #### TODO Reaffirm what your job is
-			- TODO Review your /todo
+		- #### TODO Reaffirm what your job is {{renderer :todomaster}}
+			- TODO Review the Inquirer [[Inquirer Welcome Letter]] /todo
