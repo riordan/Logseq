@@ -1,6 +1,6 @@
 ---
 alias: inkforce
-tags: 
+tags: [[inquirer/teams]] 
 ---
 
 - ## Overview
