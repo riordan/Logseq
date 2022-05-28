@@ -2,8 +2,8 @@
 tags:  leadwork
 aliases: Data Engineer Hiring
 ---
-# [[2022-Q1]] Data Engineer Hiring
 
+- ## [[2022-Q1]] Data Engineer Hiring
 - Hiring for 2x data engineers for team.
 - [📝 Coordination Doc](https://docs.google.com/document/d/1khni3ItgwzlzfhZrZ4ftyBXBFk4fjKM02-NGVBC8aCI/edit#)
   
