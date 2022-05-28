@@ -1,3 +1,4 @@
+-
 - NEEDS: Improved information architecture for Inq-Datawarehouse BQ Project
 	- Purpose: The place to look for high-quality, vetted data that I feel confident to use for my business applications.
 		- If I use data from here, I can trust my analysis.
