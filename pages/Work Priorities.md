@@ -6,4 +6,6 @@
 	  id:: 6292339a-dc62-49a7-86b9-999cc5156444
 		- #### TODO Reaffirm what your job is {{renderer :todomaster}}
 			- TODO Review the Inquirer [[Inquirer Welcome Letter]]
-				- What do you think
+				- Question: What do you think you're here to do?
+				- Question: How will you
+			-
