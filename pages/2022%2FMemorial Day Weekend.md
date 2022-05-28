@@ -7,6 +7,7 @@ title:: 2022/Memorial Day Weekend
 	- Climb 2x
 	- Off Leash Zelda
 	- [[Data and Insights]] [[Development Environment Configuration]] ((629226e9-f589-419e-b953-585f29a0c4e4)) #vscode #docker
+	- Review the ((62925c9b-0e87-4130-9906-6660f05c3fe9))
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
