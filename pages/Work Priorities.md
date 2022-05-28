@@ -14,6 +14,7 @@
 			  :END:
 			- #### TODO Assess where the company's most pressing needs are {{renderer :todomaster}}
 			- #### TODO Assess and Reaffirm the next most important priorities for your teams
+		- ### Make a roadmap
+		- ### Accelerating Tools
 			-
-				-
 			-
