@@ -7,7 +7,7 @@ tags:  leadwork
 		- [[Data PM]]
 	- Current
 	- Previous
-		- [[## Foundational Data Engineer Hiring]]
+		- [[Data Engineer First Hires]]
 		- [[Hiring/Sr. Marketing Analyst]]
-- [[## Foundational Data Engineer Hiring]]
+- [[Data Engineer First Hires]]
   collapsed:: true

@@ -1,4 +1,4 @@
-title:: ## Foundational Data Engineer Hiring
+title:: Data Engineer First Hires
 
 - title:: ## Foundational Data Engineer Hiring
 - Hiring for 2x data engineers for team, taking us from 1 Data Architect to a full [[Data Engineering Group]]
@@ -6,7 +6,6 @@ title:: ## Foundational Data Engineer Hiring
 - **Status:** Complete
 	- Hired: [[Aquil Jones]] & [[Eva von Weltin]]
 ## Interviews
-collapsed:: true
 	- ## Screenings
 		- ### [[2022-02-16]] Tahsin Kkram
 		  collapsed:: true
