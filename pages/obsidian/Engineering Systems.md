@@ -3,7 +3,7 @@
 # Resources:
 	- ## System Diagrams
 		- ![[Inquirer Architecture Diagram - 2020.pdf]]
-		- ![[Another System Diagram - Today.pdf]]
+		-
 # Notes
 - ## Inquirer Engineering Systems Overview with [[Toan Dang]]
   date:: [[2021-12-16]]
