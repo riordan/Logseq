@@ -5,7 +5,7 @@ tags: kb/hub
 - About: This page can be the hub allowing reflection and recollection of what matters for your job and career growth.
 - ## North Star Goals
 	- ### Principles
-		- We make better decisions with
+		- We will make better decisions and have a higher
 - ## Current Priorities
 - ## Previous Priorities
 - ## Process
