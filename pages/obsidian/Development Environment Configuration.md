@@ -49,5 +49,5 @@
 - ## Implementation:
 	- Starting Infrastructure:
 		- Philadelphia Inquirer Google BigQuery database (Data Warehouse)
-			- inq-datawarehouse GCP project structure
-			-
+			- [[inq-datawarehouse GCP project structure]]
+				-
