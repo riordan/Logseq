@@ -1,22 +1,21 @@
 ---
 aliases: [Onboarding]
 ---
+
 # Resources:
 - [[Inquirer Welcome Letter]]
 	- [New Employee Onboarding Links (Confluence)](https://inquirer.atlassian.net/wiki/spaces/PD/pages/736082/New+Employee+Onboarding)
-- [[Your Job]]
+- [[VP of Data and Insights]]
 	- [[Data and Insights Group]]
 		- [[Analytics Team]]
-
 # Thinking
 - Planning:
 	- [[Inquirer 90 Day Plan]]
 - Reflections:
 	- [[Reflections- Week One]]
 ## Role:
-- [[Your Job]]
-- 
-
+- [[VP of Data and Insights]]
+-
 # Key Tasks:
 - [ ] Meet Stakeholders for base interviews
 	- ***PDE***
@@ -38,5 +37,3 @@ aliases: [Onboarding]
 			- [ ] [[Inquirer Welcome Letter#^0x7p5a|Lydia Hamilton]] - VP Operations
 				- [ ] [[Inquirer Welcome Letter#^fd6vjd|Amanda Baker]] - Director of PMO
 		- [ ] [[Inquirer Welcome Letter#^em1ucq|Sarah Schmalbach]] - Lenfest Lab
-
-
