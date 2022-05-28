@@ -44,9 +44,6 @@
 		- Sciencebox
 		  id:: 626fca95-2ced-4543-b733-7d1943afb463
 		- BQ Runner
-	- ## How to build it:
-	- 1. Create a standard Python runner image that we'll own and maintain for The Inquirer
-	  	1. Python Runner will be a standalone docker base image / cookiecutter template for running data workflows on Airflow
 	- ## Implementation:
 	  id:: 629226e9-f589-419e-b953-585f29a0c4e4
 		- Starting Infrastructure:
