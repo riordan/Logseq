@@ -1,2 +1,2 @@
 - ## Overview
-	- Managed Apache [[Airflow]] from [[Google Cloud]] for data [[workflow orchestration]]. Runs on a managed [[GKE]] instance.
+	- Managed Apache [[Airflow]] from [[Google Cloud]] for data [[workflow orchestration]]. Runs on a managed [[Google Kubernetes Engine]] instance.
