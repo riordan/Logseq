@@ -46,5 +46,6 @@
   How to build it:
   1. Create a standard Python runner image that we'll own and maintain for The Inquirer
   	1. Python Runner will be a standalone docker base image / cookiecutter template for running data workflows on Airflow
-- Implementation:
-	-
+- ## Implementation:
+	- Starting Infrastructure:
+		-
