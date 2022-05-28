@@ -14,6 +14,7 @@ title:: 2022/Memorial Day Weekend
 	  id:: 62926633-a2a7-4fbe-8f02-9053afdd19ba
 	- Finish writing [[Incident Management]] [RFC](https://docs.google.com/document/d/1MTFScPfLHSxzx2TFBuIbHpSQsVC6exIMtG0kZBV93tY/edit#)
 	- [[Last Mile Project]] Schema in BigQuery & writeup of Excel [[Bigquery]] Process
+	- Submit [[Permutive]] [Onboarding Survey](https://docs.google.com/document/d/1saLop9ihnJ16ozIyc1SwimklkDREBnuaIs6r6O6QdZw/edit?usp=sharing)
 	-
 	-
 - Days:
