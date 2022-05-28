@@ -10,7 +10,7 @@ alias: Data and Insights, Data and Insights Department
 	- id:: 62924fce-fcce-4c47-a93c-7760b6ad70eb
 	  1. ((626fca95-0c73-4851-84e4-5ecd243ad19b))
 	  2. ((626fca95-e337-4e81-9a9b-8fb1e65a0364))
-	- 3. [ ] [[Data and Insights 2022 OKRs|OKRs for 2022]]
+	- 3. ((626fca95-1704-4607-9b54-3ad1c9fcf828))
 	- 4. [ ] [[#Mission]]
 	- 5. [ ] Training Plan
 # Portfolio
@@ -33,4 +33,6 @@ alias: Data and Insights, Data and Insights Department
 ## Roadmap
 ## 2022 Planning
 	- ### OKRs
-	  {{embed [[Data and Insights 2022 OKRs]] }}
+	  id:: 626fca95-1704-4607-9b54-3ad1c9fcf828
+	  collapsed:: true
+		- {{embed [[Data and Insights 2022 OKRs]] }}
