@@ -7,9 +7,6 @@
  {:block/name "#principles",
   :block/created-at 1653761316766,
   :block/updated-at 1653761316766}
- {:block/name ".v-eisenhower-matrix",
-  :block/created-at 1653760204947,
-  :block/updated-at 1653760204947}
  {:block/name ".v-kanban",
   :block/created-at 1653760292902,
   :block/updated-at 1653760292902}
@@ -532,7 +529,7 @@
   :block/updated-at 1649855402650}
  {:block/name "2022/01/11",
   :block/created-at 1648154560207,
-  :block/updated-at 1648154560207}
+  :block/updated-at 1653762992917}
  {:block/name "2022/01/12",
   :block/created-at 1649373275625,
   :block/updated-at 1649373275625}
@@ -607,7 +604,7 @@
   :block/updated-at 1651490279228}
  {:block/name "2022/02/07",
   :block/created-at 1649373274880,
-  :block/updated-at 1649855421664}
+  :block/updated-at 1653763873072}
  {:block/name "2022/02/08",
   :block/created-at 1651490278226,
   :block/updated-at 1651490278226}
@@ -907,7 +904,7 @@
   :block/updated-at 1653754381655}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
-  :block/updated-at 1653762416632}
+  :block/updated-at 1653763324751}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -1665,7 +1662,7 @@
   :block/updated-at 1649591846045}
  {:block/name "commitment",
   :block/created-at 1653762359314,
-  :block/updated-at 1653762528421}
+  :block/updated-at 1653762709775}
  {:block/name "content strategy",
   :block/created-at 1647872029127,
   :block/updated-at 1647872029127}
@@ -1761,7 +1758,7 @@
   :block/updated-at 1649770312163}
  {:block/name "data and insights group",
   :block/created-at 1649373269405,
-  :block/updated-at 1653761560065}
+  :block/updated-at 1653763056469}
  {:block/name
   "data and insights group_2022 planning_data and insights_ 2022 planning",
   :block/created-at 1649373277914,
@@ -1772,9 +1769,6 @@
  {:block/name "data and insights group_data and insights group",
   :block/created-at 1649773776863,
   :block/updated-at 1649773776863}
- {:block/name "data and insights group_prioritization framework",
-  :block/created-at 1649773778728,
-  :block/updated-at 1649773778728}
  {:block/name
   "data and insights group_prioritization framework_departmental prioritization framework",
   :block/created-at 1649373277913,
@@ -1785,9 +1779,6 @@
  {:block/name "data and insights group_strategy",
   :block/created-at 1649373277263,
   :block/updated-at 1649373277263}
- {:block/name "data and insights group|data and insights",
-  :block/created-at 1653761149519,
-  :block/updated-at 1653761149519}
  {:block/name "data and insights/data survey",
   :block/created-at 1648481482743,
   :block/updated-at 1648481482743}
@@ -1934,7 +1925,7 @@
   :block/updated-at 1649773647235}
  {:block/name "development planning",
   :block/created-at 1648481756092,
-  :block/updated-at 1648481756092}
+  :block/updated-at 1653763212536}
  {:block/name "devin peak",
   :block/created-at 1649768910776,
   :block/updated-at 1649768910776}
@@ -2183,7 +2174,7 @@
   :block/updated-at 1649773777174}
  {:block/name "hiring",
   :block/created-at 1648154559942,
-  :block/updated-at 1651494020267}
+  :block/updated-at 1653763162482}
  {:block/name "hiring/sr. marketing analyst",
   :block/created-at 1648154559941,
   :block/updated-at 1648154559941}
@@ -3220,6 +3211,9 @@
  {:block/name "pde week - 2022q1",
   :block/created-at 1649373277264,
   :block/updated-at 1649373277264}
+ {:block/name "pde week - 2022q2",
+  :block/created-at 1653762840854,
+  :block/updated-at 1653762840854}
  {:block/name "pde/leads",
   :block/created-at 1649853102101,
   :block/updated-at 1651231857993}
@@ -3237,7 +3231,7 @@
   :block/updated-at 1649373271349}
  {:block/name "performance management",
   :block/created-at 1649373271347,
-  :block/updated-at 1649373271347}
+  :block/updated-at 1653763114495}
  {:block/name
   "performance management_performance management goals_performance goals",
   :block/created-at 1649373277263,
@@ -3375,7 +3369,11 @@
   :block/updated-at 1649773647398}
  {:block/name "preset",
   :block/created-at 1649373274880,
-  :block/updated-at 1649373274880}
+  :block/updated-at 1653763841870}
+ {:block/name
+  "preset#initial thoughts on preset for inquirer 2022-02-07",
+  :block/created-at 1653763712483,
+  :block/updated-at 1653763712483}
  {:block/name
   "preset_initial thoughts on preset for inquirer 2022-02-07",
   :block/created-at 1649773782871,
@@ -3872,7 +3870,7 @@
   :block/updated-at 1649952150221}
  {:block/name "vp of data and insights",
   :block/created-at 1653757161163,
-  :block/updated-at 1653757181354}
+  :block/updated-at 1653763149953}
  {:block/name "vscode",
   :block/created-at 1653754381650,
   :block/updated-at 1653754381650}
