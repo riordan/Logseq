@@ -83,11 +83,10 @@
 				  			{{renderer :todomaster}}
 					- ...
 					- ...
-		- Pros and Cons
-		  Pros and Cons #.v-kanban
-		  template:: procons
+		- template:: procons
 		  template-including-parent:: True
-			- #like
-				-
-			- #dislike
-				-
+			- Pros and Cons #.v-kanban
+				- #like
+					-
+				- #dislike
+					-
