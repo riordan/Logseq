@@ -1,4 +1,7 @@
--
+---
+tags: kb/asset
+---
+
 - ## Overview:
 - Purpose: The place to look for high-quality, vetted data that I feel confident to use for my business applications.
 - Overseen by [[Data Engineering]]
