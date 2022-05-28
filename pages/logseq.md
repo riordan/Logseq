@@ -43,4 +43,5 @@ status: active
 	- All templates are managed at [[logseq/templates]].
 	- Some use [[Smart Blocks]]
 - ## Queries
-	- One feature you need to
+	- Queries allow the building of structured data retrieval and searches making Logseq more functional.
+	- ###
