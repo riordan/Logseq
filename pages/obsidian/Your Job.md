@@ -2,4 +2,4 @@
 aliases: VP of Data and Insights
 ---
 
-See: [[Inquirer Welcome Letter]]
+- See: [[Inquirer Welcome Letter]]
