@@ -23,7 +23,8 @@ title:: 2022/Memorial Day Weekend
 	- Confirm time to talk to [[Lauren Kauffman]]  from [[inquirer/hr]] about [[Performance Reviews]]
 	- Data Product Lifecycle Framework
 	- Research, Reports, and Dashboards Database
-	- Data
+	- Send out [[Data and Insights/Data Survey]]
+	-
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
