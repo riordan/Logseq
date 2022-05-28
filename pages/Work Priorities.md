@@ -17,5 +17,5 @@
 		- ### Make a roadmap
 		- ### Accelerating Tools
 		- ### Capture a [[Theory of Change]]
-			- Rearticulate teh
+			- Clearly articulate the way you see your team accomplishing what it can do to
 			-
