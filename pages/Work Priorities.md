@@ -15,7 +15,8 @@ tags: kb/hub
 			- TODO Review the Inquirer [[Inquirer Welcome Letter]]
 				- Question: What do you think you're here to do?
 				- Question: How will you accomplish what you're here to do?
-				-
+				- Question: What are the responsibilities and tasks you need to do in order to be a successful leader?
+					-
 			- #### TODO Reaffirm what the company's priorities are {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2022-05-28 Sat 10:42:39]
