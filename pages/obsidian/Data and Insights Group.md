@@ -6,7 +6,9 @@ alias: Data and Insights, Data and Insights Department
 - ## Group Overview
 	- Data and Insights is part of the [[Product and Operations Group]] and contains the [[Analytics Team]] and [[Data Engineering Group]]. It is overseen by YOU!
 - ## Group Needs:
-	- 1. ((626fca95-0c73-4851-84e4-5ecd243ad19b))
+	- id:: 62924fce-fcce-4c47-a93c-7760b6ad70eb
+	  1. ((626fca95-0c73-4851-84e4-5ecd243ad19b))
+	  2. ((prioritization framework))
 	- 3. [ ] [[Data and Insights 2022 OKRs|OKRs for 2022]]
 	- 4. [ ] [[#Mission]]
 	- 5. [ ] Training Plan
