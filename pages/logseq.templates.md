@@ -49,6 +49,7 @@
 		- Eisenhower Matrix
 		  template:: Eisenhower Matrix
 		  template-including-parent:: false
+		  collapsed:: true
 			- #.v-eisenhower-matrix
 			  template:: eisenhower-matrix
 				- [[TODO]]
