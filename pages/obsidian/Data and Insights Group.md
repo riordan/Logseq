@@ -21,7 +21,8 @@ Data and Insights is part of the [[Product and Operations Group]] and contains t
 		- **Services**
 ## Foundation
 	- ### Mission
-		-
+		- Impact Journalism On Behalf of The Philadelphia Inquirer
+		- Providing essential insights for the future of the Philadelphia Inquirer by providing research and infrastructure that leads to speed and agility in our decision-making over time.
 	- ### Principles
 ## Prioritization
 	- ### Prioritization Framework
