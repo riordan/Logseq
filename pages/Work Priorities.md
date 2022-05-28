@@ -5,7 +5,7 @@ tags: kb/hub
 - About: This page can be the hub allowing reflection and recollection of what matters for your job and career growth.
 - ## North Star Goals
 	- ### Principles
-		- Being data-informed will help us
+		- Data will help us follow-through on our intentions as a company.
 - ## Current Priorities
 - ## Previous Priorities
 - ## Process
