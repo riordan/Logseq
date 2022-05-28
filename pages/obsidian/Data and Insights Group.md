@@ -8,7 +8,7 @@ alias: Data and Insights, Data and Insights Department
 - ## Group Needs:
 	- id:: 62924fce-fcce-4c47-a93c-7760b6ad70eb
 	  1. ((626fca95-0c73-4851-84e4-5ecd243ad19b))
-	  2.
+	  2. (())
 	- 3. [ ] [[Data and Insights 2022 OKRs|OKRs for 2022]]
 	- 4. [ ] [[#Mission]]
 	- 5. [ ] Training Plan
@@ -25,9 +25,10 @@ alias: Data and Insights, Data and Insights Department
 	  id:: 626fca95-0c73-4851-84e4-5ecd243ad19b
 ## Prioritization
 	- ### Prioritization Framework
-	  1. Company Mission, Vision, North Star
-	  2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
-	  3. We assist in The Inquirer's annual goals and
+	  background-color:: #793e3e
+		- 1. Company Mission, Vision, North Star
+		  2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
+		  3. We assist in The Inquirer's annual goals and
 ## Roadmap
 ## 2022 Planning
 	- ### OKRs
