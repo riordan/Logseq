@@ -4,12 +4,6 @@
  {:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
- {:block/name "#",
-  :block/created-at 1652121131514,
-  :block/updated-at 1652121131514}
- {:block/name "1",
-  :block/created-at 1649373268420,
-  :block/updated-at 1649373268420}
  {:block/name "1969",
   :block/created-at 1649373234167,
   :block/updated-at 1649373234167}
@@ -148,9 +142,6 @@
  {:block/name "2021-12-15_^s1l82y _ notes from earlier today",
   :block/created-at 1649773648985,
   :block/updated-at 1649773648985}
- {:block/name "2021-12-16#inquirer engineering systems overview",
-  :block/created-at 1653758748739,
-  :block/updated-at 1653758748739}
  {:block/name "2021-12-27_^gbu1lx",
   :block/created-at 1649773786091,
   :block/updated-at 1649773786091}
@@ -464,9 +455,9 @@
  {:block/name "2022-01-21_tracy o'rourke",
   :block/created-at 1649373271326,
   :block/updated-at 1649373271326}
- {:block/name "2022-03-07_data and insights 2022 okrs",
-  :block/created-at 1649773785759,
-  :block/updated-at 1649773785759}
+ {:block/name "2022-03-07 #data and insights 2022 okrs",
+  :block/created-at 1653759707547,
+  :block/updated-at 1653759707547}
  {:block/name "2022-03-09 better collective kickoff meeting",
   :block/created-at 1649373272061,
   :block/updated-at 1649855623150}
@@ -658,7 +649,7 @@
   :block/updated-at 1649855714504}
  {:block/name "2022/02/24",
   :block/created-at 1649373269271,
-  :block/updated-at 1649373269271}
+  :block/updated-at 1653759413925}
  {:block/name "2022/02/25",
   :block/created-at 1649373269273,
   :block/updated-at 1649373269273}
@@ -694,10 +685,10 @@
   :block/updated-at 1651490743062}
  {:block/name "2022/03/07",
   :block/created-at 1649373276791,
-  :block/updated-at 1651584885912}
+  :block/updated-at 1653759624078}
  {:block/name "2022/03/08",
   :block/created-at 1649373272350,
-  :block/updated-at 1649373272350}
+  :block/updated-at 1653759641576}
  {:block/name "2022/03/09",
   :block/created-at 1649373272061,
   :block/updated-at 1649373272061}
@@ -718,7 +709,7 @@
   :block/updated-at 1651490743039}
  {:block/name "2022/03/15",
   :block/created-at 1649373269498,
-  :block/updated-at 1649373269498}
+  :block/updated-at 1653759078593}
  {:block/name "2022/03/16",
   :block/created-at 1651490742931,
   :block/updated-at 1651490742931}
@@ -910,16 +901,13 @@
   :block/updated-at 1653754381655}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
-  :block/updated-at 1653754381656}
+  :block/updated-at 1653759278493}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
  {:block/name "2022/q3",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
- {:block/name "2022_05_14 2",
-  :block/created-at 1652711281465,
-  :block/updated-at 1652711281465}
  {:block/name "30 day diagnosis",
   :block/created-at 1649373275694,
   :block/updated-at 1649373275694}
@@ -986,9 +974,6 @@
  {:block/name "[subscriber data warehouse",
   :block/created-at 1649773647717,
   :block/updated-at 1649773647717}
- {:block/name "[writing",
-  :block/created-at 1649373276154,
-  :block/updated-at 1649373276154}
  {:block/name "_0 dayplan",
   :block/created-at 1649373269270,
   :block/updated-at 1649373269270}
@@ -1156,9 +1141,6 @@
  {:block/name "anomaly detection",
   :block/created-at 1652554048459,
   :block/updated-at 1652554048459}
- {:block/name "another system diagram - today 1.pdf",
-  :block/created-at 1653758754103,
-  :block/updated-at 1653758754103}
  {:block/name "apache superset",
   :block/created-at 1649373274881,
   :block/updated-at 1649373274881}
@@ -2076,9 +2058,6 @@
  {:block/name "foundational data",
   :block/created-at 1649773649486,
   :block/updated-at 1649773649486}
- {:block/name "foundational data engineer hiring",
-  :block/created-at 1653758730926,
-  :block/updated-at 1653758730926}
  {:block/name "fred turner",
   :block/created-at 1649591859948,
   :block/updated-at 1649591859948}
@@ -2339,7 +2318,7 @@
   :block/updated-at 1649773779785}
  {:block/name "inquirer welcome letter",
   :block/created-at 1649373268427,
-  :block/updated-at 1649373268427}
+  :block/updated-at 1653759399474}
  {:block/name "inquirer welcome letter_30 60 90-day expectations",
   :block/created-at 1649373282654,
   :block/updated-at 1649373282654}
@@ -2699,10 +2678,13 @@
   :block/updated-at 1649773781180}
  {:block/name "logseq",
   :block/created-at 1649687194529,
-  :block/updated-at 1652121819920}
+  :block/updated-at 1653758879460}
  {:block/name "logseq office hours: building processes with queries",
   :block/created-at 1653757161019,
   :block/updated-at 1653757161019}
+ {:block/name "logseq/smart blocks",
+  :block/created-at 1653758879458,
+  :block/updated-at 1653758879458}
  {:block/name "logseq/templates",
   :block/created-at 1652121287210,
   :block/updated-at 1652197228205}
@@ -2832,9 +2814,6 @@
  {:block/name "meeting/1:1",
   :block/created-at 1652120173353,
   :block/updated-at 1652120173353}
- {:block/name "meeting/[[1]]:[[1]]",
-  :block/created-at 1653758736062,
-  :block/updated-at 1653758736062}
  {:block/name "meeting/agile",
   :block/created-at 1652108908540,
   :block/updated-at 1652108908540}
@@ -2868,9 +2847,6 @@
  {:block/name "metrics that matter",
   :block/created-at 1649373276154,
   :block/updated-at 1649770330041}
- {:block/name "metrics-that-matter]",
-  :block/created-at 1649373276154,
-  :block/updated-at 1649373276154}
  {:block/name "mgg",
   :block/created-at 1649591837019,
   :block/updated-at 1649591837019}
@@ -2952,18 +2928,6 @@
  {:block/name "netflix technology blog",
   :block/created-at 1649591851902,
   :block/updated-at 1649591851902}
- {:block/name "new page: 2022",
-  :block/created-at 1653758715220,
-  :block/updated-at 1653758715220}
- {:block/name "new page: data infras",
-  :block/created-at 1653758752422,
-  :block/updated-at 1653758752422}
- {:block/name "new page: documenting",
-  :block/created-at 1653758723325,
-  :block/updated-at 1653758723325}
- {:block/name "new page: template",
-  :block/created-at 1652192598525,
-  :block/updated-at 1652192598525}
  {:block/name "new york state attorney general",
   :block/created-at 1649373244716,
   :block/updated-at 1649373244716}
@@ -3074,7 +3038,7 @@
   :block/updated-at 1649373268966}
  {:block/name "outcome mapping for metrics that matter",
   :block/created-at 1649373276153,
-  :block/updated-at 1651584637140}
+  :block/updated-at 1653759365308}
  {:block/name "outcome mapping for metrics that matter_^nnvvws",
   :block/created-at 1649373276152,
   :block/updated-at 1649373276152}
@@ -3635,9 +3599,6 @@
  {:block/name "shyam deolaliker",
   :block/created-at 1649854973482,
   :block/updated-at 1649854973482}
- {:block/name "smart blocks",
-  :block/created-at 1652121802427,
-  :block/updated-at 1652121802427}
  {:block/name "snipd",
   :block/created-at 1649373247200,
   :block/updated-at 1649373247200}
@@ -3720,12 +3681,9 @@
   "subscriber data warehouse_pre-kickoff risks and concerns",
   :block/created-at 1649773783063,
   :block/updated-at 1649773783063}
- {:block/name "subscriber lifecycle journey project",
-  :block/created-at 1649773786653,
-  :block/updated-at 1649773786653}
  {:block/name "subscriber lifecycle project",
   :block/created-at 1647956141485,
-  :block/updated-at 1647956141485}
+  :block/updated-at 1653759251223}
  {:block/name "subscriber marketing",
   :block/created-at 1649854626559,
   :block/updated-at 1649854698377}
