@@ -84,8 +84,9 @@
 					- ...
 					- ...
 		- Pros and Cons
-		  procons #.v-kanban
+		  Pros and Cons #.v-kanban
 		  template:: procons
+		  template-including-parent:: True
 			- #like
 				-
 			- #dislike
