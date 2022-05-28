@@ -1,28 +1,26 @@
 # Computer
-- Homebrew
-  collapsed:: true
-	- cask
-		- gcloud
-		- visual-studio-code
+	- Homebrew
+	  collapsed:: true
+		- cask
+			- gcloud
+			- visual-studio-code
 - VSCode
 - Docker
 - `pipx install dbt-bigquery --install-deps`
 # Data Science
 ## DS Environment:
-- [pipx](https://github.com/pypa/pipx)
-  collapsed:: true
-	- pipx: [cookiecutter](https://github.com/cookiecutter/cookiecutter)
-	- https://pipenv.pypa.io/en/latest/
+	- [pipx](https://github.com/pypa/pipx)
+	  collapsed:: true
+		- pipx: [cookiecutter](https://github.com/cookiecutter/cookiecutter)
+		- https://pipenv.pypa.io/en/latest/
 ## Guidance
 - Science Box principles
 - [Creating a solid data science development environment](https://towardsdatascience.com/creating-a-solid-data-science-development-environment-60df14ce3a34)
 - [Building a reproducible data science environment with Nix](https://josephsdavid.github.io/nix.html)
 - [Ten Simple Rules for writing dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
 - [Cookiecutter Modern Data Science](https://github.com/crmne/cookiecutter-modern-datascience)
-# Systems
-
-^1bc4a5
-- [x] Google Workspace (gmail/drive)
+- # Systems
+  [x] Google Workspace (gmail/drive)
 - [x] Slack
 - [x] Confluence (awaiting approval)
 # Sciencebox 2
