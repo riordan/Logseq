@@ -79,9 +79,9 @@
 				- HIGH COST VENDOR. Currently 100k/yr. [[Toan Dang]] Want to replace in 2025.
 					- [ ] #task Plan for stable person ID and deprecation of Auth0 ⏫
 			- [[Piano]] - Metering
-				- overlap with piano, bluekonik, wunderkind, mather
-				-
+				- overlap with piano, [[blueconic]], wunderkind, [[Mather]]
 			- Salesforce Service portal: Definition of a unique person
+				- Manage subscriptions, support faq
 - Our needs: Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
 - Challenges:
 	- Lots of web data collection
