@@ -217,5 +217,6 @@
  :quick-capture-templates
  {:text "[[quick capture]] **{time}**: \n - {text} from {url}"
   :media "[[quick capture]] **{time}**: \n - {url}"}
+ :ui/show-brackets? false
  
  }
