@@ -2,7 +2,7 @@
 
 # Resources:
 	- ## System Diagrams
-		- ![[Inquirer Architecture Diagram - 2020.pdf]]
+		- ![Inquirer Architecture Diagram - 2020 (1).pdf](../../assets/Inquirer_Architecture_Diagram_-_2020_(1)_1653753907535_0.pdf)
 		- ![Another System Diagram - Today (1).pdf](../../assets/Another_System_Diagram_-_Today_(1)_1653753884366_0.pdf)
 # Notes
 - ## Inquirer Engineering Systems Overview with [[Toan Dang]]
