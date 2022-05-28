@@ -1,5 +1,6 @@
 ---
-aliases: [Data Team]
+aliases: 
 ---
+
 # Hiring #hiring
 [[Hiring]]
