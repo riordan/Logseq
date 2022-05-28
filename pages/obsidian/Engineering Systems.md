@@ -92,11 +92,11 @@
 			- Integration of Experimentation and data. Our tool sucks for usability so it doesn't get used.
 			- Lots of privacy requests, Need to delete from transactional data systems, but can't
 			- Lots of data, going to lots of places, without much thought, leading to lots of risk of governance
-			  Informatica:
-- Integration between print publication (DSI) and Salesforce is done by Informatica
-- Pulls data from Salesforce -> BQ
-- Informatica will continue to be used to sync DSI -> Salesforce. DSI will continue to be operational.
-- a few things in informatica to ship data to Mather.
+				- [[Informatica]] :
+					- Integration between print publication ([[DSI]]) and Salesforce is done by Informatica
+					- Pulls data from Salesforce -> BQ
+					- Informatica will continue to be used to sync DSI -> Salesforce. DSI will continue to be operational.
+					- a few things in informatica to ship data to Mather.
 - Action Items:
 - [ ] #task meet with mather to learn about them
 - [ ] #task Eventual need for a data collection & data flow diagram
