@@ -19,6 +19,7 @@ alias: Data and Insights, Data and Insights Department
 		- Providing essential insights for the future of the Philadelphia Inquirer by providing research and infrastructure that leads to speed and agility in our decision-making over time.
 	- ### Principles
 ## Prioritization
+id:: 626fca95-3b59-44a1-b723-fc9df7812c5b
 	- ### Prioritization Framework
 	  1. Company Mission, Vision, North Star
 	  2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
