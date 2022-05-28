@@ -10,7 +10,7 @@ title:: 2022/Memorial Day Weekend
 	- Review the ((62925c9b-0e87-4130-9906-6660f05c3fe9))
 - Things You've Been Meaning to do:
 	- Finish writing [DSI Deprecation RFC](https://docs.google.com/document/d/1tc9SYMbwR1QBo81V2K9wl1HOW2QMBnPnaM21izQmt0Y/edit?usp=sharing)
-	- [[Development Planning]]: [Learning & Growth]
+	- Write the [[Development Planning]]: [Learning & Growth Approach](https://inquirer.atlassian.net/wiki/spaces/DATAINSIGHTS/pages/1953824802/Learning+Growth)
 	  id:: 62926633-a2a7-4fbe-8f02-9053afdd19ba
 	- Finish writing [[Incident Management]] [RFC](https://docs.google.com/document/d/1MTFScPfLHSxzx2TFBuIbHpSQsVC6exIMtG0kZBV93tY/edit#)
 	- [[Last Mile Project]] Schema in BigQuery & writeup of Excel [[Bigquery]] Process
