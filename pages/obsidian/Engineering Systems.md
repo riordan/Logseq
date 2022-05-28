@@ -22,7 +22,6 @@
 			- Martech applications captured mostly through FE GA Events
 			- Nothing really captured on the Advertising side, but do capture some of our own FB Ad Data, Google Ads, raw commenting data via Forua, Auth0, some SF, Salesforce, Eventbrite
 		- Site data dollection
-		  collapsed:: true
 			- GA
 			- Chartbeat
 			- [[Mather]] - Major #vendor
@@ -74,17 +73,17 @@
 						- We are ingesting the data from Viafoura
 							- batch nightly
 							- [x] #task Let Becky know we have the Viafoura commenting data available ✅ 2022-01-12
-- Marketing:
-	- Auth0: Signin: email + social sign in
-		- Definition of a unique person.
-			- also includes their social sign on.
-			- Big use for reporting; lets us join GA data to email data
-		- HIGH COST VENDOR. Currently 100k Want to replace in 2025.
-			- [ ] #task Plan for stable person ID and deprecation of Auth0 ⏫
-	- Piano - Metering
-		- overlap with piano, bluekonik, wunderkind, mather
-		-
-	- Salesforce Service portal: Definition of a unique person
+			- Marketing:
+				- Auth0: Signin: email + social sign in
+					- Definition of a unique person.
+						- also includes their social sign on.
+						- Big use for reporting; lets us join GA data to email data
+					- HIGH COST VENDOR. Currently 100k Want to replace in 2025.
+						- [ ] #task Plan for stable person ID and deprecation of Auth0 ⏫
+				- Piano - Metering
+					- overlap with piano, bluekonik, wunderkind, mather
+					-
+				- Salesforce Service portal: Definition of a unique person
 - Our needs: Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
 - Challenges:
 	- Lots of web data collection
