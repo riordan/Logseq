@@ -97,7 +97,7 @@
 					- Pulls data from Salesforce -> BQ
 					- Informatica will continue to be used to sync DSI -> Salesforce. DSI will continue to be operational.
 					- a few things in informatica to ship data to Mather.
-- Action Items:
-	- DONE meet with mather to learn about them
-	- LATER Eventual need for a data collection & data flow diagram
+	- Action Items:
+		- DONE meet with mather to learn about them
+		- LATER Eventual need for a data collection & data flow diagram
 ## Overview Part Two

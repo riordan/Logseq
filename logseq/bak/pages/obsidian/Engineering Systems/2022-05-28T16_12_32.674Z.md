@@ -1,0 +1,116 @@
+
+# Resources:
+## System Diagrams
+![[Inquirer Architecture Diagram - 2020.pdf]]
+![[Another System Diagram - Today.pdf]]
+
+
+# Notes
+## [[2021-12-16#Inquirer Engineering Systems Overview]] with [[Toan Dang]]
+![[Another System Diagram - Today 1.pdf]]
+
+SYSTEMS:
+- WebSked = scheduling for newsroom. Assigning stories alongside story budget
+	- who's reporter, who's photographer
+	- Used for pitching for front page or sections (both for site and physical paper)
+		- some exceptions (e.g. sports in print paper) but mostly used for print and digital
+- Naviga: print side
+	- Naviga DSI - distribution circulation and subscription system.
+		- legacy DB. Still used to export daily print distribution list
+- Some things from these systems moved to data warehouse
+	- principally GA data & firebase
+	- Capture BlueConic
+	- Martech applications captured mostly through FE GA Events
+	- Nothing really captured on the Advertising side, but do capture some of our own FB Ad Data, Google Ads, raw commenting data via Forua, Auth0, some SF, Salesforce, Eventbrite
+- Site data dollection
+	- GA
+	- Chartbeat
+	- [[Mather]] - Major #vendor
+		- Economics consultant for pricing
+		- Marketing team uses them as data science capability
+		- Lot of overlap with what we're collecting on the listener side
+			- we have to support it
+			- Starting to explore Google Ad Tag Manager Serverside
+				- one tag collects data on your site, then can reshape it for Mather
+		- provide their own churn model
+		- [ ] #task Meet [[Mather]] Econometrics #vendor 🔼
+	- Comscore
+		- Necessary evil
+		- Just upgraded to a higer quality peer feedback data
+	- Optimize: AB Testing tool
+		- tightly integrated with GA
+		- Been too filled with friction to do good experiment design for Product / Engineering teams
+		- Data needs in conflict with eng/product usability / experiment design needs
+	- OneTrust - CCPA compliance (GeoIPed to California)
+		- We get a lot of CCPA requests, which we can't do
+		- Nobody told Mark CCPA compliance and audits were his job
+		- **we have never resourced #governance nor compliance here and have huge issues around governance and compliance as a result**
+	- BlueConic: Customer Data Platform
+		- 
+		- "Resolve user identity" - Tracks user behavior in a customer focused model.
+			- Collects on frontend AND backend
+		- Should be able to drive customer behavior 
+			- "give me users who've read sports articles in the last 30 days" and can export that to Marketing Cloud
+		- Super JS based; doesn't work well with AMP
+		- Implemented in an ad-hoc way, so not piped in with unified definitions or source-true definitions
+		- 
+	- Wunderkind (formerly BounceX) - marketing integration. Used for driving newsletter signup.
+		-  Could all be done in BlueConic. 
+	- Brown Institute has a Snowplow Analytics (self-hosted analytics).
+		- Potential recommendation engine tool. Talk to [[Todd Gillespe]]. Related to Feeds
+	- Ad Tracking: We haven't been involved in their work
+		- Just in the beginning stages of partnering with them.
+			- Some opportunities to support with data warehouse
+				- Ads Group would be a good customer group for [[Data Platform]] / [[Data Warehouse]]. Think of them as a key 
+		- Sources:
+			- Google Ad Manager:
+				- tools suck, we created ourselves and are no longer paying some consultants.
+				- We want to warehouse and optimize our work for them. 
+			- LiveIntent (new): Newsletters & news alerts
+	- Commenting:
+		- Viafoura - Commenting platform
+			- disabled year and a half ago except for sports
+			- Track FE events (comments) and have raw commenting data of individual users; so could use in segmentation
+				- We are ingesting the data from Viafoura
+					- batch nightly
+					- [x] #task Let Becky know we have the Viafoura commenting data available ✅ 2022-01-12
+- Marketing:
+	- Auth0: Signin: email + social sign in
+		- Definition of a unique person.
+			- also includes their social sign on.
+			- Big use for reporting; lets us join GA data to email data
+		- HIGH COST VENDOR. Currently 100k Want to replace in 2025.
+			- [ ] #task Plan for stable person ID and deprecation of Auth0 ⏫
+	- Piano - Metering
+		- overlap with piano, bluekonik, wunderkind, mather
+		- 
+	- Salesforce Service portal: Definition of a unique person
+- Our needs: Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
+- Challenges:
+	- Lots of web data collection
+		-  Many trackers on our site for lots of vendors
+			-  we don't control a lot of them
+			-  would want to reshape them and send parallel tags
+				-  Google serverside ad tag manager
+		- Had been part of First Party Data efforts initially
+			- lots of the folks involved have left (adsales lead, )
+		- 
+	- Integration of Experimentation and data. Our tool sucks for usability so it doesn't get used.
+	- Lots of privacy requests, Need to delete from transactional data systems, but can't
+	- Lots of data, going to lots of places, without much thought, leading to lots of risk of governance
+
+Informatica:
+- Integration between print publication (DSI) and Salesforce is done by Informatica
+- Pulls data from Salesforce -> BQ
+- Informatica will continue to be used to sync DSI -> Salesforce. DSI will continue to be operational.
+- a few things in informatica to ship data to Mather.
+- 
+
+Action Items:
+- [ ] #task meet with mather to learn about them
+- [ ] #task Eventual need for a data collection & data flow diagram
+
+
+
+## Overview Part Two
+
