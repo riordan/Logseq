@@ -24,7 +24,7 @@
  ;; Default is true, you can also toggle this via setting page
  :ui/enable-tooltip? true
 
- :feature/enable-block-timestamps? false
+ :feature/enable-block-timestamps? true
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
