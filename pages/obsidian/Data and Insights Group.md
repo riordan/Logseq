@@ -22,12 +22,11 @@ alias: Data and Insights, Data and Insights Department
 	- ### Mission
 	- ### Principles
 ## Prioritization
-### Prioritization Framework
-1. Company Mission, Vision, North Star
-2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
-3. We assist in The Inquirer's annual goals and
+	- ### Prioritization Framework
+	  1. Company Mission, Vision, North Star
+	  2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
+	  3. We assist in The Inquirer's annual goals and
 ## Roadmap
 ## 2022 Planning
-### OKRs
-
-![[Data and Insights 2022 OKRs]]
+	- ### OKRs
+	  {{embed [[Data and Insights 2022 OKRs]] }}
