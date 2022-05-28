@@ -1,3 +1,3 @@
 title:: kb/asset
 
-- Assets are things
+- Assets are things you maintain or use. These pages are where y
