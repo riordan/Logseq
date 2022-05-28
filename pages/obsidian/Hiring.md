@@ -3,6 +3,7 @@ tags:  leadwork
 aliases: Data Engineer Hiring
 ---
 
+-
 - ## [[2022/Q1]] Data Engineer Hiring
 	- Hiring for 2x data engineers for team.
 	- [📝 Coordination Doc](https://docs.google.com/document/d/1khni3ItgwzlzfhZrZ4ftyBXBFk4fjKM02-NGVBC8aCI/edit#)
@@ -29,6 +30,7 @@ aliases: Data Engineer Hiring
 					- realtime spark structured streaming for IOT device monitoring in real world lab
 			- Next steps yes
 		- ### Nikhil Patel
+		  collapsed:: true
 			- burlington coat factory
 				- moving from oracle to Azure
 					- writing ETLS bringing data from oracle -> Snowflake -> Informatica (transformations) -> data lake -> DS BI reports
