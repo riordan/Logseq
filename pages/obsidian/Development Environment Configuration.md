@@ -26,6 +26,7 @@
 		- [x] Slack
 		- [x] Confluence (awaiting approval)
 - ## Sciencebox 2
+  id:: 626fca95-0ae4-4e84-ac6c-468be973c979
 	- ## Attributes:
 	  collapsed:: true
 		- Batteries-included Python Datascience environment
