@@ -1,10 +1,10 @@
 ---
-tags: inquirer/teams
+tags: inquirer/teams, kb/hub
 alias: Data and Insights, Data and Insights Department
 ---
 
-	- ## Group Overview
-		- Data and Insights is part of the [[Product and Operations Group]] and contains the [[Analytics Team]] and [[Data Engineering Group]]. It is overseen by YOU!
+- ## Group Overview
+	- Data and Insights is part of the [[Product and Operations Group]] and contains the [[Analytics Team]] and [[Data Engineering Group]]. It is overseen by YOU!
 	- #epic Group Needs:
 	  1. [ ] [[#Principles]]
 	  2. [ ] [[#Prioritization Framework]]
