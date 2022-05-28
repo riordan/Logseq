@@ -5,9 +5,11 @@ aliases: Data Engineer Hiring
 
 - {{renderer :kanban_pkvbfam}}
 	- Upcoming
-		-
+		- [[Data PM]]
 	- Current
 	- Previous
+		-
+		- [[Hiring/Sr. Marketing Analyst]]
 - ## [[2022/Q1]] Data Engineer Hiring
 	- Hiring for 2x data engineers for team.
 	- [📝 Coordination Doc](https://docs.google.com/document/d/1khni3ItgwzlzfhZrZ4ftyBXBFk4fjKM02-NGVBC8aCI/edit#)
