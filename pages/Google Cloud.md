@@ -7,3 +7,4 @@ tags: [[kb/asset]] , [[Data Infrastructure]]
 	- [[BigQuery]]
 	- [[Google Cloud Storage]]
 	-
+	-
