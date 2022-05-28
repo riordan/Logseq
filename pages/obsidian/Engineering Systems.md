@@ -7,7 +7,7 @@
 # Notes
 - ## Inquirer Engineering Systems Overview with [[Toan Dang]]
   date:: [[2021-12-16]]
-	- ![[Another System Diagram - Today 1.pdf]]
+	- [[Another System Diagram - Today 1.pdf]]
 	  
 	  SYSTEMS:
 - WebSked = scheduling for newsroom. Assigning stories alongside story budget
