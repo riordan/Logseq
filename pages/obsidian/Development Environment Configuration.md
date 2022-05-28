@@ -10,7 +10,6 @@
 # Data Science
 	- ## DS Environment:
 		- [pipx](https://github.com/pypa/pipx)
-		  collapsed:: true
 			- pipx: [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 			- https://pipenv.pypa.io/en/latest/
 	- ## Guidance
@@ -19,10 +18,10 @@
 			- [Building a reproducible data science environment with Nix](https://josephsdavid.github.io/nix.html)
 			- [Ten Simple Rules for writing dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
 			- [Cookiecutter Modern Data Science](https://github.com/crmne/cookiecutter-modern-datascience)
-- # Systems
-  [x] Google Workspace (gmail/drive)
-- [x] Slack
-- [x] Confluence (awaiting approval)
+	- # Systems
+	  [x] Google Workspace (gmail/drive)
+	- [x] Slack
+	- [x] Confluence (awaiting approval)
 # Sciencebox 2
 ## Attributes:
 - Batteries-included Python Datascience environment
