@@ -1,5 +1,5 @@
 ---
-tags: kb/asset, 
+tags: kb/asset, [[Data Infrastructure]] 
 ---
 
 - ## Overview:
