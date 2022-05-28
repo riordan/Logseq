@@ -1,5 +1,5 @@
 ---
-tags: inquirer, inquirer/hr
+tags: inquirer, inquirer/hr, leadwork
 alias: Performance Goals
 omnifocus: omnifocus:///task/mxZzQ2Hw18q
 ---
