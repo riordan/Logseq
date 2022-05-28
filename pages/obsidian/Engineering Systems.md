@@ -21,8 +21,8 @@
 			- Capture BlueConic
 			- Martech applications captured mostly through FE GA Events
 			- Nothing really captured on the Advertising side, but do capture some of our own FB Ad Data, Google Ads, raw commenting data via Forua, Auth0, some SF, Salesforce, Eventbrite
-		- Site Data Collection ()
-			- GA
+		- Site Data Collection ( #Instrumentation )
+			- [[Google Analytics]]
 			- Chartbeat
 			- [[Mather]] - Major #vendor
 				- Economics consultant for pricing
