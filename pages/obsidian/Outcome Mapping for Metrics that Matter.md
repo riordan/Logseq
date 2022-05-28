@@ -1,5 +1,5 @@
 ---
-tags: [[writing]]
+tags: [[writing]], [[status/dropped]] 
 ---
 
 - Part of: [[Metrics That Matter]]
