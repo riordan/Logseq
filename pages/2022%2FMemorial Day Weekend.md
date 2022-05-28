@@ -6,7 +6,7 @@ title:: 2022/Memorial Day Weekend
 	  date:: [[2022/05/27]]
 	- Saturday
 	  date:: [[2022/05/28]]
-		- ((6292317f-779e-4025-857c-74c59be65a2a))
+		- ((6292339a-dc62-49a7-86b9-999cc5156444))
 	- Sunday
 	  date:: [[2022/05/29]]
 	- Monday
