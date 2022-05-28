@@ -12,9 +12,10 @@ alias: Data and Insights, Data and Insights Department
 		  4. [ ] [[#Mission]]
 		  5. [ ] Training Plan
 - ## Portfolio
+	- Leader: [[VP of Data and Insights]]
 	- Teams:
-		- [[Analytics Team]]
-		- [[Data Engineering Group]]
+		- [[Analytics Team]] - Leader: [[Mark Loomis]]
+		- [[Data Engineering Group]] - Leader: [[Brian Waligorski]]
 	- **Offerings:**
 		- **Products**
 		- **Services**
