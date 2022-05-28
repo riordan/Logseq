@@ -1,6 +1,6 @@
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
-	- Organization
+	- Journal Organization
 		- [[Weekly Review]]
 		  template:: Weekly Review
 		  collapsed:: true
@@ -29,9 +29,9 @@
 			- Open issues:
 			-
 		- [[Daily Notes]]
+		  collapsed:: true
 		  template:: daily
 		  template-including-parent:: false
-		  collapsed:: true
 			- Setup
 				- DONE Insert Today's Notebook Setup Checklist
 				- TODO INSERT Journaling Habit
@@ -45,17 +45,19 @@
 				- What did you learn today?
 				- What do you want to do tomorrow?
 			- ## Scratch
-	- template:: 🚥 Kanban
-		- **Board name:** #kanban
-			- [[🟢 low]]
-			  			{{renderer :todomaster}}
-				- ...
-				- ...
-			- [[🟡 normal]]
-			  			{{renderer :todomaster}}
-				- ...
-				- ...
-			- [[🔴 high]]
-			  			{{renderer :todomaster}}
-				- ...
-				- ...
+	- Productivity Tools
+		-
+		- template:: 🚥 Kanban
+			- **Board name:** #kanban
+				- [[🟢 low]]
+				  			{{renderer :todomaster}}
+					- ...
+					- ...
+				- [[🟡 normal]]
+				  			{{renderer :todomaster}}
+					- ...
+					- ...
+				- [[🔴 high]]
+				  			{{renderer :todomaster}}
+					- ...
+					- ...
