@@ -6,4 +6,4 @@ tags: [[inquirer/colleague]] , [[Product Manager]]
 
 -
 - [[Product Manager]] on [[Inkforce Squad]].
-- Expert in
+- Expert in data integrations and [[business rules]]
