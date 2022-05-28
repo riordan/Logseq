@@ -4,4 +4,4 @@ tags: [[kb/hub]], [[Data Infrastructure]]
 ---
 
 - ## Overview
-	- Analytics Database [[Data Warehouse]]
+	- Analytic database serving as the  [[Data Warehouse]]
