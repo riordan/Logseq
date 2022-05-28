@@ -1,0 +1,3 @@
+---
+alias: Google Cloud Storage
+---
