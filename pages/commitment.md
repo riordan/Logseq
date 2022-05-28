@@ -1,3 +1,3 @@
-- {{query #commitment}}
+- {{query "}}
   query-table:: true
 -
