@@ -1,1 +1,1 @@
-- About: Th
+- About: This page can be the hub where you reflect and refine what matters for your job and career growth.
