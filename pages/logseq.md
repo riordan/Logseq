@@ -39,9 +39,10 @@ status: active
 	-
 	- ## System Configuration
 		- Date mode: yyyy/MM/dd
-- ## ((62379de4-41e2-4162-a949-7c47aee31942))
-	- All templates are managed at [[logseq/templates]].
-	- Some use [[Logseq/Smart Blocks]]
+	- ## ((62379de4-41e2-4162-a949-7c47aee31942))
+		- All templates are managed at [[logseq/templates]].
+		- Some use [[Logseq/Smart Blocks]]
+	- ### Knowledge Base ([])
 - ## Queries
 	- Queries allow the building of structured data retrieval and searches making Logseq more functional.
 	- ### How to write Logseq Queries
