@@ -5,7 +5,7 @@ title:: 2022/Memorial Day Weekend
 	- Organize your Omnifocus
 	- Climb 2x
 	- Off Leash Zelda
-	- ((626fca95-2ced-4543-b733-7d1943afb463))
+	- ((629226e9-f589-419e-b953-585f29a0c4e4))
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
