@@ -80,21 +80,19 @@
 				- overlap with piano, [[blueconic]], wunderkind, [[Mather]]
 			- Salesforce Service portal: Definition of a unique person
 				- Manage subscriptions, support faq
-	- The Inquirer's data  (at a high level): Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
-- Challenges:
-	- Lots of web data collection
-		- Many trackers on our site for lots of vendors
-			- we don't control a lot of them
-			- would want to reshape them and send parallel tags
-				- Google serverside ad tag manager
-		- Had been part of First Party Data efforts initially
-			- lots of the folks involved have left (adsales lead, )
-		-
-	- Integration of Experimentation and data. Our tool sucks for usability so it doesn't get used.
-	- Lots of privacy requests, Need to delete from transactional data systems, but can't
-	- Lots of data, going to lots of places, without much thought, leading to lots of risk of governance
-	  
-	  Informatica:
+	- The Inquirer's data #needs (at a high level): Split users into cohorts, deliver them the relevant experiences, and have access to the data of those users.
+		- Challenges:
+			- Lots of web data collection
+				- Many trackers on our site for lots of vendors
+					- we don't control a lot of them
+					- would want to reshape them and send parallel tags
+						- Google serverside ad tag manager
+				- Had been part of First Party Data efforts initially
+					- lots of the folks involved have left (adsales lead, )
+			- Integration of Experimentation and data. Our tool sucks for usability so it doesn't get used.
+			- Lots of privacy requests, Need to delete from transactional data systems, but can't
+			- Lots of data, going to lots of places, without much thought, leading to lots of risk of governance
+			  Informatica:
 - Integration between print publication (DSI) and Salesforce is done by Informatica
 - Pulls data from Salesforce -> BQ
 - Informatica will continue to be used to sync DSI -> Salesforce. DSI will continue to be operational.
