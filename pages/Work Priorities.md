@@ -13,6 +13,6 @@
 			  CLOCK: [2022-05-28 Sat 10:42:39]
 			  :END:
 			- #### TODO Assess where the company's most pressing needs are {{renderer :todomaster}}
-				-
+			- #### TODO Reaffirm what the next most important priorities for your teams are
 				-
 			-
