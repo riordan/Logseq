@@ -48,6 +48,6 @@
 	- ## Implementation:
 	  id:: 629226e9-f589-419e-b953-585f29a0c4e4
 		- Starting Infrastructure:
-			- Philadelphia Inquirer Google BigQuery database (Data Warehouse)
+			- Philadelphia Inquirer Google [[BigQuery]] database (Data Warehouse)
 				- [[inq-datawarehouse GCP project structure]]
-					-
+				-
