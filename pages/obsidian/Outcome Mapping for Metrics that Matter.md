@@ -1,8 +1,7 @@
----
-tags: [writing, metrics-that-matter]
----
-Part of: [[Metrics That Matter]]
-
+- ---
+  tags: 
+  ---
+  Part of: [[Metrics That Matter]]
 - # Why Do Metrics Matter?
   > The **mission** of the Metrics that Matter project is to **develop a set of metrics** that convey the **vital signs of the business** and measure the **progress of our digital transformation & strategic plan**.
   > 
