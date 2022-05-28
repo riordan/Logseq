@@ -1,7 +1,6 @@
 ---
 type: project
 status: active
-alias: Logseq
 ---
 
 - ## Structure
