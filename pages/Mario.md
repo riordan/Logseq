@@ -1,3 +1,3 @@
 - # Mario (Disambiguation)
 	- [[Mario Squad]]
-	-
+	- [[Mario (Reporting Server)]]
