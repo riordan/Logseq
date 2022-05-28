@@ -48,4 +48,4 @@
   	1. Python Runner will be a standalone docker base image / cookiecutter template for running data workflows on Airflow
 - ## Implementation:
 	- Starting Infrastructure:
-		-
+		- Philadelphia Inquirer Google BigQuery database (Data Warehouse)
