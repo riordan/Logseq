@@ -4,6 +4,12 @@
  {:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
+ {:block/name ".v-eisenhower-matrix",
+  :block/created-at 1653760204947,
+  :block/updated-at 1653760204947}
+ {:block/name ".v-kanban",
+  :block/created-at 1653760292902,
+  :block/updated-at 1653760292902}
  {:block/name "1969",
   :block/created-at 1649373234167,
   :block/updated-at 1649373234167}
@@ -892,7 +898,7 @@
   :block/updated-at 1653754381651}
  {:block/name "2022/05/28",
   :block/created-at 1653754381652,
-  :block/updated-at 1653754381652}
+  :block/updated-at 1653761096620}
  {:block/name "2022/05/29",
   :block/created-at 1653754381654,
   :block/updated-at 1653754381654}
@@ -929,6 +935,9 @@
  {:block/name "62919f59-c01e-47e2-81e7-9309d1744726",
   :block/created-at 1653754381653,
   :block/updated-at 1653754381653}
+ {:block/name "629262da-f65f-4873-ba3c-297e6e6cfeea",
+  :block/created-at 1653760810740,
+  :block/updated-at 1653760810740}
  {:block/name "802f514b-5e0d-4214-ac56-9e77dcf119fe.png",
   :block/created-at 1649773649150,
   :block/updated-at 1649773649150}
@@ -1917,6 +1926,9 @@
  {:block/name "dc9ca433-e0ff-4e32-8b51-1ae3f971af11.jpeg",
   :block/created-at 1649773648970,
   :block/updated-at 1649773648970}
+ {:block/name "decide",
+  :block/created-at 1653760204951,
+  :block/updated-at 1653760204951}
  {:block/name "decision",
   :block/created-at 1649773784449,
   :block/updated-at 1649773784449}
@@ -1926,6 +1938,9 @@
  {:block/name "dei",
   :block/created-at 1649773648985,
   :block/updated-at 1649773648985}
+ {:block/name "delegate",
+  :block/created-at 1653760204952,
+  :block/updated-at 1653760204952}
  {:block/name "development environment configuration",
   :block/created-at 1649373275287,
   :block/updated-at 1649373275287}
@@ -1959,6 +1974,9 @@
  {:block/name "discard",
   :block/created-at 1649373234159,
   :block/updated-at 1649373234159}
+ {:block/name "dislike",
+  :block/created-at 1653760292903,
+  :block/updated-at 1653760292903}
  {:block/name "dithering",
   :block/created-at 1649591860614,
   :block/updated-at 1649591860614}
@@ -1998,6 +2016,9 @@
  {:block/name "eitan hersh",
   :block/created-at 1649373275788,
   :block/updated-at 1649373275788}
+ {:block/name "eliminate",
+  :block/created-at 1653760204952,
+  :block/updated-at 1653760204952}
  {:block/name "elixir",
   :block/created-at 1649373273374,
   :block/updated-at 1649373273374}
@@ -2288,7 +2309,7 @@
   :block/updated-at 1649373270135}
  {:block/name "inquirer engineering",
   :block/created-at 1653754381836,
-  :block/updated-at 1653754381836}
+  :block/updated-at 1653761057875}
  {:block/name "inquirer hypotheses",
   :block/created-at 1649373274154,
   :block/updated-at 1649373274154}
@@ -2576,7 +2597,7 @@
   :block/updated-at 1647826706276}
  {:block/name "kb",
   :block/created-at 1653754381704,
-  :block/updated-at 1653754381704}
+  :block/updated-at 1653760753931}
  {:block/name "kb/asset",
   :block/created-at 1653754381819,
   :block/updated-at 1653754381819}
@@ -2649,6 +2670,9 @@
  {:block/name "lewis c. lin",
   :block/created-at 1649373242751,
   :block/updated-at 1649373242751}
+ {:block/name "like",
+  :block/created-at 1653760292903,
+  :block/updated-at 1653760292903}
  {:block/name "liked",
   :block/created-at 1649591846556,
   :block/updated-at 1649591846556}
@@ -2678,7 +2702,7 @@
   :block/updated-at 1649773781180}
  {:block/name "logseq",
   :block/created-at 1649687194529,
-  :block/updated-at 1653758879460}
+  :block/updated-at 1653760810740}
  {:block/name "logseq office hours: building processes with queries",
   :block/created-at 1653757161019,
   :block/updated-at 1653757161019}
@@ -2687,7 +2711,7 @@
   :block/updated-at 1653758879458}
  {:block/name "logseq/templates",
   :block/created-at 1652121287210,
-  :block/updated-at 1652197228205}
+  :block/updated-at 1653760595442}
  {:block/name "loomis",
   :block/created-at 1649855354030,
   :block/updated-at 1649855354030}

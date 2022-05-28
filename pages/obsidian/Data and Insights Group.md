@@ -20,8 +20,8 @@ Data and Insights is part of the [[Product and Operations Group]] and contains t
 		- **Products**
 		- **Services**
 ## Foundation
-### Mission
-### Principles
+	- ### Mission
+	- ### Principles
 ## Prioritization
 ### Prioritization Framework
 1. Company Mission, Vision, North Star
