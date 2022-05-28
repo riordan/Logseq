@@ -76,7 +76,7 @@
 				- Definition of a unique person.
 					- also includes their social sign on.
 					- Big use for reporting; lets us join GA data to email data
-				- HIGH COST VENDOR. Currently 100k Want to replace in 2025.
+				- HIGH COST VENDOR. Currently 100k/yr. [[Toan Dang]] Want to replace in 2025.
 					- [ ] #task Plan for stable person ID and deprecation of Auth0 ⏫
 			- [[Piano]] - Metering
 				- overlap with piano, bluekonik, wunderkind, mather
