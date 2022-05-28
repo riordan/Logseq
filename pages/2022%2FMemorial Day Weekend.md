@@ -22,7 +22,8 @@ title:: 2022/Memorial Day Weekend
 	- Submit [[Permutive]] [Onboarding Survey](https://docs.google.com/document/d/1saLop9ihnJ16ozIyc1SwimklkDREBnuaIs6r6O6QdZw/edit?usp=sharing)
 	- Confirm time to talk to [[Lauren Kauffman]]  from [[inquirer/hr]] about [[Performance Reviews]]
 	- Data Product Lifecycle Framework
-	-
+	- Research, Reports, and Dashboards Database
+	- Data
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
