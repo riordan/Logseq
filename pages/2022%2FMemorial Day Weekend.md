@@ -21,6 +21,8 @@ title:: 2022/Memorial Day Weekend
 	- [[Last Mile Project]] Schema in BigQuery & writeup of Excel [[Bigquery]] Process
 	- Submit [[Permutive]] [Onboarding Survey](https://docs.google.com/document/d/1saLop9ihnJ16ozIyc1SwimklkDREBnuaIs6r6O6QdZw/edit?usp=sharing)
 	- Confirm time to talk to [[Lauren Kauffman]]  from [[inquirer/hr]] about [[Performance Reviews]]
+	- Data Product Lifecycle Framework
+	-
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
