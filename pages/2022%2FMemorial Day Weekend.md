@@ -18,6 +18,7 @@ title:: 2022/Memorial Day Weekend
 	- Confirm time to talk to [[inquirer/hr]] about [[Performance Reviews]]
 	-
 	-
+	-
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
