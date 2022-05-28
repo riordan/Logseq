@@ -17,5 +17,5 @@
 		- ### Make a roadmap
 		- ### Accelerating Tools
 		- ### Capture a [[Theory of Change]]
-			- Clearly articulate the mechanisms your team will take so  what it can do to help The Inquirer achieve its mission.
+			- Clearly articulate the mechanisms your team will take so it can help The Inquirer achieve its mission of journalism to improve the lives of Philadelphians.
 			-
