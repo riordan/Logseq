@@ -1,7 +1,10 @@
 title:: 2022/Memorial Day Weekend
 
 - A Long Working Weekend: a weekend alone to focus on myself and my work.
-- Things to do
+- JTBD:
+	- Organize your Omnifocus
+	- Climb
+	-
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
