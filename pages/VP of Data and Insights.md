@@ -8,5 +8,6 @@ title: VP of Data and Insights
 - See: [[Inquirer Welcome Letter]]
 - ## Lead Work:
 	- [[Performance Management]]
-	- {{query }}
+	- [[Hiring]]
+	- [[Development Planning]]
 	-
