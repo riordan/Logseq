@@ -21,7 +21,7 @@
 			- Capture BlueConic
 			- Martech applications captured mostly through FE GA Events
 			- Nothing really captured on the Advertising side, but do capture some of our own FB Ad Data, Google Ads, raw commenting data via Forua, Auth0, some SF, Salesforce, Eventbrite
-		- Site data dollection
+		- Site Data Collection ()
 			- GA
 			- Chartbeat
 			- [[Mather]] - Major #vendor
@@ -32,7 +32,7 @@
 					- Starting to explore Google Ad Tag Manager Serverside
 						- one tag collects data on your site, then can reshape it for Mather
 				- provide their own churn model
-				- [ ] #task Meet [[Mather]] Econometrics #vendor 🔼
+				- DONE #task Meet [[Mather]] Econometrics #vendor 🔼
 			- Comscore
 				- Necessary evil
 				- Just upgraded to a higer quality peer feedback data
