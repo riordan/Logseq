@@ -5,6 +5,7 @@
 # Notes
 	- ## Inquirer Engineering Systems Overview with [[Toan Dang]]
 	  date:: [[2021-12-16]]
+	  id:: 62924a0e-4e90-4704-a134-980fe4699d32
 	  collapsed:: true
 		- ![Another System Diagram - Today (1).pdf](../../assets/Another_System_Diagram_-_Today_(1)_1653753884366_0.pdf)
 		- SYSTEMS:
