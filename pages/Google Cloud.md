@@ -5,5 +5,5 @@ tags: [[kb/asset]] , [[Data Infrastructure]]
 
 - ## Resources
 	- [[BigQuery]]
-	- [[gcs]]
+	- [[Google Cloud Storage]]
 	-
