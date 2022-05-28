@@ -17,5 +17,5 @@
 		- ### Make a roadmap
 		- ### Accelerating Tools
 		- ### Capture a [[Theory of Change]]
-			- Clearly articulate the way you see your team accomplishing what it can do to help The Inquirer achieve its mission.
+			- Clearly articulate the mechanisms your team will take so  what it can do to help The Inquirer achieve its mission.
 			-
