@@ -6,4 +6,4 @@
 	  id:: 6292339a-dc62-49a7-86b9-999cc5156444
 		- #### TODO Reaffirm what your job is {{renderer :todomaster}}
 			- TODO Review the Inquirer [[Inquirer Welcome Letter]]
-				- TODO Review the Building the Data Platform slide deck
+				- What do you think
