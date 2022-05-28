@@ -1,4 +1,4 @@
-- {{query #[[commitment]]}}
+- {{query #commitment}}
   query-table:: true
 -
 -
