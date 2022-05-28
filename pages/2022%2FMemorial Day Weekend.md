@@ -1,7 +1,7 @@
 title:: 2022/Memorial Day Weekend
 
 - A Long Working Weekend: a weekend alone to focus on myself and my work.
-	- Purpose: **Rebuild your confidence in yourself** so you can be great leader, father, husband, and friend. Become the inspiring optimist again.
+	- Purpose: **Rebuild your confidence in yourself** so you can be great leader, father, husband, and friend. Become the inspiring optimist again. #card
 - JTBD:
 	- Organize your Omnifocus
 	- Climb 2x
