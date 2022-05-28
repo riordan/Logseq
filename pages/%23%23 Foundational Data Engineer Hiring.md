@@ -1,10 +1,12 @@
-title:: ## [[2022/Q1]] Data Engineer Hiring
+title:: ## Foundational Data Engineer Hiring
 
+- title:: ## Foundational Data Engineer Hiring
 - Hiring for 2x data engineers for team, taking us from 1 Data Architect to a full [[Data Engineering Group]]
 - [📝 Coordination Doc](https://docs.google.com/document/d/1khni3ItgwzlzfhZrZ4ftyBXBFk4fjKM02-NGVBC8aCI/edit#)
 - **Status:** Complete
 	- Hired: [[Aquil Jones]] & [[Eva von Weltin]]
 ## Interviews
+collapsed:: true
 	- ## Screenings
 		- ### [[2022-02-16]] Tahsin Kkram
 		  collapsed:: true

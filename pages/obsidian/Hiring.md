@@ -9,5 +9,5 @@ tags:  leadwork
 	- Previous
 		- [[data engin]]
 		- [[Hiring/Sr. Marketing Analyst]]
-- [[## [[2022/Q1]] Data Engineer Hiring]]
+- [[## Foundational Data Engineer Hiring]]
   collapsed:: true
