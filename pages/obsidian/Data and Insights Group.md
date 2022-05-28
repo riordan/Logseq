@@ -31,3 +31,4 @@ id:: 626fca95-3b59-44a1-b723-fc9df7812c5b
 			- {{embed [[Data and Insights 2022 OKRs]] }}
 - ## [[Development Planning]]
 	- There are things we need to learn to do, particularly on the Analytics team, primarily to become more efficient in how we work and effective in our means of delivery.
+	-
