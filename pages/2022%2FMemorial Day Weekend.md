@@ -5,7 +5,7 @@ title:: 2022/Memorial Day Weekend
 	- Organize your Omnifocus
 	- Climb 2x
 	- Off Leash Zelda
-	- [[Data and Insights]] [[Development Environment Configuration]] ((629226e9-f589-419e-b953-585f29a0c4e4))
+	- [[Data and Insights]] [[Development Environment Configuration]] ((629226e9-f589-419e-b953-585f29a0c4e4)) #vscode #docker
 - Days:
 	- Friday ✅
 	  date:: [[2022/05/27]]
