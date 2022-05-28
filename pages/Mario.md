@@ -1,2 +1,3 @@
 - # Mario (Disambiguation)
-	- []
+	- [[Mario Squad]]
+	-
