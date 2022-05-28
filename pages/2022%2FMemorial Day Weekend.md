@@ -13,7 +13,8 @@ title:: 2022/Memorial Day Weekend
 	- Book dentist visit
 	- submit medical reimbursement
 	- Dermatologist
-	- Figure out how you want to organize your Log
+	- Figure out how you want to organize your [[Logseq]], especially the way your [[Daily Notes]] work and how to best use the [[Logseq/Smart Blocks]]
+	-
 - ## Things You've Been Meaning to do:
 	- Finish writing [DSI Deprecation RFC](https://docs.google.com/document/d/1tc9SYMbwR1QBo81V2K9wl1HOW2QMBnPnaM21izQmt0Y/edit?usp=sharing)
 	- Write the [[Development Planning]]: [Learning & Growth Approach](https://inquirer.atlassian.net/wiki/spaces/DATAINSIGHTS/pages/1953824802/Learning+Growth)
