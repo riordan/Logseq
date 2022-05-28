@@ -1,5 +1,5 @@
 ---
-tags: kb/asset, [[Data Infrastructure]] 
+tags: kb/asset, [[Data Infrastructure]], [[DI Theme/Organizing Knowledge]] 
 ---
 
 - ## Overview:
