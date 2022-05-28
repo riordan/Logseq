@@ -69,6 +69,7 @@
 					-
 					-
 		- template:: 🚥 Kanban
+		  collapsed:: true
 			- **Board name:** #kanban
 				- [[🟢 low]]
 				  			{{renderer :todomaster}}
@@ -82,3 +83,9 @@
 				  			{{renderer :todomaster}}
 					- ...
 					- ...
+		- procons #.v-kanban
+		  template:: procons
+			- #like
+				-
+			- #dislike
+				-
