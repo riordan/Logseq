@@ -6,4 +6,5 @@ title: VP of Data and Insights
 - # VP Of Data and Insights
 -
 - See: [[Inquirer Welcome Letter]]
--
+- ## Lead Work:
+	- []
