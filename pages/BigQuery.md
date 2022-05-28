@@ -1,4 +1,6 @@
 ---
 alias: BQ
-tags: kb/hub, 
+tags: [[kb/hub]], [[Data Infrastructure]] 
 ---
+
+-
