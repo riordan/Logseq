@@ -8,7 +8,7 @@ alias: Data and Insights, Data and Insights Department
 - ## Group Needs:
 	- id:: 62924fce-fcce-4c47-a93c-7760b6ad70eb
 	  1. ((626fca95-0c73-4851-84e4-5ecd243ad19b))
-	  2. ((prioritization framework))
+	  2.
 	- 3. [ ] [[Data and Insights 2022 OKRs|OKRs for 2022]]
 	- 4. [ ] [[#Mission]]
 	- 5. [ ] Training Plan
