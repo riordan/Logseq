@@ -1,4 +1,4 @@
 ---
-alias: Google Kubernetes Engine
+alias: Google Kubernetes Engine, GKE
 title: Google Kubernetes Engine
 ---
