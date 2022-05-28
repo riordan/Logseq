@@ -7,13 +7,12 @@
 - PDE Week Planning session (need to plan)
 - Start drafting individual okrs as part of manager discussions Mar 28
 - Finalize team okrs 4/5
-# [[Data and Insights Group|Data and Insights]] 2022 OKRS
-- [[Analytics Team]] [Historical OKRs](https://inquirer.atlassian.net/wiki/spaces/KB/pages/228295/Goals+and+OKRs)
-# OKR Workshop
-#inquirer/projects : Host a data and insights [[#OKR Workshop]] week of [[2022-01-10]]. Cover OKRs for 2022 and Q1
+- # [[Data and Insights]] 2022 OKRS
+	- [[Analytics Team]] [Historical OKRs](https://inquirer.atlassian.net/wiki/spaces/KB/pages/228295/Goals+and+OKRs)
+- # OKR Workshop
+	- #inquirer/projects : Host a data and insights [[#OKR Workshop]] week of [[2022-01-10]]. Cover OKRs for 2022 and Q1
 - **Resources:**
 	- [Mark's 2022 team goals / okrs](https://inquirer.atlassian.net/wiki/spaces/KB/pages/1812365313/2022+Team+Goals+OKRs)
-	-
 # Notes:
 See: [[30 day diagnosis]]
 
