@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: hub
 ---
 
 - About: This page can be the hub allowing reflection and recollection of what matters for your job and career growth.
