@@ -5,7 +5,7 @@ tags: kb/hub
 - About: This page can be the hub allowing reflection and recollection of what matters for your job and career growth.
 - ## North Star Goals
 	- ### Principles
-		- Data will help us follow-through on our intentions as a company by helping us stay on track, reassess progress, and make the
+		- Data will help us follow-through on our intentions as a company by helping us stay on track, reassess progress, and make wiser decisions in the moment and the long-run.
 - ## Current Priorities
 - ## Previous Priorities
 - ## Process
