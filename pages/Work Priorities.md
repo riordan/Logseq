@@ -4,5 +4,5 @@
 - ## Process
 	- ### Organizing Your Work Priorities
 	  id:: 6292339a-dc62-49a7-86b9-999cc5156444
-		- #### Reaffirm what your job is
-			- [[letter]]
+		- #### TODO Reaffirm what your job is
+			- TODO Review your /todo
