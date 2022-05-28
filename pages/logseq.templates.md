@@ -46,7 +46,25 @@
 				- What do you want to do tomorrow?
 			- ## Scratch
 	- Productivity Tools
-		-
+		- Eisenhower Matrix
+			- #.v-eisenhower-matrix
+			  template:: eisenhower-matrix
+				- [[TODO]]
+					-
+					-
+					-
+				- [[DECIDE]]
+					-
+					-
+					-
+				- [[DELEGATE]]
+					-
+					-
+					-
+				- [[ELIMINATE]]
+					-
+					-
+					-
 		- template:: 🚥 Kanban
 			- **Board name:** #kanban
 				- [[🟢 low]]
