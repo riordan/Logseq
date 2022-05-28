@@ -47,6 +47,8 @@
 			- ## Scratch
 	- Productivity Tools
 		- Eisenhower Matrix
+		  template:: Eisenhower Matrix
+		  template-including-parent:: false
 			- #.v-eisenhower-matrix
 			  template:: eisenhower-matrix
 				- [[TODO]]
