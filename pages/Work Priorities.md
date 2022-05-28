@@ -16,5 +16,6 @@
 			- #### TODO Assess and Reaffirm the next most important priorities for your teams
 		- ### Make a roadmap
 		- ### Accelerating Tools
-			-
+		- ### Capture a [[Theory of Change]]
+			- Decide on what your
 			-
