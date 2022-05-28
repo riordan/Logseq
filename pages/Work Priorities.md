@@ -7,5 +7,7 @@
 		- #### TODO Reaffirm what your job is {{renderer :todomaster}}
 			- TODO Review the Inquirer [[Inquirer Welcome Letter]]
 				- Question: What do you think you're here to do?
-				- Question: How will you
+				- Question: How will you accomplish what you're here to do?
+			- Reaffirm waht
+				-
 			-
