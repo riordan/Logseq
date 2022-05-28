@@ -9,20 +9,23 @@
 	- `pipx install dbt-bigquery --install-deps`
 # Data Science
 	- ## DS Environment:
+	  collapsed:: true
 		- [pipx](https://github.com/pypa/pipx)
 			- pipx: [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 			- https://pipenv.pypa.io/en/latest/
-	- ## Guidance
-		- Science Box principles
-			- [Creating a solid data science development environment](https://towardsdatascience.com/creating-a-solid-data-science-development-environment-60df14ce3a34)
-			- [Building a reproducible data science environment with Nix](https://josephsdavid.github.io/nix.html)
-			- [Ten Simple Rules for writing dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
-			- [Cookiecutter Modern Data Science](https://github.com/crmne/cookiecutter-modern-datascience)
+		- ## Guidance
+		  collapsed:: true
+			- Science Box principles
+				- [Creating a solid data science development environment](https://towardsdatascience.com/creating-a-solid-data-science-development-environment-60df14ce3a34)
+				- [Building a reproducible data science environment with Nix](https://josephsdavid.github.io/nix.html)
+				- [Ten Simple Rules for writing dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
+				- [Cookiecutter Modern Data Science](https://github.com/crmne/cookiecutter-modern-datascience)
 	- # Systems
-	  [x] Google Workspace (gmail/drive)
-	- [x] Slack
-	- [x] Confluence (awaiting approval)
-# Sciencebox 2
+	  collapsed:: true
+		- [x] Google Workspace (gmail/drive)
+		- [x] Slack
+		- [x] Confluence (awaiting approval)
+- ## Sciencebox 2
 ## Attributes:
 - Batteries-included Python Datascience environment
 - Docker
