@@ -1,5 +1,6 @@
 # Computer
 - Homebrew
+  collapsed:: true
 	- cask
 		- gcloud
 		- visual-studio-code
@@ -9,6 +10,7 @@
 # Data Science
 ## DS Environment:
 - [pipx](https://github.com/pypa/pipx)
+  collapsed:: true
 	- pipx: [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 	- https://pipenv.pypa.io/en/latest/
 ## Guidance
