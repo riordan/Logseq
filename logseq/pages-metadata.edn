@@ -1,9 +1,12 @@
-[{:block/name "",
-  :block/created-at 1653758334657,
-  :block/updated-at 1653758334657}
- {:block/name " subscriber profiles",
+[{:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
+ {:block/name "#okr workshop",
+  :block/created-at 1653761163335,
+  :block/updated-at 1653761163335}
+ {:block/name "#principles",
+  :block/created-at 1653761316766,
+  :block/updated-at 1653761316766}
  {:block/name ".v-eisenhower-matrix",
   :block/created-at 1653760204947,
   :block/updated-at 1653760204947}
@@ -408,7 +411,7 @@
   :block/updated-at 1651490746513}
  {:block/name "2021/12/20",
   :block/created-at 1651490746806,
-  :block/updated-at 1651490746806}
+  :block/updated-at 1653761399815}
  {:block/name "2021/12/21",
   :block/created-at 1651490746551,
   :block/updated-at 1651490746551}
@@ -461,9 +464,6 @@
  {:block/name "2022-01-21_tracy o'rourke",
   :block/created-at 1649373271326,
   :block/updated-at 1649373271326}
- {:block/name "2022-03-07 #data and insights 2022 okrs",
-  :block/created-at 1653759707547,
-  :block/updated-at 1653759707547}
  {:block/name "2022-03-09 better collective kickoff meeting",
   :block/created-at 1649373272061,
   :block/updated-at 1649855623150}
@@ -514,7 +514,7 @@
   :block/updated-at 1651490745392}
  {:block/name "2022/01/03",
   :block/created-at 1651490745487,
-  :block/updated-at 1651585111073}
+  :block/updated-at 1653761425281}
  {:block/name "2022/01/04",
   :block/created-at 1649373274180,
   :block/updated-at 1649855617479}
@@ -751,7 +751,7 @@
   :block/updated-at 1651490767786}
  {:block/name "2022/03/29",
   :block/created-at 1651490767741,
-  :block/updated-at 1651490767741}
+  :block/updated-at 1653762487525}
  {:block/name "2022/03/30",
   :block/created-at 1651490767715,
   :block/updated-at 1651490767715}
@@ -898,7 +898,7 @@
   :block/updated-at 1653754381651}
  {:block/name "2022/05/28",
   :block/created-at 1653754381652,
-  :block/updated-at 1653761096620}
+  :block/updated-at 1653762495787}
  {:block/name "2022/05/29",
   :block/created-at 1653754381654,
   :block/updated-at 1653754381654}
@@ -907,7 +907,7 @@
   :block/updated-at 1653754381655}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
-  :block/updated-at 1653759278493}
+  :block/updated-at 1653762416632}
  {:block/name "2022/q1",
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
@@ -962,9 +962,6 @@
  {:block/name "[lenfest lab]",
   :block/created-at 1649373268295,
   :block/updated-at 1649373268295}
- {:block/name "[mark loomis",
-  :block/created-at 1649773648309,
-  :block/updated-at 1649773648309}
  {:block/name "[mz",
   :block/created-at 1649373273499,
   :block/updated-at 1649373273499}
@@ -992,12 +989,6 @@
  {:block/name "_julia haslinger team interview",
   :block/created-at 1649773648685,
   :block/updated-at 1649773648685}
- {:block/name "_mark loomis 1 1",
-  :block/created-at 1649773777798,
-  :block/updated-at 1649773777798}
- {:block/name "_mission",
-  :block/created-at 1649373274909,
-  :block/updated-at 1649373274909}
  {:block/name
   "_newsroom product sync https inquirer atlassian net wiki spaces pd pages 1530691627 newsroom product sync_ newsroom ",
   :block/created-at 1649773777799,
@@ -1006,15 +997,6 @@
   "_newsroom product sync https inquirer atlassian net wiki spaces pd pages 1530691627 newsroom product sync_ newsroom / product sync",
   :block/created-at 1649773777799,
   :block/updated-at 1649773777799}
- {:block/name "_okr workshop",
-  :block/created-at 1649373276755,
-  :block/updated-at 1649373276755}
- {:block/name "_principles",
-  :block/created-at 1649373274911,
-  :block/updated-at 1649373274911}
- {:block/name "_prioritization framework",
-  :block/created-at 1649373274909,
-  :block/updated-at 1649373274909}
  {:block/name "_reflections",
   :block/created-at 1651490277991,
   :block/updated-at 1651490277991}
@@ -1681,6 +1663,9 @@
  {:block/name "colin bryar and bill carr",
   :block/created-at 1649591846045,
   :block/updated-at 1649591846045}
+ {:block/name "commitment",
+  :block/created-at 1653762359314,
+  :block/updated-at 1653762528421}
  {:block/name "content strategy",
   :block/created-at 1647872029127,
   :block/updated-at 1647872029127}
@@ -1767,19 +1752,16 @@
   :block/updated-at 1648478675337}
  {:block/name "data and insights 2022 okrs",
   :block/created-at 1649373274912,
-  :block/updated-at 1649373274912}
+  :block/updated-at 1653761191610}
  {:block/name "data and insights 2022 okrs_okr calendar",
   :block/created-at 1649773785300,
   :block/updated-at 1649773785300}
- {:block/name "data and insights 2022 okrs_okrs for 2022",
-  :block/created-at 1649373274909,
-  :block/updated-at 1649373274909}
  {:block/name "data and insights department",
   :block/created-at 1649770312163,
   :block/updated-at 1649770312163}
  {:block/name "data and insights group",
   :block/created-at 1649373269405,
-  :block/updated-at 1649770322055}
+  :block/updated-at 1653761560065}
  {:block/name
   "data and insights group_2022 planning_data and insights_ 2022 planning",
   :block/created-at 1649373277914,
@@ -1803,6 +1785,9 @@
  {:block/name "data and insights group_strategy",
   :block/created-at 1649373277263,
   :block/updated-at 1649373277263}
+ {:block/name "data and insights group|data and insights",
+  :block/created-at 1653761149519,
+  :block/updated-at 1653761149519}
  {:block/name "data and insights/data survey",
   :block/created-at 1648481482743,
   :block/updated-at 1648481482743}
@@ -1871,7 +1856,7 @@
   :block/updated-at 1649373274154}
  {:block/name "data warehouse",
   :block/created-at 1649373270189,
-  :block/updated-at 1649373270189}
+  :block/updated-at 1653761695249}
  {:block/name "datadog",
   :block/created-at 1649373273376,
   :block/updated-at 1649373273376}
@@ -2034,9 +2019,6 @@
  {:block/name "engineering systems",
   :block/created-at 1649373270192,
   :block/updated-at 1649373270192}
- {:block/name "epic",
-  :block/created-at 1649373274909,
-  :block/updated-at 1649373274909}
  {:block/name "eric holthaus",
   :block/created-at 1649373281598,
   :block/updated-at 1649373281598}
@@ -3260,6 +3242,9 @@
   "performance management_performance management goals_performance goals",
   :block/created-at 1649373277263,
   :block/updated-at 1649373277263}
+ {:block/name "performance reviews",
+  :block/created-at 1653762297748,
+  :block/updated-at 1653762297748}
  {:block/name "permutive",
   :block/created-at 1649952271434,
   :block/updated-at 1649952271434}
@@ -3900,9 +3885,6 @@
  {:block/name "websked",
   :block/created-at 1650546975984,
   :block/updated-at 1650546975984}
- {:block/name "weekly plan",
-  :block/created-at 1649686490335,
-  :block/updated-at 1649686490335}
  {:block/name "weekly review",
   :block/created-at 1649686490330,
   :block/updated-at 1651491984922}
