@@ -1,2 +1,2 @@
-- Project Manager in
--
+- Project Manager in [[PMO]]
+	- [[Permutive]] Implementation
