@@ -2,7 +2,7 @@
 tags:  leadwork
 ---
 
-- Part of your responsibilities as [[VP of Data and Insights]]]
+- Part of your responsibilities as [[VP of Data and Insights]]
 - {{renderer :kanban_pkvbfam}}
 	- Hiring Table
 	  collapsed:: true
