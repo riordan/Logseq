@@ -1,1 +1,2 @@
-- NEEDS: Improved
+- NEEDS: Improved information architecture for Inq-Datawarehouse BQ Project
+	- Purpose: The best place
