@@ -5,4 +5,5 @@ tags: [[inquirer/colleague]] , [[Product Manager]]
 ---
 
 -
--
+- [[Product Manager]] on [[Inkforce Squad]].
+- Expert in
