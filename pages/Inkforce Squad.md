@@ -1,5 +1,6 @@
 ---
 alias: inkforce
+tags: 
 ---
 
 - ## Overview
@@ -7,6 +8,7 @@ alias: inkforce
 	- Team Members:
 		- [[Jim Anton]]
 		- [[Jen McGroaty]]
+		-
 - ## Resources:
 	- [Jira Board](https://inquirer.atlassian.net/jira/software/c/projects/SFUAT/boards/119)
 	- [Documentation](https://inquirer.atlassian.net/jira/software/c/projects/SFUAT/pages)
