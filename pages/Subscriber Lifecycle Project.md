@@ -3,7 +3,7 @@ tags: notyours
 ---
 
 - ## Overview
-	- Major effort to
+	- Major effort to catalog and reform our [[Subscriber Marketing]] by understanding our subscribers lifecycles. Culminated in the
 	- Subprojects:
 		- [[Business Rules Playbook]]
 - ## Resources
