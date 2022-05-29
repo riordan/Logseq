@@ -1,6 +1,6 @@
 ---
 tags: inquirer/teams
-alias: Data and Insights Department
+alias: Data and Insights Department, Data and Insights
 ---
 
 - ## Group Overview
@@ -32,3 +32,21 @@ id:: 626fca95-3b59-44a1-b723-fc9df7812c5b
 - ## [[Development Planning]]
 	- There are things we need to learn to do, particularly on the Analytics team, primarily to become more efficient in how we work and effective in our means of delivery.
 	-
+id:: 6241c372-f36d-45fd-bfba-444ba540d244
+
+	- ## Team Rhythm
+	  id:: 6241c98b-9410-475e-a368-f754c41d6326
+		- {{embed ((6241c362-6e48-47e5-975f-06520dd4a8ed))}}
+		- Cadences:
+		  collapsed:: true
+			- Monthly
+			- Quarterly
+			- Semi-Annually
+			- Annually
+		- [[Philadelphia Inquirer]] Company Rhythm
+		  collapsed:: true
+			-
+			-
+	- ## Team Rituals
+	  id:: 6241c9cc-c04f-47b9-a695-e4125f169cd9
+-

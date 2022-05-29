@@ -6,7 +6,7 @@ title:: 2022/Memorial Day Weekend
 	- Organize your Omnifocus
 	- Climb 2x
 	- Off Leash Zelda
-	- [[Data and Insights]] [[Development Environment Configuration]] ((629226e9-f589-419e-b953-585f29a0c4e4)) #vscode #docker
+	- [[Data and Insights Group]] [[Development Environment Configuration]] ((629226e9-f589-419e-b953-585f29a0c4e4)) #vscode #docker
 	- Review the ((62925c9b-0e87-4130-9906-6660f05c3fe9))
 	- Plan the [[PDE Week - 2022Q2]] agenda
 	- Review [[Mark Loomis]]'s detailed [2022 Analytics Roadmap](https://docs.google.com/spreadsheets/d/1UTmi7Kc6XeynqiyhuPz3ti_TKVZGRiaij7GMqqkiDro/edit?usp=sharing)
