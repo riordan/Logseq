@@ -24,7 +24,7 @@
  ;; Default is true, you can also toggle this via setting page
  :ui/enable-tooltip? true
 
- :feature/enable-block-timestamps? false
+ :feature/enable-block-timestamps? true
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
@@ -96,7 +96,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts {:graph/save "meta+s"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -176,7 +176,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["DI Theme" "Work Priorities" "2022/Memorial Day Weekend" "dibb"]
+ :favorites ["2022/Memorial Day Weekend" "Work Priorities" "commitment" "DI Theme" "dibb"]
  :journal/page-title-format "yyyy/MM/dd"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
@@ -217,5 +217,7 @@
  :quick-capture-templates
  {:text "[[quick capture]] **{time}**: \n - {text} from {url}"
   :media "[[quick capture]] **{time}**: \n - {url}"}
+ :ui/show-brackets? false
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 0}, :calendar {:counts 5}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 1}}
  
  }
