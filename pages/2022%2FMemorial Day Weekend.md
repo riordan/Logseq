@@ -10,6 +10,7 @@ title:: 2022/Memorial Day Weekend
 	- Review the ((62925c9b-0e87-4130-9906-6660f05c3fe9))
 	- Plan the [[PDE Week - 2022Q2]] agenda
 	- Review [[Mark Loomis]]'s detailed [2022 Analytics Roadmap](https://docs.google.com/spreadsheets/d/1UTmi7Kc6XeynqiyhuPz3ti_TKVZGRiaij7GMqqkiDro/edit?usp=sharing)
+	  id:: 62936614-0799-4eff-aa7c-8f0695715d62
 	- Book dentist visit
 	- submit medical reimbursement
 	- Dermatologist
