@@ -32,6 +32,7 @@
 		  collapsed:: true
 		  template:: daily
 		  template-including-parent:: false
+		  id:: 62926f96-222c-4865-b77f-35b12fcc23e8
 			- Setup
 				- DONE Insert Today's Notebook Setup Checklist
 				- TODO INSERT Journaling Habit
