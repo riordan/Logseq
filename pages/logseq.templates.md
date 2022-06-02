@@ -47,12 +47,15 @@
 				- What do you want to do tomorrow?
 			- ## Scratch
 		- Product Sync
+		  template:: Product Sync
+		  template-including-parent:: false
 			- Data & Insights
 			- Notes
 				- Housekeeping
 				- Big pushes this week
 				- Blockers/opportunities:
-			- Glows to share
+				- Glows to share
+			- Resources & Action Items
 	- Productivity Tools
 		- Eisenhower Matrix
 		  template:: Eisenhower Matrix
