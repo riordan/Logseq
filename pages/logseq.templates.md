@@ -47,7 +47,12 @@
 				- What do you want to do tomorrow?
 			- ## Scratch
 		- Product Sync
-			-
+			- Data & Insights
+			- Notes
+				- Housekeeping
+				- Big pushes this week
+				- Blockers/opportunities:
+			- Glows to share
 	- Productivity Tools
 		- Eisenhower Matrix
 		  template:: Eisenhower Matrix
