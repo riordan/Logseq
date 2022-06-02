@@ -46,7 +46,8 @@
 				- What did you learn today?
 				- What do you want to do tomorrow?
 			- ## Scratch
-		-
+		- Product Sync
+			-
 	- Productivity Tools
 		- Eisenhower Matrix
 		  template:: Eisenhower Matrix
