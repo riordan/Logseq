@@ -24,7 +24,7 @@ id:: 626fca95-3b59-44a1-b723-fc9df7812c5b
 	  1. Company Mission, Vision, North Star
 	  2. We (will) have our Mission and [[#Principles]] which guide our department's work, informing how we see the value we deliver to The Inquirer
 	  3. We assist in The Inquirer's annual goals and
-	- ## Roadmap
+	- ## [[Roadmap]]
 	- ## 2022 Planning
 		- ### OKRs
 		  collapsed:: true
