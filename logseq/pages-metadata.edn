@@ -948,7 +948,7 @@
   :block/updated-at 1654476675216}
  {:block/name "2022/06/06",
   :block/created-at 1654361409071,
-  :block/updated-at 1654361409071}
+  :block/updated-at 1654521940395}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -956,8 +956,8 @@
   :block/created-at 1647871928759,
   :block/updated-at 1647871928759}
  {:block/name "2022/q2",
-  :block/created-at 1654466010054,
-  :block/updated-at 1654466010054}
+  :block/created-at 1654480195971,
+  :block/updated-at 1654480195971}
  {:block/name "2022/q3",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
@@ -965,8 +965,8 @@
   :block/created-at 1654290339280,
   :block/updated-at 1654290339280}
  {:block/name "2022/q4",
-  :block/created-at 1654466010066,
-  :block/updated-at 1654466010066}
+  :block/created-at 1654480195975,
+  :block/updated-at 1654480195975}
  {:block/name "30 day diagnosis",
   :block/created-at 1649373275694,
   :block/updated-at 1649373275694}
@@ -1706,7 +1706,7 @@
   :block/updated-at 1649373270114}
  {:block/name "contents",
   :block/created-at 1647807341643,
-  :block/updated-at 1647807341643}
+  :block/updated-at 1654521576709}
  {:block/name "cory doctorow",
   :block/created-at 1649373236120,
   :block/updated-at 1649373236120}
@@ -1821,8 +1821,8 @@
   :block/created-at 1648481482743,
   :block/updated-at 1648481482743}
  {:block/name "data dive",
-  :block/created-at 1654466009980,
-  :block/updated-at 1654466009980}
+  :block/created-at 1654480195539,
+  :block/updated-at 1654480195539}
  {:block/name "data engineer first hires",
   :block/created-at 1653757160455,
   :block/updated-at 1653757806754}
@@ -1974,8 +1974,8 @@
   :block/created-at 1653757160395,
   :block/updated-at 1653757160395}
  {:block/name "di theme/create and follow shared practice",
-  :block/created-at 1654466009981,
-  :block/updated-at 1654466009981}
+  :block/created-at 1654480195540,
+  :block/updated-at 1654480195540}
  {:block/name "di theme/organizing knowledge",
   :block/created-at 1653757160392,
   :block/updated-at 1653757160392}
@@ -3835,8 +3835,8 @@
   :block/created-at 1649373273528,
   :block/updated-at 1649373273528}
  {:block/name "tailscale",
-  :block/created-at 1654476643392,
-  :block/updated-at 1654476643392}
+  :block/created-at 1654480195542,
+  :block/updated-at 1654480195542}
  {:block/name "takeaway",
   :block/created-at 1649773647717,
   :block/updated-at 1649773647717}
@@ -3907,8 +3907,8 @@
   :block/created-at 1651585370618,
   :block/updated-at 1651585414208}
  {:block/name "unifi",
-  :block/created-at 1654476663797,
-  :block/updated-at 1654476663797}
+  :block/created-at 1654480195543,
+  :block/updated-at 1654480195543}
  {:block/name "unify subscriber data",
   :block/created-at 1647956036430,
   :block/updated-at 1653330856163}
