@@ -1,3 +1,3 @@
+-
 - [[Work Priorities]]
-  
-  [[commitment]]
+- [[commitment]]
