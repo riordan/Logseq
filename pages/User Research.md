@@ -1,0 +1,3 @@
+- ## Resources
+	- [Timestamped Interview Notes for Google Sheets](https://www.easybydesign.com/timestamped-notes-template)
+	-
