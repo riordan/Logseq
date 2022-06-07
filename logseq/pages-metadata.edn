@@ -663,7 +663,7 @@
   :block/updated-at 1654521940395}
  {:block/name "2022/06/07",
   :block/created-at 1654618791867,
-  :block/updated-at 1654627284198}
+  :block/updated-at 1654637481697}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -4085,7 +4085,7 @@
   :block/updated-at 1651232145530}
  {:block/name "user research",
   :block/created-at 1654614680441,
-  :block/updated-at 1654614680441}
+  :block/updated-at 1654637498028}
  {:block/name "user story mapping",
   :block/created-at 1649373269499,
   :block/updated-at 1649373269499}
