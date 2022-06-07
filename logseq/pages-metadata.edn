@@ -1464,9 +1464,6 @@
  {:block/name "colin bryar and bill carr",
   :block/created-at 1649591846045,
   :block/updated-at 1649591846045}
- {:block/name "commit",
-  :block/created-at 1654614689761,
-  :block/updated-at 1654614689761}
  {:block/name "commitment",
   :block/created-at 1653762359314,
   :block/updated-at 1653762709775}
@@ -2597,7 +2594,7 @@
   :block/updated-at 1654614618160}
  {:block/name "jun 7th, 2022",
   :block/created-at 1654614618096,
-  :block/updated-at 1654614701808}
+  :block/updated-at 1654618632210}
  {:block/name "k8s",
   :block/created-at 1653754381919,
   :block/updated-at 1653754381919}
