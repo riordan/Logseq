@@ -11,7 +11,7 @@ tags: kb/hub
 		- [[2022/Q3/Planning]]
 		- [[Unify Subscriber Data]]
 	- ### Personal Priorities
-		- As VP your role is to make sure
+		- As VP your role is to help ID and cement the vision, then make sure it's getting done.
 - ## Previous Priorities
 - ## Process
 	- ### Organizing Your Work Priorities {{renderer :todomaster}}
