@@ -7,8 +7,9 @@ tags: kb/hub
 	- ### Principles
 		- Data will help us follow-through on our intentions as a company by helping us stay on track, reassess progress, and make wiser decisions in the moment and the long-run.
 - ## Current Priorities
-	- [[2022/Q3/Planning]]
-	- [[Unify Subscriber Data]]
+	- ### Priority Projects
+		- [[2022/Q3/Planning]]
+		- [[Unify Subscriber Data]]
 	-
 - ## Previous Priorities
 - ## Process
