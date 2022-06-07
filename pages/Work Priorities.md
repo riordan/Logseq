@@ -10,7 +10,8 @@ tags: kb/hub
 	- ### Priority Projects
 		- [[2022/Q3/Planning]]
 		- [[Unify Subscriber Data]]
-	-
+	- ### Personal Priorities
+		- As VP your role is to make sure
 - ## Previous Priorities
 - ## Process
 	- ### Organizing Your Work Priorities {{renderer :todomaster}}
