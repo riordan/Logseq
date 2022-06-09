@@ -1,7 +1,7 @@
 title:: dibb/Event Horizon
 ---
 title: dibb/Event Horizon
-alias: instrumentation challenge
+alias: instrumentation challenge, Event Horizon
 tags: inquirer/project
 ---
 
