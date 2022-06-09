@@ -10,6 +10,7 @@ tags: kb/hub
 	- ### Priority Projects
 		- [[2022/Q3/Planning]]
 		- [[Unify Subscriber Data]]
+		- [[Event Horizon]]
 	- ### Personal Priorities
 		- As VP your role is to help ID and cement the vision, then make sure it's getting done.
 - ## Longer-Term Priorities
