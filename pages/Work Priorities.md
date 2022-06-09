@@ -12,6 +12,9 @@ tags: kb/hub
 		- [[Unify Subscriber Data]]
 	- ### Personal Priorities
 		- As VP your role is to help ID and cement the vision, then make sure it's getting done.
+- ## Longer-Term Priorities
+	- [[First Party Data]] Strategy
+	-
 - ## Previous Priorities
 - ## Process
 	- ### Organizing Your Work Priorities {{renderer :todomaster}}
