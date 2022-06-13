@@ -669,7 +669,10 @@
   :block/updated-at 1654714146566}
  {:block/name "2022/06/09",
   :block/created-at 1654747605658,
-  :block/updated-at 1654747605658}
+  :block/updated-at 1654792306525}
+ {:block/name "2022/06/10",
+  :block/created-at 1654833633579,
+  :block/updated-at 1654885659284}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -1831,7 +1834,7 @@
   :block/updated-at 1649347698074}
  {:block/name "dibb/event horizon",
   :block/created-at 1649255181328,
-  :block/updated-at 1649338871073}
+  :block/updated-at 1654793778610}
  {:block/name "digital editors",
   :block/created-at 1649174551508,
   :block/updated-at 1649174551508}
@@ -1916,6 +1919,9 @@
  {:block/name "eva von weltin",
   :block/created-at 1649373274630,
   :block/updated-at 1649373274630}
+ {:block/name "event horizon",
+  :block/created-at 1654792352983,
+  :block/updated-at 1654793762820}
  {:block/name "experiment",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
@@ -3057,6 +3063,9 @@
  {:block/name "meter",
   :block/created-at 1649373274634,
   :block/updated-at 1649373274634}
+ {:block/name "meter abandonment",
+  :block/created-at 1654792261775,
+  :block/updated-at 1654792261775}
  {:block/name "metrics that matter",
   :block/created-at 1649373276154,
   :block/updated-at 1649770330041}
@@ -4130,7 +4139,7 @@
   :block/updated-at 1651491984922}
  {:block/name "work priorities",
   :block/created-at 1653754381959,
-  :block/updated-at 1654622447861}
+  :block/updated-at 1654792352984}
  {:block/name "workflow orchestration",
   :block/created-at 1653754381772,
   :block/updated-at 1653754381772}
