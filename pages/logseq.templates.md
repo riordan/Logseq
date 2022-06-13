@@ -49,6 +49,7 @@
 		- Product Sync
 		  template:: Product Sync
 		  template-including-parent:: false
+		  collapsed:: true
 			- Data & Insights
 			- Notes
 				- Housekeeping
@@ -96,6 +97,7 @@
 					- ...
 		- template:: procons
 		  template-including-parent:: True
+		  collapsed:: true
 			- Pros and Cons #.v-kanban
 				- #like
 					-
