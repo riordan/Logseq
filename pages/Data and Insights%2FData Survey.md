@@ -4,4 +4,5 @@ title:: Data and Insights/Data Survey
 - ## Background
 - ## Quarterly Surveys
 	- ### [[2022/Q2]]
-		- [Goog]
+		- [Google Form (Active Survey)](https://docs.google.com/forms/d/11HYHHSWHjlnjmRq4P9Mn8O2ihcgbe2Iin3C30BJiQ1A/edit)
+		- [Confluence Page]()
