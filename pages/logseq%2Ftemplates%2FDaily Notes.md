@@ -28,7 +28,7 @@ title: logseq/templates/Daily Notes
 					-
 				- #### Today I would like to work on
 					-
-			-
+		-
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
