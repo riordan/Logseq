@@ -963,7 +963,10 @@
   :block/updated-at 1654885659284}
  {:block/name "2022/06/13",
   :block/created-at 1655126258566,
-  :block/updated-at 1655136136515}
+  :block/updated-at 1655151990471}
+ {:block/name "2022/06/14",
+  :block/created-at 1655179916720,
+  :block/updated-at 1655179916720}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -1831,7 +1834,7 @@
   :block/updated-at 1653763980305}
  {:block/name "data and insights/data survey",
   :block/created-at 1648481482743,
-  :block/updated-at 1648481482743}
+  :block/updated-at 1655150302214}
  {:block/name "data dive",
   :block/created-at 1654480195539,
   :block/updated-at 1654480195539}
@@ -2186,6 +2189,9 @@
  {:block/name "google",
   :block/created-at 1649790807526,
   :block/updated-at 1649790807526}
+ {:block/name "google ad manager",
+  :block/created-at 1655150714388,
+  :block/updated-at 1655150714388}
  {:block/name "google analytics",
   :block/created-at 1649373276316,
   :block/updated-at 1649373276316}
@@ -3512,6 +3518,9 @@
  {:block/name "product, design, and engineering",
   :block/created-at 1649373273340,
   :block/updated-at 1651232039128}
+ {:block/name "programmatic dashboard",
+  :block/created-at 1655151286158,
+  :block/updated-at 1655151286158}
  {:block/name "progressive data profiling",
   :block/created-at 1649871044792,
   :block/updated-at 1649871044792}
