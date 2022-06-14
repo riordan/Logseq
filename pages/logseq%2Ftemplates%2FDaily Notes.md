@@ -27,4 +27,6 @@ title: logseq/templates/Daily Notes
 			- What did you learn today?
 			- What do you want to do tomorrow?
 		- ## Scratch
--
+- ## Instructions
+	- ### Review your schedule for the day
+		-
