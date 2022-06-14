@@ -20,7 +20,7 @@ title: logseq/templates/Daily Notes
 			- Review your schedule for [This Week](x-fantastical3://show?date=this week)
 			- Review your Tasks
 				- In [Omnifocus](omnifocus:///forecast)
-				- In []
+				- In [[TODO]]
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
