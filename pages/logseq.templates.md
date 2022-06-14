@@ -4,6 +4,7 @@
 		- [[Weekly Review]]
 		  template:: Weekly Review
 		  collapsed:: true
+		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 			- Plus: What went well?
 			- Minus: What didn't go so well?
 			- Next: What will I focus on next week?
