@@ -4,7 +4,6 @@
 		- [[Weekly Review]]
 		  template:: Weekly Review
 		  collapsed:: true
-			-
 			- Plus: What went well?
 			- Minus: What didn't go so well?
 			- Next: What will I focus on next week?
