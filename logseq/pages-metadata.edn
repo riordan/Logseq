@@ -939,7 +939,7 @@
   :block/updated-at 1654091151572}
  {:block/name "2022/06/01",
   :block/created-at 1654056206662,
-  :block/updated-at 1654112182297}
+  :block/updated-at 1655247089583}
  {:block/name "2022/06/02",
   :block/created-at 1655126288577,
   :block/updated-at 1655126288577}
@@ -975,7 +975,7 @@
   :block/updated-at 1655217258599}
  {:block/name "2022/06/14",
   :block/created-at 1655179916720,
-  :block/updated-at 1655243262382}
+  :block/updated-at 1655247119665}
  {:block/name "2022/06/15",
   :block/created-at 1655243074062,
   :block/updated-at 1655243185034}
