@@ -11,6 +11,7 @@
 		- [[Journaling Prompts]]
 		  template:: Journaling Prompts
 		  collapsed:: true
+		  id:: 62a73923-0d4c-4e1c-a939-7fd90622dd86
 			- What's one thing I learned yesterday?
 			- What's one thing I'm grateful for today?
 			- What's one thing I want to accomplish today?
