@@ -21,7 +21,9 @@ title: logseq/templates/Daily Notes
 			- Review your Tasks
 				- In [Omnifocus](omnifocus:///forecast)
 				- In [[TODO]]
-			- ### Today I will work on:
+			- ### Day Thinking
+				- #### Today I will work on
+				- ###
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
