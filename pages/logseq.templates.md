@@ -21,7 +21,10 @@
 			- What's one challenge I may experience today?
 			- Any other thoughts?
 		- End-of-Day Wrapup
-		-
+			- What did you accomplish today?
+			- What did you learn today?
+			- What are the things you worked on today?
+			- What do you want to do [Tomorrow](<% tomorrow %>)?
 		- [[Meeting Minutes]]
 		  template:: Meeting Minutes
 		  template-including-parent:: false
