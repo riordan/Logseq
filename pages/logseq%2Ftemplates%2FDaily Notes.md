@@ -11,8 +11,6 @@ title: logseq/templates/Daily Notes
 	  template:: daily
 	  template-including-parent:: false
 	  title::Daily Notes
-		- Setup
-			- TODO [Omnifocus](omnifocus://) task review
 		- ## Morning Journal {{renderer :smartblock, Journaling Prompts, Insert Journal, false}}
 		- ## Day Planning
 			- [Review](((62a89da8-158e-4a7a-a23d-f866fb3100a9))) your schedule for [Today](x-fantastical3://show?date=<% today %>)
