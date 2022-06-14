@@ -29,4 +29,4 @@ title: logseq/templates/Daily Notes
 		- ## Scratch
 - ## Instructions
 	- ### Review your schedule for the day
-		-
+		- Use the Calendar Plugin to
