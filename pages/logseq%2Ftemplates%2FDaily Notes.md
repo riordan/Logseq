@@ -31,4 +31,4 @@ title: logseq/templates/Daily Notes
 	- ### Review your schedule for the day
 		- Use the Calendar Plugin to insert your work calendar
 		- Focus on the **Work Calendar** block with `⌘+.`
-		-
+		- Toggle Open Blocks with `esc t+o`
