@@ -19,7 +19,7 @@ title: logseq/templates/Daily Notes
 		- ## Day Planning
 			- Review your schedule for [Today](x-fantastical3://show?date=today)
 				-
-			- Review your schedule for [This Week](x-fantastical3://show?date=week)
+			- Review your schedule for [This Week](x-fantastical3://show?date=this week)
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
