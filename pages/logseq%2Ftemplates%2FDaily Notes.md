@@ -34,7 +34,7 @@ title: logseq/templates/Daily Notes
 		- ## Wrapup
 			- What did you accomplish today?
 			- What did you learn today?
-			- What do you want to do tomorrow?
+			- What do you want to do [Tomorrow](<% tomorrow %>)?
 		- ## Scratch
 - ## Instructions
 	- ### Review your schedule for the day
