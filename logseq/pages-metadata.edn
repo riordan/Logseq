@@ -966,7 +966,7 @@
   :block/updated-at 1655151990471}
  {:block/name "2022/06/14",
   :block/created-at 1655179916720,
-  :block/updated-at 1655179916720}
+  :block/updated-at 1655211396826}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -2753,16 +2753,19 @@
   :block/updated-at 1649773781180}
  {:block/name "logseq",
   :block/created-at 1649687194529,
-  :block/updated-at 1653760810740}
+  :block/updated-at 1655211494414}
  {:block/name "logseq office hours: building processes with queries",
   :block/created-at 1653757161019,
   :block/updated-at 1653757161019}
+ {:block/name "logseq/plans",
+  :block/created-at 1655211494411,
+  :block/updated-at 1655211712455}
  {:block/name "logseq/smart blocks",
   :block/created-at 1653758879458,
   :block/updated-at 1653758879458}
  {:block/name "logseq/templates",
   :block/created-at 1652121287210,
-  :block/updated-at 1654177263570}
+  :block/updated-at 1655211414099}
  {:block/name "loomis",
   :block/created-at 1649855354030,
   :block/updated-at 1649855354030}
