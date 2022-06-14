@@ -29,7 +29,7 @@ title: logseq/templates/Daily Notes
 				- #### Today I would like to work on
 					-
 		- ## Actual Work & Scratch
-		- ## Wrapup
+		- ## End-of-Day Wrapup
 			- What did you accomplish today?
 			- What did you learn today?
 			- What are the things you worked on today?
