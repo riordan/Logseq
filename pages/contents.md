@@ -1,5 +1,6 @@
 - [Plan for the Week](((629d5d43-2d17-4c85-8ded-0a68ae0877bf)))
 - Goals:
-	- OKR
+	- [[OKRs]]
+		- [Data and Insights OKRs]
 - [[Work Priorities]]
 - [Commitments]([[commitment]])
