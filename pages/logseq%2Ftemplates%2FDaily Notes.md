@@ -30,3 +30,4 @@ title: logseq/templates/Daily Notes
 - ## Instructions
 	- ### Review your schedule for the day
 		- Use the Calendar Plugin to insert your work calendar
+		- Jum
