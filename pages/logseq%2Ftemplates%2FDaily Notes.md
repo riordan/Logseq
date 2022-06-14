@@ -29,10 +29,7 @@ title: logseq/templates/Daily Notes
 					-
 		- ## Actual Work & Scratch
 		- ## End-of-Day Wrapup
-			- What did you accomplish today?
-			- What did you learn today?
-			- What are the things you worked on today?
-			- What do you want to do [Tomorrow](<% tomorrow %>)?
+			-
 - ## Instructions
 	- ### Review your schedule for the day
 	  id:: 62a89da8-158e-4a7a-a23d-f866fb3100a9

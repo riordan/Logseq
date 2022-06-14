@@ -21,6 +21,8 @@
 			- What's one challenge I may experience today?
 			- Any other thoughts?
 		- End-of-Day Wrapup
+		  template:: eod
+		  template-including-parent:: false
 			- What did you accomplish today?
 			- What did you learn today?
 			- What are the things you worked on today?
