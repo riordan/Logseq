@@ -16,7 +16,6 @@ title: logseq/templates/Daily Notes
 			- TODO Review your schedule for the week
 			- TODO [Omnifocus](omnifocus://) task review
 		- ## Morning Journal
-			- {{renderer :smartblockInline, Journaling Prompts, True}}
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
