@@ -975,7 +975,7 @@
   :block/updated-at 1655217258599}
  {:block/name "2022/06/14",
   :block/created-at 1655179916720,
-  :block/updated-at 1655241073629}
+  :block/updated-at 1655242884942}
  {:block/name "2022/06/15",
   :block/created-at 1655220573786,
   :block/updated-at 1655220573786}
@@ -1600,6 +1600,9 @@
  {:block/name "bq",
   :block/created-at 1653754381703,
   :block/updated-at 1653754381703}
+ {:block/name "brian",
+  :block/created-at 1655242873749,
+  :block/updated-at 1655242873749}
  {:block/name "brian waligorski",
   :block/created-at 1649090099369,
   :block/updated-at 1649770001752}
