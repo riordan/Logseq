@@ -1,6 +1,6 @@
 title:: logseq/plans
 
-- ## Template Structure
+- Revised [[logseq/templates/Daily Notes]]
 	- Sundays:
 		- ((62a73923-0d4c-4e1c-a939-7fd90622dd86))
 		- Plan for the Week
