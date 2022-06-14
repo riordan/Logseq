@@ -23,7 +23,8 @@ title: logseq/templates/Daily Notes
 				- In [[TODO]]
 			- ### Day Thinking
 				- #### Today I will work on
-				- ###
+				- #### Today I should work on
+				- #### Today I would like to work on
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
