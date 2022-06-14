@@ -23,6 +23,7 @@
 		- End-of-Day Wrapup
 		  template:: eod
 		  template-including-parent:: false
+		  id:: 62a8f8a3-8e3a-4933-a94d-35cf93d8efe9
 			- What did you accomplish today?
 			- What did you learn today?
 			- What are the things you worked on today?
