@@ -1,5 +1,6 @@
 title:: logseq/templates/Daily Notes
 tags: template, smartblocks
+alias: Daily Notes
 
 - ## Base Template
 - [[logseq/templates/Daily Notes]]
