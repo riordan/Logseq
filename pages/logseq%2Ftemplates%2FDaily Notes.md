@@ -29,6 +29,9 @@ title: logseq/templates/Daily Notes
 		- ## Scratch
 - ## Instructions
 	- ### Review your schedule for the day
+	  id:: 62a89da8-158e-4a7a-a23d-f866fb3100a9
+	  collapsed:: true
 		- Use the Calendar Plugin to insert your work calendar
 		- Focus on the **Work Calendar** block with `⌘+.`
 		- Toggle Open Blocks with `esc t+o`
+		- Jump back to your journal view and prioritize for the day
