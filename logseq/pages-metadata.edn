@@ -1746,9 +1746,6 @@
  {:block/name "cyd harrell",
   :block/created-at 1649591845449,
   :block/updated-at 1649591845449}
- {:block/name "daily notes",
-  :block/created-at 1649686490332,
-  :block/updated-at 1654177201483}
  {:block/name "dailynote 2022",
   :block/created-at 1649373269273,
   :block/updated-at 1649373269273}
@@ -2766,6 +2763,9 @@
  {:block/name "logseq/templates",
   :block/created-at 1652121287210,
   :block/updated-at 1655211414099}
+ {:block/name "logseq/templates/daily notes",
+  :block/created-at 1655214695972,
+  :block/updated-at 1655214876464}
  {:block/name "loomis",
   :block/created-at 1649855354030,
   :block/updated-at 1649855354030}
@@ -3704,6 +3704,9 @@
  {:block/name "shyam deolaliker",
   :block/created-at 1649854973482,
   :block/updated-at 1649854973482}
+ {:block/name "smartblocks",
+  :block/created-at 1655214696161,
+  :block/updated-at 1655214696161}
  {:block/name "snipd",
   :block/created-at 1649373247200,
   :block/updated-at 1649373247200}
@@ -3882,6 +3885,9 @@
  {:block/name "tasks",
   :block/created-at 1649373268346,
   :block/updated-at 1649373268346}
+ {:block/name "template",
+  :block/created-at 1655214696161,
+  :block/updated-at 1655214696161}
  {:block/name "terrance young",
   :block/created-at 1649853913787,
   :block/updated-at 1649853913787}
