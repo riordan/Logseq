@@ -49,3 +49,4 @@ status: active
 	- Queries allow the building of structured data retrieval and searches making Logseq more functional.
 	- ### How to write Logseq Queries
 		- [https://www.youtube.com/watch?v=i9Xdj6WG_C0](Logseq Office Hours: Building Processes with Queries)
+-
