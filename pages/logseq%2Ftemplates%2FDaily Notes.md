@@ -1,6 +1,7 @@
 title:: logseq/templates/Daily Notes
 tags: template, smartblocks
 
+- ## Base Template
 - [[logseq/templates/Daily Notes]]
   collapsed:: true
   template:: daily
