@@ -1,8 +1,12 @@
-- [[Daily Notes]]
+title:: logseq/templates/Daily Notes
+tags: template, smartblocks
+
+- [[logseq/templates/Daily Notes]]
   collapsed:: true
   template:: daily
   template-including-parent:: false
   id:: 62926f96-222c-4865-b77f-35b12fcc23e8
+  title:: logseq/templates/Daily Notes
 	- Setup
 		- DONE Insert Today's Notebook Setup Checklist
 		- TODO INSERT Journaling Habit
