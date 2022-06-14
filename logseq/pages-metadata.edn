@@ -963,10 +963,10 @@
   :block/updated-at 1654885659284}
  {:block/name "2022/06/13",
   :block/created-at 1655126258566,
-  :block/updated-at 1655151990471}
+  :block/updated-at 1655217258599}
  {:block/name "2022/06/14",
   :block/created-at 1655179916720,
-  :block/updated-at 1655211396826}
+  :block/updated-at 1655217111068}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -2765,7 +2765,7 @@
   :block/updated-at 1655211414099}
  {:block/name "logseq/templates/daily notes",
   :block/created-at 1655214695972,
-  :block/updated-at 1655214876464}
+  :block/updated-at 1655217136510}
  {:block/name "loomis",
   :block/created-at 1649855354030,
   :block/updated-at 1649855354030}
