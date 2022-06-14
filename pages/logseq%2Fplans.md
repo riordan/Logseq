@@ -4,3 +4,4 @@ title:: logseq/plans
 	- Sundays:
 		- Daily Journal
 		- Plan for the Week
+			- (Embed Link to past Friday's weekly review)
