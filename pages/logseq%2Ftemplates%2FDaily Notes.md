@@ -10,8 +10,8 @@ title: logseq/templates/Daily Notes
 	  id:: 62926f96-222c-4865-b77f-35b12fcc23e8
 	  template:: daily
 	  template-including-parent:: false
-	  title:: Daily Notes
 	  collapsed:: true
+	  title::Daily Notes
 		- Setup
 			- DONE Insert Today's Notebook Setup Checklist
 			- TODO INSERT Journaling Habit
