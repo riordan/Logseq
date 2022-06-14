@@ -17,7 +17,7 @@ title: logseq/templates/Daily Notes
 			- TODO [Omnifocus](omnifocus://) task review
 		- ## Morning Journal {{renderer :smartblock, Journaling Prompts, New Smartblock, false}}
 		- ## Day Planning
-			- [Review](((62a89da8-158e-4a7a-a23d-f866fb3100a9))) your schedule for [Today](x-fantastical3://show?date=today)
+			- [Review](((62a89da8-158e-4a7a-a23d-f866fb3100a9))) your schedule for [Today](x-fantastical3://show?date=<% today %>)
 				-
 			- Review your schedule for [This Week](x-fantastical3://show?date=this week)
 		-
