@@ -7,7 +7,9 @@
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 			- Plus: What went well?
 			- Minus: What didn't go so well?
-			- Goals: How are you doing toward your [goals]((()))?
+			- Goals: How are you doing toward your [goals](((62a88f98-9b05-44a6-a6ca-c8cd0f59ff2d)))?
+				- Personal:
+				-
 			- Next: What will I focus on next week?
 		- [[Journaling Prompts]]
 		  template:: Journaling Prompts
