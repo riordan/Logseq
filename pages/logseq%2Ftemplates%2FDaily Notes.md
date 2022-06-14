@@ -5,7 +5,7 @@ alias: Daily Notes, logseq/templates/Daily Notes
 title: logseq/templates/Daily Notes
 ---
 
-- ## Weekday Base Template
+- ## Base Template
 	- [[logseq/templates/Daily Notes]]
 	  id:: 62926f96-222c-4865-b77f-35b12fcc23e8
 	  template:: daily
