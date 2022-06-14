@@ -18,6 +18,7 @@ title: logseq/templates/Daily Notes
 		- ## Morning Journal {{renderer :smartblock, Journaling Prompts, New Smartblock, false}}
 		- ## Day Planning
 			- Review your schedule for [Today](x-fantastical3://show?date=today)
+			- Review your schedule for [This Week](x-fantastical3://show?date=This Week)
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
