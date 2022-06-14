@@ -28,15 +28,12 @@ title: logseq/templates/Daily Notes
 					-
 				- #### Today I would like to work on
 					-
-		- ## Actual Work
-		- ## Today I worked on:
-		- ## I had these meetings:
+		- ## Actual Work & Scratch
 		- ## Wrapup
 			- What did you accomplish today?
 			- What did you learn today?
-			- What are the things you work on today?
+			- What are the things you worked on today?
 			- What do you want to do [Tomorrow](<% tomorrow %>)?
-		- ## Scratch
 - ## Instructions
 	- ### Review your schedule for the day
 	  id:: 62a89da8-158e-4a7a-a23d-f866fb3100a9
