@@ -20,6 +20,7 @@
 			- What's one thing I want to accomplish today?
 			- What's one challenge I may experience today?
 			- Any other thoughts?
+		- End-of-Day Wrapup
 		- [[Meeting Minutes]]
 		  template:: Meeting Minutes
 		  template-including-parent:: false
