@@ -16,7 +16,12 @@ title: logseq/templates/Daily Notes
 			- TODO Review your schedule for the week
 			- TODO [Omnifocus](omnifocus://) task review
 		- ## Morning Journal
-			-
+			- {{renderer :smartblock, Journaling Prompts, Insert Journal, true}}
+			- What's one thing I learned yesterday?
+			- What's one thing I'm grateful for today?
+			- What's one thing I want to accomplish today?
+			- What's one challenge I may experience today?
+			- Any other thoughts?
 		- ## Today I worked on:
 		- ## I had these meetings:
 		- ## Wrapup
