@@ -2,6 +2,6 @@
 - Goals:
 	- [[OKRs]]
 		- [Data and Insights OKRs]
-		-
+		- Personal Annual OKRs
 - [[Work Priorities]]
 - [Commitments]([[commitment]])
