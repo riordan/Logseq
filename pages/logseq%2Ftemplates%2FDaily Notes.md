@@ -29,7 +29,7 @@ title: logseq/templates/Daily Notes
 					-
 		- ## Actual Work & Scratch
 		- ## End-of-Day Wrapup
-			- [EoD]() {{renderer :smartblock, eod, Insert EoD, true}}
+			- [EoD](((62a8f8a3-8e3a-4933-a94d-35cf93d8efe9))) {{renderer :smartblock, eod, Insert EoD, true}}
 - ## Instructions
 	- ### Review your schedule for the day
 	  id:: 62a89da8-158e-4a7a-a23d-f866fb3100a9
