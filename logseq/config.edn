@@ -18,7 +18,7 @@
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
  :default-templates
- {:journals "daily"}
+ {:journals ""}
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
@@ -218,6 +218,6 @@
  {:text "[[quick capture]] **{time}**: \n - {text} from {url}"
   :media "[[quick capture]] **{time}**: \n - {url}"}
  :ui/show-brackets? false
- :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 1}, :calendar {:counts 4}, :paint {:counts 1}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 2}, :rotate {:counts 1}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 1}}
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 2}, :calendar {:counts 4}, :paint {:counts 1}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 2}, :rotate {:counts 1}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 1}}
  
  }
