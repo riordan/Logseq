@@ -1,4 +1,6 @@
 - Docs:
 	- ![Full Report - Low Quality Photocopy](../assets/Buzzfeed-Complete-Copy-WSJ-Content-Audit_1655395429612_0.pdf)
 	- Exerpts from NYT
-- Notes
+- ## Reflections:
+	-
+- ## Reflections
