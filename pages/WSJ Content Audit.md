@@ -3,7 +3,8 @@
 	- Excerpts from NYT
 		- ![About This Report.pdf](../assets/About_This_Report_1655396064097_0.pdf)
 		- ![Chapters 03-05.pdf](../assets/Chapters_03-05_1655396075840_0.pdf)
-		-
+		- ![Chapters 06-08.pdf](../assets/Chapters_06-08_1655396081936_0.pdf)
+		- ![Chapters 11.pdf](../assets/Chapters_11_1655396089349_0.pdf)
 - ## Reflections:
 	- #WSJ [[Strategy]] Hierarchy
 		- Dow Jones Mission:
