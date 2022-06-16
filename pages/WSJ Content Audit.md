@@ -2,7 +2,9 @@
 	- ![Full Report - Low Quality Photocopy](../assets/Buzzfeed-Complete-Copy-WSJ-Content-Audit_1655395429612_0.pdf)
 	- Exerpts from NYT
 - ## Reflections:
-	- WSJ [[Strategy]] Hierarchy
+	- #WSJ [[Strategy]] Hierarchy
 		- Dow Jones Mission:
+			- To be the definitive source of news and insight for decision-makers around the world.
+		- #WSJ Mission
 			-
 - ## Reflections
