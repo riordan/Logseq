@@ -1,6 +1,9 @@
 - Docs:
 	- ![Full Report - Low Quality Photocopy](../assets/Buzzfeed-Complete-Copy-WSJ-Content-Audit_1655395429612_0.pdf)
 	- Excerpts from NYT
+		- ![About This Report.pdf](../assets/About_This_Report_1655396064097_0.pdf)
+		- ![Chapters 03-05.pdf](../assets/Chapters_03-05_1655396075840_0.pdf)
+		-
 - ## Reflections:
 	- #WSJ [[Strategy]] Hierarchy
 		- Dow Jones Mission:
