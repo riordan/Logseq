@@ -9,5 +9,6 @@
 			- We believe that trusted, factual journalism is right for the world and good for business.
 		- Strategy:
 			- To understand the things that most distinguish our journalism and to pair that news mission with a thorough understanding of the value we provide our members - current and future.
-		-
+		- Vision
+			- To be known for our down-the-middle journalism as well as our openness, accessibility, resonating experiences, and awesome innovation.
 - ## Reflections
