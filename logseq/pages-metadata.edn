@@ -984,10 +984,25 @@
   :block/updated-at 1655247119665}
  {:block/name "2022/06/15",
   :block/created-at 1655243074062,
-  :block/updated-at 1655329122945}
+  :block/updated-at 1655407509254}
  {:block/name "2022/06/16",
   :block/created-at 1655329094884,
-  :block/updated-at 1655395408381}
+  :block/updated-at 1655398960280}
+ {:block/name "2022/06/17",
+  :block/created-at 1655438432444,
+  :block/updated-at 1655491683125}
+ {:block/name "2022/06/18",
+  :block/created-at 1655524851659,
+  :block/updated-at 1655524851659}
+ {:block/name "2022/06/19",
+  :block/created-at 1655611205200,
+  :block/updated-at 1655611205200}
+ {:block/name "2022/06/20",
+  :block/created-at 1655697624106,
+  :block/updated-at 1655697624106}
+ {:block/name "2022/06/21",
+  :block/created-at 1655784084240,
+  :block/updated-at 1655812627825}
  {:block/name "2022/memorial day weekend",
   :block/created-at 1653754381656,
   :block/updated-at 1653763324751}
@@ -1087,6 +1102,9 @@
  {:block/name "ad blocking",
   :block/created-at 1649855503976,
   :block/updated-at 1649855503976}
+ {:block/name "ad map 2.0",
+  :block/created-at 1655398936461,
+  :block/updated-at 1655408136746}
  {:block/name "ad sales",
   :block/created-at 1649373269457,
   :block/updated-at 1649373269457}
@@ -2751,6 +2769,9 @@
  {:block/name "lauren kauffman",
   :block/created-at 1648581999496,
   :block/updated-at 1648581999496}
+ {:block/name "ld",
+  :block/created-at 1655480165842,
+  :block/updated-at 1655480165842}
  {:block/name "leadership meeting",
   :block/created-at 1649773648978,
   :block/updated-at 1649773648978}
