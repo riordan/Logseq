@@ -1,7 +1,6 @@
 - # First Vaccine Appointment
-	- # **Appointment confirmed!**
-	  
-	  Please keep a copy of this confirmation. We sent a copy of this confirmation and detailed instructions for the appointment todr@daveriordan.com. Please allow up to 24 hours to receive the confirmation.
+	- # **Appointment confirmed!** [[2022/06/24]]
+	- Please keep a copy of this confirmation. We sent a copy of this confirmation and detailed instructions for the appointment todr@daveriordan.com. Please allow up to 24 hours to receive the confirmation.
 	  
 	  Need another appointment for you, a family member or someone else?**Confirmation number:** 71VJX58YFYIRWK## Vaccine
 	  
