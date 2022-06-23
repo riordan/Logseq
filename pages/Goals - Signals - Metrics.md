@@ -1,3 +1,3 @@
 - ## Workshop Planning
 	- ### Resources:
-	-
+		- [Example Agenda for a GSM Workshop](https://www.slideshare.net/LizDonovan3/success-metrics-workshop-outline)
