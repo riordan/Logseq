@@ -12,5 +12,25 @@ title:: Ad Map 2.0
 	- ((62ab8351-2037-4fd9-88c9-1299fddb1aec))
 	- Experimentation
 	- ### Experimentation Roadmap
-		-
+		- # now
+			- [[Goals - Signals - Metrics]] workshop @monday
+			  collapsed:: true
+				- separate workshops to train and refine
+				  collapsed:: true
+					- For Analytics: workshop process
+					- For PM & PD ((product sense): product health and workshop process
+					- Ad team: ad map metrics and building familiarity with health metrics
+			- Draft base metrics - guardrails
+				- Page depth
+				- Depth post exposure
+				- Time in sesion
+			- Time in session post exposure
+			- Admap Experimentation Plan
+				-
+		- # Next
+			- Admap Experimentation template
+				- Monitoring
+			- Product Health metrics report - pm internal
+			-
+			-
 -
