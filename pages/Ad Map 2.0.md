@@ -13,6 +13,7 @@ title:: Ad Map 2.0
 	- Experimentation
 	- ### Experimentation Roadmap
 		- # now
+		  collapsed:: true
 			- [[Goals - Signals - Metrics]] workshop @monday
 			  collapsed:: true
 				- separate workshops to train and refine
@@ -28,9 +29,11 @@ title:: Ad Map 2.0
 			- Admap Experimentation Plan
 				-
 		- # Next
+		  collapsed:: true
 			- Admap Experimentation template
 				- Monitoring
 			- Product Health metrics report - pm internal
-			-
+			- Ga4 experiments
+			- Ga4 experiment metrics
 			-
 -
