@@ -5,5 +5,5 @@
 		- [Kerry Rodden - GV Library - How to choose the right UX Metrics for your product](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.7dxtcn4ow)
 	- ### Overview
 		- Run a UX Metrics workshop for experimentation
-		-
+		- Do it with the PMs on Monday
 		-
