@@ -218,6 +218,6 @@
  {:text "[[quick capture]] **{time}**: \n - {text} from {url}"
   :media "[[quick capture]] **{time}**: \n - {url}"}
  :ui/show-brackets? false
- :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 2}, :parentheses {:counts 0}, :command {:counts 2}, :calendar {:counts 5}, :paint {:counts 1}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 4}, :rotate {:counts 1}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 1}}
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 2}, :parentheses {:counts 0}, :command {:counts 2}, :calendar {:counts 6}, :paint {:counts 1}, :list {:counts 1}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 4}, :rotate {:counts 1}, :tag {:counts 0}, :brackets {:counts 2}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 1}}
  
  }
