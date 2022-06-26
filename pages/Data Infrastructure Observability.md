@@ -13,9 +13,10 @@ tags: dibb
 	- Rather than asking all members of my team to copy/paste the dozens-to-hundreds google data studio dashboards and datasets they've got access to into a spreadsheet by hand, this seems like something that is likely better addressed by Google Workspace administrative tools, in the form of reports (what's there; who's the owner; who's got access), tools (to make batch changes), and APIs (potentially, for long-term visibility into Data Studio usage metrics and integration into broader Data & Insights infrastructure).
 	- While I'm ashamed to admit that this is the kind of ticket that usually winds up becoming a phone call, it would be great to gain more insight and control over the Data Studio situation.
 	- In the short-term, that would mean:
-		- 1. Getting a list of all Data Studio dashboards with associated owner/editor/viewer metadata
+		- id:: 09e972ed-7e87-4104-a6a3-ba15f626a81c
+		  1. Getting a list of all Data Studio dashboards with associated owner/editor/viewer metadata
 		  2. The ability to look into them. _We'll want to determine the degree of access here based on the above; if we feel that the scope of use of the Data Studio product is sufficiently within my purview (either via my role overall or management of overwhelming majority of users), then I'd be happy to have that tied to my google workspace account. Otherwise, I'd be happy to pair with a member of the Systems team to review potentially relevant ones._
 		  3. For pertinent dashboards (and the corresponding datasets that power them), we validate to ensure appropriate access permissions are set.
-	- THEN… any new dashboards created by the Analytics team go through formalized release process that ensures that a
-	- This way we don't have to go through the remediation process on a regular basis and it can serve as a bootstrapping of  the overall effort.
+	- THEN… any new dashboards created by the Analytics team go through formalized release process that ensures that put them in a registry and ensure that the creator follows [the above](((09e972ed-7e87-4104-a6a3-ba15f626a81c)))
+	- This way we don't have to go through the remediation process on a regular basis and it can serve as a .bootstrapping of  the overall effort.
 	- Longer term, this underlying system is incredibly valuable for other efforts in the Data & Insights group, which is why there is the potential for needing API access. Our data engineering team is responsible for Google BigQuery, a database with nearly 1900 datasets and hundreds of data pipelines.
