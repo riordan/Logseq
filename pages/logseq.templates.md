@@ -1,3 +1,8 @@
+---
+title: logseq/templates
+alias: template, templates
+---
+
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- Journal Organization

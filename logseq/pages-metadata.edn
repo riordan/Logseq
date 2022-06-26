@@ -1,7 +1,4 @@
-[{:block/name "",
-  :block/created-at 1655220569248,
-  :block/updated-at 1655220569248}
- {:block/name " subscriber profiles",
+[{:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
  {:block/name "#0 dayplan",
@@ -385,8 +382,8 @@
   :block/created-at 1649591849729,
   :block/updated-at 1649591849729}
  {:block/name "2021/11/29",
-  :block/created-at 1655126296666,
-  :block/updated-at 1655126296666}
+  :block/created-at 1656272683996,
+  :block/updated-at 1656272683996}
  {:block/name "2021/11/30",
   :block/created-at 1649373235359,
   :block/updated-at 1649373235359}
@@ -394,62 +391,62 @@
   :block/created-at 1649090110495,
   :block/updated-at 1649090110495}
  {:block/name "2021/12/03",
-  :block/created-at 1655126296626,
-  :block/updated-at 1655126296626}
+  :block/created-at 1656272683958,
+  :block/updated-at 1656272683958}
  {:block/name "2021/12/05",
-  :block/created-at 1655126296590,
-  :block/updated-at 1655126296590}
+  :block/created-at 1656272683923,
+  :block/updated-at 1656272683923}
  {:block/name "2021/12/06",
   :block/created-at 1649373282657,
   :block/updated-at 1649373282657}
  {:block/name "2021/12/07",
-  :block/created-at 1655126296390,
-  :block/updated-at 1655126296390}
+  :block/created-at 1656272683755,
+  :block/updated-at 1656272683755}
  {:block/name "2021/12/08",
-  :block/created-at 1655126296285,
-  :block/updated-at 1655126296285}
+  :block/created-at 1656272683662,
+  :block/updated-at 1656272683662}
  {:block/name "2021/12/09",
-  :block/created-at 1655126296155,
-  :block/updated-at 1655126296155}
+  :block/created-at 1656272683564,
+  :block/updated-at 1656272683564}
  {:block/name "2021/12/10",
-  :block/created-at 1655126296043,
-  :block/updated-at 1655126296043}
+  :block/created-at 1656272683469,
+  :block/updated-at 1656272683469}
  {:block/name "2021/12/11",
-  :block/created-at 1655126295995,
-  :block/updated-at 1655126295995}
+  :block/created-at 1656272683421,
+  :block/updated-at 1656272683421}
  {:block/name "2021/12/13",
-  :block/created-at 1655126295910,
-  :block/updated-at 1655126295910}
+  :block/created-at 1656272683343,
+  :block/updated-at 1656272683343}
  {:block/name "2021/12/14",
-  :block/created-at 1655126295794,
-  :block/updated-at 1655126295794}
+  :block/created-at 1656272683244,
+  :block/updated-at 1656272683244}
  {:block/name "2021/12/15",
-  :block/created-at 1655126295678,
-  :block/updated-at 1655126295678}
+  :block/created-at 1656272683146,
+  :block/updated-at 1656272683146}
  {:block/name "2021/12/16",
   :block/created-at 1651490745860,
   :block/updated-at 1653758306985}
  {:block/name "2021/12/17",
-  :block/created-at 1655126295408,
-  :block/updated-at 1655126295408}
+  :block/created-at 1656272682930,
+  :block/updated-at 1656272682930}
  {:block/name "2021/12/18",
-  :block/created-at 1655126295334,
-  :block/updated-at 1655126295334}
+  :block/created-at 1656272682860,
+  :block/updated-at 1656272682860}
  {:block/name "2021/12/20",
-  :block/created-at 1655126295277,
-  :block/updated-at 1655126295277}
+  :block/created-at 1656272682812,
+  :block/updated-at 1656272682812}
  {:block/name "2021/12/21",
-  :block/created-at 1655126295193,
-  :block/updated-at 1655126295193}
+  :block/created-at 1656272682741,
+  :block/updated-at 1656272682741}
  {:block/name "2021/12/22",
-  :block/created-at 1655126295128,
-  :block/updated-at 1655126295128}
+  :block/created-at 1656272682695,
+  :block/updated-at 1656272682695}
  {:block/name "2021/12/23",
-  :block/created-at 1655126295093,
-  :block/updated-at 1655126295093}
+  :block/created-at 1656272682665,
+  :block/updated-at 1656272682665}
  {:block/name "2021/12/24",
-  :block/created-at 1655126295069,
-  :block/updated-at 1655126295069}
+  :block/created-at 1656272682644,
+  :block/updated-at 1656272682644}
  {:block/name "2021/12/25",
   :block/created-at 1649591862756,
   :block/updated-at 1649591862756}
@@ -460,11 +457,11 @@
   :block/created-at 1649591862760,
   :block/updated-at 1649591862760}
  {:block/name "2021/12/28",
-  :block/created-at 1655126294999,
-  :block/updated-at 1655126294999}
+  :block/created-at 1656272682584,
+  :block/updated-at 1656272682584}
  {:block/name "2021/12/31",
-  :block/created-at 1655126294958,
-  :block/updated-at 1655126294958}
+  :block/created-at 1656272682550,
+  :block/updated-at 1656272682550}
  {:block/name "2022",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
@@ -539,23 +536,23 @@
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
  {:block/name "2022/01/01",
-  :block/created-at 1655126294925,
-  :block/updated-at 1655126294925}
+  :block/created-at 1656272682520,
+  :block/updated-at 1656272682520}
  {:block/name "2022/01/03",
-  :block/created-at 1655126294879,
-  :block/updated-at 1655126294879}
+  :block/created-at 1656272682480,
+  :block/updated-at 1656272682480}
  {:block/name "2022/01/04",
   :block/created-at 1649373274180,
   :block/updated-at 1649855617479}
  {:block/name "2022/01/05",
-  :block/created-at 1655126294721,
-  :block/updated-at 1655126294721}
+  :block/created-at 1656272682351,
+  :block/updated-at 1656272682351}
  {:block/name "2022/01/06",
   :block/created-at 1649373271642,
   :block/updated-at 1649857355857}
  {:block/name "2022/01/07",
-  :block/created-at 1655126294612,
-  :block/updated-at 1655126294612}
+  :block/created-at 1656272682258,
+  :block/updated-at 1656272682258}
  {:block/name "2022/01/10",
   :block/created-at 1649373276755,
   :block/updated-at 1649855402650}
@@ -569,8 +566,8 @@
   :block/created-at 1649373274753,
   :block/updated-at 1651232093322}
  {:block/name "2022/01/14",
-  :block/created-at 1655126294313,
-  :block/updated-at 1655126294313}
+  :block/created-at 1656272682009,
+  :block/updated-at 1656272682009}
  {:block/name "2022/01/16",
   :block/created-at 1649373240787,
   :block/updated-at 1649373240787}
@@ -578,8 +575,8 @@
   :block/created-at 1649339480260,
   :block/updated-at 1649339480260}
  {:block/name "2022/01/18",
-  :block/created-at 1655126294201,
-  :block/updated-at 1655126294201}
+  :block/created-at 1656272681912,
+  :block/updated-at 1656272681912}
  {:block/name "2022/01/19",
   :block/created-at 1649373233928,
   :block/updated-at 1649373233928}
@@ -587,17 +584,17 @@
   :block/created-at 1649373280581,
   :block/updated-at 1649855817513}
  {:block/name "2022/01/21",
-  :block/created-at 1655126293961,
-  :block/updated-at 1655126293961}
+  :block/created-at 1656272681723,
+  :block/updated-at 1656272681723}
  {:block/name "2022/01/24",
-  :block/created-at 1655126293440,
-  :block/updated-at 1655126293440}
+  :block/created-at 1656272681293,
+  :block/updated-at 1656272681293}
  {:block/name "2022/01/25",
-  :block/created-at 1655126293642,
-  :block/updated-at 1655126293642}
+  :block/created-at 1656272681458,
+  :block/updated-at 1656272681458}
  {:block/name "2022/01/26",
-  :block/created-at 1655126293580,
-  :block/updated-at 1655126293580}
+  :block/created-at 1656272681403,
+  :block/updated-at 1656272681403}
  {:block/name "2022/01/27",
   :block/created-at 1649339416477,
   :block/updated-at 1649339416477}
@@ -605,14 +602,14 @@
   :block/created-at 1649339416505,
   :block/updated-at 1649339416505}
  {:block/name "2022/01/29",
-  :block/created-at 1655126293526,
-  :block/updated-at 1655126293526}
+  :block/created-at 1656272681359,
+  :block/updated-at 1656272681359}
  {:block/name "2022/01/30",
-  :block/created-at 1655126293452,
-  :block/updated-at 1655126293452}
+  :block/created-at 1656272681299,
+  :block/updated-at 1656272681299}
  {:block/name "2022/01/31",
-  :block/created-at 1655126293376,
-  :block/updated-at 1655126293376}
+  :block/created-at 1656272681235,
+  :block/updated-at 1656272681235}
  {:block/name "2022/02",
   :block/created-at 1649090073481,
   :block/updated-at 1649090073481}
@@ -623,77 +620,71 @@
   :block/created-at 1649373277217,
   :block/updated-at 1649373277217}
  {:block/name "2022/02/03",
-  :block/created-at 1655126293221,
-  :block/updated-at 1655126293221}
+  :block/created-at 1656272681107,
+  :block/updated-at 1656272681107}
  {:block/name "2022/02/04",
-  :block/created-at 1655126293217,
-  :block/updated-at 1655126293217}
+  :block/created-at 1656272681105,
+  :block/updated-at 1656272681105}
  {:block/name "2022/02/05",
-  :block/created-at 1655126293220,
-  :block/updated-at 1655126293220}
+  :block/created-at 1656272681107,
+  :block/updated-at 1656272681107}
  {:block/name "2022/02/07",
   :block/created-at 1649373274880,
   :block/updated-at 1653763873072}
  {:block/name "2022/02/08",
-  :block/created-at 1655126293031,
-  :block/updated-at 1655126293031}
+  :block/created-at 1656272680955,
+  :block/updated-at 1656272680955}
  {:block/name "2022/02/09",
-  :block/created-at 1655126292973,
-  :block/updated-at 1655126292973}
+  :block/created-at 1656272680908,
+  :block/updated-at 1656272680908}
  {:block/name "2022/02/10",
-  :block/created-at 1655126292918,
-  :block/updated-at 1655126292918}
+  :block/created-at 1656272680860,
+  :block/updated-at 1656272680860}
  {:block/name "2022/02/11",
-  :block/created-at 1655126292915,
-  :block/updated-at 1655126292915}
+  :block/created-at 1656272680858,
+  :block/updated-at 1656272680858}
  {:block/name "2022/02/12",
-  :block/created-at 1655126292917,
-  :block/updated-at 1655126292917}
+  :block/created-at 1656272680860,
+  :block/updated-at 1656272680860}
  {:block/name "2022/02/14",
   :block/created-at 1649373270044,
   :block/updated-at 1649373270044}
  {:block/name "2022/02/15",
-  :block/created-at 1655126292861,
-  :block/updated-at 1655126292861}
+  :block/created-at 1656272680815,
+  :block/updated-at 1656272680815}
  {:block/name "2022/02/16",
   :block/created-at 1649373273529,
   :block/updated-at 1649373273529}
  {:block/name "2022/02/17",
-  :block/created-at 1655126292734,
-  :block/updated-at 1655126292734}
+  :block/created-at 1656272680732,
+  :block/updated-at 1656272680732}
  {:block/name "2022/02/18",
-  :block/created-at 1655126292729,
-  :block/updated-at 1655126292729}
+  :block/created-at 1656272680730,
+  :block/updated-at 1656272680730}
  {:block/name "2022/02/19",
-  :block/created-at 1655126292734,
-  :block/updated-at 1655126292734}
+  :block/created-at 1656272680731,
+  :block/updated-at 1656272680731}
  {:block/name "2022/02/20",
-  :block/created-at 1655126292625,
-  :block/updated-at 1655126292625}
+  :block/created-at 1656272680684,
+  :block/updated-at 1656272680684}
  {:block/name "2022/02/21",
   :block/created-at 1649373269186,
   :block/updated-at 1649373269186}
  {:block/name "2022/02/22",
-  :block/created-at 1655126292478,
-  :block/updated-at 1655126292478}
+  :block/created-at 1656272680562,
+  :block/updated-at 1656272680562}
  {:block/name "2022/02/23",
-  :block/created-at 1655126292389,
-  :block/updated-at 1655126292389}
+  :block/created-at 1656272680491,
+  :block/updated-at 1656272680491}
  {:block/name "2022/02/24",
-  :block/created-at 1655126292312,
-  :block/updated-at 1655126292312}
+  :block/created-at 1656272680489,
+  :block/updated-at 1656272680489}
  {:block/name "2022/02/25",
-  :block/created-at 1655126292309,
-  :block/updated-at 1655126292309}
- {:block/name "2022/02/26",
-  :block/created-at 1655126292312,
-  :block/updated-at 1655126292312}
- {:block/name "2022/02/27",
-  :block/created-at 1655126292250,
-  :block/updated-at 1655126292250}
+  :block/created-at 1656272680435,
+  :block/updated-at 1656272680435}
  {:block/name "2022/02/28",
-  :block/created-at 1655126292200,
-  :block/updated-at 1655126292200}
+  :block/created-at 1656272680375,
+  :block/updated-at 1656272680375}
  {:block/name "2022/03",
   :block/created-at 1647826706277,
   :block/updated-at 1647826706277}
@@ -704,8 +695,8 @@
   :block/created-at 1649373277263,
   :block/updated-at 1649855732085}
  {:block/name "2022/03/03",
-  :block/created-at 1655126292005,
-  :block/updated-at 1655126292005}
+  :block/created-at 1656272680219,
+  :block/updated-at 1656272680219}
  {:block/name "2022/03/04",
   :block/created-at 1649339417492,
   :block/updated-at 1649339417492}
@@ -713,8 +704,8 @@
   :block/created-at 1649339417320,
   :block/updated-at 1649339417320}
  {:block/name "2022/03/06",
-  :block/created-at 1655126291972,
-  :block/updated-at 1655126291972}
+  :block/created-at 1656272680182,
+  :block/updated-at 1656272680182}
  {:block/name "2022/03/07",
   :block/created-at 1649373276791,
   :block/updated-at 1653759624078}
@@ -725,35 +716,35 @@
   :block/created-at 1649373272061,
   :block/updated-at 1649373272061}
  {:block/name "2022/03/10",
-  :block/created-at 1655126291742,
-  :block/updated-at 1655126291742}
+  :block/created-at 1656272679993,
+  :block/updated-at 1656272679993}
  {:block/name "2022/03/11",
-  :block/created-at 1655126291738,
-  :block/updated-at 1655126291738}
+  :block/created-at 1656272679991,
+  :block/updated-at 1656272679991}
  {:block/name "2022/03/12",
-  :block/created-at 1655126291741,
-  :block/updated-at 1655126291741}
+  :block/created-at 1656272679993,
+  :block/updated-at 1656272679993}
  {:block/name "2022/03/13",
-  :block/created-at 1655126291701,
-  :block/updated-at 1655126291701}
+  :block/created-at 1656272679960,
+  :block/updated-at 1656272679960}
  {:block/name "2022/03/14",
-  :block/created-at 1655126291655,
-  :block/updated-at 1655126291655}
+  :block/created-at 1656272679921,
+  :block/updated-at 1656272679921}
  {:block/name "2022/03/15",
   :block/created-at 1649373269498,
   :block/updated-at 1653759078593}
  {:block/name "2022/03/16",
-  :block/created-at 1655126291530,
-  :block/updated-at 1655126291530}
+  :block/created-at 1656272679816,
+  :block/updated-at 1656272679816}
  {:block/name "2022/03/17",
-  :block/created-at 1655126291489,
-  :block/updated-at 1655126291489}
+  :block/created-at 1656272679779,
+  :block/updated-at 1656272679779}
  {:block/name "2022/03/18",
-  :block/created-at 1655126291485,
-  :block/updated-at 1655126291485}
+  :block/created-at 1656272679777,
+  :block/updated-at 1656272679777}
  {:block/name "2022/03/19",
-  :block/created-at 1655126291488,
-  :block/updated-at 1655126291488}
+  :block/created-at 1656272679779,
+  :block/updated-at 1656272679779}
  {:block/name "2022/03/20",
   :block/created-at 1651489841190,
   :block/updated-at 1651489841190}
@@ -764,26 +755,26 @@
   :block/created-at 1647826710515,
   :block/updated-at 1649255238272}
  {:block/name "2022/03/23",
-  :block/created-at 1655126291281,
-  :block/updated-at 1655126291281}
+  :block/created-at 1656272679612,
+  :block/updated-at 1656272679612}
  {:block/name "2022/03/24",
   :block/created-at 1648154560211,
   :block/updated-at 1649255236249}
  {:block/name "2022/03/25",
-  :block/created-at 1655126291202,
-  :block/updated-at 1655126291202}
+  :block/created-at 1656272679547,
+  :block/updated-at 1656272679547}
  {:block/name "2022/03/28",
-  :block/created-at 1655126291150,
-  :block/updated-at 1655126291150}
+  :block/created-at 1656272679502,
+  :block/updated-at 1656272679502}
  {:block/name "2022/03/29",
-  :block/created-at 1655126291076,
-  :block/updated-at 1655126291076}
+  :block/created-at 1656272679452,
+  :block/updated-at 1656272679452}
  {:block/name "2022/03/30",
-  :block/created-at 1655126291036,
-  :block/updated-at 1655126291036}
+  :block/created-at 1656272679421,
+  :block/updated-at 1656272679421}
  {:block/name "2022/03/31",
-  :block/created-at 1655126291001,
-  :block/updated-at 1655126291001}
+  :block/created-at 1656272679394,
+  :block/updated-at 1656272679394}
  {:block/name "2022/04",
   :block/created-at 1648481774920,
   :block/updated-at 1648481774920}
@@ -794,8 +785,8 @@
   :block/created-at 1649044849355,
   :block/updated-at 1649874221672}
  {:block/name "2022/04/05",
-  :block/created-at 1655126290859,
-  :block/updated-at 1655126290859}
+  :block/created-at 1656272679284,
+  :block/updated-at 1656272679284}
  {:block/name "2022/04/06",
   :block/created-at 1649217638958,
   :block/updated-at 1649270455303}
@@ -803,8 +794,8 @@
   :block/created-at 1648650526305,
   :block/updated-at 1649348164195}
  {:block/name "2022/04/08",
-  :block/created-at 1655126290673,
-  :block/updated-at 1655126290673}
+  :block/created-at 1656272679143,
+  :block/updated-at 1656272679143}
  {:block/name "2022/04/10",
   :block/created-at 1649591834091,
   :block/updated-at 1649676689509}
@@ -827,38 +818,38 @@
   :block/created-at 1649683592230,
   :block/updated-at 1649683592230}
  {:block/name "2022/04/17",
-  :block/created-at 1655126290318,
-  :block/updated-at 1655126290318}
+  :block/created-at 1656272678854,
+  :block/updated-at 1656272678854}
  {:block/name "2022/04/18",
-  :block/created-at 1655126290287,
-  :block/updated-at 1655126290287}
+  :block/created-at 1656272678836,
+  :block/updated-at 1656272678836}
  {:block/name "2022/04/19",
-  :block/created-at 1655126290227,
-  :block/updated-at 1655126290227}
+  :block/created-at 1656272678797,
+  :block/updated-at 1656272678797}
  {:block/name "2022/04/20",
-  :block/created-at 1655126290164,
-  :block/updated-at 1655126290164}
+  :block/created-at 1656272678742,
+  :block/updated-at 1656272678742}
  {:block/name "2022/04/21",
-  :block/created-at 1655126290121,
-  :block/updated-at 1655126290121}
+  :block/created-at 1656272678707,
+  :block/updated-at 1656272678707}
  {:block/name "2022/04/24",
   :block/created-at 1655316477095,
   :block/updated-at 1655316477095}
  {:block/name "2022/04/25",
-  :block/created-at 1655126290082,
-  :block/updated-at 1655126290082}
+  :block/created-at 1656272678673,
+  :block/updated-at 1656272678673}
  {:block/name "2022/04/26",
-  :block/created-at 1655126290041,
-  :block/updated-at 1655126290041}
+  :block/created-at 1656272678641,
+  :block/updated-at 1656272678641}
  {:block/name "2022/04/27",
-  :block/created-at 1655126289989,
-  :block/updated-at 1655126289989}
+  :block/created-at 1656272678594,
+  :block/updated-at 1656272678594}
  {:block/name "2022/04/28",
-  :block/created-at 1655126289917,
-  :block/updated-at 1655126289917}
+  :block/created-at 1656272678541,
+  :block/updated-at 1656272678541}
  {:block/name "2022/04/29",
-  :block/created-at 1655126289842,
-  :block/updated-at 1655126289842}
+  :block/created-at 1656272678481,
+  :block/updated-at 1656272678481}
  {:block/name "2022/05",
   :block/created-at 1651490379931,
   :block/updated-at 1651490379931}
@@ -866,20 +857,20 @@
   :block/created-at 1655316477437,
   :block/updated-at 1655316477437}
  {:block/name "2022/05/02",
-  :block/created-at 1655126289719,
-  :block/updated-at 1655126289719}
+  :block/created-at 1656272678397,
+  :block/updated-at 1656272678397}
  {:block/name "2022/05/03",
-  :block/created-at 1655126289630,
-  :block/updated-at 1655126289630}
+  :block/created-at 1656272678335,
+  :block/updated-at 1656272678335}
  {:block/name "2022/05/04",
-  :block/created-at 1655126289590,
-  :block/updated-at 1655126289590}
+  :block/created-at 1656272678297,
+  :block/updated-at 1656272678297}
  {:block/name "2022/05/05",
-  :block/created-at 1655126289562,
-  :block/updated-at 1655126289562}
+  :block/created-at 1656272678274,
+  :block/updated-at 1656272678274}
  {:block/name "2022/05/06",
-  :block/created-at 1655126289521,
-  :block/updated-at 1655126289521}
+  :block/created-at 1656272678241,
+  :block/updated-at 1656272678241}
  {:block/name "2022/05/08",
   :block/created-at 1651864867046,
   :block/updated-at 1651864867046}
@@ -894,7 +885,7 @@
   :block/updated-at 1651864882564}
  {:block/name "2022/05/12",
   :block/created-at 1651864890789,
-  :block/updated-at 1653758386939}
+  :block/updated-at 1656271603696}
  {:block/name "2022/05/13",
   :block/created-at 1651589731297,
   :block/updated-at 1651589731297}
@@ -908,23 +899,23 @@
   :block/created-at 1652798071190,
   :block/updated-at 1653757947305}
  {:block/name "2022/05/19",
-  :block/created-at 1655126289108,
-  :block/updated-at 1655126289108}
+  :block/created-at 1656272677917,
+  :block/updated-at 1656272677917}
  {:block/name "2022/05/20",
-  :block/created-at 1655126289056,
-  :block/updated-at 1655126289056}
+  :block/created-at 1656272677877,
+  :block/updated-at 1656272677877}
  {:block/name "2022/05/23",
-  :block/created-at 1655126289014,
-  :block/updated-at 1655126289014}
+  :block/created-at 1656272677841,
+  :block/updated-at 1656272677841}
  {:block/name "2022/05/24",
   :block/created-at 1653326139702,
   :block/updated-at 1653428234854}
  {:block/name "2022/05/25",
-  :block/created-at 1655126288923,
-  :block/updated-at 1655126288923}
+  :block/created-at 1656272677777,
+  :block/updated-at 1656272677777}
  {:block/name "2022/05/26",
-  :block/created-at 1655126288841,
-  :block/updated-at 1655126288841}
+  :block/created-at 1656272677730,
+  :block/updated-at 1656272677730}
  {:block/name "2022/05/27",
   :block/created-at 1653754381651,
   :block/updated-at 1653754381651}
@@ -938,8 +929,8 @@
   :block/created-at 1653754381655,
   :block/updated-at 1653754381655}
  {:block/name "2022/05/31",
-  :block/created-at 1655126288689,
-  :block/updated-at 1655126288689}
+  :block/created-at 1656272677607,
+  :block/updated-at 1656272677607}
  {:block/name "2022/06",
   :block/created-at 1654091151572,
   :block/updated-at 1654091151572}
@@ -947,17 +938,17 @@
   :block/created-at 1654056206662,
   :block/updated-at 1655247089583}
  {:block/name "2022/06/02",
-  :block/created-at 1655126288577,
-  :block/updated-at 1655126288577}
+  :block/created-at 1656272677524,
+  :block/updated-at 1656272677524}
  {:block/name "2022/06/03",
   :block/created-at 1654230606863,
   :block/updated-at 1654290339283}
  {:block/name "2022/06/04",
-  :block/created-at 1655126288476,
-  :block/updated-at 1655126288476}
+  :block/created-at 1656272677452,
+  :block/updated-at 1656272677452}
  {:block/name "2022/06/05",
-  :block/created-at 1655126288447,
-  :block/updated-at 1655126288447}
+  :block/created-at 1656272677422,
+  :block/updated-at 1656272677422}
  {:block/name "2022/06/06",
   :block/created-at 1654361409071,
   :block/updated-at 1654521940395}
@@ -978,7 +969,7 @@
   :block/updated-at 1655240552448}
  {:block/name "2022/06/13",
   :block/created-at 1655126258566,
-  :block/updated-at 1655217258599}
+  :block/updated-at 1656271635961}
  {:block/name "2022/06/14",
   :block/created-at 1655179916720,
   :block/updated-at 1655247119665}
@@ -994,30 +985,24 @@
  {:block/name "2022/06/18",
   :block/created-at 1655524851659,
   :block/updated-at 1655524851659}
- {:block/name "2022/06/19",
-  :block/created-at 1655611205200,
-  :block/updated-at 1655611205200}
- {:block/name "2022/06/20",
-  :block/created-at 1655697624106,
-  :block/updated-at 1655697624106}
  {:block/name "2022/06/21",
   :block/created-at 1655784084240,
   :block/updated-at 1655846336862}
  {:block/name "2022/06/22",
   :block/created-at 1655832841127,
-  :block/updated-at 1655917623076}
+  :block/updated-at 1656273104625}
  {:block/name "2022/06/23",
   :block/created-at 1655956825016,
-  :block/updated-at 1655983805998}
+  :block/updated-at 1656273108846}
  {:block/name "2022/06/24",
   :block/created-at 1655842627881,
-  :block/updated-at 1655842627881}
+  :block/updated-at 1656273098669}
  {:block/name "2022/06/25",
   :block/created-at 1656179897492,
   :block/updated-at 1656179897492}
  {:block/name "2022/06/26",
   :block/created-at 1656218253176,
-  :block/updated-at 1656255179792}
+  :block/updated-at 1656272713110}
  {:block/name "2022/07",
   :block/created-at 1655832809527,
   :block/updated-at 1655832809527}
@@ -1147,9 +1132,6 @@
  {:block/name "adhd cbt",
   :block/created-at 1649373276792,
   :block/updated-at 1649373276792}
- {:block/name "admap",
-  :block/created-at 1655905999537,
-  :block/updated-at 1655905999537}
  {:block/name "adswerve",
   :block/created-at 1649773649152,
   :block/updated-at 1649773649152}
@@ -1207,6 +1189,9 @@
  {:block/name "amanda baker",
   :block/created-at 1649373268423,
   :block/updated-at 1649373268423}
+ {:block/name "amazon s3",
+  :block/created-at 1656266935616,
+  :block/updated-at 1656266935616}
  {:block/name "amit kumar",
   :block/created-at 1649591844913,
   :block/updated-at 1649591844913}
@@ -1713,9 +1698,6 @@
  {:block/name "calculated dimensions",
   :block/created-at 1652107295537,
   :block/updated-at 1652107295537}
- {:block/name "calling ",
-  :block/created-at 1655319553647,
-  :block/updated-at 1655319553647}
  {:block/name "camille fournier",
   :block/created-at 1649591856408,
   :block/updated-at 1649591856408}
@@ -1958,6 +1940,9 @@
  {:block/name "data management platform",
   :block/created-at 1649373269456,
   :block/updated-at 1649373269456}
+ {:block/name "data pipeline systems",
+  :block/created-at 1656266935261,
+  :block/updated-at 1656266935261}
  {:block/name "data platform",
   :block/created-at 1649687194787,
   :block/updated-at 1652550056137}
@@ -2006,6 +1991,9 @@
  {:block/name "dataset",
   :block/created-at 1648154559819,
   :block/updated-at 1648154559819}
+ {:block/name "dataset storage locations",
+  :block/created-at 1656266935261,
+  :block/updated-at 1656266935261}
  {:block/name "dataset/customer feedback",
   :block/created-at 1648154559819,
   :block/updated-at 1648154559819}
@@ -2303,6 +2291,9 @@
  {:block/name "google cloud",
   :block/created-at 1649773649281,
   :block/updated-at 1649773649281}
+ {:block/name "google cloud dataflow",
+  :block/created-at 1656266935415,
+  :block/updated-at 1656266935415}
  {:block/name "google cloud storage",
   :block/created-at 1653754381802,
   :block/updated-at 1653754381802}
@@ -2312,6 +2303,12 @@
  {:block/name "google optimize",
   :block/created-at 1649773777580,
   :block/updated-at 1649773777580}
+ {:block/name "google pub",
+  :block/created-at 1656266935417,
+  :block/updated-at 1656266935417}
+ {:block/name "google pub/sub",
+  :block/created-at 1656266935417,
+  :block/updated-at 1656266935417}
  {:block/name "governance",
   :block/created-at 1649373277913,
   :block/updated-at 1649373277913}
@@ -2354,6 +2351,9 @@
  {:block/name "hero digital",
   :block/created-at 1649773777174,
   :block/updated-at 1649773777174}
+ {:block/name "hex",
+  :block/created-at 1656266935413,
+  :block/updated-at 1656266935413}
  {:block/name "hiring",
   :block/created-at 1648154559942,
   :block/updated-at 1653763162482}
@@ -2456,7 +2456,7 @@
   :block/updated-at 1648477162145}
  {:block/name "inquirer 90 day plan",
   :block/created-at 1649373269405,
-  :block/updated-at 1649770326248}
+  :block/updated-at 1656271087554}
  {:block/name "inquirer architecture diagram - 2020.pdf",
   :block/created-at 1649373270184,
   :block/updated-at 1649373270184}
@@ -2486,7 +2486,7 @@
   :block/updated-at 1653763991780}
  {:block/name "inquirer prep",
   :block/created-at 1649373276724,
-  :block/updated-at 1649373276724}
+  :block/updated-at 1656271105141}
  {:block/name "inquirer questions",
   :block/created-at 1649373268242,
   :block/updated-at 1649373268242}
@@ -2879,10 +2879,10 @@
   :block/updated-at 1653758879458}
  {:block/name "logseq/templates",
   :block/created-at 1652121287210,
-  :block/updated-at 1655240924103}
+  :block/updated-at 1656269107747}
  {:block/name "logseq/templates/daily notes",
   :block/created-at 1655214695972,
-  :block/updated-at 1655240997914}
+  :block/updated-at 1656272764098}
  {:block/name "loomis",
   :block/created-at 1649855354030,
   :block/updated-at 1649855354030}
@@ -3230,7 +3230,7 @@
   :block/updated-at 1648154560625}
  {:block/name "operational excellence project check-in",
   :block/created-at 1649373269339,
-  :block/updated-at 1651584725943}
+  :block/updated-at 1656271118131}
  {:block/name "operational excellence/progress check-in",
   :block/created-at 1648490890988,
   :block/updated-at 1648490890988}
@@ -3251,7 +3251,7 @@
   :block/updated-at 1649373268966}
  {:block/name "outcome mapping for metrics that matter",
   :block/created-at 1649373276153,
-  :block/updated-at 1653759365308}
+  :block/updated-at 1656271128231}
  {:block/name "outcome mapping for metrics that matter#^nnvvws",
   :block/created-at 1653763991865,
   :block/updated-at 1653763991865}
@@ -4012,14 +4012,17 @@
   :block/created-at 1649773647717,
   :block/updated-at 1649773647717}
  {:block/name "task",
-  :block/created-at 1649373269183,
-  :block/updated-at 1649373269183}
+  :block/created-at 1656273045661,
+  :block/updated-at 1656273045661}
  {:block/name "tasks",
-  :block/created-at 1649373268346,
-  :block/updated-at 1649373268346}
+  :block/created-at 1649373269183,
+  :block/updated-at 1656272942046}
  {:block/name "template",
   :block/created-at 1655214696161,
   :block/updated-at 1655214696161}
+ {:block/name "templates",
+  :block/created-at 1656269107744,
+  :block/updated-at 1656269107744}
  {:block/name "terrance young",
   :block/created-at 1649853913787,
   :block/updated-at 1649853913787}
@@ -4067,7 +4070,7 @@
   :block/updated-at 1649373270188}
  {:block/name "todo",
   :block/created-at 1647807341643,
-  :block/updated-at 1647807341643}
+  :block/updated-at 1656269966261}
  {:block/name "tracy o'rourke",
   :block/created-at 1649373269185,
   :block/updated-at 1649373269185}

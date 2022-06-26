@@ -19,13 +19,13 @@ title: logseq/templates/Daily Notes
 			- Review your schedule for [This Week](x-fantastical3://show?date=this week)
 			- Review your Tasks
 				- In [Omnifocus](omnifocus:///forecast)
-				- In [[TODO]]
+				- In [[tasks]]
 			- ### Day Thinking
 				- #### Today I will work on
 					-
 				- #### Today I should work on
 					-
-				- #### Today I would like to work on
+				- #### Today I would like to work on (but will not)
 					-
 		- ## Actual Work & Scratch
 		- ## End-of-Day Wrapup
