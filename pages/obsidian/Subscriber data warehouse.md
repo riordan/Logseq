@@ -8,12 +8,12 @@ tags: inquirer/projects
 ## Kickoff Needs
 id:: 6257269e-8f60-4f1f-8d19-31b3e5f163d8
 ### For [[Aaron Moore]]
-- [x] #tasks Finalize invite list for [[Subscriber data warehouse]] kickoff ⏫ 🛫 2022-02-07 ⏳ 2022-02-02 📅 2022-02-07
-- [x] #tasks Remap high level plan (Phase 1 being popup team -> conclusion ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
-- [ ] #tasks Tighten up project scope (FOCUSING ON/ NOT FOCUSING ON)
-- [x] #tasks Build out Risk Map (project Charter and report out) ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
+- [x] #task Finalize invite list for [[Subscriber data warehouse]] kickoff ⏫ 🛫 2022-02-07 ⏳ 2022-02-02 📅 2022-02-07
+- [x] #task Remap high level plan (Phase 1 being popup team -> conclusion ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
+- [ ] #task Tighten up project scope (FOCUSING ON/ NOT FOCUSING ON)
+- [x] #task Build out Risk Map (project Charter and report out) ⏫ 🛫 2022-02-07 ⏳ 2022-02-07 📅 2022-02-07 ✅ 2022-02-23
 - ### For [[Matt Boggie]]
-- [ ] #tasks Warehouse Project Kickoff: Where are we, what are the risks, what are the concerns?
+- [ ] #task Warehouse Project Kickoff: Where are we, what are the risks, what are the concerns?
 ### Kickoff Meeting - Invite List:
 [
 #### Senior Leaders:

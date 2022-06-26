@@ -45,10 +45,10 @@ Every department will share their update in this form 3x/yr with a focus on:
 - Lydia's prior [example from Wikimedia Foundation](https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/Tuning_sessions)
 - [[Working Backwards - Presentations and Metrics at Amazon.pdf]]
 # Next Steps
-- DONE [x] #tasks Reach out to mark letting him know about the BPR 🛫 2022-01-18 ⏳ 2022-01-13 📅 2022-01-18 ✅ 2022-02-23
-- DONE [x] #tasks Let kate about project and she's on it 🛫 2022-01-14 ⏳ 2022-01-13 📅 2022-01-14 ✅ 2022-02-23
-- DONE [x] #tasks Send invite for next week tuesday 9-10 kickoff 🛫 2022-01-14 ⏳ 2022-01-14 📅 2022-01-14 ✅ 2022-02-23
-- DONE [x] #tasks Share the amazon book chapter about narrative and bezos update meeting ⏳ 2022-01-13 ✅ 2022-01-19
+- DONE [x] #task Reach out to mark letting him know about the BPR 🛫 2022-01-18 ⏳ 2022-01-13 📅 2022-01-18 ✅ 2022-02-23
+- DONE [x] #task Let kate about project and she's on it 🛫 2022-01-14 ⏳ 2022-01-13 📅 2022-01-14 ✅ 2022-02-23
+- DONE [x] #task Send invite for next week tuesday 9-10 kickoff 🛫 2022-01-14 ⏳ 2022-01-14 📅 2022-01-14 ✅ 2022-02-23
+- DONE [x] #task Share the amazon book chapter about narrative and bezos update meeting ⏳ 2022-01-13 ✅ 2022-01-19
 # Misc Thoughts
 - **[[2022-01-13]] - Should [[Business Performance Reviews#^4brqfp|Presenting Department Leads]] be able to bring a deputy or two to go deep on things?**
 	- Be expected to cover and present on it but not have to know everything off the top of their head and ask someone on their team more knowledgable.1

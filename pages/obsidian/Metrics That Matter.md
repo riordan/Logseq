@@ -32,7 +32,7 @@ Break out into separate lanes:
 	- Support and lifecycle
 # Project Next Steps:
 - [[2022-01-20]] - Metrics that Matter Check-in: Looking to get feedback and approval for approach
-- [ ] #tasks Write MTM Product Narrative ⏫ 🛫 2022-01-13 ⏳ 2022-01-13 📅 2022-01-18 #project
-	- [ ] #tasks Draft MTM Product Narrative ⏫ 🛫 2022-01-13 ⏳ 2022-01-13 📅 2022-01-26
-		- [x] #tasks confer on principle aspects of MTM with MZ, Tod, and Mark 🔼 🛫 2022-01-13 ⏳ 2022-01-13 📅 2022-01-13 ✅ 2022-01-18
-	- [ ] #tasks Circulate MTM narrative to group as pre-read ⏫ 🛫 2022-01-17 ⏳ 2022-01-13 📅 2022-01-18
+- [ ] #task Write MTM Product Narrative ⏫ 🛫 2022-01-13 ⏳ 2022-01-13 📅 2022-01-18 #project
+	- [ ] #task Draft MTM Product Narrative ⏫ 🛫 2022-01-13 ⏳ 2022-01-13 📅 2022-01-26
+		- [x] #task confer on principle aspects of MTM with MZ, Tod, and Mark 🔼 🛫 2022-01-13 ⏳ 2022-01-13 📅 2022-01-13 ✅ 2022-01-18
+	- [ ] #task Circulate MTM narrative to group as pre-read ⏫ 🛫 2022-01-17 ⏳ 2022-01-13 📅 2022-01-18

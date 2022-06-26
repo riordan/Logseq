@@ -65,7 +65,7 @@ What happened before: focus on the final stages only: representation of data. Bu
 Meanwhile, what gets measured is what gets to count for the purposes of organizational change. Metrics are put in place to measure what we have already done. Where people believe a particular metric correlates to positive outcomes, activities correlated with those positive metric movements get more resources.
 
 Yet not everything is counted. Not everything is countable, but that is far too often a justification to not inquire further, so that even when things that #incomplete ^nnvvws
-- [x] #tasks Finish this thought paragraph [[Outcome Mapping for Metrics that Matter#^nnvvws]] ✅ 2022-01-26
+- [x] #task Finish this thought paragraph [[Outcome Mapping for Metrics that Matter#^nnvvws]] ✅ 2022-01-26
 	- As an organization, the thigns that we count often are the elements taht modst relate to the financial health of our business. We have invested in valuable frameworks like "Customer Acquisition Funnels" to understand why it matters that we reach a large number of people, so that we can convert them into paying subscribers, and that thos epaying subscribers can underwrite the cost of oour journalism, with the promise that it is valuable to them.
 	  
 	  We don't have that for other elements that keep the health of our organization in check. That ensure that the business health is serving oiur mission goals.
