@@ -24,3 +24,15 @@
 	    :inputs [:56d :today]
 	    :collapsed? false}
 	  #+END_QUERY
+- ## Next
+	- #+BEGIN_QUERY
+	      {:title "📅 NEXT"
+	    :query [:find (pull ?b [*])
+	            :in $ ?start ?next
+	            :where
+	            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+	            (between ?b ?start ?next)]
+	    :inputs [:today :10d-after]
+	    :collapsed? false}
+	  #+END_QUERY
+-
