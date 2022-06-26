@@ -19,7 +19,7 @@ tags: dibb
 		  3. For pertinent dashboards (and the corresponding datasets that power them), we validate to ensure appropriate access permissions are set.
 	- THEN… any new dashboards created by the Analytics team go through formalized release process that ensures that put them in a registry and ensure that the creator follows [the above](((09e972ed-7e87-4104-a6a3-ba15f626a81c))). This way we don't have to go through the remediation process on a regular basis and it can serve as a .bootstrapping of  the overall effort.
 	- Longer term, this underlying system is incredibly valuable for other efforts in the Data & Insights group, which is why there is the potential for needing API access. Our data engineering team is responsible for Google BigQuery, a database with nearly 1900 datasets and hundreds of data pipelines. Odds are, most go to things that don't get used, yet consume a considerable portion of our infrastructure resources and our engineering time. We also can't shut them off without running the risk of impacting ongoing data collection (e.g. event logs, time-based snapshots). As such, we'll want to see which of these are powering systems in use
-		- Multiple [[Data Pipeline Systems]]
+		- Multiple [[Data Pipeline Systems]] and [[Dataset Storage Locations]]
 			-
 			-
 -
