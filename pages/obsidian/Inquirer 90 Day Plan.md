@@ -5,7 +5,9 @@ tags: inquirer/projects
 # 90 Day Plan
 ## Overview
 Building off of [[Matt Boggie]] [[Inquirer Welcome Letter#30 60 90-day Expectations]]
-- [ ] #task Make a full 90 days project doc here ⏫ 🛫 2021-12-13 ⏳ 2021-12-14 📅 2021-12-15 🔼  #task
+- LATER Make a full 90 days project doc here ⏫ 🛫 2021-12-13 ⏳ 2021-12-14 📅 2021-12-15 🔼  
+  SCHEDULED: <2021-12-13 Sun>
+  DEADLINE: <2021-12-15>
 - Month One: [[#^eaf3fb]]
 # Learning Plan
 id:: 625440ef-c808-43a3-8e81-127e61f2fab6
