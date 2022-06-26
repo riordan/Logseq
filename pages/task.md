@@ -35,4 +35,17 @@
 	    :inputs [:today :10d-after]
 	    :collapsed? false}
 	  #+END_QUERY
--
+- ## Slipping
+	- #+BEGIN_QUERY
+	     {:title "🟠 SLIPPING"
+	    :query [:find (pull ?b [*])
+	            :in $ ?start ?today
+	            :where
+	            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+	            (between ?b ?start ?today)]
+	    :inputs [:7d :today]
+	    :result-transform (fn [result]
+	                        (sort-by (fn [h]
+	                                   (get h :block/created-at)) result))
+	    :collapsed? true}
+	  #+END_QUERY
