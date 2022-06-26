@@ -1,12 +1,12 @@
-- #+BEGIN_QUERY
-  	{:title "Find: TODO or DOING MyTag"
-  	:query [:find (pull ?b [*])
-  	:where
+- +BEGIN_QUERY
+  {:title " Scheduled TODOs"
+  :query [:find (pull ?b [*])
+  :where
+  [?b :block/scheduled ?d]
   [?b :block/marker ?marker]
-  [(contains? #{"TODO" "DOING"} ?marker)]
-  - [?p :block/name "MyTag"]
-  [?b :block/ref-pages ?p]]
-  	}
-  	#+END_QUERY
-- {{query #{"TODO" "DOING"}}}
+  [(not= ?d nil)]
+  [(contains? #{"NOW" "LATER" "DOING" "TODO"} ?marker)]]
+  :collapsed? false}
+  #+END_QUERY
+-
 -
