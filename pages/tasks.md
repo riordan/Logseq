@@ -49,6 +49,7 @@
 	                                   (get h :block/created-at)) result))
 	    :collapsed? true}
 	  #+END_QUERY
+	-
 - ## Stalled
 	- #+BEGIN_QUERY
 	  {:title "🔴 STALLED"
