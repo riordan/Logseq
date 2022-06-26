@@ -8,4 +8,5 @@
   [?b :block/ref-pages ?p]]
   	}
   	#+END_QUERY
+- {{query #{"TODO" "DOING"}}}
 -
