@@ -25,7 +25,7 @@ title: logseq/templates/Daily Notes
 					-
 				- #### Today I should work on
 					-
-				- #### Today I would like to work on
+				- #### Today I would like to work on (but will not)
 					-
 		- ## Actual Work & Scratch
 		- ## End-of-Day Wrapup
