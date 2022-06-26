@@ -109,6 +109,130 @@
  :ui/show-empty-bullets? false
 
  ;; The app will show those queries in today's journal page,
+ :default-queries
+ {:journals
+  [{:title "🔨 NOW"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
+            [(= ?marker "NOW")]]
+    :inputs [:14d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [b]
+                                   (get b :block/priority "Z")) result))
+    :collapsed? false}
+	{:title "TODO"
+ 		:query [:find (pull ?b [*])
+        	 :where
+         	[?b :block/marker ?marker]
+         	[(= "TODO" ?marker)]]
+ 		:collapsed? false}
+   {:title "📅 NEXT"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/ref-pages ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(> ?d ?start)]
+            [(< ?d ?next)]
+            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]]
+    :inputs [:today :7d-after]
+    :collapsed? false}
+   
+   ;; by popsi ========================
+   ;; Tasks made active in last 2 weeks
+  {:title "🟢 ACTIVE"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "DOING"} ?marker)]]
+    :inputs [:14d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
+    :collapsed? false}
+
+   ;; Tasks referencing due dates in the past
+   {:title "⚠️ OVERDUE"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/ref-pages ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:56d :today]
+    :collapsed? false}
+
+   ;; Tasks referencing due dates up to 10 days ahead
+   {:title "📅 NEXT 10D"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/ref-pages ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(> ?d ?start)]
+            [(< ?d ?next)]
+            [(contains? #{"NOW" "LATER" "DOING" "TODO"} ?marker)]]
+    :inputs [:today :10d-after]
+    :collapsed? false}
+
+   ;; Tasks from last week which are still outstanding (may slip soon!)
+   {:title "🟠 SLIPPING (<1W)"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:7d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/created-at)) result))
+    :collapsed? true}
+
+   ;; Tasks created more than 1 week ago, less old than 2 months but still outstanding
+   {:title "🔴 STALLED (>1W:<2M)"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:56d :8d]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/created-at)) result))
+    :collapsed? true}
+   ]}
+
  ;; the "NOW" query asks the tasks which need to be finished "now",
  ;; the "NEXT" query asks the future tasks.
 ;;  :default-queries
