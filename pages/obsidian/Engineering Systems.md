@@ -32,7 +32,7 @@
 						- Starting to explore Google Ad Tag Manager Serverside
 							- one tag collects data on your site, then can reshape it for Mather
 					- provide their own churn model
-					- DONE #task Meet [[Mather]] Econometrics #vendor 🔼
+					- DONE #tasks Meet [[Mather]] Econometrics #vendor 🔼
 				- Comscore
 					- Necessary evil
 					- Just upgraded to a higer quality peer feedback data
@@ -70,14 +70,14 @@
 					- Track FE events (comments) and have raw commenting data of individual users; so could use in segmentation
 						- We are ingesting the data from Viafoura
 							- batch nightly
-							- [x] #task Let Becky know we have the Viafoura commenting data available ✅ 2022-01-12
+							- [x] #tasks Let Becky know we have the Viafoura commenting data available ✅ 2022-01-12
 			- Marketing:
 				- [[Auth0]] : Signin: email + social sign in
 					- Definition of a unique person.
 						- also includes their social sign on.
 						- Big use for reporting; lets us join GA data to email data
 					- HIGH COST VENDOR. Currently 100k/yr. [[Toan Dang]] Want to replace in 2025.
-						- [ ] #task Plan for stable person ID and deprecation of Auth0 ⏫
+						- [ ] #tasks Plan for stable person ID and deprecation of Auth0 ⏫
 				- [[Piano]] - Metering
 					- overlap with piano, [[blueconic]], wunderkind, [[Mather]]
 				- Salesforce Service portal: Definition of a unique person

@@ -78,3 +78,30 @@
 	    :inputs [:today :7d-after]
 	    :collapsed? false}
 	  #+END_QUERY
+- ## Next Month
+	- #+BEGIN_QUERY
+	  {:title "next 28 days' deadline or schedule"
+	    :query [:find (pull ?block [*])
+	            :in $ ?start ?next
+	            :where
+	            (or
+	              [?block :block/scheduled ?d]
+	              [?block :block/deadline ?d])
+	            [(> ?d ?start)]
+	            [(< ?d ?next)]]
+	    :inputs [:today :28d-after]
+	    :collapsed? false}
+	  #+END_QUERY
+- ## Possible Tasks
+	- #+BEGIN_QUERY
+	  {:title "Blocks containing TODO that are not tasks"
+	   :query [:find (pull ?b [*])
+	           :in $ ?query %
+	           :where
+	           (block-content ?b ?query)
+	           (not-task ?b)]
+	           :inputs ["TODO"
+	                    [[(not-task ?b)
+	                      (not [?b :block/marker _])]]]}
+	  #+END_QUERY
+-
