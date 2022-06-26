@@ -5,4 +5,3 @@
 - [[Stitch Data]]
 - [[Google Cloud Dataflow]]
 - [[Google Pub/Sub]]
--
