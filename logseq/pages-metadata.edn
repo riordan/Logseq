@@ -990,13 +990,13 @@
   :block/updated-at 1655846336862}
  {:block/name "2022/06/22",
   :block/created-at 1655832841127,
-  :block/updated-at 1655917623076}
+  :block/updated-at 1656273104625}
  {:block/name "2022/06/23",
   :block/created-at 1655956825016,
-  :block/updated-at 1656271409037}
+  :block/updated-at 1656273108846}
  {:block/name "2022/06/24",
   :block/created-at 1655842627881,
-  :block/updated-at 1656088033288}
+  :block/updated-at 1656273098669}
  {:block/name "2022/06/25",
   :block/created-at 1656179897492,
   :block/updated-at 1656179897492}
@@ -4011,6 +4011,9 @@
  {:block/name "takeaway",
   :block/created-at 1649773647717,
   :block/updated-at 1649773647717}
+ {:block/name "task",
+  :block/created-at 1656273045661,
+  :block/updated-at 1656273045661}
  {:block/name "tasks",
   :block/created-at 1649373269183,
   :block/updated-at 1656272942046}
