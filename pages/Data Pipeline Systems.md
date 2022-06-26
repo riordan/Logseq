@@ -2,4 +2,7 @@
 - [[dbt]]
 - [[BigQuery]] Scheduled Queries
 - [[Hex]] Scheduled Notebooks
+- [[Stitch Data]]
+- [[Google Cloud Dataflow]]
+- [[Google Pub/Sub]]
 -
