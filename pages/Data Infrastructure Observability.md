@@ -3,6 +3,7 @@ tags: dibb
 ---
 
 - # Initial Thoughts
+  collapsed:: true
 	- The Data and Insights team makes extensive use of Google Data Studio, a dashboard and reporting tool that’s part of Google Workspace. It’s also a discoverability dumpster fire that leads to way too many dashboards getting created then never found or used again.
 	- I’m looking to improve visibility of these assets. As a data studio user, it’s only possible to search for Data Studio dashboards that that user has already opened. This means there’s nothing that’s “Public, open, and searchable by default”. Assets remain effectively private. Likewise, there’s no way to guarantee that a particular dashboard has been made available broadly, except by the analyst who created it.
 	- This has led to a situation where:
