@@ -1,4 +1,4 @@
 - [[bigquery]]
 - [[Google Cloud Storage]]
 - [[Amazon S3]]
--
+- [[Data Studio]] datasets (special case)
