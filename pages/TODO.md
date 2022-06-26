@@ -1,4 +1,4 @@
-- +BEGIN_QUERY
+- #+BEGIN_QUERY
   {:title " Scheduled TODOs"
   :query [:find (pull ?b [*])
   :where
