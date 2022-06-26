@@ -1017,7 +1017,7 @@
   :block/updated-at 1656179897492}
  {:block/name "2022/06/26",
   :block/created-at 1656218253176,
-  :block/updated-at 1656218253176}
+  :block/updated-at 1656255179792}
  {:block/name "2022/07",
   :block/created-at 1655832809527,
   :block/updated-at 1655832809527}
@@ -1948,7 +1948,10 @@
   :block/updated-at 1651587855035}
  {:block/name "data infrastructure",
   :block/created-at 1653754381704,
-  :block/updated-at 1653754381704}
+  :block/updated-at 1656254968460}
+ {:block/name "data infrastructure observability",
+  :block/created-at 1656254968459,
+  :block/updated-at 1656255021536}
  {:block/name "data leads",
   :block/created-at 1649373274637,
   :block/updated-at 1649373274637}
