@@ -1,3 +1,4 @@
 - [[bigquery]]
 - [[Google Cloud Storage]]
+- [[Amazon S3]]
 -
