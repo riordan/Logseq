@@ -1176,7 +1176,7 @@
   :block/updated-at 1656350859085}
  {:block/name "admap experimentation workshop",
   :block/created-at 1656351348502,
-  :block/updated-at 1656351348502}
+  :block/updated-at 1656358189316}
  {:block/name "adswerve",
   :block/created-at 1649773649152,
   :block/updated-at 1649773649152}
@@ -4216,6 +4216,9 @@
   "working backwards - presentations and metrics at amazon.pdf",
   :block/created-at 1649373274752,
   :block/updated-at 1649373274752}
+ {:block/name "workshop",
+  :block/created-at 1656351640137,
+  :block/updated-at 1656351640137}
  {:block/name "writing",
   :block/created-at 1649773779136,
   :block/updated-at 1649773779136}
