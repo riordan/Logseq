@@ -9,6 +9,7 @@ alias: template, templates
 		- Plan For The Week
 		  template:: Weekly Plan
 		  template-including-parent:: false
+			- organization:: Weekly Plan
 			-
 			- ## Goals For The Week
 				-
