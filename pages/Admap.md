@@ -10,7 +10,7 @@ title:: Admap
 	  id:: 62ab8351-2037-4fd9-88c9-1299fddb1aec
 		- [Video Recording](https://drive.google.com/file/d/1nineNuGGEfYbXbeY5KuRiG0sUQV62IzX/view?usp=sharing)
 		- [Slides](https://docs.google.com/presentation/d/1ZkRdx7eVHqc4Q_khxobEBOhZ1fBqzDKW--SVXncAKnI/edit?usp=sharing)
-- ## [[Admap Experimentation]]
+- ## [[Admap Experimentation Workshop]]
   id:: 62ab7e3f-2617-40ed-b6b9-4611ecdc86bc
 	- ((62ab8351-2037-4fd9-88c9-1299fddb1aec))
 	- [[experimentation]]
