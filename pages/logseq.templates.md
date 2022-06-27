@@ -23,7 +23,9 @@ alias: template, templates
 					- ### [Monday](<% Monday this week %>)
 					- ### [Tuesday](<% Tuesday this week %>)
 					- ### [Wednesday](<% Wednesday this week %>)
-					- ### [Thursday](<% Tuesday this week %>)
+					- ### [Thursday](<% Thursday this week %>)
+					- ### [Friday](<% Friday this week %>)
+			- ## Big Events
 		- [[Weekly Review]]
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
