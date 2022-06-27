@@ -1,4 +1,4 @@
-- Projects
+- ## Projects
 1. [[Subscriber data warehouse]]
 2. [[Metrics That Matter]] / KPI Framing
 3. [[Operational Excellence Project Check-In]]
