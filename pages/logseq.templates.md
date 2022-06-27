@@ -11,12 +11,12 @@ alias: template, templates
 		  template-including-parent:: false
 			- organization:: Weekly Plan
 			- ## Themes For The Week
-				- TODO
+				- TODO Replace me with themes
 				  :LOGBOOK:
 				  CLOCK: [2022-06-27 Mon 12:56:33]
 				  :END:
 			- ## Goals For The Week
-				-
+				- TODO Fill in the things you want to do this week
 				- ## Daily Goals
 					- ### [Monday](<% Monday this week %>)
 					- ### [Tuesday](<% Tuesday this week %>)
