@@ -13,5 +13,8 @@
 		- Why are we doing this?
 			- To help businesses reach The Philadelphia community
 			- To support The Mission of The Inquirer
-			-
+			- {{renderer :mermaid_syjffniid}}
+				- ```mermaid 
+				  
+				  ```
 		-
