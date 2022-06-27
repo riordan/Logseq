@@ -26,6 +26,6 @@
 			- Success of our business depends on long-term success of advertising, success of reporting, success of subscribership, and success of product delivery / usability.
 				- Newsroom <-> Product
 				- Audience
-				-
+				- Monetize
 				-
 		-
