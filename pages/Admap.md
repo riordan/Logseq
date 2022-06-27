@@ -13,30 +13,29 @@ title:: Admap
 - ## Admap [[experimentation]]
   id:: 62ab7e3f-2617-40ed-b6b9-4611ecdc86bc
 	- ((62ab8351-2037-4fd9-88c9-1299fddb1aec))
-	-
-		- ### Experimentation Roadmap
-			- ## Now
-				- [[Goals - Signals - Metrics]] workshop [[2022/06/27]]
-				  collapsed:: true
-					- separate workshops to train and refine
-					  collapsed:: true
-						- For Analytics: workshop process
-						- For PM & PD ((product sense): product health and workshop process
-						- Ad team: ad map metrics and building familiarity with health metrics
-				- Draft base metrics - guardrails
-					- Page depth
-					- Depth post exposure
-					- Time in sesion
-				- Time in session post exposure
-				- Admap Experimentation Plan
-					-
-			- ## Next
+	- ### Admap Experimentation Roadmap #status/work-in-progress
+		- ## Now
+			- [[Goals - Signals - Metrics]] workshop [[2022/06/27]]
 			  collapsed:: true
-				- Admap Experimentation template
-					- Monitoring
-				- Product Health metrics report - pm internal
-				- Ga4 experiments
-				- Ga4 experiment metrics
+				- separate workshops to train and refine
+				  collapsed:: true
+					- For Analytics: workshop process
+					- For PM & PD ((product sense): product health and workshop process
+					- Ad team: ad map metrics and building familiarity with health metrics
+			- Draft base metrics - guardrails
+				- Page depth
+				- Depth post exposure
+				- Time in sesion
+			- Time in session post exposure
+			- Admap Experimentation Plan
 				-
-			- ## Later
+		- ## Next
+		  collapsed:: true
+			- Admap Experimentation template
+				- Monitoring
+			- Product Health metrics report - pm internal
+			- Ga4 experiments
+			- Ga4 experiment metrics
+			-
+		- ## Later
 -

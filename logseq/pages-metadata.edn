@@ -30,9 +30,24 @@
  {:block/name "#reflections",
   :block/created-at 1653763978577,
   :block/updated-at 1653763978577}
+ {:block/name "% friday this week %",
+  :block/created-at 1656349111734,
+  :block/updated-at 1656349111734}
+ {:block/name "% monday this week %",
+  :block/created-at 1656348765292,
+  :block/updated-at 1656348765292}
+ {:block/name "% thursday this week %",
+  :block/created-at 1656349103698,
+  :block/updated-at 1656349103698}
  {:block/name "% tomorrow %",
   :block/created-at 1655220569052,
   :block/updated-at 1655220569052}
+ {:block/name "% tuesday this week %",
+  :block/created-at 1656348825933,
+  :block/updated-at 1656348825933}
+ {:block/name "% wednesday this week %",
+  :block/created-at 1656349094772,
+  :block/updated-at 1656349094772}
  {:block/name "+end_query",
   :block/created-at 1656269991882,
   :block/updated-at 1656269991882}
@@ -534,13 +549,13 @@
   :block/updated-at 1649685469426}
  {:block/name "2022-w19",
   :block/created-at 1651864819952,
-  :block/updated-at 1652118109540}
+  :block/updated-at 1656347453762}
  {:block/name "2022-w22",
   :block/created-at 1654466010006,
   :block/updated-at 1654466010006}
  {:block/name "2022-w26",
   :block/created-at 1656343747893,
-  :block/updated-at 1656343747893}
+  :block/updated-at 1656349902495}
  {:block/name "2022/01",
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
@@ -762,7 +777,7 @@
   :block/updated-at 1656272679779}
  {:block/name "2022/03/20",
   :block/created-at 1651489841190,
-  :block/updated-at 1651489841190}
+  :block/updated-at 1656347442849}
  {:block/name "2022/03/21",
   :block/created-at 1647826706277,
   :block/updated-at 1649255239668}
@@ -840,7 +855,7 @@
   :block/updated-at 1656272678836}
  {:block/name "2022/04/19",
   :block/created-at 1656272678797,
-  :block/updated-at 1656272678797}
+  :block/updated-at 1656347440060}
  {:block/name "2022/04/20",
   :block/created-at 1656272678742,
   :block/updated-at 1656272678742}
@@ -852,19 +867,19 @@
   :block/updated-at 1655316477095}
  {:block/name "2022/04/25",
   :block/created-at 1656272678673,
-  :block/updated-at 1656272678673}
+  :block/updated-at 1656347431165}
  {:block/name "2022/04/26",
   :block/created-at 1656272678641,
   :block/updated-at 1656272678641}
  {:block/name "2022/04/27",
   :block/created-at 1656272678594,
-  :block/updated-at 1656272678594}
+  :block/updated-at 1656347423996}
  {:block/name "2022/04/28",
   :block/created-at 1656272678541,
   :block/updated-at 1656272678541}
  {:block/name "2022/04/29",
   :block/created-at 1656272678481,
-  :block/updated-at 1656272678481}
+  :block/updated-at 1656347427772}
  {:block/name "2022/05",
   :block/created-at 1651490379931,
   :block/updated-at 1651490379931}
@@ -1026,13 +1041,25 @@
   :block/updated-at 1656275547591}
  {:block/name "2022/06/27",
   :block/created-at 1656275463746,
-  :block/updated-at 1656344799402}
+  :block/updated-at 1656345134070}
  {:block/name "2022/06/28",
   :block/created-at 1656343458244,
   :block/updated-at 1656343687769}
+ {:block/name "2022/06/29",
+  :block/created-at 1656349272684,
+  :block/updated-at 1656349272684}
+ {:block/name "2022/06/30",
+  :block/created-at 1656349272687,
+  :block/updated-at 1656349272687}
  {:block/name "2022/07",
   :block/created-at 1655832809527,
   :block/updated-at 1655832809527}
+ {:block/name "2022/07/01",
+  :block/created-at 1656349272688,
+  :block/updated-at 1656349272688}
+ {:block/name "2022/07/04",
+  :block/created-at 1656349272678,
+  :block/updated-at 1656349272678}
  {:block/name "2022/07/18",
   :block/created-at 1655832809525,
   :block/updated-at 1655832809525}
@@ -1126,6 +1153,9 @@
  {:block/name "a",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
+ {:block/name "a/b test",
+  :block/created-at 1656350339796,
+  :block/updated-at 1656350339796}
  {:block/name "a16z podcast",
   :block/created-at 1649591860929,
   :block/updated-at 1649591860929}
@@ -1138,9 +1168,6 @@
  {:block/name "ad blocking",
   :block/created-at 1649855503976,
   :block/updated-at 1649855503976}
- {:block/name "ad map 2.0",
-  :block/created-at 1655398936461,
-  :block/updated-at 1655408136746}
  {:block/name "ad sales",
   :block/created-at 1649373269457,
   :block/updated-at 1649373269457}
@@ -1161,7 +1188,7 @@
   :block/updated-at 1649373276792}
  {:block/name "admap",
   :block/created-at 1655905999537,
-  :block/updated-at 1655905999537}
+  :block/updated-at 1656350802096}
  {:block/name "adswerve",
   :block/created-at 1649773649152,
   :block/updated-at 1649773649152}
@@ -1823,7 +1850,7 @@
   :block/updated-at 1649373270114}
  {:block/name "contents",
   :block/created-at 1647807341643,
-  :block/updated-at 1654521576709}
+  :block/updated-at 1656349786212}
  {:block/name "cory doctorow",
   :block/created-at 1649373236120,
   :block/updated-at 1649373236120}
@@ -2081,6 +2108,9 @@
  {:block/name "defector.com",
   :block/created-at 1649591846556,
   :block/updated-at 1649591846556}
+ {:block/name "defer",
+  :block/created-at 1656349331900,
+  :block/updated-at 1656349331900}
  {:block/name "dei",
   :block/created-at 1649773648985,
   :block/updated-at 1649773648985}
@@ -2126,6 +2156,9 @@
  {:block/name "dislike",
   :block/created-at 1653760292903,
   :block/updated-at 1653760292903}
+ {:block/name "distraction",
+  :block/created-at 1656349314894,
+  :block/updated-at 1656349314894}
  {:block/name "dithering",
   :block/created-at 1649591860614,
   :block/updated-at 1649591860614}
@@ -2209,10 +2242,13 @@
   :block/updated-at 1649373274634}
  {:block/name "experimentation",
   :block/created-at 1649278138839,
-  :block/updated-at 1649278138839}
+  :block/updated-at 1656350616670}
  {:block/name "experimentation platform",
   :block/created-at 1656179897261,
-  :block/updated-at 1656179897261}
+  :block/updated-at 1656350469544}
+ {:block/name "experiments",
+  :block/created-at 1656350339797,
+  :block/updated-at 1656350339797}
  {:block/name "favorite",
   :block/created-at 1649373234967,
   :block/updated-at 1649373234967}
@@ -2351,6 +2387,9 @@
  {:block/name "gripes",
   :block/created-at 1649773647964,
   :block/updated-at 1649773647964}
+ {:block/name "growthbook",
+  :block/created-at 1656350469542,
+  :block/updated-at 1656350469542}
  {:block/name "gsheet",
   :block/created-at 1649773777581,
   :block/updated-at 1649773777581}
@@ -2603,7 +2642,7 @@
   :block/updated-at 1649342770299}
  {:block/name "inquirer/experimentation coordination",
   :block/created-at 1649270985738,
-  :block/updated-at 1649349001829}
+  :block/updated-at 1656349482615}
  {:block/name "inquirer/feeds api",
   :block/created-at 1649342337164,
   :block/updated-at 1649342921080}
@@ -2912,7 +2951,7 @@
   :block/updated-at 1653758879458}
  {:block/name "logseq/templates",
   :block/created-at 1652121287210,
-  :block/updated-at 1656269107747}
+  :block/updated-at 1656349183420}
  {:block/name "logseq/templates/daily notes",
   :block/created-at 1655214695972,
   :block/updated-at 1656272764098}
@@ -3258,6 +3297,9 @@
  {:block/name "onboarding journey",
   :block/created-at 1649373274629,
   :block/updated-at 1649373274629}
+ {:block/name "online experiment",
+  :block/created-at 1656350339797,
+  :block/updated-at 1656350339797}
  {:block/name "operational excellence",
   :block/created-at 1648154560625,
   :block/updated-at 1648154560625}
@@ -4059,9 +4101,6 @@
  {:block/name "terrance young",
   :block/created-at 1649853913787,
   :block/updated-at 1649853913787}
- {:block/name "testing_optimization",
-  :block/created-at 1649591855274,
-  :block/updated-at 1649591855274}
  {:block/name "the first 90 days",
   :block/created-at 1649373269107,
   :block/updated-at 1649373269107}
@@ -4170,9 +4209,12 @@
  {:block/name "websked",
   :block/created-at 1650546975984,
   :block/updated-at 1650546975984}
+ {:block/name "week",
+  :block/created-at 1656347741877,
+  :block/updated-at 1656347741877}
  {:block/name "weekly review",
   :block/created-at 1649686490330,
-  :block/updated-at 1651491984922}
+  :block/updated-at 1656348407807}
  {:block/name "work priorities",
   :block/created-at 1653754381959,
   :block/updated-at 1654792352984}
@@ -4183,6 +4225,9 @@
   "working backwards - presentations and metrics at amazon.pdf",
   :block/created-at 1649373274752,
   :block/updated-at 1649373274752}
+ {:block/name "workshop",
+  :block/created-at 1656350812906,
+  :block/updated-at 1656350812906}
  {:block/name "writing",
   :block/created-at 1649773779136,
   :block/updated-at 1649773779136}
