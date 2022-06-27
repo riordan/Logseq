@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1655220569248,
-  :block/updated-at 1655220569248}
+  :block/created-at 1656351364102,
+  :block/updated-at 1656351364102}
  {:block/name " subscriber profiles",
   :block/created-at 1649952150730,
   :block/updated-at 1649952150730}
@@ -48,9 +48,6 @@
  {:block/name "% wednesday this week %",
   :block/created-at 1656349094772,
   :block/updated-at 1656349094772}
- {:block/name "+end_query",
-  :block/created-at 1656269991882,
-  :block/updated-at 1656269991882}
  {:block/name ".v-eisenhower-matrix",
   :block/created-at 1653763990330,
   :block/updated-at 1653763990330}
@@ -555,7 +552,7 @@
   :block/updated-at 1654466010006}
  {:block/name "2022-w26",
   :block/created-at 1656343747893,
-  :block/updated-at 1656350907212}
+  :block/updated-at 1656351504137}
  {:block/name "2022/01",
   :block/created-at 1648154560208,
   :block/updated-at 1648154560208}
@@ -706,12 +703,6 @@
  {:block/name "2022/02/25",
   :block/created-at 1656272680435,
   :block/updated-at 1656272680435}
- {:block/name "2022/02/26",
-  :block/created-at 1655126292312,
-  :block/updated-at 1655126292312}
- {:block/name "2022/02/27",
-  :block/created-at 1655126292250,
-  :block/updated-at 1655126292250}
  {:block/name "2022/02/28",
   :block/created-at 1656272680375,
   :block/updated-at 1656272680375}
@@ -1015,12 +1006,6 @@
  {:block/name "2022/06/18",
   :block/created-at 1655524851659,
   :block/updated-at 1655524851659}
- {:block/name "2022/06/19",
-  :block/created-at 1655611205200,
-  :block/updated-at 1655611205200}
- {:block/name "2022/06/20",
-  :block/created-at 1655697624106,
-  :block/updated-at 1655697624106}
  {:block/name "2022/06/21",
   :block/created-at 1655784084240,
   :block/updated-at 1655846336862}
@@ -1189,6 +1174,9 @@
  {:block/name "admap",
   :block/created-at 1655905999537,
   :block/updated-at 1656350859085}
+ {:block/name "admap experimentation workshop",
+  :block/created-at 1656351348502,
+  :block/updated-at 1656351348502}
  {:block/name "adswerve",
   :block/created-at 1649773649152,
   :block/updated-at 1649773649152}
@@ -1755,9 +1743,6 @@
  {:block/name "calculated dimensions",
   :block/created-at 1652107295537,
   :block/updated-at 1652107295537}
- {:block/name "calling ",
-  :block/created-at 1655319553647,
-  :block/updated-at 1655319553647}
  {:block/name "camille fournier",
   :block/created-at 1649591856408,
   :block/updated-at 1649591856408}
@@ -3339,6 +3324,9 @@
  {:block/name "p2",
   :block/created-at 1656344481999,
   :block/updated-at 1656344481999}
+ {:block/name "p4",
+  :block/created-at 1656351349442,
+  :block/updated-at 1656351349442}
  {:block/name "pages",
   :block/created-at 1649373269107,
   :block/updated-at 1649373269107}
@@ -3686,6 +3674,9 @@
  {:block/name "priority",
   :block/created-at 1647826706394,
   :block/updated-at 1656344274745}
+ {:block/name "priority/high",
+  :block/created-at 1656351341257,
+  :block/updated-at 1656351341257}
  {:block/name "priority/p0",
   :block/created-at 1647826706394,
   :block/updated-at 1656344349269}
@@ -4089,6 +4080,9 @@
  {:block/name "takeaway",
   :block/created-at 1649773647717,
   :block/updated-at 1649773647717}
+ {:block/name "task",
+  :block/created-at 1656351343498,
+  :block/updated-at 1656351343498}
  {:block/name "tasks",
   :block/created-at 1656272994003,
   :block/updated-at 1656272994003}
@@ -4209,9 +4203,6 @@
  {:block/name "websked",
   :block/created-at 1650546975984,
   :block/updated-at 1650546975984}
- {:block/name "week",
-  :block/created-at 1656347741877,
-  :block/updated-at 1656347741877}
  {:block/name "weekly review",
   :block/created-at 1649686490330,
   :block/updated-at 1656348407807}
@@ -4225,9 +4216,6 @@
   "working backwards - presentations and metrics at amazon.pdf",
   :block/created-at 1649373274752,
   :block/updated-at 1649373274752}
- {:block/name "workshop",
-  :block/created-at 1656350812906,
-  :block/updated-at 1656350812906}
  {:block/name "writing",
   :block/created-at 1649773779136,
   :block/updated-at 1649773779136}
@@ -4264,9 +4252,6 @@
  {:block/name "zimbalist",
   :block/created-at 1649373273500,
   :block/updated-at 1649373273500}
- {:block/name "{\"now",
-  :block/created-at 1656269991882,
-  :block/updated-at 1656269991882}
  {:block/name "{{date:gggg-[w]ww}}#priorities for the week",
   :block/created-at 1653763978573,
   :block/updated-at 1653763978573}
