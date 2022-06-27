@@ -20,7 +20,7 @@ status: active
 		  collapsed:: true
 			- [[Priority/P0]]
 			  type:: lsorg
-			- [[Priority/Normal]]
+			- [[Priority/P2]]
 			  type:: lsorg
 			- [[Priority/Low]]
 			  type:: lsorg
