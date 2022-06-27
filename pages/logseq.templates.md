@@ -7,6 +7,7 @@ alias: template, templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- Journal Organization
 		- Plan For The Week
+		  template:: Weekly Plan
 			- ## Goals For The Week
 				-
 			- ## Daily Goals
