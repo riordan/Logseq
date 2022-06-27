@@ -1,0 +1,1 @@
+- ![Inquirer MSA 20220627.pdf](../assets/Inquirer_MSA_20220627_1656358834415_0.pdf)
