@@ -18,7 +18,7 @@ status: active
 		- [[Priority]]
 		  type:: lsorg
 		  collapsed:: true
-			- [[Priority/High]]
+			- [[Priority/P0]]
 			  type:: lsorg
 			- [[Priority/Normal]]
 			  type:: lsorg
