@@ -6,6 +6,7 @@ alias: template, templates
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- Journal Organization
+		-
 		- [[Weekly Review]]
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
@@ -29,8 +30,8 @@ alias: template, templates
 		- [[Journaling Prompts]]
 		  id:: 62a73923-0d4c-4e1c-a939-7fd90622dd86
 		  template:: Journaling Prompts
+		  organization:: daily journal
 		  collapsed:: true
-		  O
 			- What's one thing I learned yesterday?
 			- What's one thing I'm grateful for today?
 			- What's one thing I want to accomplish today?
