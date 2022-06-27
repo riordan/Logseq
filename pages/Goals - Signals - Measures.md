@@ -1,4 +1,5 @@
 - Goals-Signals-Measures is a process for collectively determining metrics created by Google in their paper introducing the [[HEART Framework]].
+- Being used as the basis for the [[Admap Experimentation Workshop]]
 -
 - ## Workshop Planning
 	- ### Resources:
