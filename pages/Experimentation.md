@@ -7,5 +7,6 @@ alias:: A/B Test, Online Experiment, Experiments
 	- [[inquirer/Experimentation Coordination]] - Pre-draft proposal to gain visibility across all experiments and interventions
 	- [[Experimentation Platform]] - Infrastructure used for running A/B Tests
 - ## Resources
-	- [Marketing Experiments]()
+	- C[Marketing Experiments](https://inquirer.atlassian.net/wiki/spaces/MAR/pages/1685487621/Marketing+Tests+Experiments)
+	-
 	-
