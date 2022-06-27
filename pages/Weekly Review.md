@@ -1,1 +1,2 @@
-- {{query ()}}
+- {{function [[Weekly Review]] }}
+-
