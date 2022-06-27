@@ -13,9 +13,15 @@
 		- Why are we doing this?
 			- To help businesses reach The Philadelphia community
 			- To support The Mission of The Inquirer
-			- Flywheel
-			- {{renderer :mermaid_syjffniid}}
+			- Flywheel <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogICAgVXNhYmxlUHJvZFtBIG5ld3NwYXBlciBwcm9kdWN0IHBlb3BsZSB1c2UgYW5kIGxvdmVdIC0tPiBBdWRpZW5jZSAtLT4gQWRNb25bTW9uZXRpemUgdmlhIGFkdmVydGlzaW5nXSAtLT4gU3VzdGFpbltTdXN0YWluIG1pc3Npb24gb2YgVGhlIElucXVpcmVyXQogICAgVXNhYmxlUHJvZC0tPlBheVByb2RbQSBuZXdzcGFwZXIgcHJvZHVjdCBpdHMgcmVhZGVycyBuZWVkIHNvIG11Y2ggdGhleSdyZSB3aWxsaW5nIHRvIHBheSBmb3JdIC0tPiBTdWJzY3JpYmVbTW9uZXRpemUgdmlhIHJlY3VycmluZyBzdWJzY3JpcHRpb25dIC0tPiBTdXN0YWluCiAgICBTdXN0YWluLS0-VXNhYmxlUHJvZAoK" />
+			  collapsed:: true
+			  {{renderer :mermaid_syjffniid}}
 				- ```mermaid 
+				  graph LR
+				      UsableProd[A newspaper product people use and love] --> Audience --> AdMon[Monetize via advertising] --> Sustain[Sustain mission of The Inquirer]
+				      UsableProd-->PayProd[A newspaper product its readers need so much they're willing to pay for] --> Subscribe[Monetize via recurring subscription] --> Sustain
+				      Sustain-->UsableProd
 				  
 				  ```
+			-
 		-
