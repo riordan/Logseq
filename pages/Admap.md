@@ -13,7 +13,7 @@ title:: Admap
 - ## Admap [[experimentation]]
   id:: 62ab7e3f-2617-40ed-b6b9-4611ecdc86bc
 	- ((62ab8351-2037-4fd9-88c9-1299fddb1aec))
-	- ### Admap Experimentation Roadmap #status/work-in-progress
+	- ## Admap Experimentation Roadmap #status/work-in-progress
 		- ## Now
 			- [[Goals - Signals - Metrics]] workshop [[2022/06/27]]
 			  collapsed:: true
@@ -38,5 +38,8 @@ title:: Admap
 			- Ga4 experiment metrics
 			-
 		- ## Later
+	- ## Admap Experimentation Plan (Document)
+	  id:: 62b9e880-4a3d-415b-bbd5-432e9f4c3d2d
+		-
 	-
 -
