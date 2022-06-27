@@ -2,6 +2,7 @@
 - Being used as the basis for the [[Admap Experimentation Workshop]]
 -
 - ## Workshop Planning
+  id:: 62b44ec1-5ed4-4918-af40-d9c1d10d95b0
 	- ### Resources:
 		- [How to run a GSM Workshop](https://uxdesign.cc/how-to-inform-product-vision-with-a-heart-workshop-5fa72d778066)
 			- Example Agenda for a GSM Workshop - [Site](https://www.slideshare.net/LizDonovan3/success-metrics-workshop-outline) ![pdf](../assets/success-metrics-workshop-outline_1655983973003_0.pdf)
