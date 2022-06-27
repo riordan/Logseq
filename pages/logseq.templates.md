@@ -10,7 +10,7 @@ alias: template, templates
 			- ## Goals For The Week
 				-
 			- ## Daily Goals
-				-
+				- ### [Monday](<% )
 		- [[Weekly Review]]
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
