@@ -1,3 +1,2 @@
-- {{query Weekly Review}}
--
+- Friday afternoons are for the Weekly Review!
 -
