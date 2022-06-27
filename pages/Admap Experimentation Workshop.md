@@ -11,5 +11,7 @@
 			- Run a UX Metrics workshop for experimentation
 			- Run with Analytics team + PMs (for HEART metrics)
 		- Why are we doing this?
-			- To help businesses reach
+			- To help businesses reach The Philadelphia community
+			- To support The Mission of The Inquirer
+			-
 		-
