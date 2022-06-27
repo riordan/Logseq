@@ -16,12 +16,14 @@ alias: template, templates
 				  CLOCK: [2022-06-27 Mon 12:56:33]
 				  :END:
 				- ### Not Focusing On
-					- TODO Replace me with things I want to do but will not focus on
+					- TODO Replace me with things I want to do, but will not focus on
 			- ## Goals For The Week
 				- TODO Fill in the things you want to do this week
 				- ## Daily Goals
 					- ### [Monday](<% Monday this week %>)
 					- ### [Tuesday](<% Tuesday this week %>)
+					- ### [Wednesday](<% Wednesday this week %>)
+					- ### [Thursday](<% Tuesday this week %>)
 		- [[Weekly Review]]
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
