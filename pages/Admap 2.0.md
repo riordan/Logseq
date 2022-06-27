@@ -1,4 +1,4 @@
-title:: Ad Map 2.0
+title:: Admap 2.0
 
 - ## Background
 - ## Resources
