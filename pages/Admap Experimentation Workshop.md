@@ -23,6 +23,7 @@
 				      Sustain-->UsableProd
 				  
 				  ```
-			- Success of our business depends on long-term success of advertising, success of reporting, success of conver
+			- Success of our business depends on long-term success of advertising, success of reporting, success of subscribership, and success of product delivery / usability.
+				- Ads
 				-
 		-
