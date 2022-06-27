@@ -15,7 +15,7 @@ title:: Admap
 	- ((62ab8351-2037-4fd9-88c9-1299fddb1aec))
 	- ## Admap Experimentation Roadmap #status/work-in-progress
 		- ## Now
-			- [[Goals - Signals - Metrics]] workshop [[2022/06/27]]
+			- [[Goals - Signals - Measures]] workshop [[2022/06/27]]
 			  collapsed:: true
 				- separate workshops to train and refine
 				  collapsed:: true
