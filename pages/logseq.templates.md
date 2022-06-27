@@ -10,12 +10,21 @@ alias: template, templates
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
 		  organization:: weekly review
+		  collapsed:: true
 			- Plus: What went well?
 			- Minus: What didn't go so well?
 			- Goals: How are you doing toward your [goals](((62a88f98-9b05-44a6-a6ca-c8cd0f59ff2d)))?
 				- Personal:
 				- Departmental:
 			- Next: What will I focus on next week?
+		- End-of-Day Wrapup
+		  template:: eod
+		  template-including-parent:: false
+		  id:: 62a8f8a3-8e3a-4933-a94d-35cf93d8efe9
+			- What did you accomplish today?
+			- What did you learn today?
+			- What are the things you worked on today?
+			- What do you want to do [Tomorrow](<% tomorrow %>)?
 		- [[Journaling Prompts]]
 		  template:: Journaling Prompts
 		  collapsed:: true
@@ -25,14 +34,6 @@ alias: template, templates
 			- What's one thing I want to accomplish today?
 			- What's one challenge I may experience today?
 			- Any other thoughts?
-		- End-of-Day Wrapup
-		  template:: eod
-		  template-including-parent:: false
-		  id:: 62a8f8a3-8e3a-4933-a94d-35cf93d8efe9
-			- What did you accomplish today?
-			- What did you learn today?
-			- What are the things you worked on today?
-			- What do you want to do [Tomorrow](<% tomorrow %>)?
 		- [[Meeting Minutes]]
 		  template:: Meeting Minutes
 		  template-including-parent:: false
@@ -58,6 +59,7 @@ alias: template, templates
 				- Glows to share
 			- Resources & Action Items
 	- Productivity Tools
+	  collapsed:: true
 		- Eisenhower Matrix
 		  template:: Eisenhower Matrix
 		  template-including-parent:: false
