@@ -1,3 +1,4 @@
+- Goals-Signals-Measures is a process introduced by Google in their paper introducing the [[HEART Framework]]
 - ## Workshop Planning
 	- ### Resources:
 		- [How to run a GSM Workshop](https://uxdesign.cc/how-to-inform-product-vision-with-a-heart-workshop-5fa72d778066)
