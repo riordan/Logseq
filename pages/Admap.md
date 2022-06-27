@@ -2,7 +2,8 @@ title:: Admap
 
 - ## Background
 	- The Ad Map is a 2022 effort by [[inquirer/adsales]] to reassess the way we present online ads to optimize our advertising revenue.
-	- The research has come together in the form of
+	- Phase 1 was a research process to assess the ad systems we have today, how they relate to our page structure and advertising layouts, then make recomendations on ways to improve the ad infrastructure.
+	-
 - ## Resources
 	- [Meeting Minutes](https://docs.google.com/document/d/16cY0x-6n8Vi1UgO-2M2H2diVFVppRjgogOUS3Z8recg/edit#)
 	- Experimentation Plan Presentation Resources - [[2022/06/08]]
