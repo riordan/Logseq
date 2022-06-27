@@ -1,5 +1,5 @@
 - Experimentation is the broad
 - ## Related
 	- [[inquirer/Experimentation Coordination]] - Pre-draft proposal to gain visibility across all experiments and interventions
-	- [[Experimentation Platform]] - Infrastructure used for
-		- [[google optimize]]
+	- [[Experimentation Platform]] - Infrastructure used for running A/B Tests
+		-
