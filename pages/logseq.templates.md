@@ -8,6 +8,8 @@ alias: template, templates
 	- Journal Organization
 		- Plan For The Week
 		  template:: Weekly Plan
+		  template-including-parent:: false
+			-
 			- ## Goals For The Week
 				-
 			- ## Daily Goals
