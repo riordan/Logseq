@@ -11,6 +11,10 @@ alias: template, templates
 		  template-including-parent:: false
 			- organization:: Weekly Plan
 			- ## Themes For The Week
+				- TODO
+				  :LOGBOOK:
+				  CLOCK: [2022-06-27 Mon 12:56:33]
+				  :END:
 			- ## Goals For The Week
 				-
 				- ## Daily Goals
