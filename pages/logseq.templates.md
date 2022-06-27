@@ -6,7 +6,8 @@ alias: template, templates
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- Journal Organization
-		-
+		- Plan For The Week
+			-
 		- [[Weekly Review]]
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
