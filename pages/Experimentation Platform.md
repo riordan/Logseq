@@ -1,1 +1,1 @@
-- Infrastructure used for running online [[experiment]]s
+- Infrastructure used for running online [[experiment]]s, such as A/B Tests. Today, this is primarily [[Google Optimize]]
