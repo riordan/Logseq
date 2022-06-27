@@ -1,5 +1,5 @@
 title:: experimentation
-alias: A/B Test, Online Experiment,
+alias:: A/B Test, Online Experiment, Experiments
 
 - Experimentation is the broad category of activities related to trying out product ideas in controlled trials. Often referred to as A/B Tests. Carried out by the [[Analytics Team]] to make product decisions.
 - ## Related
