@@ -1,3 +1,4 @@
+- Projects
 1. [[Subscriber data warehouse]]
 2. [[Metrics That Matter]] / KPI Framing
 3. [[Operational Excellence Project Check-In]]
@@ -9,3 +10,5 @@
 9. [[Analytics Team]] Group formation
 10. [[Information Discoverability]]
 11. [[Ownership Framework]] / [[Governance]]
+
+- # OKRs
