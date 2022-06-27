@@ -21,14 +21,16 @@ alias: template, templates
 		  template:: eod
 		  template-including-parent:: false
 		  id:: 62a8f8a3-8e3a-4933-a94d-35cf93d8efe9
+		  collapsed:: true
 			- What did you accomplish today?
 			- What did you learn today?
 			- What are the things you worked on today?
 			- What do you want to do [Tomorrow](<% tomorrow %>)?
 		- [[Journaling Prompts]]
+		  id:: 62a73923-0d4c-4e1c-a939-7fd90622dd86
 		  template:: Journaling Prompts
 		  collapsed:: true
-		  id:: 62a73923-0d4c-4e1c-a939-7fd90622dd86
+		  O
 			- What's one thing I learned yesterday?
 			- What's one thing I'm grateful for today?
 			- What's one thing I want to accomplish today?
