@@ -22,7 +22,7 @@ status: active
 			  type:: lsorg
 			- [[Priority/P2]]
 			  type:: lsorg
-			- [[Priority/Low]]
+			- [[Priority/P4]]
 			  type:: lsorg
 		- [[Projects]]
 		  collapsed:: true
