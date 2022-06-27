@@ -9,7 +9,7 @@ alias: template, templates
 		- [[Weekly Review]]
 		  id:: 62a73923-0604-4f20-ba70-cd15e6cd043b
 		  template:: Weekly Review
-		  organization: weekly review
+		  organization:: weekly review
 			- Plus: What went well?
 			- Minus: What didn't go so well?
 			- Goals: How are you doing toward your [goals](((62a88f98-9b05-44a6-a6ca-c8cd0f59ff2d)))?
