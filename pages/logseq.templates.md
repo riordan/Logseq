@@ -6,7 +6,7 @@ alias: template, templates
 - ## Logseq Templates
   id:: 62379de4-41e2-4162-a949-7c47aee31942
 	- Journal Organization
-		- Plan For The Week
+		- Weekly Plan
 		  template:: Weekly Plan
 		  template-including-parent:: false
 			- organization:: Weekly Plan
