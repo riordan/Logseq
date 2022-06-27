@@ -10,11 +10,13 @@ alias: template, templates
 		  template:: Weekly Plan
 		  template-including-parent:: false
 			- organization:: Weekly Plan
-			- ## Themes For The Week
+			- ## Focusing On
 				- TODO Replace me with themes
 				  :LOGBOOK:
 				  CLOCK: [2022-06-27 Mon 12:56:33]
 				  :END:
+				- ### Not Focusing On
+					- TODO Replace me with things I want to do but will not focus on
 			- ## Goals For The Week
 				- TODO Fill in the things you want to do this week
 				- ## Daily Goals
