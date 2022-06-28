@@ -7,24 +7,24 @@
 			- Example Agenda for a GSM Workshop - [Site](https://www.slideshare.net/LizDonovan3/success-metrics-workshop-outline) ![pdf](../assets/success-metrics-workshop-outline_1655983973003_0.pdf)
 		- [Kerry Rodden - GV Library - How to choose the right UX Metrics for your product](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.7dxtcn4ow)
 	- ### Pre-Plan
-		- NOW Draft workshop outline
+		- NOW Draft workshop ((62b9ea74-990f-403e-9579-d880215127e9))
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:14]
 		  CLOCK: [2022-06-28 Tue 10:10:15]
 		  :END:
-			- Content + Activities
 		- NOW Make workshop slides
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:21]
 		  CLOCK: [2022-06-28 Tue 10:10:24]
 		  :END:
-		- NOW Make
+		- NOW Make workshop
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:29]
 		  CLOCK: [2022-06-28 Tue 10:10:30]
 		  :END:
 	- ### Outline
-		- Capture Conten
+	  id:: 62b9ea74-990f-403e-9579-d880215127e9
+		- Capture Content + Think Through Activities
 		- Process
 			- Run a UX Metrics workshop for experimentation
 			- Run with Analytics team + PMs (for HEART metrics)
