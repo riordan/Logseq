@@ -1,6 +1,16 @@
 - [[HEART Framework]] #workshop for participants in the [[Admap]] workstream. Currently scheduled for [[2022/06/30]].
 - ## Project Tasks
-	-
+	- #+BEGIN_QUERY
+	  {:title "All tasks tagged using current page"
+	   :query [:find (pull ?b [*])
+	         :in $ ?current-page
+	         :where
+	         [?p :block/name ?current-page]
+	         [?b :block/marker ?marker]
+	         [?b :block/refs ?p]
+	         [(= "TODO" ?marker)]]
+	   :inputs [:current-page]}
+	  #+END_QUERY
 - ## Workshop Planning
   id:: 62b44ec1-5ed4-4918-af40-d9c1d10d95b0
 	- ### Planning Resources:
