@@ -33,7 +33,11 @@
 					- [[Megan Smith]]
 				- Data & Insights
 					- [[Alexandra Williams]]
-					-
+					- NOW Invite Kate to be a part of this.
+					  :LOGBOOK:
+					  CLOCK: [2022-06-28 Tue 10:31:07]
+					  CLOCK: [2022-06-28 Tue 10:31:09]
+					  :END:
 				- Ads:
 					- Becky Dodds
 					- [[Max Kilpatrick]]
