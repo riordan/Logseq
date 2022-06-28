@@ -57,7 +57,11 @@
 	- ### Pre-Read / Participant Note (0%)
 	  id:: 62bb0e97-0257-45e5-b3db-80cbf8070eb6
 		- #### Meta:
-			- LATER Send out ((62bb0e97-0257-45e5-b3db-80cbf8070eb6))
+			- NOW Send out ((62bb0e97-0257-45e5-b3db-80cbf8070eb6)) at least 1 day before workshop \
+			  SCHEDULED: <2022-06-28 Tue>
+			  :LOGBOOK:
+			  CLOCK: [2022-06-28 Tue 10:23:57]
+			  :END:
 		- #### Content:
 			- Thank you for
 	-
