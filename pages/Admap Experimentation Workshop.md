@@ -26,9 +26,11 @@
 		- ### Pre-Read / Note (0%)
 	- ### Outline (5%)
 	  id:: 62b9ea74-990f-403e-9579-d880215127e9
-		- Meta
+		- #### Meta
 			- Capture Content + Think Through Activities
-		- Content
+			- Participants:
+				-
+		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
 				- Run with Analytics team + PMs (for HEART metrics)
