@@ -27,7 +27,7 @@ id:: 6257269e-8f60-4f1f-8d19-31b3e5f163d8
 - Bill Tevis, Finance, VP Revenue Planning and Analysis
 - Nadya Tan, Marketing, Director of Marketing Technology
 - Mara Hughes, Marketing, Manager of Engagement & Loyalty
-- Lindsay Deutsch, Product, Product Manager -  Reader Experience
+- [[Lindsay Deutsch]] , Product, Product Manager -  Reader Experience
 #### Working Group
 - Jim Anton & Jen McGroarty, EAS/Salesforce
 - Tracy O’Rourke, Business

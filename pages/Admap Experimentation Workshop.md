@@ -44,8 +44,10 @@
 					- Jenn Bateman
 				- Product Management:
 					- [[harriet white]]
-					- Lindsay Deutsch
-					- "Tevis, William" <wtevis@inquirer.com>
+					- [[Lindsay Deutsch]]
+					- [[Tod Gillespie]]
+				- Finance:
+					- [[Bill Tevis]]
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
