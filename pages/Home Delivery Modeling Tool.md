@@ -2,5 +2,6 @@
 -
 - ## Resources
 - Meeting Notes from Briefing on ["Excel Model for Last-Mile Project"](((62b9ea6c-1060-4c7e-a187-4ee39375e135)))
-- Home Delivery [[PMO]] Kickoff
+- Home Delivery [[PMO]] Project Kickoff:
+	- [Business Case]
 -
