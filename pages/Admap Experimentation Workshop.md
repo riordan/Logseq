@@ -55,7 +55,10 @@
 	- ### Miro (0%)
 	  id:: 62bb0d46-5654-4884-80cf-3fdc53ad4ede
 	- ### Pre-Read / Participant Note (0%)
-		-
-		- Thank you for
+	  id:: 62bb0e97-0257-45e5-b3db-80cbf8070eb6
+		- #### Meta:
+			- LATER Send out ((62bb0e97-0257-45e5-b3db-80cbf8070eb6))
+		- #### Content:
+			- Thank you for
 	-
 	-
