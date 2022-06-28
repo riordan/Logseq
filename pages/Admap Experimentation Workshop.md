@@ -26,29 +26,30 @@
 		- ### Pre-Read / Note (0%)
 	- ### Outline (5%)
 	  id:: 62b9ea74-990f-403e-9579-d880215127e9
-	  collapsed:: true
-		- Capture Content + Think Through Activities
-		- Process
-			- Run a UX Metrics workshop for experimentation
-			- Run with Analytics team + PMs (for HEART metrics)
-		- Why are we doing this?
-			- To help businesses reach The Philadelphia community
-			- To support The Mission of The Inquirer
-			- Flywheel <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogICAgVXNhYmxlUHJvZFtBIG5ld3NwYXBlciBwcm9kdWN0IHBlb3BsZSB1c2UgYW5kIGxvdmVdIC0tPiBBdWRpZW5jZSAtLT4gQWRNb25bTW9uZXRpemUgdmlhIGFkdmVydGlzaW5nXSAtLT4gU3VzdGFpbltTdXN0YWluIG1pc3Npb24gb2YgVGhlIElucXVpcmVyXQogICAgVXNhYmxlUHJvZC0tPlBheVByb2RbQSBuZXdzcGFwZXIgcHJvZHVjdCBpdHMgcmVhZGVycyBuZWVkIHNvIG11Y2ggdGhleSdyZSB3aWxsaW5nIHRvIHBheSBmb3JdIC0tPiBTdWJzY3JpYmVbTW9uZXRpemUgdmlhIHJlY3VycmluZyBzdWJzY3JpcHRpb25dIC0tPiBTdXN0YWluCiAgICBTdXN0YWluLS0-VXNhYmxlUHJvZAoK" />
-			  collapsed:: true
-			  {{renderer :mermaid_syjffniid}}
-				- ```mermaid 
-				  graph LR
-				      UsableProd[A newspaper product people use and love] --> Audience --> AdMon[Monetize via advertising] --> Sustain[Sustain mission of The Inquirer]
-				      UsableProd-->PayProd[A newspaper product its readers need so much they're willing to pay for] --> Subscribe[Monetize via recurring subscription] --> Sustain
-				      Sustain-->UsableProd
-				  
-				  ```
-			- Success of our business depends on long-term success of advertising, success of reporting, success of subscribership, and success of product delivery / usability.
-				- Newsroom <-> Product
-				- Audience
-				- Monetize
-				-
+		- Meta
+			- Capture Content + Think Through Activities
+		- Content
+			- Process
+				- Run a UX Metrics workshop for experimentation
+				- Run with Analytics team + PMs (for HEART metrics)
+			- Why are we doing this?
+				- To help businesses reach The Philadelphia community
+				- To support The Mission of The Inquirer
+				- Flywheel <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogICAgVXNhYmxlUHJvZFtBIG5ld3NwYXBlciBwcm9kdWN0IHBlb3BsZSB1c2UgYW5kIGxvdmVdIC0tPiBBdWRpZW5jZSAtLT4gQWRNb25bTW9uZXRpemUgdmlhIGFkdmVydGlzaW5nXSAtLT4gU3VzdGFpbltTdXN0YWluIG1pc3Npb24gb2YgVGhlIElucXVpcmVyXQogICAgVXNhYmxlUHJvZC0tPlBheVByb2RbQSBuZXdzcGFwZXIgcHJvZHVjdCBpdHMgcmVhZGVycyBuZWVkIHNvIG11Y2ggdGhleSdyZSB3aWxsaW5nIHRvIHBheSBmb3JdIC0tPiBTdWJzY3JpYmVbTW9uZXRpemUgdmlhIHJlY3VycmluZyBzdWJzY3JpcHRpb25dIC0tPiBTdXN0YWluCiAgICBTdXN0YWluLS0-VXNhYmxlUHJvZAoK" />
+				  collapsed:: true
+				  {{renderer :mermaid_syjffniid}}
+					- ```mermaid 
+					  graph LR
+					      UsableProd[A newspaper product people use and love] --> Audience --> AdMon[Monetize via advertising] --> Sustain[Sustain mission of The Inquirer]
+					      UsableProd-->PayProd[A newspaper product its readers need so much they're willing to pay for] --> Subscribe[Monetize via recurring subscription] --> Sustain
+					      Sustain-->UsableProd
+					  
+					  ```
+				- Success of our business depends on long-term success of advertising, success of reporting, success of subscribership, and success of product delivery / usability.
+					- Newsroom <-> Product
+					- Audience
+					- Monetize
+					-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
 	  id:: 62bb0d01-e3f4-418a-a374-f2ea76876cbc
@@ -64,6 +65,6 @@
 			  CLOCK: [2022-06-28 Tue 10:23:57]
 			  :END:
 		- #### Content:
-			- W
+			-
 	-
 	-
