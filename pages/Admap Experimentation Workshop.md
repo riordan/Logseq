@@ -1,7 +1,7 @@
 - [[HEART Framework]] #workshop for participants in the [[Admap]] workstream. Currently scheduled for [[2022/06/30]].
 - ## Workshop Planning
   id:: 62b44ec1-5ed4-4918-af40-d9c1d10d95b0
-	- ### Resources:
+	- ### Planning Resources:
 	  collapsed:: true
 		- [How to run a GSM Workshop](https://uxdesign.cc/how-to-inform-product-vision-with-a-heart-workshop-5fa72d778066)
 			- Example Agenda for a GSM Workshop - [Site](https://www.slideshare.net/LizDonovan3/success-metrics-workshop-outline) ![pdf](../assets/success-metrics-workshop-outline_1655983973003_0.pdf)
@@ -22,13 +22,14 @@
 		  CLOCK: [2022-06-28 Tue 10:10:29]
 		  CLOCK: [2022-06-28 Tue 10:10:30]
 		  :END:
-		- NOW Create
+		- NOW Write up workshop Pre-Read
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:15:14]
 		  CLOCK: [2022-06-28 Tue 10:15:17]
 		  :END:
 	- ### Outline
 	  id:: 62b9ea74-990f-403e-9579-d880215127e9
+	  collapsed:: true
 		- Capture Content + Think Through Activities
 		- Process
 			- Run a UX Metrics workshop for experimentation
@@ -52,3 +53,4 @@
 				- Monetize
 				-
 		-
+	- ## [ ]
