@@ -29,7 +29,9 @@
 		- #### Meta
 			- Capture Content + Think Through Activities
 			- Participants:
-				-
+				- Data & Insights
+				- [[Alexandra Williams]]
+				- Becky Dodds <bdodds@inquirer.com>, Beth Flynn <bflynn@inquirer.com>, Max Kilpatrick <ekilpatrick@inquirer.com>, Harriet White <hwhite@inquirer.com>, Jenn Bateman <jbateman@inquirer.com>, Lauren Amato <lamato@inquirer.com>, Lindsay Deutsch <ldeutsch@inquirer.com>, Lindsay Grow <lgrow@inquirer.com>, Megan Smith <msmith@inquirer.com>, Terrance Brown <tbrown@inquirer.com>, Tod Gillespie <tgillespie@inquirer.com>, "Tevis, William" <wtevis@inquirer.com>
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
