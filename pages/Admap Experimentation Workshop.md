@@ -53,4 +53,4 @@
 				- Monetize
 				-
 		-
-	- ## [ ]
+	- ## [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) [5%
