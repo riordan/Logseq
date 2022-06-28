@@ -17,7 +17,7 @@
 		  CLOCK: [2022-06-28 Tue 10:10:21]
 		  CLOCK: [2022-06-28 Tue 10:10:24]
 		  :END:
-		- NOW Make workshop
+		- NOW Create workshop Miro board
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:29]
 		  CLOCK: [2022-06-28 Tue 10:10:30]
