@@ -17,16 +17,13 @@
 		  CLOCK: [2022-06-28 Tue 10:10:21]
 		  CLOCK: [2022-06-28 Tue 10:10:24]
 		  :END:
-		- NOW Create workshop Miro board
+		- NOW Create workshop ((62bb0d46-5654-4884-80cf-3fdc53ad4ede))
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:29]
 		  CLOCK: [2022-06-28 Tue 10:10:30]
 		  :END:
 		- NOW Write up workshop Pre-Read
-		  :LOGBOOK:
-		  CLOCK: [2022-06-28 Tue 10:15:14]
-		  CLOCK: [2022-06-28 Tue 10:15:17]
-		  :END:
+		- ### Pre-Read / Note (0%)
 	- ### Outline (5%)
 	  id:: 62b9ea74-990f-403e-9579-d880215127e9
 	  collapsed:: true
@@ -57,6 +54,8 @@
 	  id:: 62bb0d01-e3f4-418a-a374-f2ea76876cbc
 	- ### Miro (0%)
 	  id:: 62bb0d46-5654-4884-80cf-3fdc53ad4ede
-	- ### Pre-Read / Note (0%)
+	- ### Pre-Read / Participant Note (0%)
+		-
+		- Thank you for
 	-
 	-
