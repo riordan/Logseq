@@ -8,7 +8,7 @@
 	         [?p :block/name ?current-page]
 	         [?b :block/marker ?marker]
 	         [?b :block/refs ?p]
-	         [(= "TODO" ?marker)]]
+	         [(= "NOW" ?marker)]]
 	   :inputs [:current-page]}
 	  #+END_QUERY
 - ## Workshop Planning
