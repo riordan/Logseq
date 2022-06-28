@@ -35,6 +35,8 @@
 					- Becky Dodds
 					- [[Max Kilpatrick]]
 					- [[Lauren Amato]]
+					- Megan Smith
+					- Terrance Brown
 					-
 				- Product Design:
 					- [[Lindsay Grow]]
@@ -43,7 +45,7 @@
 				- Product Management:
 					- [[harriet white]]
 					- Lindsay Deutsch
-					- Tod Gillespie <tgillespie@inquirer.com>, "Tevis, William" <wtevis@inquirer.com>
+					- "Tevis, William" <wtevis@inquirer.com>
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
