@@ -22,6 +22,11 @@
 		  CLOCK: [2022-06-28 Tue 10:10:29]
 		  CLOCK: [2022-06-28 Tue 10:10:30]
 		  :END:
+		- NOW Create
+		  :LOGBOOK:
+		  CLOCK: [2022-06-28 Tue 10:15:14]
+		  CLOCK: [2022-06-28 Tue 10:15:17]
+		  :END:
 	- ### Outline
 	  id:: 62b9ea74-990f-403e-9579-d880215127e9
 		- Capture Content + Think Through Activities
