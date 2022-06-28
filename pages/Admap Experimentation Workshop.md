@@ -12,7 +12,7 @@
 		  CLOCK: [2022-06-28 Tue 10:10:14]
 		  CLOCK: [2022-06-28 Tue 10:10:15]
 		  :END:
-		- NOW Make workshop slides
+		- NOW Make workshop ((62bb0d01-e3f4-418a-a374-f2ea76876cbc))
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:21]
 		  CLOCK: [2022-06-28 Tue 10:10:24]
@@ -54,6 +54,9 @@
 				-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
+	  id:: 62bb0d01-e3f4-418a-a374-f2ea76876cbc
 	- ### Miro (0%)
-	- P
+	  id:: 62bb0d46-5654-4884-80cf-3fdc53ad4ede
+	- ### Pre-Read / Note (0%)
+	-
 	-
