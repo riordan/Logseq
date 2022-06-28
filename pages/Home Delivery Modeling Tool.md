@@ -1,4 +1,4 @@
 - Extension of [[Last Mile Project]] to show the impact of changing delivery mechanisms and logistics on the quality and cost of home delivery service we can offer.
 -
 - ## Resources
-- Note((62b9ea6c-1060-4c7e-a187-4ee39375e135))
+- Notes from Briefing on "Excel Model"((62b9ea6c-1060-4c7e-a187-4ee39375e135))
