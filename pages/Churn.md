@@ -1,0 +1,3 @@
+- ## Prior Art
+- [Churn Intervention 1](https://inquirer.atlassian.net/wiki/spaces/InqDS/pages/864583747/Churn+model+activation+1+Newsletter+signups+on-site) - [[2021/Q1]]
+-
