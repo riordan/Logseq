@@ -33,7 +33,7 @@
 					- [[Megan Smith]]
 				- Data & Insights
 					- [[Alexandra Williams]]
-					- NOW Invite Kate to be a part of this.
+					- NOW Invite Kate to be a part of this meeting and brief her as to what it'll involve.
 					  :LOGBOOK:
 					  CLOCK: [2022-06-28 Tue 10:31:07]
 					  CLOCK: [2022-06-28 Tue 10:31:09]
