@@ -32,17 +32,18 @@
 				- Data & Insights
 					- [[Alexandra Williams]]
 				- Ads:
-					- Becky Dodds <bdodds@inquirer.com>
-					- [[Max Kilpatrick]] <ekilpatrick@inquirer.com>,
-					- [[Lauren Amato]] <lamato@inquirer.com>,
+					- Becky Dodds
+					- [[Max Kilpatrick]]
+					- [[Lauren Amato]]
 					-
 				- Product Design:
-					- [[Lindsay Grow]] <lgrow@inquirer.com>,
+					- [[Lindsay Grow]]
 					- [[Beth Flynn]]
-					- Jenn Bateman <jbateman@inquirer.com>,
+					- Jenn Bateman
 				- Product Management:
-					- [[harriet white]] <hwhite@inquirer.com>
-					- Lindsay Deutsch <ldeutsch@inquirer.com>, Megan Smith <msmith@inquirer.com>, Terrance Brown <tbrown@inquirer.com>, Tod Gillespie <tgillespie@inquirer.com>, "Tevis, William" <wtevis@inquirer.com>
+					- [[harriet white]]
+					- Lindsay Deutsch
+					- Tod Gillespie <tgillespie@inquirer.com>, "Tevis, William" <wtevis@inquirer.com>
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
