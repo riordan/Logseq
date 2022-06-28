@@ -29,13 +29,15 @@
 		- #### Meta
 			- Capture Content + Think Through Activities
 			- Participants:
+				- [[PMO]] :
+					- [[Megan Smith]]
 				- Data & Insights
 					- [[Alexandra Williams]]
+					-
 				- Ads:
 					- Becky Dodds
 					- [[Max Kilpatrick]]
 					- [[Lauren Amato]]
-					- Megan Smith
 					- Terrance Brown
 					-
 				- Product Design:
