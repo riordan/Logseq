@@ -12,11 +12,19 @@
 		  CLOCK: [2022-06-28 Tue 10:10:14]
 		  CLOCK: [2022-06-28 Tue 10:10:15]
 		  :END:
-		- NOW
+			- Content + Activities
+		- NOW Make workshop slides
 		  :LOGBOOK:
 		  CLOCK: [2022-06-28 Tue 10:10:21]
+		  CLOCK: [2022-06-28 Tue 10:10:24]
+		  :END:
+		- NOW Make
+		  :LOGBOOK:
+		  CLOCK: [2022-06-28 Tue 10:10:29]
+		  CLOCK: [2022-06-28 Tue 10:10:30]
 		  :END:
 	- ### Outline
+		- Capture Conten
 		- Process
 			- Run a UX Metrics workshop for experimentation
 			- Run with Analytics team + PMs (for HEART metrics)
