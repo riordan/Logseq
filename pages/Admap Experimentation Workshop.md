@@ -110,7 +110,7 @@
 				- What makes a good metric?
 				  source:: [KDD '16: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/proceedings/10.1145/2939672)August 2016Pages 77–86[https://doi.org/10.1145/2939672.2939700](https://doi.org/10.1145/2939672.2939700)
 					- directionality: a good goal metric (or OEC) should have a clear directional interpretation that aligns with user experience in most common cases.
-					-
+					- Sensitivity:
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
 	  id:: 62bb0d01-e3f4-418a-a374-f2ea76876cbc
