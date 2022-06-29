@@ -16,7 +16,7 @@ tags: [[Metrics]], Metrics Framework, [[UX Metrics]]
 		- Turn into metrics that can be used as part of ongoing experiments.
 	- ## Engagement
 	- ## Acquisition
-		-
+		- Percentage of readers who sign up
 	- ## Retention
 		- Subscriber retention
 		- Non-subscriber long-term return rate (once cookies get extended)
