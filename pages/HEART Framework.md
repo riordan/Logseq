@@ -9,5 +9,5 @@ tags: [[Metrics]], Metrics Framework, [[UX Metrics]]
 		- {{video https://www.youtube.com/watch?v=PU5i-Y1m1l4}}
 - ## Proposed Approach
 	- ### Happiness
-		- Qualaroo happiness survey using
+		- Qualaroo happiness survey using [H]
 		- Enable baseline survey for 5-10% of traffic to the site
