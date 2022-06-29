@@ -73,7 +73,7 @@
 					- What are lagging vs. leading indicators?
 					- Do you have an automated way of tracking this metric, or would it be done manually?
 					- What would be the level of effort to track this metric?
-				- These considerations should help us determine which metrics would be best to prioritize in the near-term.
+				- These considerations should help us determine which metrics would be best to prioritize in the near-term. Some of them we'll be able to act on now, some will take a
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
