@@ -68,7 +68,13 @@
 					- [[Bill Tevis]]
 			- Follow-up:
 				- This workshop has been a generative session that will need some editing and reflection. We collectively need to review and narrowing down the metrics we want to focus on in the near-term.
-				-
+				- David will take these artifacts, convert them into a spreadsheet
+				- Next Week: Discuss this spreadsheet with the accountable group and **have them review with the following considerations:**
+					- What are lagging vs. leading indicators?
+				- Do you have an automated way of tracking this metric, or would it be done manually?
+				- What would be the level of effort to track this metric?
+				  
+				  These considerations should help your team determine which metrics would be best to prioritize in the near-term.
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
