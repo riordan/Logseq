@@ -134,6 +134,8 @@
 						-
 					- **Signals**
 						- How might success or failure in the goals actually manifest itself in user behavior or attitudes?
+						- What does failure look like?
+						-
 		-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
