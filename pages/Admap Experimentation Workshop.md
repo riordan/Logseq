@@ -135,6 +135,7 @@
 					- **Signals**
 						- How might success or failure in the goals actually manifest itself in user behavior or attitudes?
 						- What does failure look like?
+						- First, how easy or difficult is each signal to track?
 						-
 		-
 		-
