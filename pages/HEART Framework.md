@@ -12,4 +12,5 @@ tags: [[Metrics]], Metrics Framework, [[UX Metrics]]
 		- Qualaroo happiness survey using [HaTS](https://research.google/pubs/pub43221/) (Happiness Tracking Surveys)
 		- Enable baseline survey for 20% of traffic to the site on mobile and desktop
 			- Survey at same percentage in experiment group.
-				- Consider
+				- Consider running an experiment to see if having Qualaroo appear with greater frequency affects HATS score
+			-
