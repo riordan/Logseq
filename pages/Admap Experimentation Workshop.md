@@ -107,7 +107,8 @@
 							- Examples: units purchased, revenue, profit, expected lifetime value
 							-
 					- Guardrail Metrics
-				- Wh
+				- What makes a good metric?
+					- directionality: a good goal metric (or OEC) should have a clear directional interpretation that aligns with user experience in most common cases.
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
 	  id:: 62bb0d01-e3f4-418a-a374-f2ea76876cbc
