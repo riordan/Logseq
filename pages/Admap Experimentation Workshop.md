@@ -91,7 +91,8 @@
 			- Metric Types
 				- North Star Metrics - Guide and align the company
 					- [North Star, Driver Metric, supporting metric](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
-				- Driver Metrics -
+				- Driver Metrics - Short-term metrics that align with north star
+					-
 			-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
