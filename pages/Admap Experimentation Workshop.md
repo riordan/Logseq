@@ -76,9 +76,11 @@
 				- These considerations should help us determine which metrics would be best to prioritize in the near-term. Some of them we'll be able to act on now, some will take a bit of cleaning the data we have, others may take engineering work to measure (e.g. ensuring we're capturing events uniformly around ad display, clicks, load times, etc.), or implementation of surveys.
 		- #### Content
 			- Process
+			  collapsed:: true
 				- Run a UX Metrics workshop for experimentation
 				- Run with Analytics team + PMs (for HEART metrics)
 			- Why are we doing this?
+			  collapsed:: true
 				- To help businesses reach The Philadelphia community
 				- To support The Mission of The Inquirer
 				- Flywheel <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogICAgVXNhYmxlUHJvZFtBIG5ld3NwYXBlciBwcm9kdWN0IHBlb3BsZSB1c2UgYW5kIGxvdmVdIC0tPiBBdWRpZW5jZSAtLT4gQWRNb25bTW9uZXRpemUgdmlhIGFkdmVydGlzaW5nXSAtLT4gU3VzdGFpbltTdXN0YWluIG1pc3Npb24gb2YgVGhlIElucXVpcmVyXQogICAgVXNhYmxlUHJvZC0tPlBheVByb2RbQSBuZXdzcGFwZXIgcHJvZHVjdCBpdHMgcmVhZGVycyBuZWVkIHNvIG11Y2ggdGhleSdyZSB3aWxsaW5nIHRvIHBheSBmb3JdIC0tPiBTdWJzY3JpYmVbTW9uZXRpemUgdmlhIHJlY3VycmluZyBzdWJzY3JpcHRpb25dIC0tPiBTdXN0YWluCiAgICBTdXN0YWluLS0-VXNhYmxlUHJvZAoK" />
@@ -97,6 +99,7 @@
 					- Monetize
 			- "Data Science is just applied counting." -Brian Abelson
 			- Metric Types
+			  collapsed:: true
 				- North Star Metrics - Guide and align the company
 					- [North Star, Driver Metric, supporting metric](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
 				- Driver Metrics - Short-term metrics that align with north star
@@ -111,6 +114,7 @@
 						- **Business**— Metrics tied to user experience other than the primary metric. Often, there are some trade-offs between the primary metric and business metric. For instance, a search may want to improve ad revenue without afflicting the guardrail which protects user engagement (i.e. queries). Another example could be the sign-up security of an application. An experiment may show that sign-up security with fewer steps increases the sign-up rate. However, the increase should not increase the number of bad actors entering the website.
 						- **Internal Validity**— Usually pertains to metrics that monitor an app’s performance and bugs which can afflict user experience in the long term. For instance, they could be the loading time and # of errors. In addition, statistical measurements such as the sample ratio mismatch can serve as a guardrail metric.
 			- Metrics in Experiments
+			  collapsed:: true
 				- Types
 					- Success Metrics
 						- Finding evidence of the hypothesis.
@@ -124,7 +128,10 @@
 				  source:: [KDD '16: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/proceedings/10.1145/2939672)August 2016Pages 77–86[https://doi.org/10.1145/2939672.2939700](https://doi.org/10.1145/2939672.2939700)
 					- directionality: a good goal metric (or OEC) should have a clear directional interpretation that aligns with user experience in most common cases.
 					- Sensitivity: "a good goal metric (or OEC) needs to be sensitive to most of the improvement of user experience. A sensitive goal metric helps the organization and feature teams being able to make decisions quickly and with limited cost.” (Deng and Shi, 2016, p. 3)
-				-
+			- Goals Signals Measures
+				- ACTIVITY PHASE
+					-
+		-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
 	  id:: 62bb0d01-e3f4-418a-a374-f2ea76876cbc
