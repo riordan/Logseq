@@ -131,7 +131,7 @@
 			- ACTIVITY: Goals Signals Measures
 				- ACTIVITY PHASE
 					- **Goals:**
-						- **_Don't_** define goals in terms of current metrics.
+						- **_Don't_** define goals in terms of our current metrics. How will
 					- **Signals**
 						- How might success or failure in the goals actually manifest itself in user behavior or attitudes?
 							- What does failure look like?
