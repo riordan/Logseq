@@ -100,9 +100,9 @@
 			- Metrics in Experiments
 				- Types
 					- Success Metrics
-						- Finding evidence
+						- Finding evidence of the hypothesis.
+							- superiority tests and require a relative minimum detectable effect (MDE) to be specified
 						- Operational Evaluation Criteria (OEC): Special type of success metric
-							-
 							- Examples: units purchased, revenue, profit, expected lifetime value
 					- Guardrail Metrics
 			-
