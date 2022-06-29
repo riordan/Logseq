@@ -10,5 +10,4 @@ tags: [[Metrics]], Metrics Framework, [[UX Metrics]]
 - ## Proposed Approach
 	- ### Happiness
 		- Qualaroo happiness survey using [HaTS](https://research.google/pubs/pub43221/) (Happiness Tracking Surveys)
-		- Enable baseline survey for 5-10% of traffic to the site on mobile and desktop
-		- Target same percentage for mobile
+		-
