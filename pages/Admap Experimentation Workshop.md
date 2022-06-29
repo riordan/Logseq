@@ -103,7 +103,9 @@
 						- Finding evidence of the hypothesis.
 							- superiority tests and require a relative minimum detectable effect (MDE) to be specified
 						- Operational Evaluation Criteria (OEC): Special type of success metric
+							- a single metric forces trade-offs to be made once for multiple experiments and aligns the organization behind a clear objective. A good OEC should not be short-term focused (e.g., clicks); to the contrary, it should include factors that predict long-term goals, such as predicted lifetime value and repeat visits." So, ideally, an OEC is based on metrics in a short-term experiment that are good predictors of long-term value.
 							- Examples: units purchased, revenue, profit, expected lifetime value
+							-
 					- Guardrail Metrics
 			-
 		-
