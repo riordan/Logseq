@@ -15,6 +15,8 @@ tags: [[Metrics]], Metrics Framework, [[UX Metrics]]
 				- Consider running an experiment to see if having Qualaroo appear with greater frequency affects HATS scores
 		- Turn into metrics that can be used as part of ongoing experiments.
 	- ## Engagement
+	- ## Acquisition
+		-
 	- ## Retention
 		- Subscriber retention
-		- Long-term return rate (once cookies get extended)
+		- Non-subscriber long-term return rate (once cookies get extended)
