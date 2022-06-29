@@ -92,6 +92,11 @@
 				- North Star Metrics - Guide and align the company
 					- [North Star, Driver Metric, supporting metric](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
 				- Driver Metrics - Short-term metrics that align with north star
+					- The qualities of a great driver metric are:
+					- **Aligned with the North Star**— Is it meaningfully and statistically correlated with the North Star metric?
+					- **Actionable**— Does it inform and influence key product decisions?
+					- **Sensitive**— Is it sensitive enough to measure core actions?
+				- Guardrail Metrics
 					-
 			-
 		-
