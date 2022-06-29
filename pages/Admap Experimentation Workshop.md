@@ -114,7 +114,6 @@
 						- **Business**— Metrics tied to user experience other than the primary metric. Often, there are some trade-offs between the primary metric and business metric. For instance, a search may want to improve ad revenue without afflicting the guardrail which protects user engagement (i.e. queries). Another example could be the sign-up security of an application. An experiment may show that sign-up security with fewer steps increases the sign-up rate. However, the increase should not increase the number of bad actors entering the website.
 						- **Internal Validity**— Usually pertains to metrics that monitor an app’s performance and bugs which can afflict user experience in the long term. For instance, they could be the loading time and # of errors. In addition, statistical measurements such as the sample ratio mismatch can serve as a guardrail metric.
 			- Metrics in Experiments
-			  collapsed:: true
 				- Types
 					- Success Metrics
 						- Finding evidence of the hypothesis.
@@ -128,6 +127,8 @@
 				  source:: [KDD '16: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/proceedings/10.1145/2939672)August 2016Pages 77–86[https://doi.org/10.1145/2939672.2939700](https://doi.org/10.1145/2939672.2939700)
 					- directionality: a good goal metric (or OEC) should have a clear directional interpretation that aligns with user experience in most common cases.
 					- Sensitivity: "a good goal metric (or OEC) needs to be sensitive to most of the improvement of user experience. A sensitive goal metric helps the organization and feature teams being able to make decisions quickly and with limited cost.” (Deng and Shi, 2016, p. 3)
+				- Different Metrics Frameworks
+					-
 			- ACTIVITY: Goals Signals Measures
 				- ACTIVITY PHASE
 					- **Goals:**
