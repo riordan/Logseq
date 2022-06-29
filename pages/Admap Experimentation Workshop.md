@@ -67,7 +67,7 @@
 				- Finance:
 					- [[Bill Tevis]]
 			- Follow-up:
-				- This workshop has been a generative session that will need some editing and reflection. The point is that a group needs to be accountable for reviewing and narrowing down the metrics they want to focus on in the near-term.
+				- This workshop has been a generative session that will need some editing and reflection. We'll need to review and narrowing down the metrics we want to focus on in the near-term.
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
