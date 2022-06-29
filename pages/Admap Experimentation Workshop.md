@@ -17,9 +17,10 @@
 		- [How to run a GSM Workshop](https://uxdesign.cc/how-to-inform-product-vision-with-a-heart-workshop-5fa72d778066)
 			- Example Agenda for a GSM Workshop - [Site](https://www.slideshare.net/LizDonovan3/success-metrics-workshop-outline) ![pdf](../assets/success-metrics-workshop-outline_1655983973003_0.pdf)
 			- Suggestions:
-				- **Force prioritization of goals**
+				- **Force prioritization of goals** - Progressive dot voting each round to focus
 					- **Prioritization becomes critical as this workshop grows exponentially in content with every completed section.**Goals have multiple signals, and each signal might create multiple metrics (see image below). The group needs to ideally limit themselves to the most critical goals; otherwise things will get unwieldy as the workshop progresses.
 					  id:: 62bcc32c-ddc5-4429-a1c5-81adb5d0f282
+					-
 		- [Kerry Rodden - GV Library - How to choose the right UX Metrics for your product](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.7dxtcn4ow)
 	- ### Pre-Plan
 		- NOW Draft workshop ((62b9ea74-990f-403e-9579-d880215127e9))
