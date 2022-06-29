@@ -137,6 +137,7 @@
 							- What does failure look like?
 						- How easy or difficult is each signal to track?
 						- Are these signals sensitive to changes in our experiments?
+					- **Metrics**
 						-
 		-
 		-
