@@ -45,6 +45,7 @@
 		- #### Meta
 			- Capture Content + Think Through Activities
 			- Participants:
+			  collapsed:: true
 				- [[PMO]] :
 					- [[Megan Smith]]
 				- Data & Insights
@@ -65,6 +66,7 @@
 					- [[Tod Gillespie]]
 				- Finance:
 					- [[Bill Tevis]]
+			-
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
