@@ -66,7 +66,8 @@
 					- [[Tod Gillespie]]
 				- Finance:
 					- [[Bill Tevis]]
-			-
+			- Follow-up:
+				- This workshop has been a generative session that will need some editing and reflection by a point person. That point person might be you, it might be the product manager, it might be the team. The point is that a group needs to be accountable for reviewing and narrowing down the metrics they want to focus on in the near-term.
 		- #### Content
 			- Process
 				- Run a UX Metrics workshop for experimentation
