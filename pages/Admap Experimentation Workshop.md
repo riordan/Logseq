@@ -98,7 +98,7 @@
 					- **Sensitive**— Is it sensitive enough to measure core actions?
 				- Guardrail Metrics
 					- Guardrail metrics are secondary metrics that safeguard the overall product experience and monetization outside of the primary metric (Aka driver metric) that is being tested.
-					- **Does something that helps the newsroom hurt **
+					- **Does something that helps the newsroom hurt ad monetization: We should know before broad rollout.**
 					- Types
 						- **Business**— Metrics tied to user experience other than the primary metric. Often, there are some trade-offs between the primary metric and business metric. For instance, a search may want to improve ad revenue without afflicting the guardrail which protects user engagement (i.e. queries). Another example could be the sign-up security of an application. An experiment may show that sign-up security with fewer steps increases the sign-up rate. However, the increase should not increase the number of bad actors entering the website.
 						- **Internal Validity**— Usually pertains to metrics that monitor an app’s performance and bugs which can afflict user experience in the long term. For instance, they could be the loading time and # of errors. In addition, statistical measurements such as the sample ratio mismatch can serve as a guardrail metric.
