@@ -99,7 +99,9 @@
 						- **Internal Validity**— Usually pertains to metrics that monitor an app’s performance and bugs which can afflict user experience in the long term. For instance, they could be the loading time and # of errors. In addition, statistical measurements such as the sample ratio mismatch can serve as a guardrail metric.
 			- Metrics in Experiments
 				- Types
-					- Success Metric
+					- Success Metrics
+						-
+					- Guardrail Metrics
 			-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
