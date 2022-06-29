@@ -130,7 +130,10 @@
 					- Sensitivity: "a good goal metric (or OEC) needs to be sensitive to most of the improvement of user experience. A sensitive goal metric helps the organization and feature teams being able to make decisions quickly and with limited cost.” (Deng and Shi, 2016, p. 3)
 			- Goals Signals Measures
 				- ACTIVITY PHASE
-					-
+					- **Goals:**
+						-
+					- **Signals**
+						- How might success or failure in the goals actually manifest itself in user behavior or attitudes?
 		-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
