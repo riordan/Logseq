@@ -97,7 +97,9 @@
 					- **Actionable**— Does it inform and influence key product decisions?
 					- **Sensitive**— Is it sensitive enough to measure core actions?
 				- Guardrail Metrics
-					-
+					- **Business**— Metrics tied to user experience other than the primary metric. Often, there are some trade-offs between the primary metric and business metric. For instance, a search may want to improve ad revenue without afflicting the guardrail which protects user engagement (i.e. queries). Another example could be the sign-up security of an application. An experiment may show that sign-up security with fewer steps increases the sign-up rate. However, the increase should not increase the number of bad actors entering the website.
+					- **Internal Validity**— Usually pertains to metrics that monitor an app’s performance and bugs which can afflict user experience in the long term. For instance, they could be the loading time and # of errors. In addition, statistical measurements such as the sample ratio mismatch can serve as a guardrail metric.
+				-
 			-
 		-
 	- ### [Slide Deck](https://docs.google.com/presentation/d/1M0pysryE2T2Iofs0qllGStF2jfkppavVZLbmh3gke1M/edit) (5%)
