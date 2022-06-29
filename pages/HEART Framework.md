@@ -13,4 +13,7 @@ tags: [[Metrics]], Metrics Framework, [[UX Metrics]]
 		- Enable baseline survey for 20% of traffic to the site on mobile and desktop
 			- Survey at same percentage in experiment group.
 				- Consider running an experiment to see if having Qualaroo appear with greater frequency affects HATS scores
-		- Create metrics
+		- Turn into metrics that can be used as part of ongoing experiments.
+	- ## Engagement
+	- ## Retention
+		-
