@@ -127,7 +127,11 @@
 				- What makes a good metric?
 				  source:: https://www.designative.info/2021/08/04/need-for-quantifying-and-qualifying-strategy/
 				  cite::  Croll, A., & Yoskovitz, B. [Lean Analytics](https://amzn.to/2WOAzsh), 2013
-					-
+					- **A good metric is comparative**. Being able to compare a metric to other time periods, groups of users, or competitors helps you understand which way things are moving. “Increased conversion from last week” is more meaningful than “2% conversion.”
+					- **A good metric is understandable**. If people can’t remember it and discuss it, it’s much harder to turn a change in the data into a change in the culture.
+					- **A good metric is a ratio or a rate**. Accountants and financial analysts have several ratios they look at to understand, at a glance, the fundamental health of a company. You need some, too.
+						-
+					- **A good metric changes the way you behave**. This is by far the most important criterion for a metric: what will you do differently based on changes in the metric?
 				- What makes a good experimentation metric?
 				  source:: [KDD '16: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/proceedings/10.1145/2939672)August 2016Pages 77–86[https://doi.org/10.1145/2939672.2939700](https://doi.org/10.1145/2939672.2939700)
 					- directionality: a good goal metric (or OEC) should have a clear directional interpretation that aligns with user experience in most common cases.
