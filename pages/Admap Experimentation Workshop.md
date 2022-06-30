@@ -99,7 +99,6 @@
 					- Monetize
 			- "Data Science is just applied counting." -Brian Abelson
 			- Metric Types
-			  collapsed:: true
 				- North Star Metrics - Guide and align the company
 					- [North Star, Driver Metric, supporting metric](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
 				- Driver Metrics - Short-term metrics that align with north star
