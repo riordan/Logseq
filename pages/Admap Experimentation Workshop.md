@@ -22,6 +22,7 @@
 					  id:: 62bcc32c-ddc5-4429-a1c5-81adb5d0f282
 					-
 		- [Kerry Rodden - GV Library - How to choose the right UX Metrics for your product](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.7dxtcn4ow)
+		- []
 	- ### Pre-Plan
 		- NOW Draft workshop ((62b9ea74-990f-403e-9579-d880215127e9))
 		  :LOGBOOK:
