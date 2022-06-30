@@ -125,6 +125,8 @@
 							-
 					- Guardrail Metrics
 				- What makes a good metric?
+				  source::https://www.designative.info/2021/08/04/need-for-quantifying-and-qualifying-strategy/
+				  cite:: (Croll, A., & Yoskovitz, B. [Lean Analytics](https://amzn.to/2WOAzsh), 2013):
 					-
 				- What makes a good experimentation metric?
 				  source:: [KDD '16: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/proceedings/10.1145/2939672)August 2016Pages 77–86[https://doi.org/10.1145/2939672.2939700](https://doi.org/10.1145/2939672.2939700)
