@@ -49,7 +49,6 @@
 	                                   (get h :block/created-at)) result))
 	    :collapsed? true}
 	  #+END_QUERY
-	-
 - ## Stalled
 	- #+BEGIN_QUERY
 	  {:title "🔴 STALLED"
@@ -66,19 +65,19 @@
 	   ]}
 	  #+END_QUERY
 - ## Next 7 Days
-	- #+BEGIN_QUERY
-	  {:title "next 7 days' deadline or schedule"
-	    :query [:find (pull ?block [*])
-	            :in $ ?start ?next
-	            :where
-	            (or
-	              [?block :block/scheduled ?d]
-	              [?block :block/deadline ?d])
-	            [(> ?d ?start)]
-	            [(< ?d ?next)]]
-	    :inputs [:today :7d-after]
-	    :collapsed? false}
-	  #+END_QUERY
+- #+BEGIN_QUERY
+  {:title "next 7 days' deadline or schedule"
+    :query [:find (pull ?block [*])
+            :in $ ?start ?next
+            :where
+            (or
+              [?block :block/scheduled ?d]
+              [?block :block/deadline ?d])
+            [(> ?d ?start)]
+            [(< ?d ?next)]]
+    :inputs [:today :7d-after]
+    :collapsed? false}
+  #+END_QUERY
 - ## Next Month
 	- #+BEGIN_QUERY
 	  {:title "next 28 days' deadline or schedule"
