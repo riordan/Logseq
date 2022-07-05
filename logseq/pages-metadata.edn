@@ -1785,6 +1785,12 @@
  {:block/name "canary metrics",
   :block/created-at 1655316099872,
   :block/updated-at 1655316099872}
+ {:block/name "canceled",
+  :block/created-at 1657019577232,
+  :block/updated-at 1657019577232}
+ {:block/name "cancelled",
+  :block/created-at 1657019577234,
+  :block/updated-at 1657019577234}
  {:block/name "card",
   :block/created-at 1647807341643,
   :block/updated-at 1647807341643}
