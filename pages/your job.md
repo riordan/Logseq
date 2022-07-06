@@ -2,7 +2,7 @@
 	- ## Foundations
 		- Accomplishments:
 			- Built and operationalized Data Engineering team
-			- Data modeling tooling
+			- Data modeling tooling & training
 			- Sat back and watched Julia run the show
 			- OKR framework
 			- Foundational data models
