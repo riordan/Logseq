@@ -3,5 +3,5 @@
 		- Accomplishments:
 			- Built and operationalized Data Engineering team
 			- Data modeling tooling
-			-
+			- Sat back and watched Julia
 			-
