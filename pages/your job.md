@@ -6,5 +6,6 @@
 			- Sat back and watched Julia run the show
 			- OKR framework
 			- Foundational data models
+			- Metric-setting workshop
 			-
 			-
