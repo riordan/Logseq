@@ -1,4 +1,6 @@
 - ## First Six Months
 	- ## Foundations
 		- Accomplishments:
+			- Built and operationalized Data Engineering team
+			- Built and
 			-
