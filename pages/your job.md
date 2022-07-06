@@ -7,5 +7,5 @@
 			- OKR framework
 			- Foundational data models
 			- Metric-setting workshop
-			-
+		-
 			-
