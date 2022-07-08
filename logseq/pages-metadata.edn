@@ -1032,7 +1032,7 @@
   :block/updated-at 1656351103217}
  {:block/name "2022/06/27",
   :block/created-at 1656275463746,
-  :block/updated-at 1657019311712}
+  :block/updated-at 1657108447730}
  {:block/name "2022/06/28",
   :block/created-at 1656343458244,
   :block/updated-at 1656503686429}
@@ -1041,7 +1041,7 @@
   :block/updated-at 1656532363942}
  {:block/name "2022/06/30",
   :block/created-at 1656349272687,
-  :block/updated-at 1656649485513}
+  :block/updated-at 1657210121274}
  {:block/name "2022/07",
   :block/created-at 1655832809527,
   :block/updated-at 1655832809527}
@@ -1060,6 +1060,15 @@
  {:block/name "2022/07/05",
   :block/created-at 1656995195401,
   :block/updated-at 1657025326990}
+ {:block/name "2022/07/06",
+  :block/created-at 1657108124423,
+  :block/updated-at 1657143924572}
+ {:block/name "2022/07/07",
+  :block/created-at 1657166456002,
+  :block/updated-at 1657224238551}
+ {:block/name "2022/07/08",
+  :block/created-at 1657252843059,
+  :block/updated-at 1657291892961}
  {:block/name "2022/07/15",
   :block/created-at 1656425690551,
   :block/updated-at 1656425690551}
@@ -1093,6 +1102,9 @@
  {:block/name "2022/q4",
   :block/created-at 1654480195975,
   :block/updated-at 1654480195975}
+ {:block/name "28-day hardwall",
+  :block/created-at 1657207823814,
+  :block/updated-at 1657207823814}
  {:block/name "30 day diagnosis",
   :block/created-at 1649373275694,
   :block/updated-at 1649373275694}
@@ -1525,6 +1537,9 @@
  {:block/name "ashley hoffman",
   :block/created-at 1655917613807,
   :block/updated-at 1655917613807}
+ {:block/name "audience decline",
+  :block/created-at 1657207797205,
+  :block/updated-at 1657207797205}
  {:block/name "auth0",
   :block/created-at 1653754382773,
   :block/updated-at 1653754382773}
@@ -2823,6 +2838,9 @@
  {:block/name "judge glock",
   :block/created-at 1649591856900,
   :block/updated-at 1649591856900}
+ {:block/name "julia",
+  :block/created-at 1657108125446,
+  :block/updated-at 1657108125446}
  {:block/name "julia bohutska",
   :block/created-at 1652558419173,
   :block/updated-at 1652558419173}
@@ -3174,6 +3192,9 @@
  {:block/name "metrics that matter",
   :block/created-at 1649373276154,
   :block/updated-at 1649770330041}
+ {:block/name "metrics workshop",
+  :block/created-at 1657108637203,
+  :block/updated-at 1657108637203}
  {:block/name "mgg",
   :block/created-at 1649591837019,
   :block/updated-at 1649591837019}
@@ -3267,6 +3288,9 @@
  {:block/name "news guild",
   :block/created-at 1649773783056,
   :block/updated-at 1649773783056}
+ {:block/name "newsday",
+  :block/created-at 1657141403117,
+  :block/updated-at 1657141403117}
  {:block/name "newsletter",
   :block/created-at 1649857469826,
   :block/updated-at 1649857469826}
@@ -3953,6 +3977,9 @@
  {:block/name "screen shot 2022-03-09 at 11.19.43.png",
   :block/created-at 1649373274816,
   :block/updated-at 1649373274816}
+ {:block/name "segmentation",
+  :block/created-at 1657289247882,
+  :block/updated-at 1657289247882}
  {:block/name "self",
   :block/created-at 1649373272042,
   :block/updated-at 1649373272042}
@@ -4320,7 +4347,7 @@
   :block/updated-at 1653758103413}
  {:block/name "your job",
   :block/created-at 1653757177844,
-  :block/updated-at 1653757177844}
+  :block/updated-at 1657110417391}
  {:block/name "zev covid vaccine",
   :block/created-at 1655842618582,
   :block/updated-at 1655843534528}
