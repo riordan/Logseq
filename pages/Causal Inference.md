@@ -1,4 +1,6 @@
 - Books
 	- The book of why [[Judah Pearl]]
 - Software
+	- EconML - core econometric causal modeling
+	- DoWhy causal framework
 	-
