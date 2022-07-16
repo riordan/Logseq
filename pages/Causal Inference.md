@@ -1,6 +1,9 @@
 - Books
-	- The book of why [[Judah Pearl]]
+	- The book of why [[Judea Pearl]]
 - Software
 	- EconML - core econometric causal modeling
 	- DoWhy causal framework
-	-
+	- [Auto-Causality](https://github.com/transferwise/auto-causality) AutoML for causal inference
+- Maths
+	- Calculus is just the study of change
+	- Do-Calculus brings causality to calculus
