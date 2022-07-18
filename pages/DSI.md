@@ -1,0 +1,2 @@
+- Data Structure notes:
+	- Best case for interpretability may come out of the
