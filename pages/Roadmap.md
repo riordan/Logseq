@@ -18,4 +18,4 @@
 			- **Deliver a simple-to-use experimentation reporting platform that builds on common data definitions (i.e. GrowthBook)**
 			- **Create a cohesive qualitative research strategy across Product, Editorial and Marketing (possible org move, but certainly a coordination among research groups)**
 				- **Out of scope for this presentation**
-				-
+			-
