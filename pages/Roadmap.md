@@ -7,7 +7,9 @@
 			- LAST STEP
 		- ## Goals
 			- Culture change - focus on higher order problems, because the basics are known and understood
-			- Getting there: Better conversations, more knowledge sharing
+			  background-color:: #978626
+			- Build trust
+			- \Getting there: Better conversations, more knowledge sharing
 				- Simpler access to data and prior research (discoverability)
 				- More self-service data tools to empower frontline decisions
 				- Analysts focus on “hard problems”, not daily reports
