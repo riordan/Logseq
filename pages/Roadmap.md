@@ -9,7 +9,7 @@
 			- Culture change - focus on higher order problems, because the basics are known and understood
 			  background-color:: #978626
 			- Build trust in our data
-			- Generate and share high-value insights that empower the
+			- Generate and share high-value insights that empower the inquirer to succeed in our mission
 			- \Getting there: Better conversations, more knowledge sharing
 				- Simpler access to data and prior research (discoverability)
 				- More self-service data tools to empower frontline decisions
