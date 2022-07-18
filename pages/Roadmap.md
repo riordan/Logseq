@@ -10,4 +10,12 @@
 			- Getting there: Better conversations, more knowledge sharing
 				- Simpler access to data and prior research (discoverability)
 				- More self-service data tools to empower frontline decisions
-			- Analysts focus on “hard problems”, not daily reports
+				- Analysts focus on “hard problems”, not daily reports
+		- ## Key Phases
+			- **Make it easier to find existing insights and information (i.e. dashboard / intranet)**
+			- **Build a data catalog and supporting transformations to unify data across sources and departments**
+				- **Wrap data processing in monitoring and alerts to maximize data quality **
+			- **Deliver a simple-to-use experimentation reporting platform that builds on common data definitions (i.e. GrowthBook)**
+			- **Create a cohesive qualitative research strategy across Product, Editorial and Marketing (possible org move, but certainly a coordination among research groups)**
+				- **Out of scope for this presentation**
+				-
